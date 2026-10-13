@@ -1,0 +1,37 @@
+{
+  "private": true,
+  "name": "tennis-progression-assistant",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "npm run typecheck && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "coverage": "vitest run --coverage",
+    "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p tsconfig.node.json",
+    "equipment:approve-candidates": "node scripts/approve-equipment-candidates.mjs",
+    "equipment:audit": "node scripts/audit-equipment-encyclopedia.mjs",
+    "equipment:finalize": "node scripts/finalize-equipment-encyclopedia.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "lucide-react": "^0.561.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "vite": "^7.2.6",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.1",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/node": "^25.0.0",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "jsdom": "^27.3.0",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.15"
+  }
+}

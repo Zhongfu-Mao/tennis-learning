@@ -1,0 +1,2309 @@
+[
+  {
+    "id": "equipment.ball.match-vs-training",
+    "title": "比赛球和训练球不是一回事",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "比赛球",
+      "训练球",
+      "耐用",
+      "手感"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "比赛球更强调一致弹跳和正式手感，训练球更强调成本、耐用和大量重复。",
+    "encyclopedia": "比赛球通常追求更稳定的新球手感、弹跳和飞行表现，适合正式对打、比赛模拟和关键技术校准。训练球更适合大量喂球、发球筐和墙练，允许手感没那么新鲜，但成本和耐用更友好。不要用快坏的训练球判断自己真实击球质量，也不要把昂贵比赛球浪费在低强度重复喂球上。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-match-vs-training-v1",
+      "alt": "Knowledge card comparing match tennis balls and training balls."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "球况会直接改变你的深度和节奏判断。",
+      "commonFailure": "用旧训练球练习后，以为自己击球没有穿透。",
+      "onCourtCue": "今天是在校准比赛手感，还是做大量重复？",
+      "verificationTest": "同一动作分别用新球和旧训练球打 10 球，比较深度和弹跳。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-ball-purpose-label",
+        "title": "练习目的标记",
+        "durationMinutes": 3,
+        "instruction": "练习前先写下今天更像比赛校准还是重复训练。",
+        "successSignal": "你能按目的选择球，而不是只看手边有什么。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-training-ball-ab",
+        "title": "新旧球对照",
+        "durationMinutes": 8,
+        "instruction": "用新球和旧训练球各打 10 个底线球，记录弹跳、深度和拍面感觉。",
+        "successSignal": "你能分辨球况造成的表现变化。"
+      }
+    },
+    "reviewPrompt": "什么时候值得开新球，什么时候用训练球就够？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.ball.pressurized",
+        "type": "prerequisite"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.high-altitude",
+    "title": "高海拔球是为了让球别飞疯",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "高海拔球",
+      "飞行",
+      "弹跳",
+      "规则"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "高海拔空气阻力更小，专用球会通过规格调整让飞行和弹跳更接近可控范围。",
+    "encyclopedia": "海拔升高后空气密度降低，球在飞行中受到的阻力变小，更容易飞远、速度保持更久。高海拔用球的意义是把比赛体验拉回合理区间，而不是让球更快。普通球到了高海拔可能让你误判自己的力量和旋转，觉得球突然压不住。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-high-altitude-v1",
+      "alt": "Knowledge card explaining high altitude tennis balls and flight control."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "环境变化会让同样动作产生完全不同深度。",
+      "commonFailure": "到高海拔打球后怪自己控球突然变差。",
+      "onCourtCue": "球是因为我拍面开，还是因为环境让飞行变长？",
+      "verificationTest": "在不同环境打球时记录球速、深度和出界比例，而不是立刻改动作。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-altitude-flight-awareness",
+        "title": "飞行环境意识",
+        "durationMinutes": 3,
+        "instruction": "把空气阻力作为球路变量写进装备笔记。",
+        "successSignal": "你知道环境会改变球路，不把一切归因于动作。"
+      },
+      "realCourtCheck": {
+        "id": "court-altitude-log",
+        "title": "异地球况日志",
+        "durationMinutes": 5,
+        "instruction": "异地打球后记录海拔、天气、球种和飞行深度。",
+        "successSignal": "你能把环境和球种作为同一组变量观察。"
+      }
+    },
+    "reviewPrompt": "为什么高海拔环境会让同样击球更容易出界？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.surface",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.temperature",
+    "title": "冷热天气会改球的活性",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "温度",
+      "球压",
+      "弹跳",
+      "天气"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "温度会影响球内压力、橡胶弹性和球毛状态，进而改变弹跳和出球速度。",
+    "encyclopedia": "热天球通常更活、更弹，飞行和弹跳都可能更快；冷天球更容易显得沉、死、弹不起来。湿度和场地表面也会改变球毛和摩擦。天气不是借口，而是装备和环境变量。调整时先观察球况，再决定是加大过网高度、降低发力，还是换更新的球。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-temperature-v1",
+      "alt": "Knowledge card about hot and cold weather effects on tennis balls."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "同样动作在冷天可能变浅，热天可能变长。",
+      "commonFailure": "天气变化后马上怀疑技术退步。",
+      "onCourtCue": "今天球是偏活、偏沉，还是球毛变湿？",
+      "verificationTest": "热天和冷天各记录一次同样练习的落点深度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-weather-ball-note",
+        "title": "天气变量笔记",
+        "durationMinutes": 3,
+        "instruction": "练习后写一行：今天球感偏活还是偏沉。",
+        "successSignal": "你开始把天气纳入球况判断。"
+      },
+      "realCourtCheck": {
+        "id": "court-temperature-ball-check",
+        "title": "冷热球感记录",
+        "durationMinutes": 5,
+        "instruction": "每次上场记录气温、球龄和第一组对拉深度。",
+        "successSignal": "你能解释天气对球感的影响。"
+      }
+    },
+    "reviewPrompt": "冷天球浅，是动作问题还是球活性问题？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.ball.felt",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.new-ball-game",
+    "title": "新球局会突然变快",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "新球",
+      "比赛节奏",
+      "弹跳",
+      "战术"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "新球更硬、更有气、更容易穿透，比赛里换新球会改变发球、接发和底线节奏。",
+    "encyclopedia": "新球刚开罐时弹性和球毛状态更接近最佳，速度、弹跳和穿透感会比旧球明显。比赛换新球后，发球更容易拿到速度，接发准备要更早，底线球也可能更深。练习中如果从旧球切到新球，要给自己几分钟重新校准落点，而不是继续按旧球节奏发力。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-new-ball-game-v1",
+      "alt": "Knowledge card explaining why new tennis balls make points faster."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你如果不知道新球变快，接发和第一拍容易晚。",
+      "commonFailure": "新球局继续用旧球节奏，结果回球浅或出界。",
+      "onCourtCue": "换新球后的前三球，先校准节奏和深度。",
+      "verificationTest": "新球开罐后前 10 球只观察深度和准备时间。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-new-ball-tempo",
+        "title": "新球节奏想象",
+        "durationMinutes": 4,
+        "instruction": "在快节奏练习前提醒自己：新球会让准备时间更少。",
+        "successSignal": "你能把球况变化和准备时间联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-new-ball-first-ten",
+        "title": "新球前十球校准",
+        "durationMinutes": 5,
+        "instruction": "开新球后前 10 球只打安全深度，不急着加速。",
+        "successSignal": "你能快速校准新球节奏。"
+      }
+    },
+    "reviewPrompt": "为什么比赛换新球后，接发准备要更早？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.pressurized",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "return.split-on-toss",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.dead-ball",
+    "title": "旧球会偷走你的穿透",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "旧球",
+      "死球",
+      "衰减",
+      "深度"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "旧球失压、球毛磨损或吸湿后会变慢变沉，容易让你误判自己的发力和击球质量。",
+    "encyclopedia": "旧球并不只是变脏，它可能弹跳降低、飞行变慢、触球更沉，导致你需要更用力才能打深。长期用旧球练习容易让动作变硬，甚至为了追深度而过度发力。旧球可以用于低强度喂球和墙练，但不适合作为判断比赛手感和装备参数的唯一依据。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-dead-ball-v1",
+      "alt": "Knowledge card showing how dead tennis balls reduce depth and pace."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你可能不是打不深，而是在用不该校准手感的球。",
+      "commonFailure": "用死球练到动作越来越硬。",
+      "onCourtCue": "球是不是落地后不往前跳，只是沉下去？",
+      "verificationTest": "把旧球和新球各打 10 球，比较同样挥速下的深度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-dead-ball-warning",
+        "title": "旧球误判提醒",
+        "durationMinutes": 3,
+        "instruction": "写下旧球适合做什么、不适合判断什么。",
+        "successSignal": "你不会用死球评价全部技术。"
+      },
+      "realCourtCheck": {
+        "id": "court-dead-ball-sort",
+        "title": "球况分类",
+        "durationMinutes": 6,
+        "instruction": "把球分成比赛校准、普通训练、喂球墙练三类。",
+        "successSignal": "你能按用途管理旧球。"
+      }
+    },
+    "reviewPrompt": "旧球还能用，但为什么不能用来校准比赛手感？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.ball.match-vs-training",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.storage",
+    "title": "罐装球也需要保存逻辑",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "罐装球",
+      "保存",
+      "湿度",
+      "寿命"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "未开罐球要避开高温和长期暴晒，开罐后则要按用途尽快分配。",
+    "encyclopedia": "罐装压力球依赖包装维持球内外压力环境，未开罐时也不适合长期放在高温、暴晒或潮湿处。开罐后球会逐渐失压，球毛也会受场地、湿度和使用强度影响。最实用的保存方式不是期待球永远新，而是开罐后尽快完成比赛校准，然后按球况分配到普通训练或喂球用途。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-storage-v1",
+      "alt": "Knowledge card about storing canned tennis balls and assigning opened balls."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "球况管理能让你的训练输入更稳定。",
+      "commonFailure": "球随便放，下一次练习不知道球为什么突然不弹。",
+      "onCourtCue": "这筒球开了多久，今天适合做什么？",
+      "verificationTest": "给每筒球记录开罐日期和当前用途。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-ball-storage-label",
+        "title": "球况标签",
+        "durationMinutes": 3,
+        "instruction": "设计三个标签：比赛校准、普通训练、喂球墙练。",
+        "successSignal": "你能把球按用途管理起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-ball-can-date",
+        "title": "开罐日期记录",
+        "durationMinutes": 3,
+        "instruction": "开罐时写下日期，结束后给这筒球重新分级。",
+        "successSignal": "你知道每筒球现在适合的训练任务。"
+      }
+    },
+    "reviewPrompt": "开罐后的球，为什么要按用途分级而不是混在一起？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.length",
+    "title": "加长拍换来杠杆也换来难度",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "拍长",
+      "加长拍",
+      "杠杆",
+      "操控"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "更长的球拍能增加触球半径和杠杆，但也会提高挥动、回拍和近身球处理难度。",
+    "encyclopedia": "拍长影响覆盖范围、发球杠杆和挥动惯性。加长拍可能带来更强的发球和底线穿透，但挥重往往更高，近身球、接发和网前调整更难。对多数进阶前球员，标准长度更容易建立稳定击球点；加长拍更像专项取舍，不是默认升级。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-length-v1",
+      "alt": "Knowledge card comparing standard and extended tennis racquet length."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "多一点杠杆可能让你少一点准备时间。",
+      "commonFailure": "为了发球威力上加长拍，却发现接发和近身球更乱。",
+      "onCourtCue": "这支拍是帮我够到球，还是让我来不及回拍？",
+      "verificationTest": "用同节奏接 20 个快球，比较标准拍和加长拍的准备质量。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-length-recovery",
+        "title": "VR 回拍时间",
+        "durationMinutes": 5,
+        "instruction": "快节奏中记录自己是否能及时回拍，理解拍长和惯性的关系。",
+        "successSignal": "你不会只从发球威力评价拍长。"
+      },
+      "realCourtCheck": {
+        "id": "court-length-fast-feed",
+        "title": "拍长快球检查",
+        "durationMinutes": 10,
+        "instruction": "连续接快球和近身球，记录是否准备晚或被挤到。",
+        "successSignal": "你能判断加长拍是否适合当前节奏。"
+      }
+    },
+    "reviewPrompt": "加长拍带来的杠杆优势，会在哪些球上变成负担？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.balance",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.grip-shape",
+    "title": "握把形状会影响换握",
+    "category": "equipment-grip",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "握把形状",
+      "换握",
+      "拍面",
+      "手感"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "不同品牌和拍柄形状会改变棱角感、换握速度和拍面识别。",
+    "encyclopedia": "握把形状不是只有粗细差异。有些拍柄更方，有些更扁，棱角清晰度也不同。棱角更清楚时，换握和拍面方向更容易被手感识别；形状不适合时，你可能觉得握法总是差一点、发球或截击拍面不稳定。它是很私人的适配项，需要结合握把胶厚度一起判断。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-grip-shape-v1",
+      "alt": "Knowledge card explaining tennis racquet grip shape and bevel feel."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "换握慢和拍面迷路，有时不是技术概念没懂，而是手感提示太弱。",
+      "commonFailure": "只看手柄号，不看握把形状是否适合自己的手。",
+      "onCourtCue": "我能不能不低头就知道拍面方向？",
+      "verificationTest": "闭眼换到正手、反手、大陆式，观察是否能稳定找到棱角。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-grip-shape-bevel",
+        "title": "VR 换握意识",
+        "durationMinutes": 4,
+        "instruction": "练习前做 10 次正反手换握，感受拍柄棱角提示。",
+        "successSignal": "你能把拍柄形状和换握稳定性联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-grip-shape-serve-volley",
+        "title": "换握稳定检查",
+        "durationMinutes": 8,
+        "instruction": "发球准备、截击准备、正反手各做 10 次换握检查。",
+        "successSignal": "你能判断握把形状是否影响拍面识别。"
+      }
+    },
+    "reviewPrompt": "为什么同样手柄号，不同球拍握起来仍然差很多？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.size",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.grip.overgrip",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.throat-stability",
+    "title": "拍喉影响稳定和反馈",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "拍喉",
+      "稳定",
+      "反馈",
+      "拍框"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "拍喉结构会影响拍框整体扭转、弯曲反馈和击球稳定，但要和整支拍一起理解。",
+    "encyclopedia": "拍喉连接手柄与拍面，是力量传递和拍框形变的重要区域。更稳定的拍喉可能让击球反馈更扎实，开放或柔和的结构可能让手感更细腻。它不是单独选拍指标，因为拍面大小、拍框厚度、硬度和线床都会一起改变反馈。理解拍喉，是为了更好描述手感，不是为了盯着外形买拍。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-throat-stability-v1",
+      "alt": "Knowledge card about tennis racquet throat structure and stability."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "你开始能区分扎实、空、震、柔这些手感差异。",
+      "commonFailure": "把所有稳定感都归因于重量，忽略结构和线床。",
+      "onCourtCue": "偏心击球时，拍框是稳住还是明显扭开？",
+      "verificationTest": "偏甜区左右各打 10 球，记录拍框反馈和方向稳定。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-throat-stability-language",
+        "title": "手感词汇练习",
+        "durationMinutes": 4,
+        "instruction": "写下你试拍时要记录的 4 个手感词：扎实、柔、震、空。",
+        "successSignal": "你能更准确描述拍框反馈。"
+      },
+      "realCourtCheck": {
+        "id": "court-throat-offcenter",
+        "title": "偏心稳定检查",
+        "durationMinutes": 8,
+        "instruction": "试拍时刻意比较偏心击球的扭转和反馈。",
+        "successSignal": "你能把拍框稳定和实际击球联系起来。"
+      }
+    },
+    "reviewPrompt": "拍喉结构为什么不能脱离整支拍参数单独评价？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.beam",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.twistweight",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.sweet-spot-location",
+    "title": "甜区位置比甜区大小更隐蔽",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "甜区",
+      "击球点",
+      "拍面",
+      "稳定"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "不同球拍不只是甜区大小不同，最舒服的击球区域位置也可能不同。",
+    "encyclopedia": "甜区常被理解成容错面积，但位置同样重要。有的球拍甜区偏高，适合更靠拍头的现代击球；有的甜区更居中，反馈更传统。甜区位置不匹配时，你可能总觉得打不实，却不知道是触球点和球拍响应没对上。试拍时要观察自己自然触球落在拍面的哪里。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-sweet-spot-location-v1",
+      "alt": "Knowledge card showing tennis racquet sweet spot location."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你如果常打在拍头或拍心之外，球拍响应会放大不稳定。",
+      "commonFailure": "只问拍面大不大，不观察自己常打在哪里。",
+      "onCourtCue": "我自然触球点是在拍心、偏拍头，还是总偏边？",
+      "verificationTest": "用拍线标记或观察磨损，记录常见触球区域。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-sweet-spot-awareness",
+        "title": "VR 击球点意识",
+        "durationMinutes": 5,
+        "instruction": "练习时想象球撞到拍面哪个区域，强化稳定触球点。",
+        "successSignal": "你开始区分触球点问题和装备响应问题。"
+      },
+      "realCourtCheck": {
+        "id": "court-sweet-spot-mark",
+        "title": "触球区域检查",
+        "durationMinutes": 10,
+        "instruction": "打一组后观察线床磨痕或拍面反馈，记录常见触球区域。",
+        "successSignal": "你知道自己常用的甜区位置。"
+      }
+    },
+    "reviewPrompt": "为什么拍面大，不代表你一定总能打到最舒服的位置？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.head-size",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.twistweight",
+    "title": "抗扭稳定决定偏心容错",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "抗扭",
+      "twistweight",
+      "偏心",
+      "稳定"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "抗扭稳定描述偏心击球时拍面抵抗旋转的能力，会影响方向稳定和容错。",
+    "encyclopedia": "当球没有打在拍面中心，拍框会受到扭转。抗扭稳定更好的球拍更能保持拍面方向，偏心球也不容易大幅失控；抗扭弱的球拍可能更灵活，但偏心时方向和力量掉得更明显。它和拍面大小、拍框宽度、重量分布、配重都有关系。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-twistweight-v1",
+      "alt": "Knowledge card explaining tennis racquet twistweight and off-center stability."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "面对快球时你不可能每次打正中心，抗扭会影响真实容错。",
+      "commonFailure": "把偏心失控全怪手感，没看拍框抗扭是否够。",
+      "onCourtCue": "被顶住时，拍面还能不能保持方向？",
+      "verificationTest": "接快球时记录偏心球是否仍能落进大目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-twistweight-defense",
+        "title": "VR 防守偏心意识",
+        "durationMinutes": 5,
+        "instruction": "快球防守中观察自己是否经常偏心触球。",
+        "successSignal": "你知道偏心容错也是装备变量。"
+      },
+      "realCourtCheck": {
+        "id": "court-twistweight-fast-ball",
+        "title": "偏心快球检查",
+        "durationMinutes": 10,
+        "instruction": "连续接快球，记录偏心时拍面是否被明显扭开。",
+        "successSignal": "你能判断抗扭稳定是否影响防守质量。"
+      }
+    },
+    "reviewPrompt": "为什么抗扭稳定对防守和接发特别重要？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.sweet-spot-location",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.lead-tape",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.lead-tape",
+    "title": "配重胶是小手术不是装饰",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "配重",
+      "lead tape",
+      "挥重",
+      "抗扭"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "拍头、三九点和手柄配重会改变挥重、平衡和抗扭，必须小幅、可记录地调整。",
+    "encyclopedia": "配重胶能改变球拍重量分布。拍头加重会提高穿透和挥重，三九点加重常用于提升抗扭稳定，手柄加重会让平衡点更靠后。配重不是免费升级，每一点重量都会改变准备时间和疲劳。正确做法是小幅调整、记录位置和重量、逐次试打，而不是一次贴满。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-lead-tape-v1",
+      "alt": "Knowledge card showing tennis racquet lead tape placement effects."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "你想补稳定，但加错位置可能让准备时间崩掉。",
+      "commonFailure": "网上抄配重方案，不记录自己到底改善了什么。",
+      "onCourtCue": "配重后，我是更稳，还是更晚？",
+      "verificationTest": "每次只加少量配重，试打 20 球后记录稳定、深度和疲劳。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-lead-tape-hypothesis",
+        "title": "配重假设",
+        "durationMinutes": 4,
+        "instruction": "写下配重前想解决的唯一问题：抗扭、穿透还是平衡。",
+        "successSignal": "你不会无目标配重。"
+      },
+      "realCourtCheck": {
+        "id": "court-lead-tape-ab",
+        "title": "小幅配重 AB",
+        "durationMinutes": 12,
+        "instruction": "配重前后各打一组，只比较一个目标指标。",
+        "successSignal": "你能判断这次配重是否值得保留。"
+      }
+    },
+    "reviewPrompt": "为什么配重必须一次只改一个变量？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.handle-weight",
+    "title": "手柄配重会改变头轻感",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "手柄配重",
+      "平衡点",
+      "头轻",
+      "操控"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "手柄加重会增加总重量并让平衡点后移，可能提升头轻感，但不会让球拍真正变轻。",
+    "encyclopedia": "在手柄端加重会让球拍平衡点靠后，空挥时可能更头轻、更好转拍。但总重量会上升，长时间对拉的疲劳并不会凭空消失。手柄配重适合微调操控和手感，不适合把一支明显不合适的拍强行改成另一种拍。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-handle-weight-v1",
+      "alt": "Knowledge card about adding weight to tennis racquet handle and balance."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "你要分清头轻感和真实总负荷。",
+      "commonFailure": "以为手柄配重能让球拍变轻，结果只是手感变了。",
+      "onCourtCue": "这支拍是更好转了，还是只是总重量更高？",
+      "verificationTest": "配重后连续打 15 分钟，观察灵活性和疲劳是否同时改善。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-handle-weight-balance",
+        "title": "平衡点联想",
+        "durationMinutes": 3,
+        "instruction": "用手柄端加重的例子理解总重量和平衡点的区别。",
+        "successSignal": "你能解释为什么头轻感不等于更轻。"
+      },
+      "realCourtCheck": {
+        "id": "court-handle-weight-fatigue",
+        "title": "手柄配重疲劳检查",
+        "durationMinutes": 15,
+        "instruction": "配重后打一组长对拉，记录回拍灵活和手臂疲劳。",
+        "successSignal": "你能判断配重是否真的提升整体表现。"
+      }
+    },
+    "reviewPrompt": "为什么手柄加重会更头轻，但总负荷仍然增加？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.balance",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.racquet.weight",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.first-racquet",
+    "title": "第一支拍要买稳定范围",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "新手",
+      "选拍",
+      "容错",
+      "成长"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "第一支拍不该追极端参数，而要选择能支持学习、容错和连续练习的中性范围。",
+    "encyclopedia": "第一支认真练习用拍，目标不是一步到位职业感，而是让你能放松、连续、稳定地建立动作。过重、过硬、过小拍面或过高挥重都会增加学习成本；过轻、过弹、过大力量也可能让拍面控制变模糊。中性、舒适、可持续练习的球拍，往往比参数极端的拍更适合作为起点。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-first-racquet-v1",
+      "alt": "Knowledge card about choosing a first serious tennis racquet."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "第一支拍应该降低学习噪音，而不是制造新问题。",
+      "commonFailure": "照职业球员参数买拍，练两次就觉得自己不适合网球。",
+      "onCourtCue": "我能不能连续 30 分钟放松打球？",
+      "verificationTest": "试拍时连续打 20 分钟，观察准备、深度和手臂疲劳。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-first-racquet-needs",
+        "title": "第一支拍需求表",
+        "durationMinutes": 5,
+        "instruction": "写下你第一支拍最需要的三件事：舒适、容错、可持续练习。",
+        "successSignal": "你能拒绝极端参数诱惑。"
+      },
+      "realCourtCheck": {
+        "id": "court-first-racquet-trial",
+        "title": "试拍 20 分钟",
+        "durationMinutes": 20,
+        "instruction": "试拍时不只打前三球，至少连续打 20 分钟再判断。",
+        "successSignal": "你能从连续练习表现选择球拍。"
+      }
+    },
+    "reviewPrompt": "第一支拍为什么不应该追求职业参数？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.head-size",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.weight",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.upgrade-timing",
+    "title": "换拍时机看瓶颈不是看心动",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "升级",
+      "换拍",
+      "瓶颈",
+      "装备日志"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "真正该换拍，是现有球拍稳定地限制了你，而不是某次打不好或看到新款心动。",
+    "encyclopedia": "换拍前先问：问题是否连续出现？是否排除了球况、线床、疲劳和技术执行？是否能明确说出现有拍限制在哪里，比如挥重太高、拍面太小、力量不足或手臂不适？如果答案不清楚，先用装备日志和试拍验证。升级不是消费仪式，而是解决明确瓶颈。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-upgrade-timing-v1",
+      "alt": "Knowledge card about when to upgrade a tennis racquet."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你要避免把技术波动误判成装备瓶颈。",
+      "commonFailure": "一打差就想换拍，一打好就觉得装备无敌。",
+      "onCourtCue": "这个问题是否连续三次上场都出现？",
+      "verificationTest": "记录 3 次同类问题，再试拍验证是否明显改善。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-upgrade-hypothesis",
+        "title": "换拍假设",
+        "durationMinutes": 4,
+        "instruction": "写下换拍想解决的唯一问题，以及如何验证。",
+        "successSignal": "你能用假设而不是冲动决定换拍。"
+      },
+      "realCourtCheck": {
+        "id": "court-upgrade-three-session",
+        "title": "三次瓶颈记录",
+        "durationMinutes": 5,
+        "instruction": "连续三次上场记录同一问题是否重复出现。",
+        "successSignal": "你能判断是否到了试拍阶段。"
+      }
+    },
+    "reviewPrompt": "什么证据能说明这是装备瓶颈，而不是当天状态？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.racquet.first-racquet",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.pro-player-myth",
+    "title": "职业球员用拍不能直接抄",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "职业球员",
+      "误区",
+      "参数",
+      "定制"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "职业球员装备服务于他们的身体、训练量和定制需求，普通玩家照抄往往只会提高门槛。",
+    "encyclopedia": "职业球员的拍可能有定制重量、平衡、手柄、线床和配重，并不一定等同于零售版本。更重要的是，他们的力量、挥速、准备时间和训练量远高于普通爱好者。学习职业球员可以学思路和取舍，但不应该把同款当成适合自己的证据。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-pro-player-myth-v1",
+      "alt": "Knowledge card warning not to copy professional tennis racquet setups blindly."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "适合职业球员的高门槛配置，可能会拖慢你的学习。",
+      "commonFailure": "买同款后发现打不动，还以为是自己太菜。",
+      "onCourtCue": "这套参数服务的是我的节奏，还是偶像的节奏？",
+      "verificationTest": "把同款参数和自己的连续挥拍能力、手臂反馈对照。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-pro-myth-filter",
+        "title": "同款过滤器",
+        "durationMinutes": 3,
+        "instruction": "看到职业同款时，先写下它可能不适合自己的两个理由。",
+        "successSignal": "你能把喜欢和适合分开。"
+      },
+      "realCourtCheck": {
+        "id": "court-pro-spec-trial",
+        "title": "职业参数试打检查",
+        "durationMinutes": 15,
+        "instruction": "试打高门槛球拍时重点记录准备时间、疲劳和失误类型。",
+        "successSignal": "你能判断同款是否真的适合自己。"
+      }
+    },
+    "reviewPrompt": "为什么职业同款最多是参考，不是答案？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.poly",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.tension-loss",
+    "title": "掉磅会让线床换性格",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "掉磅",
+      "线床",
+      "控制",
+      "维护"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "球线穿好后会逐渐失去张力，线床弹性、控制和触球反馈都会随时间变化。",
+    "encyclopedia": "掉磅不是异常，而是球线使用过程的一部分。不同材质掉磅速度和掉磅后的手感变化不同：有的线会变弹，有的会变钝，有的会失去回弹。你觉得最近控球变差、球突然飞或旋转感消失，可能不是动作变化，而是线床状态变了。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-tension-loss-v1",
+      "alt": "Knowledge card explaining tennis string tension loss over time."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "线床状态会改变你对技术进步的判断。",
+      "commonFailure": "线已经明显衰减，还用它判断动作是否正确。",
+      "onCourtCue": "这次失控是动作，还是线床已经换性格？",
+      "verificationTest": "记录穿线日期、使用小时和每次手感变化。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tension-loss-log",
+        "title": "掉磅记录意识",
+        "durationMinutes": 3,
+        "instruction": "在装备日志中加入穿线日期和使用小时。",
+        "successSignal": "你能把线床时间纳入表现分析。"
+      },
+      "realCourtCheck": {
+        "id": "court-tension-loss-hours",
+        "title": "线床小时数记录",
+        "durationMinutes": 5,
+        "instruction": "每次打完累计使用小时，并记录控制、弹性和旋转感。",
+        "successSignal": "你能发现线床衰减趋势。"
+      }
+    },
+    "reviewPrompt": "为什么线没断，也可能已经不适合继续校准技术？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.tension",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.cut-out-timing",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.cut-out-timing",
+    "title": "什么时候该剪线",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "剪线",
+      "掉磅",
+      "手臂",
+      "维护"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "线不一定要等断了才换，控制、舒适、回弹明显衰减时就该考虑剪线。",
+    "encyclopedia": "很多爱好者只在断线时换线，但线床可能早就失去原本性能。剪线信号包括：控球突然变差、线床明显变钝、球需要更用力才走、手臂负担增加、线移位严重且不回弹。不同线种周期不同，最可靠的是用使用小时和手感日志建立个人更换节奏。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-cut-out-timing-v1",
+      "alt": "Knowledge card about when to cut out tennis strings before they break."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "旧线会把你的动作反馈污染掉。",
+      "commonFailure": "线不破不换，结果用死线练出硬动作。",
+      "onCourtCue": "线床还在帮我，还是我在硬推球？",
+      "verificationTest": "换线前后各打一组，比较深度、控制和手臂感觉。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-cut-out-threshold",
+        "title": "剪线阈值",
+        "durationMinutes": 3,
+        "instruction": "写下你的三个剪线信号：控制、舒适、回弹。",
+        "successSignal": "你有明确换线标准。"
+      },
+      "realCourtCheck": {
+        "id": "court-cut-out-ab",
+        "title": "换线前后对比",
+        "durationMinutes": 10,
+        "instruction": "换线前后各记录一组底线球表现。",
+        "successSignal": "你能用证据判断剪线是否及时。"
+      }
+    },
+    "reviewPrompt": "线没断，为什么仍然可能该剪了？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.tension-loss",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.locked-stringbed",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.locked-stringbed",
+    "title": "线床锁死会偷走旋转",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "线床锁死",
+      "旋转",
+      "snapback",
+      "衰减"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "线不能顺畅滑动回弹时，旋转潜力和触球反馈都会下降。",
+    "encyclopedia": "现代上旋部分依赖线床咬球、滑动和回弹。随着磨损、凹槽、污渍和张力变化，球线可能卡住不回位，线床变得钝、死、旋转感下降。这就是常说的线床锁死。它不一定肉眼立刻明显，但你会感觉球不再容易带弧线，必须更用力刷。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-locked-stringbed-v1",
+      "alt": "Knowledge card explaining locked tennis stringbed and reduced spin."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "你以为自己刷不动，可能是线床已经不回弹。",
+      "commonFailure": "继续用锁死线床练上旋，越练越硬。",
+      "onCourtCue": "线打完后还会自己回位吗？球还容易拱起来吗？",
+      "verificationTest": "观察线移位和回弹，再记录上旋球过网高度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-locked-stringbed-check",
+        "title": "线床回位意识",
+        "durationMinutes": 3,
+        "instruction": "练习前检查线是否明显移位且不回位。",
+        "successSignal": "你能把线床状态和旋转感联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-locked-stringbed-spin",
+        "title": "线床回弹检查",
+        "durationMinutes": 8,
+        "instruction": "打 10 个上旋球后观察线移位和球路弧线。",
+        "successSignal": "你能判断线床是否影响旋转。"
+      }
+    },
+    "reviewPrompt": "为什么线床锁死后，上旋会更费力？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.snapback",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.cut-out-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.snapback",
+    "title": "Snapback 是线的回弹",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "snapback",
+      "旋转",
+      "聚酯线",
+      "线床"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "球线被球带动后滑开再回弹，是现代线床帮助产生旋转的重要机制之一。",
+    "encyclopedia": "Snapback 指击球时球线发生横向滑动，并在出球瞬间回弹。这个过程可以帮助球获得更多旋转。聚酯线常被认为有较好的滑动和回弹潜力，但前提是线床状态、线径、线面摩擦和挥拍速度都合适。没有挥速和合适触球，snapback 不会自动制造上旋。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-snapback-v1",
+      "alt": "Knowledge card explaining tennis string snapback and spin."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "理解 snapback 能让你更理性地选择聚酯线和换线周期。",
+      "commonFailure": "以为换聚酯线就自动有旋转。",
+      "onCourtCue": "我有足够挥速和刷球路径让线床工作吗？",
+      "verificationTest": "新线和旧线各打上旋球，比较弧线和线回位。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-snapback-motion",
+        "title": "回弹机制理解",
+        "durationMinutes": 4,
+        "instruction": "用一张草图画出球线滑开和回弹，别把旋转全归因于手腕。",
+        "successSignal": "你能解释线床如何帮助旋转。"
+      },
+      "realCourtCheck": {
+        "id": "court-snapback-new-old",
+        "title": "新旧线回弹对照",
+        "durationMinutes": 10,
+        "instruction": "新线和旧线各打 10 个上旋球，观察线回位和球路。",
+        "successSignal": "你能分辨动作和线床状态的贡献。"
+      }
+    },
+    "reviewPrompt": "为什么 snapback 需要线床状态和挥速一起成立？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.poly",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.locked-stringbed",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.round-vs-shaped",
+    "title": "圆线和多边线不是高低级",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "圆线",
+      "多边线",
+      "旋转",
+      "耐用"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "多边线可能提供更强咬球感，圆线通常更顺滑稳定，选择取决于手感和耐用需求。",
+    "encyclopedia": "多边线通过棱角提供更明显的咬球感，常被用于追求旋转反馈；圆线摩擦更顺滑，可能更稳定、耐用或更适合混线横线。多边不等于一定更会转，圆线也不等于没旋转。实际效果取决于线材、线径、磅数、线床密度和你的挥拍路径。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-round-vs-shaped-v1",
+      "alt": "Knowledge card comparing round and shaped tennis strings."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你要选的是适合自己的反馈，不是听起来更高级的形状。",
+      "commonFailure": "为了旋转盲目上硬多边线，结果手臂紧、球浅。",
+      "onCourtCue": "咬球感是真帮助，还是让我动作更紧？",
+      "verificationTest": "同磅数试圆线和多边线，记录旋转感、舒适和失误。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-round-shaped-need",
+        "title": "线形需求判断",
+        "durationMinutes": 3,
+        "instruction": "先写下你要解决的是旋转反馈、舒适还是耐用。",
+        "successSignal": "你不会只按形状选线。"
+      },
+      "realCourtCheck": {
+        "id": "court-round-shaped-ab",
+        "title": "圆线多边线对照",
+        "durationMinutes": 10,
+        "instruction": "同条件试打圆线和多边线，各记录三项手感。",
+        "successSignal": "你能根据表现而不是概念选线。"
+      }
+    },
+    "reviewPrompt": "为什么多边线不等于自动更多旋转？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.poly",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.gauge",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.soft-vs-stiff-poly",
+    "title": "软聚和硬聚差很多",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "软聚酯",
+      "硬聚酯",
+      "舒适",
+      "控制"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "同样叫聚酯线，软硬差异会显著改变舒适、力量、控制和衰减体验。",
+    "encyclopedia": "聚酯线不是一个手感。较软的聚酯通常更容易上手，舒适性更好，也更容易让中阶球员放松加速；较硬的聚酯控制和反馈可能更直接，但对挥速和手臂负担要求更高。选聚酯线时不要只看品牌和颜色，要看硬度、线径、磅数和自己是否能放松挥拍。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-soft-vs-stiff-poly-v1",
+      "alt": "Knowledge card comparing soft and stiff polyester tennis strings."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你可能需要的是较软聚酯，而不是放弃聚酯或硬上硬聚。",
+      "commonFailure": "试过一条硬聚不舒服，就以为所有聚酯线都不适合。",
+      "onCourtCue": "这条线让我放松加速，还是逼我用力推？",
+      "verificationTest": "软聚和硬聚各记录一次深度、旋转和手臂反馈。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-poly-softness-scale",
+        "title": "聚酯软硬坐标",
+        "durationMinutes": 3,
+        "instruction": "把聚酯线按软硬想成连续坐标，而不是单一类型。",
+        "successSignal": "你能更细地描述聚酯线需求。"
+      },
+      "realCourtCheck": {
+        "id": "court-soft-stiff-poly-log",
+        "title": "软硬聚日志",
+        "durationMinutes": 5,
+        "instruction": "试线后记录舒适、控制、旋转、疲劳四项。",
+        "successSignal": "你能判断自己能承受的聚酯硬度。"
+      }
+    },
+    "reviewPrompt": "为什么“聚酯线适不适合我”要细分到软硬？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.poly",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.tension",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.hybrid-main-cross",
+    "title": "混线先看竖线横线分工",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "混线",
+      "竖线",
+      "横线",
+      "分工"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "混线时竖线更主导主要击球性格，横线常用于调节滑动、弹性和舒适。",
+    "encyclopedia": "混线不是把两条线优点简单相加。竖线承担更多主触球和滑动回弹作用，往往决定主要手感；横线会影响线床摩擦、弹性、舒适和耐用。聚酯做竖线通常更偏控制和旋转，舒适线做竖线通常更偏弹性和保护。先定义主问题，再选择竖横线组合。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-hybrid-main-cross-v1",
+      "alt": "Knowledge card explaining main and cross string roles in hybrid setups."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "混线如果分工不清，只会增加变量。",
+      "commonFailure": "复制混线方案，却不知道竖横线各解决什么。",
+      "onCourtCue": "我想让竖线主导什么，让横线补什么？",
+      "verificationTest": "写下混线假设，试打三次后判断目标是否达成。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-hybrid-main-cross-map",
+        "title": "竖横线分工图",
+        "durationMinutes": 4,
+        "instruction": "画出竖线负责主性格、横线负责调节的简图。",
+        "successSignal": "你能解释自己的混线方案。"
+      },
+      "realCourtCheck": {
+        "id": "court-hybrid-main-cross-log",
+        "title": "混线目标复盘",
+        "durationMinutes": 5,
+        "instruction": "混线后按目标记录三次，判断是否解决原问题。",
+        "successSignal": "你能决定保留、微调或放弃混线。"
+      }
+    },
+    "reviewPrompt": "混线里为什么要先决定谁做竖线？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.hybrid",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.snapback",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.winter-tension",
+    "title": "冬天可能需要更友好的线床",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "冬天",
+      "磅数",
+      "舒适",
+      "温度"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "低温下球、线床和身体都更紧，很多人需要用更舒适的线床保护输出。",
+    "encyclopedia": "冬天球可能更沉，身体热身更慢，线床也可能显得更硬。此时继续使用高磅硬线，可能让深度变浅、手臂更紧。常见思路是适度降低磅数、换更舒适的线或缩短硬聚使用周期。具体调整要小幅、可记录，不能一冷就乱改所有变量。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-winter-tension-v1",
+      "alt": "Knowledge card about winter string tension and comfort adjustments."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "冬天硬上同样配置，动作可能被迫变紧。",
+      "commonFailure": "球浅就更用力，没发现线床和天气都在变硬。",
+      "onCourtCue": "今天是发力不足，还是冷天让球和线都更不友好？",
+      "verificationTest": "冬天小幅调整线床后记录深度和手臂反馈。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-winter-string-plan",
+        "title": "冬季线床计划",
+        "durationMinutes": 4,
+        "instruction": "写下冬季只调整一个变量：磅数、线种或换线周期。",
+        "successSignal": "你能小幅而有证据地调整。"
+      },
+      "realCourtCheck": {
+        "id": "court-winter-string-log",
+        "title": "冬季线床日志",
+        "durationMinutes": 5,
+        "instruction": "低温上场后记录球深、手臂、热身时长和线床感觉。",
+        "successSignal": "你能判断冬季配置是否需要变化。"
+      }
+    },
+    "reviewPrompt": "冬天为什么不能只靠更用力来解决球浅？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.temperature",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.tension",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.arm-friendly-setup",
+    "title": "手臂不适先软化线床",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings",
+      "body-strength"
+    ],
+    "tags": [
+      "球线",
+      "手肘",
+      "舒适",
+      "伤痛风险",
+      "磅数"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "strength"
+    ],
+    "summary": "手臂不适时，线种、磅数、硬度和换线周期往往比减震器更值得先检查。",
+    "encyclopedia": "手臂不适不能只归因于装备，但装备会影响负荷。常见检查顺序是：是否使用过硬聚酯、磅数是否过高、线是否已经死掉、球拍是否过硬、握把是否导致硬抓、训练量是否突然增加。更友好的方案可能是降低磅数、换软线或复丝、缩短硬聚周期、减少连续高强度练习。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-arm-friendly-setup-v1",
+      "alt": "Knowledge card about arm friendly tennis string setup."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "装备不解决所有伤痛，但错误线床会持续放大负荷。",
+      "commonFailure": "手臂疼只装减震器，却继续用死硬线高强度打。",
+      "onCourtCue": "今天的不适来自线床、硬抓、击球点，还是训练量？",
+      "verificationTest": "调整线床后记录三次手臂反馈和表现。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-arm-friendly-checklist",
+        "title": "手臂友好清单",
+        "durationMinutes": 4,
+        "instruction": "列出手臂不适时先检查的四项装备变量。",
+        "successSignal": "你不会把减震器当唯一解。"
+      },
+      "realCourtCheck": {
+        "id": "court-arm-friendly-log",
+        "title": "手臂反馈三次记录",
+        "durationMinutes": 5,
+        "instruction": "每次上场后记录线床、训练量和第二天手臂感觉。",
+        "successSignal": "你能找到更友好的装备方向。"
+      }
+    },
+    "reviewPrompt": "手臂不适时，为什么线床比减震器更应该优先检查？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.accessory.dampener",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.stiffness",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.vr-low-court-stringing",
+    "title": "少上场也要管理穿线周期",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings",
+      "vr-practice"
+    ],
+    "tags": [
+      "球线",
+      "VR",
+      "少上场",
+      "穿线周期",
+      "维护"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "即使真实上场不多，球线也会随时间和使用变化；少上场玩家更需要记录，而不是凭感觉。",
+    "encyclopedia": "少上场玩家常觉得线没怎么打就不用管，但线床仍可能随时间、温度和少量高强度使用改变。VR 训练能补判断和反应，但真实线床手感需要定期校准。最实用的方式是记录穿线日期、真实上场小时、主要问题和下一次真实上场前是否需要校准。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-vr-low-court-stringing-v1",
+      "alt": "Knowledge card about stringing schedule for VR and low court time tennis players."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你在东京上场机会少，更不能让每次真实上场被坏线床浪费。",
+      "commonFailure": "几个月不换线，真实上场才发现手感完全不对。",
+      "onCourtCue": "这次真实上场是训练技术，还是先重新校准线床手感？",
+      "verificationTest": "每次真实上场后记录线床状态和下次是否需要换线。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-low-court-string-calendar",
+        "title": "低频上场日历",
+        "durationMinutes": 4,
+        "instruction": "把真实上场日期和穿线日期写进同一张记录。",
+        "successSignal": "你知道下一次真实上场前是否要处理线床。"
+      },
+      "realCourtCheck": {
+        "id": "court-low-court-string-calibration",
+        "title": "真实上场线床校准",
+        "durationMinutes": 8,
+        "instruction": "上场前 10 分钟只校准线床深度和拍面感觉。",
+        "successSignal": "你能快速找回真实线床手感。"
+      }
+    },
+    "reviewPrompt": "少上场玩家为什么更需要装备日志，而不是更少维护？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.tension-loss",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.grip.replacement-grip-thickness",
+    "title": "底胶厚度会改手柄号",
+    "category": "equipment-grip",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "握把",
+      "底胶",
+      "厚度",
+      "手柄号",
+      "手感"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "更换底胶会改变握把粗细、缓震和棱角感，不能只当成外观维护。",
+    "encyclopedia": "底胶在手柄和吸汗带之间，厚度、材质和压缩感会影响实际手柄号。厚底胶可能更舒服但让握把变粗、棱角变钝；薄底胶能保留清晰棱角，但缓震和舒适可能下降。换底胶后要重新判断握把大小，而不是只看球拍标注的手柄号。",
+    "generatedImage": {
+      "assetId": "img-equipment-grip-replacement-grip-thickness-v1",
+      "alt": "Knowledge card about tennis replacement grip thickness and handle size."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你以为手柄号没变，其实底胶已经改变了实际握感。",
+      "commonFailure": "换了厚底胶后还按原来的握法用力，结果手腕不顺。",
+      "onCourtCue": "握把是更舒服了，还是变得太粗太钝？",
+      "verificationTest": "换底胶后做 10 次换握和 10 分钟对拉，记录放松程度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-replacement-grip-thickness",
+        "title": "底胶变量意识",
+        "durationMinutes": 3,
+        "instruction": "把底胶厚度写入装备日志，不只记录吸汗带。",
+        "successSignal": "你知道底胶会改变实际手柄号。"
+      },
+      "realCourtCheck": {
+        "id": "court-replacement-grip-check",
+        "title": "换底胶后检查",
+        "durationMinutes": 10,
+        "instruction": "换底胶后检查换握、拍面识别和前臂紧张。",
+        "successSignal": "你能判断底胶厚度是否合适。"
+      }
+    },
+    "reviewPrompt": "为什么换底胶后要重新判断手柄号？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.size",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.grip-shape",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.grip.dry-vs-tacky",
+    "title": "干性和粘性吸汗带看出汗",
+    "category": "equipment-grip",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "吸汗带",
+      "干性",
+      "粘性",
+      "出汗",
+      "防滑"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "干性吸汗带更适合汗多和潮湿，粘性吸汗带更强调抓握感和贴手。",
+    "encyclopedia": "吸汗带大致可以按干性和粘性理解。干性更像吸水和防滑，适合手汗多、潮湿或夏天；粘性更强调贴手和抓握感，适合手汗少或喜欢黏住球拍的人。没有绝对高级，只有你的出汗、天气和握拍习惯是否匹配。",
+    "generatedImage": {
+      "assetId": "img-equipment-grip-dry-vs-tacky-v1",
+      "alt": "Knowledge card comparing dry and tacky tennis overgrips."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "防滑问题会让你下意识硬抓球拍。",
+      "commonFailure": "手汗多还用不吸汗的胶，越打越紧。",
+      "onCourtCue": "我需要吸汗，还是需要贴手？",
+      "verificationTest": "同样天气试两种吸汗带，记录防滑和放松程度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-dry-tacky-choice",
+        "title": "吸汗带选择",
+        "durationMinutes": 3,
+        "instruction": "按手汗和天气选今天更需要干性还是粘性。",
+        "successSignal": "你能按场景选吸汗带。"
+      },
+      "realCourtCheck": {
+        "id": "court-dry-tacky-ab",
+        "title": "干粘吸汗带对照",
+        "durationMinutes": 10,
+        "instruction": "两种吸汗带各打一组，记录防滑、贴手和紧张感。",
+        "successSignal": "你能找到自己的默认类型。"
+      }
+    },
+    "reviewPrompt": "为什么吸汗带选择要看出汗和天气，而不是只看手感喜好？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.overgrip",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.grip.change-cycle",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.grip.change-cycle",
+    "title": "吸汗带周期要固定下来",
+    "category": "equipment-grip",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "吸汗带",
+      "更换周期",
+      "防滑",
+      "维护",
+      "手感"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "吸汗带更换周期应该由使用小时、出汗和防滑状态决定，而不是等到破烂才换。",
+    "encyclopedia": "吸汗带会被汗、摩擦和灰尘快速改变。等到它明显发黑、变滑或破损，通常已经影响握拍很久了。你可以按使用小时、天气和手汗建立周期，例如汗多季节更频繁更换，低频上场也要在关键练习前检查。稳定握把就是稳定拍面的底层条件。",
+    "generatedImage": {
+      "assetId": "img-equipment-grip-change-cycle-v1",
+      "alt": "Knowledge card about tennis overgrip replacement cycle."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "握把状态是最便宜但最容易被忽略的稳定性变量。",
+      "commonFailure": "吸汗带已经打滑，还继续怪自己拍面不稳。",
+      "onCourtCue": "我是在正常握拍，还是在防止球拍滑走？",
+      "verificationTest": "换新吸汗带前后比较 10 分钟对拉的放松程度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-overgrip-cycle",
+        "title": "更换周期设定",
+        "durationMinutes": 3,
+        "instruction": "为自己设一个吸汗带检查周期和更换信号。",
+        "successSignal": "你有固定维护节奏。"
+      },
+      "realCourtCheck": {
+        "id": "court-overgrip-cycle-log",
+        "title": "吸汗带小时数",
+        "durationMinutes": 3,
+        "instruction": "每次上场后记录吸汗带使用小时和防滑状态。",
+        "successSignal": "你能及时更换，不等到影响动作。"
+      }
+    },
+    "reviewPrompt": "吸汗带为什么应该按周期换，而不是按脏不脏换？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.overgrip",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.wear-pattern",
+    "title": "鞋底磨损会暴露步伐习惯",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "鞋底磨损",
+      "步伐",
+      "支撑",
+      "安全"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "spacing"
+    ],
+    "summary": "鞋底磨损位置能提示启动、急停、拖步和重心习惯，也能提醒你何时该换鞋。",
+    "encyclopedia": "网球鞋磨损不是只看旧不旧。前掌内外侧、脚尖、后跟和外侧边缘的磨损，可能反映你的启动、刹车、拖脚和横移习惯。磨损过度会降低抓地和支撑，增加滑倒或扭伤风险。定期拍照记录鞋底，比凭感觉判断更可靠。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-wear-pattern-v1",
+      "alt": "Knowledge card about tennis shoe outsole wear patterns and footwork."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "步伐训练需要鞋底还能安全支持启动和急停。",
+      "commonFailure": "鞋底已经磨平，还继续练急停和横移。",
+      "onCourtCue": "鞋底还抓地吗？磨损是否集中在某个动作习惯？",
+      "verificationTest": "每月拍一次鞋底照片，对比磨损区域和步伐问题。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-shoe-wear-awareness",
+        "title": "鞋底磨损意识",
+        "durationMinutes": 3,
+        "instruction": "看鞋底照片，猜测自己最常磨损的移动方向。",
+        "successSignal": "你把鞋底当成步伐反馈。"
+      },
+      "realCourtCheck": {
+        "id": "court-shoe-wear-photo",
+        "title": "鞋底月度照片",
+        "durationMinutes": 3,
+        "instruction": "每月固定角度拍鞋底，记录抓地和磨损变化。",
+        "successSignal": "你知道何时该换鞋或调整步伐。"
+      }
+    },
+    "reviewPrompt": "鞋底磨损为什么既是安全信号，也是步伐反馈？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.shoe.support",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.hard-court-universal",
+    "title": "硬地鞋最通用但不是万能",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "硬地鞋",
+      "耐磨",
+      "通用",
+      "场地"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "硬地鞋因为耐磨和支撑均衡，常是最通用选择，但在红土、草地和人工草上仍要看抓地。",
+    "encyclopedia": "硬地是最常见也最磨鞋的场地，所以硬地鞋通常强调耐磨、支撑和多方向移动。它可以覆盖很多日常场景，但不代表所有场地都最佳。红土需要可控滑动和排土，草地和人工草需要不同抓地逻辑。通用意味着不容易错，不等于每种场地表现都最好。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-hard-court-universal-v1",
+      "alt": "Knowledge card explaining why hard court tennis shoes are versatile but not universal."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你可以用硬地鞋作为默认，但要知道场地变化时的限制。",
+      "commonFailure": "一双鞋打所有场地，却不观察抓地和滑动是否合适。",
+      "onCourtCue": "今天这块场地，硬地鞋是安全默认还是勉强够用？",
+      "verificationTest": "不同场地各做启动急停，记录抓地和滑动。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-hard-court-shoe-default",
+        "title": "默认鞋选择",
+        "durationMinutes": 3,
+        "instruction": "写下硬地鞋适合作为默认的原因和限制。",
+        "successSignal": "你能说清通用与万能的区别。"
+      },
+      "realCourtCheck": {
+        "id": "court-hard-shoe-surface-check",
+        "title": "不同场地鞋底检查",
+        "durationMinutes": 8,
+        "instruction": "换场地时做启动和急停测试，判断是否需要不同外底。",
+        "successSignal": "你按场地安全决定鞋，而不是只按习惯。"
+      }
+    },
+    "reviewPrompt": "为什么硬地鞋可以做默认，但不能无脑打所有场地？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.shoe.tokyo-artificial-grass",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.clay-on-hard-court",
+    "title": "红土鞋上硬地可能卡脚",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "红土鞋",
+      "硬地",
+      "人字纹",
+      "安全"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "spacing"
+    ],
+    "summary": "红土鞋的人字纹适合红土排土和滑动，但在硬地上可能抓得过死或磨损异常。",
+    "encyclopedia": "红土鞋常用密集人字纹，帮助在颗粒场地上抓地、排土和可控滑步。到了硬地，这种外底可能抓地过强，让急停和转体更卡，也可能更快磨损。是否能临时使用要看具体鞋和场地，但不应该把红土鞋当硬地默认。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-clay-on-hard-court-v1",
+      "alt": "Knowledge card about using clay tennis shoes on hard courts."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "鞋底卡住会影响膝踝安全和转体释放。",
+      "commonFailure": "只觉得红土鞋抓地好，没发现硬地急停太卡。",
+      "onCourtCue": "急停时是可控，还是脚被地面锁住？",
+      "verificationTest": "硬地上做横移急停和转身，观察是否有卡脚感。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-clay-hard-risk",
+        "title": "抓地过强意识",
+        "durationMinutes": 3,
+        "instruction": "写下抓地不足和抓地过强各自的风险。",
+        "successSignal": "你知道不是越抓地越安全。"
+      },
+      "realCourtCheck": {
+        "id": "court-clay-shoe-hard-check",
+        "title": "硬地卡脚检查",
+        "durationMinutes": 6,
+        "instruction": "在硬地用红土鞋做轻量急停，若明显卡脚就停止。",
+        "successSignal": "你能判断是否需要换鞋。"
+      }
+    },
+    "reviewPrompt": "为什么鞋底抓地太强也可能是问题？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.shoe.support",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.indoor-court-choice",
+    "title": "室内场地先看地面材质",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "室内场地",
+      "抓地",
+      "地面",
+      "安全"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "室内不等于一种场地，地胶、硬地、地毯和人工草都需要不同抓地判断。",
+    "encyclopedia": "室内网球可能是硬地、地毯、地胶或人工草，鞋底选择不能只看是否在室内。真正要看的是地面摩擦、是否有砂、是否容易滑、场馆是否限制鞋底类型。第一次去新室内场，先做低强度启动和急停检查，再逐渐提高移动强度。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-indoor-court-choice-v1",
+      "alt": "Knowledge card about choosing tennis shoes for indoor court surfaces."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "新场地最先要确认脚下安全，而不是马上全速移动。",
+      "commonFailure": "听到室内就默认同一种鞋，忽略地面材质差异。",
+      "onCourtCue": "这块室内地面是硬、滑、粘，还是有砂？",
+      "verificationTest": "新场地先做 5 分钟低强度脚下测试。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-indoor-surface-check",
+        "title": "室内场地问题单",
+        "durationMinutes": 3,
+        "instruction": "去新场馆前列出要确认的三点：材质、摩擦、鞋底限制。",
+        "successSignal": "你不会把室内当成单一场地。"
+      },
+      "realCourtCheck": {
+        "id": "court-indoor-first-five",
+        "title": "室内前五分钟",
+        "durationMinutes": 5,
+        "instruction": "前五分钟只做轻量启动、横移、急停，确认抓地。",
+        "successSignal": "你能安全适应新室内场。"
+      }
+    },
+    "reviewPrompt": "为什么室内场地不能直接推导出鞋底选择？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.shoe.hard-court-universal",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.tokyo-artificial-grass",
+    "title": "东京人工草要重视砂和滑",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "东京",
+      "人工草",
+      "砂入り人工芝",
+      "场地适配"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "spacing"
+    ],
+    "summary": "东京常见砂入り人工芝和人工草场地，脚下体验可能介于滑、卡和颗粒摩擦之间。",
+    "encyclopedia": "日本很多公共场地是砂入り人工芝或类似人工草系统，表面有砂，和纯硬地差异很大。它可能比硬地更滑，也可能在某些方向突然抓住鞋底。选择鞋时要关注外底纹路、排砂、侧向支撑和自己是否能安全急停。第一次去场地，先测试再全速打。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-tokyo-artificial-grass-v1",
+      "alt": "Knowledge card about tennis shoes for Tokyo sand-filled artificial grass courts."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你的真实场地资源有限，每次上场都要先保证脚下适配。",
+      "commonFailure": "拿硬地经验套人工草，启动和急停都不稳。",
+      "onCourtCue": "这块场地是滑、卡，还是砂让鞋底反应不一致？",
+      "verificationTest": "上场前做短距离启动、横移和刹车，确认鞋底反应。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tokyo-court-note",
+        "title": "东京场地备注",
+        "durationMinutes": 3,
+        "instruction": "为每个实际去过的场地记录表面、滑动和鞋底表现。",
+        "successSignal": "你能为少量真实上场建立场地档案。"
+      },
+      "realCourtCheck": {
+        "id": "court-tokyo-artificial-grass-test",
+        "title": "人工草脚下测试",
+        "durationMinutes": 6,
+        "instruction": "开打前做低强度启动、横移、急停和转体，记录滑或卡。",
+        "successSignal": "你能根据场地调整移动强度。"
+      }
+    },
+    "reviewPrompt": "为什么砂入り人工芝不能简单当硬地处理？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.accessory.bag-organization",
+    "title": "网球包分层是在保护装备",
+    "category": "equipment-accessory",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "网球包",
+      "收纳",
+      "球拍",
+      "球线",
+      "鞋",
+      "维护"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "网球包不是越大越好，重点是让球拍、鞋、湿衣物、球和小配件互不污染。",
+    "encyclopedia": "好的网球包分层能减少装备损耗：球拍和线床避免高温挤压，鞋和湿衣物不要和吸汗带、护腕混在一起，球、胶带、剪刀、防晒和水分区放。对少上场玩家，固定收纳还能减少忘带东西的概率，让每次珍贵场地时间更稳定。",
+    "generatedImage": {
+      "assetId": "img-equipment-accessory-bag-organization-v1",
+      "alt": "Knowledge card about organizing a tennis bag to protect equipment."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "上场机会少，忘带或乱放装备就是直接浪费训练质量。",
+      "commonFailure": "所有东西混在一起，吸汗带湿、鞋脏、球拍暴晒。",
+      "onCourtCue": "我的包能不能 30 秒找到关键小件？",
+      "verificationTest": "出门前按固定清单检查球拍、球、鞋、水、吸汗带。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-bag-checklist",
+        "title": "出门清单",
+        "durationMinutes": 3,
+        "instruction": "写一份固定网球包清单，按分层收纳。",
+        "successSignal": "你不会临上场才发现少东西。"
+      },
+      "realCourtCheck": {
+        "id": "court-bag-organization-check",
+        "title": "网球包复盘",
+        "durationMinutes": 3,
+        "instruction": "每次打完把湿、脏、热的物品分开处理。",
+        "successSignal": "你的装备能稳定进入下一次训练。"
+      }
+    },
+    "reviewPrompt": "网球包分层为什么会影响训练质量？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      },
+      {
+        "targetId": "equipment.grip.change-cycle",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.accessory.sun-hydration",
+    "title": "防晒和补水也是装备",
+    "category": "equipment-accessory",
+    "topicIds": [
+      "equipment-footwear",
+      "body-strength"
+    ],
+    "tags": [
+      "防晒",
+      "补水",
+      "帽子",
+      "护腕",
+      "炎热天气"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "strength"
+    ],
+    "summary": "户外网球的表现会被阳光、热、汗和补水直接影响，防晒和补水不只是生活习惯。",
+    "encyclopedia": "帽子、防晒、护腕、水和电解质会影响户外训练的持续质量。暴晒会让判断、体力和专注下降，手汗会影响握拍，脱水会让脚步和恢复变慢。装备清单里应该固定保留防晒、帽子或遮阳、足够水分和备用吸汗带，尤其是夏季硬地。",
+    "generatedImage": {
+      "assetId": "img-equipment-accessory-sun-hydration-v1",
+      "alt": "Knowledge card about sun protection and hydration as tennis equipment."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "体能和专注掉线时，技术训练质量也会掉线。",
+      "commonFailure": "只准备球拍和球，忽略太阳、汗和补水。",
+      "onCourtCue": "我是技术变形，还是热和缺水让身体输出下降？",
+      "verificationTest": "夏天训练记录补水、防晒和后半段失误变化。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-sun-hydration-checklist",
+        "title": "夏季上场清单",
+        "durationMinutes": 3,
+        "instruction": "把水、防晒、帽子、备用吸汗带加入固定清单。",
+        "successSignal": "你把环境负荷当作训练变量。"
+      },
+      "realCourtCheck": {
+        "id": "court-sun-hydration-log",
+        "title": "户外补水记录",
+        "durationMinutes": 3,
+        "instruction": "训练后记录气温、补水和后半段表现。",
+        "successSignal": "你能识别热环境对技术质量的影响。"
+      }
+    },
+    "reviewPrompt": "为什么防晒和补水会影响技术训练质量？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.dry-vs-tacky",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.accessory.warmup-band",
+    "title": "弹力带是热身工具不是表演",
+    "category": "equipment-accessory",
+    "topicIds": [
+      "equipment-footwear",
+      "body-strength"
+    ],
+    "tags": [
+      "弹力带",
+      "热身",
+      "肩袖",
+      "激活",
+      "伤痛风险"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "strength"
+    ],
+    "summary": "弹力带适合做肩、髋和核心激活，帮助身体进入网球动作，而不是临场硬拉大力量。",
+    "encyclopedia": "网球需要肩、髋、躯干和脚步共同工作。弹力带可以用于轻量激活肩袖、背部、臀部和核心，让发球、正反手和横移前身体更醒。热身重点是控制、轻量和动作质量，不是把弹力带拉到力竭。它应该服务于上场表现和伤痛风险管理。",
+    "generatedImage": {
+      "assetId": "img-equipment-accessory-warmup-band-v1",
+      "alt": "Knowledge card about using resistance bands for tennis warmup."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你需要先让身体准备好，再要求技术稳定。",
+      "commonFailure": "不热身直接发力，或者把热身做成疲劳训练。",
+      "onCourtCue": "热身后身体是更顺，还是已经累了？",
+      "verificationTest": "用 5 分钟弹力带热身后比较第一组击球质量。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-band-warmup-routine",
+        "title": "五分钟热身脚本",
+        "durationMinutes": 5,
+        "instruction": "设计肩、髋、核心各一个轻量激活动作。",
+        "successSignal": "你有可重复的上场前热身。"
+      },
+      "realCourtCheck": {
+        "id": "court-band-first-rally",
+        "title": "热身后第一组",
+        "durationMinutes": 5,
+        "instruction": "弹力带热身后记录第一组击球是否更快进入状态。",
+        "successSignal": "你能判断热身是否有效。"
+      }
+    },
+    "reviewPrompt": "为什么热身弹力带不应该做到力竭？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.accessory.sun-hydration",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.split-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.accessory.spend-upgrade",
+    "title": "花钱升级要先解决瓶颈",
+    "category": "equipment-accessory",
+    "topicIds": [
+      "equipment-racquets",
+      "equipment-strings",
+      "equipment-footwear"
+    ],
+    "tags": [
+      "装备升级",
+      "预算",
+      "选购",
+      "误区",
+      "瓶颈"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "装备预算应该优先花在明确瓶颈上：安全、舒适、稳定输入和可持续练习。",
+    "encyclopedia": "最值得优先升级的，通常不是最闪的装备，而是正在限制你训练质量的东西：不安全的鞋、死掉的线、打滑的吸汗带、不合适的球拍重量、缺少防晒补水。每次花钱前先写一句：我要解决什么问题？如何验证？如果答不上来，就先记录和试用。",
+    "generatedImage": {
+      "assetId": "img-equipment-accessory-spend-upgrade-v1",
+      "alt": "Knowledge card about spending on tennis equipment upgrades by bottleneck."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "装备升级应该让你练得更稳定，而不是制造更多变量。",
+      "commonFailure": "买新装备带来新鲜感，却没有解决真实问题。",
+      "onCourtCue": "这笔钱解决的是安全、舒适、稳定，还是情绪？",
+      "verificationTest": "升级前后用同一指标记录三次，判断是否真的改善。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-spend-upgrade-question",
+        "title": "升级三问",
+        "durationMinutes": 3,
+        "instruction": "写下问题、方案、验证指标，再决定是否购买。",
+        "successSignal": "你能避免无目标消费。"
+      },
+      "realCourtCheck": {
+        "id": "court-spend-upgrade-log",
+        "title": "升级后复盘",
+        "durationMinutes": 5,
+        "instruction": "买装备后连续三次记录它是否解决原问题。",
+        "successSignal": "你能判断这次升级是否有效。"
+      }
+    },
+    "reviewPrompt": "装备升级前，为什么必须先写清楚要解决的问题？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.racquet.upgrade-timing",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "stages": [
+    {
+      "id": "R01",
+      "levelBand": "2.7 -> 3.0",
+      "title": "稳定性地基",
+      "categories": [
+        "knowledge_breadth",
+        "technique_principles",
+        "spacing_footwork"
+      ],
+      "outcomes": [
+        "普通球连续 8-12 拍",
+        "被动球能回大目标",
+        "知道自己是太近、太远还是太晚"
+      ],
+      "weeklyFocus": "每周只追一个稳定性指标：过网高度、深度或击球点。",
+      "blocks": [
+        {
+          "weekRange": "W1-W2",
+          "title": "稳定性地基",
+          "tennisFocus": "过网高度、深度、普通球连续 8 拍",
+          "strengthFocus": "髋踝活动度 + 基础抗旋",
+          "acceptanceTest": "70% 力量深中路 20 球，至少 14 球过发球线后半段。"
+        },
+        {
+          "weekRange": "W3-W4",
+          "title": "击球点和空间感",
+          "tennisFocus": "split、近/正好/远判断、最后两步调整",
+          "strengthFocus": "侧向弓步、分腿蹲、小跨步急停",
+          "acceptanceTest": "连续 30 球中能喊出距离判断，且被挤到次数低于 6 次。"
+        }
+      ],
+      "assessment": {
+        "level": "2.7 -> 3.0",
+        "test": "普通对拉 10 分钟，只统计连续性、深度和击球点。",
+        "passStandard": "能连续 8-12 拍，普通球不因过度发力送掉。",
+        "commonFailure": "每个失误都想改动作，忽略高度和深度。"
+      }
+    },
+    {
+      "id": "R02",
+      "levelBand": "3.0 -> 3.5",
+      "title": "深度和开局质量",
+      "categories": [
+        "progression_route",
+        "technique_principles",
+        "match_mindset"
+      ],
+      "outcomes": [
+        "二发更稳定",
+        "接发能进回合",
+        "机会球先打大目标而不是抢边线"
+      ],
+      "weeklyFocus": "一节课修技术，一次练习修落点，一次比赛修选择。",
+      "blocks": [
+        {
+          "weekRange": "W5-W6",
+          "title": "发接发开局",
+          "tennisFocus": "抛球窗口、二发保底、接发深中路",
+          "strengthFocus": "肩胛稳定、核心抗伸展",
+          "acceptanceTest": "二发 20 球进 14 球，接二发 20 球进回合 14 球。"
+        },
+        {
+          "weekRange": "W7-W8",
+          "title": "机会球降风险",
+          "tennisFocus": "中场球大目标、70%-80% 力量、过网高度",
+          "strengthFocus": "旋转发力和刹车后再启动",
+          "acceptanceTest": "中场机会球 20 球，至少 12 球打进大目标。"
+        }
+      ],
+      "assessment": {
+        "level": "3.0 -> 3.5",
+        "test": "发接发 + 中场机会球组合测试。",
+        "passStandard": "二发可进入回合，机会球先打大目标，被动球能活下来。",
+        "commonFailure": "机会球追边线，双误后临时改发球动作。"
+      }
+    },
+    {
+      "id": "R03",
+      "levelBand": "3.5 -> 4.0",
+      "title": "主动性和比赛管理",
+      "categories": [
+        "progression_route",
+        "match_mindset",
+        "strength_integration"
+      ],
+      "outcomes": [
+        "能用深度制造浅球",
+        "压力分有固定流程",
+        "力量训练支持移动刹车和旋转发力"
+      ],
+      "weeklyFocus": "按 3 周推进 + 1 周降负荷来安排技术、比赛和力量。",
+      "blocks": [
+        {
+          "weekRange": "W9-W10",
+          "title": "比赛压力流程",
+          "tennisFocus": "30-30、破发点、双误后重置",
+          "strengthFocus": "正常负荷维持，避免赛前下肢大重量",
+          "acceptanceTest": "计分练习中每个关键分都能说出目标区。"
+        },
+        {
+          "weekRange": "W11-W12",
+          "title": "3.5 验收和 4.0 预备",
+          "tennisFocus": "深度制造浅球、inside-out 概念、攻防转换",
+          "strengthFocus": "降负荷吸收 + 速度质量",
+          "acceptanceTest": "一盘比赛复盘中，主动失误和选择错误各能归类并给出下周主线。"
+        }
+      ],
+      "assessment": {
+        "level": "3.5 -> 4.0",
+        "test": "带目标的一盘比赛复盘。",
+        "passStandard": "能用深度制造浅球，关键分执行固定目标，力量训练支持移动和旋转。",
+        "commonFailure": "只有技术动作，没有回合结构和比分策略。"
+      }
+    }
+  ]
+}

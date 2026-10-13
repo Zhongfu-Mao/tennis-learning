@@ -1,0 +1,596 @@
+[
+  {
+    "cardId": "spacing.split-timing",
+    "evidenceType": "verified-source",
+    "title": "Practice the Split Step",
+    "source": "https://ushsta.org/practice-the-split-step/",
+    "verificationNote": "Supports the card's core claim that the split step should happen just before the opponent makes contact so the player is ready to move into the next shot.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-16"
+  },
+  {
+    "cardId": "spacing.contact-distance",
+    "evidenceType": "verified-source",
+    "title": "Tennis for Beginners: Find Your Optimal Contact Point",
+    "source": "https://www.usta.com/en/home/improve/tips-and-instruction/national/find-your-optimal-contact-point.html",
+    "verificationNote": "Supports the card's core claim that beginners commonly get too close to the ball and need to learn a balanced contact point before refining swing details.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-16"
+  },
+  {
+    "cardId": "tactics.deep-middle",
+    "evidenceType": "verified-source",
+    "title": "Tactical Fundamentals",
+    "source": "https://www.tennis.com.au/wp-content/uploads/2010/08/Tactical-Fundamentals.pdf",
+    "verificationNote": "Supports the card's core claim that high, deep middle targets are a lower-risk tactical answer when recovering or buying time.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-16"
+  },
+  {
+    "cardId": "serve.toss-window",
+    "evidenceType": "verified-source",
+    "title": "How to Serve in Tennis",
+    "source": "https://www.usta.com/en/home/improve/tips-and-instruction/national/learning-the-basics--serve.html",
+    "verificationNote": "Supports the card's core claim that the serve starts with toss and motion fundamentals, and that beginner serve work should prioritize a repeatable toss before layering advanced mechanics.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-16"
+  },
+  {
+    "cardId": "equipment.ball.pressurized",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.pressureless",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.felt",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.lifespan",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.surface",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.head-size",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.weight",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Weight, Balance, and Swingweight",
+    "source": "https://twu.tennis-warehouse.com/learning_center/wtbalswt.php",
+    "verificationNote": "Supports the cards explaining static weight, balance and swingweight as distinct variables that change maneuverability, timing and impact stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.balance",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Weight, Balance, and Swingweight",
+    "source": "https://twu.tennis-warehouse.com/learning_center/wtbalswt.php",
+    "verificationNote": "Supports the cards explaining static weight, balance and swingweight as distinct variables that change maneuverability, timing and impact stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.swingweight",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Weight, Balance, and Swingweight",
+    "source": "https://twu.tennis-warehouse.com/learning_center/wtbalswt.php",
+    "verificationNote": "Supports the cards explaining static weight, balance and swingweight as distinct variables that change maneuverability, timing and impact stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.maintenance.match-log",
+    "evidenceType": "source-synthesis",
+    "title": "Equipment setup variables require tracking across balls, strings, racquets and shoes",
+    "source": "2026-05-25 synthesis of Tennis Warehouse equipment guides and local training workflow",
+    "verificationNote": "Supports the equipment-log and spend-upgrade cards: because balls, stringbed, racquet specs, shoes and weather all alter feedback, recording setup and outcomes is necessary before attributing performance changes to one cause.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.stiffness",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.beam",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.string-pattern",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.poly",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.synthetic-gut",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.natural-gut-multi",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.gauge",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.tension",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.hybrid",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.grip.size",
+    "evidenceType": "verified-source",
+    "title": "How to Measure Your Tennis Grip Size",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/how_to_measure_your_tennis_grip_size.html",
+    "verificationNote": "Supports grip-size cards on too-small and too-large handles, measuring methods, and using an overgrip when between sizes.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.grip.overgrip",
+    "evidenceType": "verified-source",
+    "title": "Best Tennis Overgrips",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/best_overgrips.html",
+    "verificationNote": "Supports overgrip cards on tacky versus dry feel, overgrip replacement, slightly increasing grip size, and choosing grip feel by sweat and preference.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.outsole",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Shoes",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choosing_the_right_tennis_shoes.html",
+    "verificationNote": "Supports shoe cards on lateral stability, hard-court durability, clay herringbone outsoles, grass/synthetic-turf grip and selecting shoes by court surface.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.support",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Shoes",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choosing_the_right_tennis_shoes.html",
+    "verificationNote": "Supports shoe cards on lateral stability, hard-court durability, clay herringbone outsoles, grass/synthetic-turf grip and selecting shoes by court surface.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.accessory.dampener",
+    "evidenceType": "verified-source",
+    "title": "Tennis Vibration Dampeners Explained",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/what-is-a-vibration-dampener.html",
+    "verificationNote": "Supports the dampener card: dampeners mainly change stringbed sound and feel, and are not a primary solution for arm shock or injury prevention.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.match-vs-training",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.high-altitude",
+    "evidenceType": "verified-source",
+    "title": "2026 ITF Approved Tennis Balls, Classified Surfaces & Recognised Courts",
+    "source": "https://www.itftennis.com/media/15639/2026-technical-booklet.pdf",
+    "verificationNote": "Supports the regulatory distinction between approved ball types, including pressurised or pressureless balls and high-altitude recommendations above 1,219 m.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.temperature",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.new-ball-game",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.dead-ball",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.ball.storage",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Balls",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose_right_tennis_balls.html",
+    "verificationNote": "Supports the equipment-ball cards on pressurized versus pressureless balls, felt/core/air construction, regular and extra duty surface fit, high altitude balls, and how ball type changes bounce, durability and practice suitability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.length",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.grip-shape",
+    "evidenceType": "verified-source",
+    "title": "Best Tennis Overgrips",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/best_overgrips.html",
+    "verificationNote": "Supports overgrip cards on tacky versus dry feel, overgrip replacement, slightly increasing grip size, and choosing grip feel by sweat and preference.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.throat-stability",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Specs and Power Potential",
+    "source": "https://twu.tennis-warehouse.com/learning_center/specsandspeed.php",
+    "verificationNote": "Supports the deeper racquet-spec cards on frame stiffness, sweet spot behavior, off-center response and how measured specs relate to on-court power and stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.sweet-spot-location",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Specs and Power Potential",
+    "source": "https://twu.tennis-warehouse.com/learning_center/specsandspeed.php",
+    "verificationNote": "Supports the deeper racquet-spec cards on frame stiffness, sweet spot behavior, off-center response and how measured specs relate to on-court power and stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.twistweight",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Specs and Power Potential",
+    "source": "https://twu.tennis-warehouse.com/learning_center/specsandspeed.php",
+    "verificationNote": "Supports the deeper racquet-spec cards on frame stiffness, sweet spot behavior, off-center response and how measured specs relate to on-court power and stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.lead-tape",
+    "evidenceType": "verified-source",
+    "title": "How to Customize Your Tennis Racquet's Weight and Balance",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/customize_your_tennis_racquet.html",
+    "verificationNote": "Supports the customization cards on lead/tungsten tape, handle weighting, balance changes, swingweight changes and the need for small, recorded adjustments.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.handle-weight",
+    "evidenceType": "verified-source",
+    "title": "Tennis Racquet Weight, Balance, and Swingweight",
+    "source": "https://twu.tennis-warehouse.com/learning_center/wtbalswt.php",
+    "verificationNote": "Supports the cards explaining static weight, balance and swingweight as distinct variables that change maneuverability, timing and impact stability.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.first-racquet",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.upgrade-timing",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.racquet.pro-player-myth",
+    "evidenceType": "verified-source",
+    "title": "How to Pick the Right Tennis Racquet",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/selecting_the_right_tennis_racquet.html",
+    "verificationNote": "Supports beginner and intermediate racquet-selection cards on head size, stiffness, weight, balance, power/control tradeoffs and why player needs matter more than copying pro specs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.tension-loss",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.cut-out-timing",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.locked-stringbed",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.snapback",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.round-vs-shaped",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.soft-vs-stiff-poly",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.hybrid-main-cross",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.winter-tension",
+    "evidenceType": "source-synthesis",
+    "title": "Fall & Winter Gear Checklist",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/fall-tennis-gear-tips.html",
+    "verificationNote": "Supports seasonal string and grip adjustment cards by tying cooler conditions to racquet setup, tension and grip changes; used together with the string reference guide.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.arm-friendly-setup",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.string.vr-low-court-stringing",
+    "evidenceType": "verified-source",
+    "title": "How to choose the right tennis strings",
+    "source": "https://blog.tenniswarehouse-europe.com/lc/StringReference.html?lang=en",
+    "verificationNote": "Supports the string-system cards on polyester, synthetic gut, natural gut, multifilament, gauge, tension, hybrids, stiffness and comfort tradeoffs.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.grip.replacement-grip-thickness",
+    "evidenceType": "verified-source",
+    "title": "Best Tennis Overgrips",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/best_overgrips.html",
+    "verificationNote": "Supports overgrip cards on tacky versus dry feel, overgrip replacement, slightly increasing grip size, and choosing grip feel by sweat and preference.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.grip.dry-vs-tacky",
+    "evidenceType": "verified-source",
+    "title": "Best Tennis Overgrips",
+    "source": "https://www.tennis-warehouse.com/learning_center/gear_guides/tennis_racquets/best_overgrips.html",
+    "verificationNote": "Supports overgrip cards on tacky versus dry feel, overgrip replacement, slightly increasing grip size, and choosing grip feel by sweat and preference.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.grip.change-cycle",
+    "evidenceType": "verified-source",
+    "title": "How To Change Your Tennis Overgrip",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/change_your_tennis_overgrip.html",
+    "verificationNote": "Supports cards that treat overgrips as replaceable hand-feel consumables and explain how wrapping tension, overlap and replacement affect handle feel.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.wear-pattern",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Shoes",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choosing_the_right_tennis_shoes.html",
+    "verificationNote": "Supports shoe cards on lateral stability, hard-court durability, clay herringbone outsoles, grass/synthetic-turf grip and selecting shoes by court surface.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.hard-court-universal",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Shoes",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choosing_the_right_tennis_shoes.html",
+    "verificationNote": "Supports shoe cards on lateral stability, hard-court durability, clay herringbone outsoles, grass/synthetic-turf grip and selecting shoes by court surface.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.clay-on-hard-court",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Shoes",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choosing_the_right_tennis_shoes.html",
+    "verificationNote": "Supports shoe cards on lateral stability, hard-court durability, clay herringbone outsoles, grass/synthetic-turf grip and selecting shoes by court surface.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.indoor-court-choice",
+    "evidenceType": "verified-source",
+    "title": "How to Choose the Right Tennis Shoes",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choosing_the_right_tennis_shoes.html",
+    "verificationNote": "Supports shoe cards on lateral stability, hard-court durability, clay herringbone outsoles, grass/synthetic-turf grip and selecting shoes by court surface.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.shoe.tokyo-artificial-grass",
+    "evidenceType": "repeated-training-observation",
+    "title": "Tokyo artificial-grass and sand court planning observation",
+    "source": "2026-05-25 local Tokyo court-surface planning observation",
+    "verificationNote": "Supports the Tokyo artificial-grass card as a local-context caution: for sand-filled artificial grass or similar surfaces, the useful claim is to verify grip, sliding and sand behavior before moving at full speed.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.accessory.bag-organization",
+    "evidenceType": "verified-source",
+    "title": "How to Choose a Tennis Bag",
+    "source": "https://www.tennis-warehouse.com/learning_center/how_to/choose-a-tennis-bag.html",
+    "verificationNote": "Supports the bag-organization card on racquet sections, accessory pockets, shoe tunnels, water-bottle pockets and choosing a bag around what must be carried to court.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.accessory.sun-hydration",
+    "evidenceType": "verified-source",
+    "title": "Beat the heat: Cooling and hydration tips for tennis players",
+    "source": "https://www.usta.com/en/home/improve/tennis-health---fitness/national/beat-the-heat--cooling-and-hydration-tips-for-tennis-players.html",
+    "verificationNote": "Supports the hydration side of the accessory card: tennis performance and safety depend on planned fluid and cooling habits in heat.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.accessory.warmup-band",
+    "evidenceType": "verified-source",
+    "title": "Dynamic Warm-up and Flexibility Training for Tennis",
+    "source": "https://www.usta.com/en/home/improve/tips-and-instruction/national/dynamic-warm-up-and-flexibility-training.print.html",
+    "verificationNote": "Supports the warm-up accessory card by grounding pre-practice preparation in dynamic warm-up and tennis-specific movement preparation.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  },
+  {
+    "cardId": "equipment.accessory.spend-upgrade",
+    "evidenceType": "source-synthesis",
+    "title": "Equipment setup variables require tracking across balls, strings, racquets and shoes",
+    "source": "2026-05-25 synthesis of Tennis Warehouse equipment guides and local training workflow",
+    "verificationNote": "Supports the equipment-log and spend-upgrade cards: because balls, stringbed, racquet specs, shoes and weather all alter feedback, recording setup and outcomes is necessary before attributing performance changes to one cause.",
+    "reviewer": "Codex",
+    "reviewedAt": "2026-05-25"
+  }
+]

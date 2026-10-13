@@ -1,0 +1,178 @@
+[
+  {
+    "id": "progression.review-funnel",
+    "title": "复盘要收敛成一个主问题",
+    "category": "progression",
+    "topicIds": ["vr-practice", "match-tactics"],
+    "tags": ["review", "复盘", "focus", "mindset", "progression"],
+    "difficulty": "starter",
+    "painPoints": ["progression", "mindset"],
+    "summary": "复盘像漏斗：把一堆失误收敛成一个下次主问题，一次训练最多追两个，下一次只练一条主线。",
+    "encyclopedia": "流水账式复盘会放大焦虑：失误一长串，却没有可执行的下一步。更有效的做法是把许多现象翻译成少数根因（例如多数出界其实是击球点晚或机会球过度发力），再收敛成一个主问题。一次训练最多追两个问题，下一次只带一条主线上场，进步才有方向。",
+    "generatedImage": {
+      "assetId": "img-progression-review-funnel-v1",
+      "alt": "Overhead court diagram of many scattered error markers funnelling into one single focus target."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你问题越列越多反而越难练；先学会收敛成一个主问题，训练才可执行。",
+      "commonFailure": "复盘列十条问题，下场想全改，结果一条都没练扎实。",
+      "onCourtCue": "复盘最后只留一句：下次只盯一个主问题。",
+      "verificationTest": "一次训练后写复盘，能把所有现象收敛成不超过两个根因和一个主线。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-review-funnel-converge",
+        "title": "VR 复盘收敛 5 分钟",
+        "durationMinutes": 5,
+        "instruction": "把这次所有失误口头归类，强制收敛到一个主问题再结束。",
+        "successSignal": "你能说出一个明确的下次主问题，而不是一串现象。"
+      },
+      "realCourtCheck": {
+        "id": "court-review-funnel-1",
+        "title": "训练后复盘漏斗",
+        "durationMinutes": 6,
+        "instruction": "训练结束写复盘，要求最终只输出一个主问题和一条主线。",
+        "successSignal": "复盘收敛成不超过两个根因，下次只带一条主线。"
+      }
+    },
+    "reviewPrompt": "为什么问题列得越多反而越难进步？复盘最后应该留下什么？",
+    "relatedCards": [
+      { "targetId": "progression.practice-bridge", "type": "next" },
+      { "targetId": "ball.bounce-window", "type": "application" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "progression.levels-ladder",
+    "title": "升级是比赛稳定性，不是单拍漂亮",
+    "category": "progression",
+    "topicIds": ["match-tactics", "vr-practice"],
+    "tags": ["levels", "NTRP", "consistency", "progression", "mindset"],
+    "difficulty": "building",
+    "painPoints": ["progression", "mindset"],
+    "summary": "等级像梯子，看的是你在比赛压力下能稳定做到什么：深度、二发、接发和简单战术，而不是偶尔一拍漂亮。",
+    "encyclopedia": "NTRP 这类等级衡量的是比赛能力，不是练习里最好的一拍。2.5 到 3.0 能稳定打回合；到 3.5 要有深度、可靠二发、能接发并执行简单战术。升级的本质是落点更集中、压力下选择更稳，而不是单拍威力变大。把进阶看成稳定性的台阶，训练目标才具体。",
+    "generatedImage": {
+      "assetId": "img-progression-levels-ladder-v1",
+      "alt": "Overhead court diagram showing loose scattered shot grouping at a low rung versus tight consistent grouping at a higher rung."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你常用单拍好坏评价进步；改用压力下的稳定性当标尺，训练才不跑偏。",
+      "commonFailure": "练习能打出漂亮球就以为升级了，比赛一压稳定性原形毕露。",
+      "onCourtCue": "评估自己问：压力下我能稳定做到这件事吗？",
+      "verificationTest": "记录三次比赛，能否在压力分稳定完成深度和二发，而不是只看漂亮球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-levels-stability-band",
+        "title": "VR 稳定性台阶 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "只统计连续达标球数（深度+过网余量），不记单拍最好球。",
+        "successSignal": "你能用连续达标数衡量自己，而不是用偶尔的漂亮球。"
+      },
+      "realCourtCheck": {
+        "id": "court-levels-stability-3",
+        "title": "三场稳定性记录",
+        "durationMinutes": 10,
+        "instruction": "三次对练各记录压力分能否稳定完成深度和二发。",
+        "successSignal": "你能用压力下稳定性描述自己的等级，而不是单拍。"
+      }
+    },
+    "reviewPrompt": "3.5 和 2.7 最大的差别是单拍威力，还是压力下的稳定选择？",
+    "relatedCards": [
+      { "targetId": "progression.review-funnel", "type": "supporting" },
+      { "targetId": "tactics.deep-middle", "type": "application" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "progression.practice-bridge",
+    "title": "技术到比赛之间需要一座计分练习的桥",
+    "category": "progression",
+    "topicIds": ["vr-practice", "technique-models"],
+    "tags": ["practice transfer", "桥接", "scored drill", "progression", "mindset"],
+    "difficulty": "building",
+    "painPoints": ["progression", "technique"],
+    "summary": "技术课改动作、比赛检验选择，中间需要计分和限制条件练习这座桥，否则学会了却用不出来。",
+    "encyclopedia": "练习像实验室，比赛像路考，两者之间需要模拟考试。无压力对拉负责建立动作和节奏；但要把它迁移到比赛，必须加目标、计分和限制条件（例如深中路连续 6 球得 1 分）。缺这座桥，技术课内容就停在练习场，比赛一紧张就回到旧习惯。",
+    "generatedImage": {
+      "assetId": "img-progression-practice-bridge-v1",
+      "alt": "Overhead court diagram of a drill side and a match side connected by a green bridge path over an amber gap."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你学完动作但比赛用不出来，缺的正是这座计分练习的桥；先把桥搭上。",
+      "commonFailure": "只在无压力对拉里练新动作，从不计分，比赛一紧就退回旧习惯。",
+      "onCourtCue": "练新动作时给它加一个计分规则，把对拉变成模拟考。",
+      "verificationTest": "把一项技术课内容做成计分练习，连续 3 次训练用计分检验迁移。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-practice-bridge-scored",
+        "title": "VR 计分迁移 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "给当前主问题加计分规则（如连续达标 6 球得 1 分），在压力下执行。",
+        "successSignal": "你能在计分压力下保持新动作，而不是只在自由对拉里会。"
+      },
+      "realCourtCheck": {
+        "id": "court-practice-bridge-scored",
+        "title": "计分迁移对练",
+        "durationMinutes": 10,
+        "instruction": "把一项技术内容设成计分练习，记录压力下是否还能执行。",
+        "successSignal": "计分压力下新动作不退回旧习惯。"
+      }
+    },
+    "reviewPrompt": "技术课内容靠什么从练习场迁移到比赛？缺了它会怎样？",
+    "relatedCards": [
+      { "targetId": "progression.review-funnel", "type": "prerequisite" },
+      { "targetId": "tactics.pressure-point-play", "type": "application" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "progression.three-rooms",
+    "title": "技术课、对拉、比赛是三个不同目标的房间",
+    "category": "progression",
+    "topicIds": ["vr-practice", "technique-models"],
+    "tags": ["practice design", "三间房", "training intent", "progression", "mindset"],
+    "difficulty": "starter",
+    "painPoints": ["progression", "mindset"],
+    "summary": "技术课修动作、对拉固化节奏、比赛检验选择；别用比赛结果评价新动作，也别在比赛里临时改技术。",
+    "encyclopedia": "三种练习是三个房间，目标不同：技术课用来修动作，可以慢、可以丑；对拉用来把动作固化成稳定节奏；比赛用来检验压力下的选择。常见错误是混房间——用一场输赢否定刚学的动作，或在比赛里临时大改技术。每次上场前先想清楚：这次进的是哪个房间。",
+    "generatedImage": {
+      "assetId": "img-progression-three-rooms-v1",
+      "alt": "Overhead court partitioned into three translucent zones for technique, rally grooving, and match testing."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你容易用比赛结果评价新动作而气馁；分清房间能让训练情绪稳定、目标清楚。",
+      "commonFailure": "刚学的动作打输一场就全盘否定，或在比赛里临时大改技术。",
+      "onCourtCue": "上场前先问：这次是修动作、固节奏，还是测选择？",
+      "verificationTest": "连续三次训练，每次开始前能明确说出今天进的是哪个房间并据此设目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-three-rooms-intent",
+        "title": "VR 房间意图 5 分钟",
+        "durationMinutes": 5,
+        "instruction": "开始前声明今天的房间（修动作/固节奏/测选择），全程只按该目标评价自己。",
+        "successSignal": "你能全程按当天房间目标评价，而不是用输赢否定动作。"
+      },
+      "realCourtCheck": {
+        "id": "court-three-rooms-intent",
+        "title": "房间意图三次",
+        "durationMinutes": 6,
+        "instruction": "三次训练每次开始前写下房间和对应目标，结束后只按该目标复盘。",
+        "successSignal": "你不再用比赛结果否定技术课内容。"
+      }
+    },
+    "reviewPrompt": "比赛适合检验什么？哪两件事最不该在比赛里临时做？",
+    "relatedCards": [
+      { "targetId": "progression.practice-bridge", "type": "supporting" },
+      { "targetId": "progression.levels-ladder", "type": "next" }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

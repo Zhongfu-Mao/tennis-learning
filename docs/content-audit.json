@@ -1,0 +1,416 @@
+{
+  "snapshotDate": "2026-10-13",
+  "scope": "完整迁移、分类、字段和资源一致性确认；不等于全量事实复核或网站发布",
+  "cardCount": 181,
+  "packCount": 13,
+  "rawTopicCount": 18,
+  "wikiTopicCount": 17,
+  "moduleCount": 8,
+  "contentStatusCounts": {
+    "personal-note": 115,
+    "verified": 66
+  },
+  "evidenceCount": 66,
+  "evidenceTypeCounts": {
+    "verified-source": 62,
+    "source-synthesis": 3,
+    "repeated-training-observation": 1
+  },
+  "imageCount": 189,
+  "imageStatusCounts": {
+    "replace": 9,
+    "candidate": 120,
+    "approved": 60
+  },
+  "activeImageStatusCounts": {
+    "candidate": 117,
+    "approved": 60,
+    "replace": 4
+  },
+  "preservedInactiveImages": [
+    {
+      "id": "img-split-timing-field-guide-v1",
+      "path": "/assets/knowledge/xhs-split-timing-v1.png",
+      "status": "replace",
+      "cardIds": [
+        "spacing.split-timing"
+      ]
+    },
+    {
+      "id": "candidate-split-timing-direction-a",
+      "path": "/assets/knowledge/candidates/split-timing-direction-a.png",
+      "status": "replace",
+      "cardIds": [
+        "spacing.split-timing"
+      ]
+    },
+    {
+      "id": "candidate-split-timing-direction-b",
+      "path": "/assets/knowledge/candidates/split-timing-direction-b.png",
+      "status": "candidate",
+      "cardIds": [
+        "spacing.split-timing"
+      ]
+    },
+    {
+      "id": "candidate-split-timing-direction-c",
+      "path": "/assets/knowledge/candidates/split-timing-direction-c.png",
+      "status": "candidate",
+      "cardIds": [
+        "spacing.split-timing"
+      ]
+    },
+    {
+      "id": "img-deep-middle-target-v1",
+      "path": "/assets/knowledge/xhs-deep-middle-target-v1.png",
+      "status": "replace",
+      "cardIds": [
+        "tactics.deep-middle"
+      ]
+    },
+    {
+      "id": "img-spin-slice-skid-v1",
+      "path": "/assets/knowledge/xhs-spin-slice-skid-v1.png",
+      "status": "replace",
+      "cardIds": [
+        "spin.slice"
+      ]
+    },
+    {
+      "id": "img-spacing-recover-from-wide-v1",
+      "path": "/assets/knowledge/spacing-recover-from-wide-v1.png",
+      "status": "replace",
+      "cardIds": [
+        "spacing.recover-from-wide"
+      ]
+    },
+    {
+      "id": "img-serve-second-serve-spin-v1",
+      "path": "/assets/knowledge/xhs-serve-second-serve-spin-v1.png",
+      "status": "candidate",
+      "cardIds": [
+        "serve.second-serve-spin"
+      ]
+    }
+  ],
+  "legacyFileCount": 12,
+  "legacyRecordCount": 134,
+  "sourceFileCount": 319,
+  "modules": [
+    {
+      "id": "basics-rules",
+      "title": "入门与规则",
+      "description": "球场、球线、计分、发球顺序与比赛流程。",
+      "topicIds": [
+        "court-geometry",
+        "rules-scoring",
+        "match-basics"
+      ],
+      "cardIds": [
+        "court.lines.baseline-sideline",
+        "court.lines.service-box",
+        "court.lines.doubles-alley",
+        "court.net.height-center-posts",
+        "court.no-mans-land-risk",
+        "court.target-zones-depth",
+        "court.surface.hard-clay-grass-map",
+        "court.indoor-outdoor-differences",
+        "rules.scoring-love-15-30-40",
+        "rules.deuce-ad-game",
+        "rules.tiebreak-basics",
+        "rules.set-formats",
+        "rules.serve-order-switch",
+        "rules.changeover-timing",
+        "rules.let-serve",
+        "rules.in-out-line-call",
+        "match.warmup-purpose",
+        "match.coin-toss-choice",
+        "match.first-serve-second-serve",
+        "match.return-position-basics",
+        "match.point-start-routine",
+        "match.between-points-time",
+        "match.end-changeover-reset",
+        "match.score-announcing"
+      ],
+      "contentStatusCounts": {
+        "personal-note": 24
+      }
+    },
+    {
+      "id": "technique",
+      "title": "击球技术",
+      "description": "正反手、发球、接发与击球准备的基础概念。",
+      "topicIds": [
+        "technique-models"
+      ],
+      "cardIds": [
+        "serve.toss-window",
+        "serve.first-second-plan",
+        "serve.second-serve-spin",
+        "return.depth-first",
+        "return.split-on-toss",
+        "stroke.unit-turn-early",
+        "stroke.contact-in-front",
+        "stroke.low-to-high-shape",
+        "stroke.balance-finish",
+        "stroke.consistent-prep"
+      ],
+      "contentStatusCounts": {
+        "verified": 1,
+        "personal-note": 9
+      }
+    },
+    {
+      "id": "movement",
+      "title": "步伐与站位",
+      "description": "启动、距离、调整步、回位与不同站位。",
+      "topicIds": [
+        "spacing-footwork"
+      ],
+      "cardIds": [
+        "spacing.split-timing",
+        "spacing.contact-distance",
+        "spacing.recovery-position",
+        "spacing.last-two-steps",
+        "spacing.recover-from-wide",
+        "spacing.stance-choice"
+      ],
+      "contentStatusCounts": {
+        "verified": 2,
+        "personal-note": 4
+      }
+    },
+    {
+      "id": "ball-environment",
+      "title": "球性与环境",
+      "description": "旋转、轨迹、弹跳、场地和天气。",
+      "topicIds": [
+        "spin-physics",
+        "ball-environment"
+      ],
+      "cardIds": [
+        "environment.wind-direction",
+        "environment.sun-glare",
+        "environment.temperature-ball-bounce",
+        "environment.humidity-heavy-ball",
+        "environment.wet-court-risk",
+        "environment.new-old-ball-match",
+        "environment.altitude-fast-ball",
+        "environment.surface-bounce-speed",
+        "spin.topspin",
+        "spin.slice",
+        "trajectory.net-clearance",
+        "ball.bounce-window"
+      ],
+      "contentStatusCounts": {
+        "personal-note": 12
+      }
+    },
+    {
+      "id": "tactics",
+      "title": "战术与比赛",
+      "description": "相持、进攻、防守、发接发模式与比分下的选择。",
+      "topicIds": [
+        "match-tactics"
+      ],
+      "cardIds": [
+        "tactics.deep-middle",
+        "tactics.cross-court",
+        "tactics.down-the-line-cost",
+        "tactics.midcourt-opportunity",
+        "tactics.short-ball-danger",
+        "tactics.pressure-point-play",
+        "tactics.defensive-high-middle",
+        "tactics.neutral-depth-loop",
+        "tactics.attack-big-target",
+        "tactics.approach-deep-corner",
+        "tactics.net-close-angle",
+        "tactics.pass-low-cross",
+        "tactics.lob-when-stretched",
+        "tactics.drop-shot-green-light",
+        "tactics.short-angle-open-court",
+        "tactics.inside-out-pattern",
+        "tactics.weaker-wing-target",
+        "tactics.big-hitter-time-denial",
+        "tactics.consistent-opponent-patience",
+        "tactics.slicer-knee-bend",
+        "tactics.net-rusher-first-pass",
+        "tactics.moonballer-step-in",
+        "tactics.serve-plus-one-open-court",
+        "tactics.second-serve-body",
+        "tactics.return-crosscourt-default",
+        "tactics.return-second-serve-step-in",
+        "tactics.deuce-ad-defaults",
+        "tactics.tiebreak-first-four",
+        "tactics.momentum-reset",
+        "tactics.error-budget"
+      ],
+      "contentStatusCounts": {
+        "verified": 1,
+        "personal-note": 29
+      }
+    },
+    {
+      "id": "body",
+      "title": "体能、恢复与安全",
+      "description": "专项体能、恢复、训练负荷和伤病相关知识。",
+      "topicIds": [
+        "body-strength",
+        "recovery-load",
+        "injury-prevention",
+        "movement-conditioning"
+      ],
+      "cardIds": [
+        "recovery.sleep-anchor",
+        "recovery.hydration-electrolytes",
+        "recovery.post-session-fuel",
+        "recovery.soreness-vs-pain",
+        "recovery.weekly-load-spike",
+        "recovery.day-after-match",
+        "recovery.heat-stress-signals",
+        "recovery.cramp-risk-management",
+        "injury.warning-signals-red-flags",
+        "training.pain-scale-stoplight",
+        "injury.shoulder-serve-volume",
+        "injury.elbow-grip-string-load",
+        "injury.wrist-late-contact",
+        "injury.knee-deceleration",
+        "injury.ankle-calf-achilles",
+        "injury.lower-back-rotation",
+        "injury.return-after-break",
+        "conditioning.core-anti-rotation",
+        "conditioning.hip-mobility",
+        "conditioning.ankle-mobility",
+        "conditioning.deceleration-basics",
+        "conditioning.lateral-strength",
+        "conditioning.balance-single-leg",
+        "conditioning.power-before-fatigue",
+        "conditioning.strength-minimum-dose"
+      ],
+      "contentStatusCounts": {
+        "personal-note": 25
+      }
+    },
+    {
+      "id": "learning",
+      "title": "训练与学习方法",
+      "description": "热身、训练目标、笔记、视频观察与复盘方法。",
+      "topicIds": [
+        "training-routine"
+      ],
+      "cardIds": [
+        "training.session-one-focus",
+        "training.warmup-raise-temperature",
+        "training.dynamic-mobility-before-hit",
+        "training.shoulder-serve-prep",
+        "training.drill-rest-ratio",
+        "training.intensity-zones",
+        "training.lesson-notes-within-24h",
+        "training.video-review-one-clip",
+        "progression.review-funnel",
+        "progression.levels-ladder",
+        "progression.practice-bridge",
+        "progression.three-rooms"
+      ],
+      "contentStatusCounts": {
+        "personal-note": 12
+      }
+    },
+    {
+      "id": "equipment",
+      "title": "装备百科",
+      "description": "网球、球拍、球线、握把、球鞋和配件维护。",
+      "topicIds": [
+        "equipment-balls",
+        "equipment-racquets",
+        "equipment-strings",
+        "equipment-footwear"
+      ],
+      "cardIds": [
+        "equipment.ball.match-vs-training",
+        "equipment.ball.high-altitude",
+        "equipment.ball.temperature",
+        "equipment.ball.new-ball-game",
+        "equipment.ball.dead-ball",
+        "equipment.ball.storage",
+        "equipment.racquet.length",
+        "equipment.racquet.grip-shape",
+        "equipment.racquet.throat-stability",
+        "equipment.racquet.sweet-spot-location",
+        "equipment.racquet.twistweight",
+        "equipment.racquet.lead-tape",
+        "equipment.racquet.handle-weight",
+        "equipment.racquet.first-racquet",
+        "equipment.racquet.upgrade-timing",
+        "equipment.racquet.pro-player-myth",
+        "equipment.string.tension-loss",
+        "equipment.string.cut-out-timing",
+        "equipment.string.locked-stringbed",
+        "equipment.string.snapback",
+        "equipment.string.round-vs-shaped",
+        "equipment.string.soft-vs-stiff-poly",
+        "equipment.string.hybrid-main-cross",
+        "equipment.string.winter-tension",
+        "equipment.string.arm-friendly-setup",
+        "equipment.string.vr-low-court-stringing",
+        "equipment.grip.replacement-grip-thickness",
+        "equipment.grip.dry-vs-tacky",
+        "equipment.grip.change-cycle",
+        "equipment.shoe.wear-pattern",
+        "equipment.shoe.hard-court-universal",
+        "equipment.shoe.clay-on-hard-court",
+        "equipment.shoe.indoor-court-choice",
+        "equipment.shoe.tokyo-artificial-grass",
+        "equipment.accessory.bag-organization",
+        "equipment.accessory.sun-hydration",
+        "equipment.accessory.warmup-band",
+        "equipment.accessory.spend-upgrade",
+        "equipment.racquet.stiffness",
+        "equipment.racquet.beam",
+        "equipment.racquet.string-pattern",
+        "equipment.string.poly",
+        "equipment.string.synthetic-gut",
+        "equipment.string.natural-gut-multi",
+        "equipment.string.gauge",
+        "equipment.string.tension",
+        "equipment.string.hybrid",
+        "equipment.grip.size",
+        "equipment.grip.overgrip",
+        "equipment.shoe.outsole",
+        "equipment.shoe.support",
+        "equipment.accessory.dampener",
+        "equipment.ball.pressurized",
+        "equipment.ball.pressureless",
+        "equipment.ball.felt",
+        "equipment.ball.lifespan",
+        "equipment.ball.surface",
+        "equipment.racquet.head-size",
+        "equipment.racquet.weight",
+        "equipment.racquet.balance",
+        "equipment.racquet.swingweight",
+        "equipment.maintenance.match-log"
+      ],
+      "contentStatusCounts": {
+        "verified": 62
+      }
+    }
+  ],
+  "defaultPublishableCount": 0,
+  "structuralErrors": [],
+  "retainedFields": [
+    "encyclopedia",
+    "summary",
+    "relatedCards",
+    "evidence",
+    "generatedImage",
+    "source verification and image states"
+  ],
+  "excludedWikiFeatures": [
+    "VR drills",
+    "personal level progression",
+    "training logs",
+    "SRS queue",
+    "account/API key settings",
+    "booking state"
+  ]
+}

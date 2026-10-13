@@ -1,0 +1,194 @@
+[
+  {
+    "id": "P01",
+    "title": "稳定击球优先级",
+    "category": "technique_principles",
+    "tags": [
+      "problem:overhit",
+      "problem:long_error",
+      "level:2.7",
+      "target:3.5"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "先保证过网高度和深度，再谈方向和速度。",
+    "principle": "稳定球的顺序是过网高度、深度、方向、速度。比赛里先把风险从速度上拿掉。",
+    "drill": "用 70% 力量连续打深中路 20 球，只统计过网高度和落点深度。",
+    "commonMistake": "一失误就想改挥拍，反而忘了目标区和力量比例。",
+    "diagram": "priority"
+  },
+  {
+    "id": "P02",
+    "title": "击球点在身体前方",
+    "category": "spacing_footwork",
+    "tags": [
+      "problem:late_contact",
+      "problem:too_close",
+      "stroke:forehand",
+      "stroke:backhand"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "被挤到时，先修距离判断和击球窗口。",
+    "principle": "理想击球点在身体侧前方；太近会卡住手臂，太晚会只能用手腕补救。",
+    "drill": "喂球练习中每球喊“前、近、远”，先判断距离再挥拍。",
+    "commonMistake": "把被挤到理解成挥拍慢，其实常常是启动晚和调整步少。",
+    "diagram": "contact"
+  },
+  {
+    "id": "P03",
+    "title": "Split Step 不是跳，是准备刹车",
+    "category": "spacing_footwork",
+    "tags": [
+      "problem:late_contact",
+      "problem:footwork_late",
+      "problem:too_close"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "对手触球瞬间轻落地，让身体能向任意方向启动。",
+    "principle": "split step 的价值不是跳高，而是让重心进入可刹车、可变向的状态。",
+    "drill": "对拉时在对手触球瞬间轻喊 split，落地后再判断方向。",
+    "commonMistake": "等球过网才启动，导致每球都被动追球。",
+    "diagram": "split"
+  },
+  {
+    "id": "P04",
+    "title": "正手从腿和躯干启动",
+    "category": "technique_principles",
+    "tags": [
+      "stroke:forehand",
+      "body:hips",
+      "body:core"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "手臂不是第一发动机，力量要从地面和躯干传上来。",
+    "principle": "正手发力是脚、髋、躯干、肩臂、拍头的顺序传递。",
+    "drill": "半场慢速对拉，只关注蹬地和转体，球速保持 60%。",
+    "commonMistake": "想加速时先甩手，导致拍面不稳和击球点变晚。",
+    "diagram": "chain"
+  },
+  {
+    "id": "P05",
+    "title": "反手先保证拍面稳定",
+    "category": "technique_principles",
+    "tags": [
+      "stroke:backhand",
+      "problem:net_error"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "反手先追求送球路线稳定，再追求速度。",
+    "principle": "反手稳定来自准备早、拍面稳定和向目标送出，而不是临时加速。",
+    "drill": "反手斜线 10 组，每组 6 球，目标是同一高度过网。",
+    "commonMistake": "为了打深而临时抬手，结果拍面打开或擦得太薄。",
+    "diagram": "target"
+  },
+  {
+    "id": "P06",
+    "title": "发球先练抛球窗口",
+    "category": "technique_principles",
+    "tags": [
+      "stroke:serve",
+      "problem:serve_inconsistent",
+      "match:pressure"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "抛球稳定度决定发球上限，先别急着叠复杂动作链。",
+    "principle": "稳定抛球给身体一个固定的击球窗口，二发压力才不会放大。",
+    "drill": "5 分钟只抛球不击球，让球落在前脚内侧前方一个拍框范围内。",
+    "commonMistake": "双误后立刻改动作，下一分只会更紧。",
+    "diagram": "serve"
+  },
+  {
+    "id": "P07",
+    "title": "2.7 到 3.5 的主线",
+    "category": "progression_route",
+    "tags": [
+      "level:2.7",
+      "target:3.5",
+      "target:4.0"
+    ],
+    "level": "2.7 -> 4.0",
+    "summary": "先追连续性、深度、接发和二发，再追主动得分。",
+    "principle": "3.5 的核心不是每球更猛，而是普通球少送、被动球能活、发接发能开局。",
+    "drill": "每周只设一个主题：连续性、深度、接发、二发或简单战术。",
+    "commonMistake": "每天换技术主题，导致所有动作都停在半熟状态。",
+    "diagram": "priority"
+  },
+  {
+    "id": "P08",
+    "title": "比赛中少换技术动作",
+    "category": "match_mindset",
+    "tags": [
+      "match:pressure",
+      "match:shot_selection"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "比赛里只调整目标和风险，不现场重建动作。",
+    "principle": "压力下大脑处理能力下降，最稳的调整是目标区、力量和过网高度。",
+    "drill": "下一场比赛只设一个目标：被动球深中路，机会球先打大斜线。",
+    "commonMistake": "一双误或一失误就开始想技术细节。",
+    "diagram": "target"
+  },
+  {
+    "id": "P09",
+    "title": "被动球打大目标",
+    "category": "match_mindset",
+    "tags": [
+      "match:pressure",
+      "problem:net_error",
+      "problem:late_contact"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "被动时先活下来，深中路和高斜线比小角度更有价值。",
+    "principle": "防守球的目标是重置回合，而不是立刻反击。",
+    "drill": "被动跑动球统一打深中路，连续 8 球算一组。",
+    "commonMistake": "被动时还想打边线，失误率会立刻上升。",
+    "diagram": "target"
+  },
+  {
+    "id": "P10",
+    "title": "力量训练服务三个能力",
+    "category": "strength_integration",
+    "tags": [
+      "body:hips",
+      "body:core",
+      "body:shoulder",
+      "load:medium"
+    ],
+    "level": "2.7 -> 4.0",
+    "summary": "力量训练优先服务移动刹车、旋转发力、肩髋稳定。",
+    "principle": "网球力量不是单纯变壮，而是能更快启动、更稳刹车、更好传力。",
+    "drill": "本周力量训练后记录：下肢刹车、核心旋转、肩胛稳定各 1 个动作。",
+    "commonMistake": "力量练得很累，却没有和场上的具体动作建立映射。",
+    "diagram": "chain"
+  },
+  {
+    "id": "P11",
+    "title": "脚步问题常常不是跑得慢",
+    "category": "spacing_footwork",
+    "tags": [
+      "problem:footwork_late",
+      "problem:too_close",
+      "body:ankle"
+    ],
+    "level": "2.7 -> 3.5",
+    "summary": "启动晚、调整步少、距离判断差，比绝对速度更常见。",
+    "principle": "空间感来自早启动、小调整步和击球前最后一步刹车。",
+    "drill": "每球至少做两次小调整步，宁可慢挥也不站死。",
+    "commonMistake": "只想跑快一点，却没有在击球前把身体停稳。",
+    "diagram": "split"
+  },
+  {
+    "id": "P12",
+    "title": "每次只修一个技术点",
+    "category": "progression_route",
+    "tags": [
+      "target:3.5",
+      "match:shot_selection"
+    ],
+    "level": "2.7 -> 4.0",
+    "summary": "复盘要收敛，否则下一次训练会变成同时修十件事。",
+    "principle": "一个训练周期只盯一个主问题，直到它连续两次不再出现。",
+    "drill": "保存复盘后，只保留系统推荐的第一训练重点作为下一次目标。",
+    "commonMistake": "把所有失误都当成独立问题，最后没有一个被真正解决。",
+    "diagram": "priority"
+  }
+]

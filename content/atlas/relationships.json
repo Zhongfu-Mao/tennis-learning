@@ -1,0 +1,32 @@
+[
+  {
+    "sourceId": "spacing.split-timing",
+    "targetId": "spacing.contact-distance",
+    "type": "next",
+    "label": "落地后才能调整距离"
+  },
+  {
+    "sourceId": "spacing.contact-distance",
+    "targetId": "tactics.deep-middle",
+    "type": "application",
+    "label": "稳定距离后用深中路验证"
+  },
+  {
+    "sourceId": "tactics.deep-middle",
+    "targetId": "spacing.split-timing",
+    "type": "supporting",
+    "label": "深区连续性依赖早启动"
+  },
+  {
+    "sourceId": "serve.toss-window",
+    "targetId": "spacing.contact-distance",
+    "type": "supporting",
+    "label": "发球窗口和击球距离都先解决身体与球的位置关系"
+  },
+  {
+    "sourceId": "spacing.contact-distance",
+    "targetId": "serve.toss-window",
+    "type": "application",
+    "label": "距离判断迁移到发球抛球窗口"
+  }
+]

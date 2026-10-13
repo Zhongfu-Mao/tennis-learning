@@ -1,0 +1,38 @@
+[
+  {
+    "bodyStatus": "normal",
+    "adjustment": "按计划推进。",
+    "keep": "主项力量 + 网球专项脚步。",
+    "avoid": "同一天力量练到力竭后再大量发球。"
+  },
+  {
+    "bodyStatus": "sore",
+    "adjustment": "总量降 30%-40%。",
+    "keep": "技术触球、活动度、轻核心。",
+    "avoid": "冲刺、跳跃、高量发球。"
+  },
+  {
+    "bodyStatus": "shoulder",
+    "adjustment": "减少发球、高压和推举类动作。",
+    "keep": "肩胛控制、下肢和轻对拉。",
+    "avoid": "硬顶发球量和重外旋疲劳。"
+  },
+  {
+    "bodyStatus": "knee",
+    "adjustment": "减少深屈膝和急停冲击。",
+    "keep": "髋主导力量、上肢和轻移动。",
+    "avoid": "大量横向急停和跳跃。"
+  },
+  {
+    "bodyStatus": "ankle",
+    "adjustment": "减少变向和不稳定地面。",
+    "keep": "上肢、核心、受控活动度。",
+    "avoid": "快速侧移和单脚落地。"
+  },
+  {
+    "bodyStatus": "back",
+    "adjustment": "减少旋转爆发和大重量髋铰链。",
+    "keep": "轻抗旋、步伐、拍面稳定。",
+    "avoid": "药球猛抛和疲劳发球。"
+  }
+]

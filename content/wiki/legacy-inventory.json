@@ -1,0 +1,963 @@
+[
+  {
+    "sourcePath": "content/fatigue-rules.json",
+    "sourceSha256": "19c279389c46b8802c797f5e199abc14643f9ca947281f8f5089facd9fb46e2a",
+    "recordCount": 6,
+    "proposedModuleIds": [
+      "body"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": null,
+        "title": "记录 1",
+        "sha256": "f087e6d01075cfc7565495a8a681631017abb3ec77c59ea1ffb61e997c49c108"
+      },
+      {
+        "pointer": "/1",
+        "id": null,
+        "title": "记录 2",
+        "sha256": "afa0047288e751494749490d2d0dd88f8fdab395ae7be752c80bb039fd31be16"
+      },
+      {
+        "pointer": "/2",
+        "id": null,
+        "title": "记录 3",
+        "sha256": "8eeecca799fb015fe8f1cd153965ca504ac1522e6af2587794e79ab51f731f8e"
+      },
+      {
+        "pointer": "/3",
+        "id": null,
+        "title": "记录 4",
+        "sha256": "0dc34a5ab47827023a8d0558173da071b3d70150d053828a3f80a81b97023d8b"
+      },
+      {
+        "pointer": "/4",
+        "id": null,
+        "title": "记录 5",
+        "sha256": "3c139fa3098e2a1737fc5ed706c08b57ff8f939edcf320afa9fca426370f4ca0"
+      },
+      {
+        "pointer": "/5",
+        "id": null,
+        "title": "记录 6",
+        "sha256": "943a3767b7df4b3f998fa00fa92fca54734ce2b68bc7cba7d394d9defbb58a9a"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/footwork-drills.json",
+    "sourceSha256": "92182442fee10aee6f1ec7c57898f09484242c36a55c3fd65034f2fb5ea163e6",
+    "recordCount": 6,
+    "proposedModuleIds": [
+      "movement",
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": "F01",
+        "title": "记录 1",
+        "sha256": "f4db6391eb3fb90a23723373ef682dafaf92d49a5471d7a4d8e8c036a67e5ab2"
+      },
+      {
+        "pointer": "/1",
+        "id": "F02",
+        "title": "记录 2",
+        "sha256": "4efed7f90e064cac6cf907caf419c2d206fcd0c426071a00e920a3abaaf79b65"
+      },
+      {
+        "pointer": "/2",
+        "id": "F03",
+        "title": "记录 3",
+        "sha256": "e07f899f405a7638711e7df1ffbf9dbec2756bf4101e4167cec6312488af326b"
+      },
+      {
+        "pointer": "/3",
+        "id": "F04",
+        "title": "记录 4",
+        "sha256": "ba179262279b03c7fafdb179cc05060a81ee1165b47f1e2fefe765b3bfb98bc1"
+      },
+      {
+        "pointer": "/4",
+        "id": "F05",
+        "title": "记录 5",
+        "sha256": "1c9919df893d613f1d3a0d25ba173672d9be8c293709438e5b9733760583e6f9"
+      },
+      {
+        "pointer": "/5",
+        "id": "F06",
+        "title": "记录 6",
+        "sha256": "f2e196722a0b2ecf30b57e4d57526f6c55f1c31ec40dad19dee795ff25f56ec7"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/knowledge-cards.json",
+    "sourceSha256": "f686b63d6ba89c04036ff0ea4da12aa30eaa586b42270aa228c2471a01c9c3c6",
+    "recordCount": 48,
+    "proposedModuleIds": [
+      "basics-rules",
+      "ball-environment",
+      "equipment",
+      "body",
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": "K01",
+        "title": "网球从草地社交变成全球竞技",
+        "sha256": "7ae43b4cb9f1891f146e83dc6487dd86b78773a7f4ad26dc1eb0e10e092c36e1"
+      },
+      {
+        "pointer": "/1",
+        "id": "K02",
+        "title": "网球计分不是线性加一",
+        "sha256": "f1a7b53a26de4d1082aeb06a6fa81e33bb040c12a7a5cd4e02904ca726cda542"
+      },
+      {
+        "pointer": "/2",
+        "id": "K03",
+        "title": "盘、局、分的层级",
+        "sha256": "7c6a4f47008e2c564ef4870415ead160e0ee7bfa018cd3e34d57a10afa955ec9"
+      },
+      {
+        "pointer": "/3",
+        "id": "K04",
+        "title": "抢七是压力放大器",
+        "sha256": "3a8042864120cb84e4c9023e6659b366ae8665bfe75fd49b608298fbda5fa4d9"
+      },
+      {
+        "pointer": "/4",
+        "id": "K05",
+        "title": "发球顺序决定心理节奏",
+        "sha256": "76b84e2ae1fc03d73f9860d6c7b73b16b126b9f057a1b9bb2ad272cd2ad8e5c3"
+      },
+      {
+        "pointer": "/5",
+        "id": "K06",
+        "title": "Let 和重发不要打断专注",
+        "sha256": "cd80e35d0434c3d431342e8fbc1f14c2222491b2ef12810fde23aefe63b92949"
+      },
+      {
+        "pointer": "/6",
+        "id": "K07",
+        "title": "硬地：最中性的镜子",
+        "sha256": "a665318503b029cd2298954e520e5f4dae06e0984d325a6efaee2bb756cb92b4"
+      },
+      {
+        "pointer": "/7",
+        "id": "K08",
+        "title": "红土：球会被场地咬住",
+        "sha256": "eb11e09ffb4ed34f0c4895c5b47d10e6903d0f8394f312441a0b2d25274838a7"
+      },
+      {
+        "pointer": "/8",
+        "id": "K09",
+        "title": "草地：低弹和短时间",
+        "sha256": "3daa4e76e840d0e3da8aabc67d7ab7ec13533ea8cf214ac8a20228665dce1a66"
+      },
+      {
+        "pointer": "/9",
+        "id": "K10",
+        "title": "室内场：风消失，节奏变快",
+        "sha256": "29a4ae4c7c31c577322fae6bd6e9978f5e1b17d97b0c0a24dcb70172d5972d7e"
+      },
+      {
+        "pointer": "/10",
+        "id": "K11",
+        "title": "新球和旧球不是同一个球",
+        "sha256": "5abdf95690525eb780dba864f94c25c61403f55e67a708ab45bb60c94987d63c"
+      },
+      {
+        "pointer": "/11",
+        "id": "K12",
+        "title": "压力球和无压球",
+        "sha256": "e10efbceaf962a80dbcb1c2fe8f2fe332ce6d5ff994ccf43ae8bbb90c04398a0"
+      },
+      {
+        "pointer": "/12",
+        "id": "K13",
+        "title": "球拍拍面：容错和控制的交换",
+        "sha256": "2aaf547538055a419f5815d24d95b8d8140bcd95073ff1d280a18609fee1ecee"
+      },
+      {
+        "pointer": "/13",
+        "id": "K14",
+        "title": "重量和挥重：稳定与机动性",
+        "sha256": "5c72f14ffdb7677987936b634370b724562dec45b87f42609890bbb024287ea4"
+      },
+      {
+        "pointer": "/14",
+        "id": "K15",
+        "title": "平衡点：头重和头轻",
+        "sha256": "b88d7dbb9813aa3b14b084eb97b7876ccfdc478acd56005a0c13d0e04b544ebc"
+      },
+      {
+        "pointer": "/15",
+        "id": "K16",
+        "title": "拍线类型：硬线和软线",
+        "sha256": "468cf89454e1beb9af05a034a21dc9d09dccf46f8d937c6aa08d3392ceec6150"
+      },
+      {
+        "pointer": "/16",
+        "id": "K17",
+        "title": "磅数：弹弓和鼓面之间",
+        "sha256": "6c89d707e67974187e5b07332b8acc6062a5e7ba20e06eac6a55c3b427370a67"
+      },
+      {
+        "pointer": "/17",
+        "id": "K18",
+        "title": "握把尺寸影响拍面稳定",
+        "sha256": "0037d16069d5ec717b9f9c3990a9b207ee729092ef87ebccaaf9428b0f9045bc"
+      },
+      {
+        "pointer": "/18",
+        "id": "K19",
+        "title": "上旋：向前滚的轮子",
+        "sha256": "d579383bf890b76f8d2e4daf3009dbe962e09f7d63b5ef94f0e0ff8f660263dd"
+      },
+      {
+        "pointer": "/19",
+        "id": "K20",
+        "title": "下旋：给球加刹车",
+        "sha256": "16a305146d8d7505f20361659c0d7dce716baed8dca9ea6a9c5401aa1748c6b2"
+      },
+      {
+        "pointer": "/20",
+        "id": "K21",
+        "title": "平击：最短路线也最少保险",
+        "sha256": "4df868fb2e8888e0ddb663ff92c1fadb0bc0e0edcdd6f93d35147fed3ec420ee"
+      },
+      {
+        "pointer": "/21",
+        "id": "K22",
+        "title": "侧旋和外拐",
+        "sha256": "597cea6ce5243578c34187ccb4e39bb2959815192a82ad9cf3ac0fd1efb49e14"
+      },
+      {
+        "pointer": "/22",
+        "id": "K23",
+        "title": "过网高度是安全预算",
+        "sha256": "1bfb377ad0c5c1129e306ca13aacd7494847222df872b3cd7f5e0e91efd669d3"
+      },
+      {
+        "pointer": "/23",
+        "id": "K24",
+        "title": "弹跳点决定你的击球窗口",
+        "sha256": "b95e400e6840366255635411abcacba82126f681fe02a5ed7143aa6160439027"
+      },
+      {
+        "pointer": "/24",
+        "id": "K25",
+        "title": "底线区：回合的工作台",
+        "sha256": "57945a4bb0ede7569b5267a0c2ca86cd37ea1398cd0ed8610ca1de8c159e399f"
+      },
+      {
+        "pointer": "/25",
+        "id": "K26",
+        "title": "中场球：机会也是陷阱",
+        "sha256": "31da66711234cf03059619daaf667ac18d6320c37c0edd9d5148d54295ed79b6"
+      },
+      {
+        "pointer": "/26",
+        "id": "K27",
+        "title": "网前区：时间变短，动作变小",
+        "sha256": "f5eeb09acd42f1a2dbc8943e2167bba8fdf24a4279ff18a777f36895971c7708"
+      },
+      {
+        "pointer": "/27",
+        "id": "K28",
+        "title": "发球区：短球警报区",
+        "sha256": "59e5160ebf7306d4478e7fcb0df5fd3c2d9f5e73d4cf66c1915ccf06bb756105"
+      },
+      {
+        "pointer": "/28",
+        "id": "K29",
+        "title": "大目标比边线更像职业选择",
+        "sha256": "1c7bb2af05067aeda47a8864891d4fe5654095dd340411ced139d31d199ec7cb"
+      },
+      {
+        "pointer": "/29",
+        "id": "K30",
+        "title": "站位决定你是否被挤到",
+        "sha256": "42e813b7824953be5d37a73d70f648664aeac1a2339395c120fe3740a580a3d2"
+      },
+      {
+        "pointer": "/30",
+        "id": "K31",
+        "title": "NTRP 等级看比赛能力",
+        "sha256": "bc5742c3533c55927ac76aa5c1178de318a01d600bc46a37518b9833b6063915"
+      },
+      {
+        "pointer": "/31",
+        "id": "K32",
+        "title": "日本网球学校班级要翻译成能力目标",
+        "sha256": "a6f9ed1eda028d0e5573ebbaa181b23e866c5301dc15f7e90415176afca29b3b"
+      },
+      {
+        "pointer": "/32",
+        "id": "K33",
+        "title": "技术课、对拉、比赛目标不同",
+        "sha256": "eedb9eda3f3b569dfb20c9adeaecfff80d705d12c90b6d3c1583a39d4dd689e0"
+      },
+      {
+        "pointer": "/33",
+        "id": "K34",
+        "title": "复盘要收敛成一个主问题",
+        "sha256": "ee6254c267663a1d798d7a674a6700d2b102ec0689b6030e2cca51c0f4c25894"
+      },
+      {
+        "pointer": "/34",
+        "id": "K35",
+        "title": "训练球感和比赛球感要桥接",
+        "sha256": "c9e7dce6e567513ce5cba764f37e37f34fc25c4d9812b07bca094131f5d8a80b"
+      },
+      {
+        "pointer": "/35",
+        "id": "K36",
+        "title": "术语要翻译成动作 cue",
+        "sha256": "c47789f39889242c6d00418a6306cad4ad5545955bd52a9a29b5663e690036e5"
+      },
+      {
+        "pointer": "/36",
+        "id": "K37",
+        "title": "深中路：最便宜的稳定战术",
+        "sha256": "c287b8919ee4d4582c3a1d02bc378245c0f2f64bb77a729233e75c9e9ffe1e7b"
+      },
+      {
+        "pointer": "/37",
+        "id": "K38",
+        "title": "大斜线：长度和角度的平衡",
+        "sha256": "5a46f5142987bb28714f4c0aad7fbcb2de0d41ed5975bb4124f8aaca04277b10"
+      },
+      {
+        "pointer": "/38",
+        "id": "K39",
+        "title": "直线球：改变方向要付费",
+        "sha256": "46a51ff8ed03cb25f756e18ebb348b8984bc246361ebefab98f16aac2f2e901c"
+      },
+      {
+        "pointer": "/39",
+        "id": "K40",
+        "title": "Inside-out 正手",
+        "sha256": "ab272910dd1b47829db499ccc6e22a366afbcbc3b046d805bb9746256b1f1f88"
+      },
+      {
+        "pointer": "/40",
+        "id": "K41",
+        "title": "Approach：上网前的一拍",
+        "sha256": "01b1551b12102bc3ee0d60c27d2129b1186605561c095b70921bc215054c9333"
+      },
+      {
+        "pointer": "/41",
+        "id": "K42",
+        "title": "Lob：不是只为逃命",
+        "sha256": "4324ce601e09ac3e9c78d6a4777287901ee9eb746fed4eb350fff512f8539711"
+      },
+      {
+        "pointer": "/42",
+        "id": "K43",
+        "title": "网球鞋不是普通跑鞋",
+        "sha256": "4b5ff3c857ba5565ecc794784d5be9f246f96de3eadea015de552484959a36ea"
+      },
+      {
+        "pointer": "/43",
+        "id": "K44",
+        "title": "热身是神经系统开机",
+        "sha256": "b2dabb6c627cae0c4e748d8b4308dfd12fd596cc43172e686353875fc9954748"
+      },
+      {
+        "pointer": "/44",
+        "id": "K45",
+        "title": "肩肘不适常和总量有关",
+        "sha256": "0b767df96b2d4f2751ee6c34f927751c9c5497996f47a6656bfb4510d6cd495d"
+      },
+      {
+        "pointer": "/45",
+        "id": "K46",
+        "title": "膝踝压力来自刹车质量",
+        "sha256": "ed086ba99b2521b3ed549ba9b8a2dccc68858db83df93160d909141c655f5cdc"
+      },
+      {
+        "pointer": "/46",
+        "id": "K47",
+        "title": "恢复日不是偷懒",
+        "sha256": "20d7fa9c4aa47df2417b64b54b6c5dbc0235a40513ea10e7a9f571470d79ee53"
+      },
+      {
+        "pointer": "/47",
+        "id": "K48",
+        "title": "身体状态决定当天训练菜单",
+        "sha256": "747a0e58f0c6c8dc07b8db690941eb93f758d86504e06079e66b16bd846ddfee"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/knowledge-chapters.json",
+    "sourceSha256": "2f9241f4f733e080569df0412d4cc3837790535c215a126a174ec1b625bd2dba",
+    "recordCount": 9,
+    "proposedModuleIds": [
+      "basics-rules",
+      "ball-environment",
+      "equipment",
+      "body",
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": "all",
+        "title": "全部",
+        "sha256": "07a184d39880fc426bbf385cc15a064706898e4873f683887ed956f1e945698b"
+      },
+      {
+        "pointer": "/1",
+        "id": "history_rules",
+        "title": "起源规则",
+        "sha256": "7404870860abc71991ead898701d2c077aeb3e7eb4d89f5bd56d8fc13ed1ed62"
+      },
+      {
+        "pointer": "/2",
+        "id": "courts_balls",
+        "title": "场地球感",
+        "sha256": "5fa9001961cafc2cb3acf0184360e601f7432677f0442c422650bb3f3dcf5ab1"
+      },
+      {
+        "pointer": "/3",
+        "id": "gear_strings",
+        "title": "球拍球线",
+        "sha256": "5b5b5737044f3e5d55702c25106e3c99040271fc394a9caf066f3381c83766ba"
+      },
+      {
+        "pointer": "/4",
+        "id": "spin_physics",
+        "title": "旋转物理",
+        "sha256": "511bf2d20c709ce0fa8fa9eff4a447f61e1455bdef37819ef2bbe1f5bce79861"
+      },
+      {
+        "pointer": "/5",
+        "id": "court_zones",
+        "title": "区域目标",
+        "sha256": "3c2c0e4b106f4e45a0591d3efb94a1f37539164f873eb3d189593421ae305e09"
+      },
+      {
+        "pointer": "/6",
+        "id": "levels_training",
+        "title": "等级训练",
+        "sha256": "e278f22873f4afb3e4049233142cbc1a9e167b4833e67031da4eaa34f043b282"
+      },
+      {
+        "pointer": "/7",
+        "id": "tactics_language",
+        "title": "战术语言",
+        "sha256": "cfa69c43b1a7a593ad68c2ee28d5c52884d33e3f64ed70515c560fae90e168ad"
+      },
+      {
+        "pointer": "/8",
+        "id": "body_recovery",
+        "title": "装备身体",
+        "sha256": "65d3636c7deb16dfeb1996767e9c58b1c613caf918468118f4afda741e22a13b"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/match-playbook.json",
+    "sourceSha256": "98c185fb2bdb3f5f8adad3c410d733a3456f6722ae140fcd6ca484c03d15ee7b",
+    "recordCount": 21,
+    "proposedModuleIds": [
+      "tactics",
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/phases/赛前/0",
+        "id": null,
+        "title": "选 1 个主目标区",
+        "sha256": "f4441c374efe6cf38f7bbe6ba95121bc66eb42d72a2f66fe586ac2dee4d4d38f"
+      },
+      {
+        "pointer": "/phases/赛前/1",
+        "id": null,
+        "title": "确定二发保底路线",
+        "sha256": "dc4bf1b2e56d86c263e303bc60518bc35482f587cd7b779c7b4424d3a92e1ae8"
+      },
+      {
+        "pointer": "/phases/赛前/2",
+        "id": null,
+        "title": "写下今天不现场改动作",
+        "sha256": "a99a7f1b62376a2a1a7bc6b31d9b8a02c68e409ebf168cb3675780d178c080bc"
+      },
+      {
+        "pointer": "/phases/赛前/3",
+        "id": null,
+        "title": "热身只找节奏和脚步",
+        "sha256": "03648496933498e76747a14bd7026857e34eba4a19a3548c7189d804b8173407"
+      },
+      {
+        "pointer": "/phases/赛中/0",
+        "id": null,
+        "title": "每分前看目标",
+        "sha256": "c63d9475bae4d4bea4a4b0f36d6adfbf1d18cee20480ed7a546761374f447a91"
+      },
+      {
+        "pointer": "/phases/赛中/1",
+        "id": null,
+        "title": "只调高度、深度、力量",
+        "sha256": "afaa435ee5f687c05bd2a1ab49b4befb07f025e45fbe4542884cfcd6451c2015"
+      },
+      {
+        "pointer": "/phases/赛中/2",
+        "id": null,
+        "title": "双误后 12 秒重置",
+        "sha256": "63f95be23ce0a2380fba634ffb3365603de87ca2a5edb6c0ad2efd24f198ce8e"
+      },
+      {
+        "pointer": "/phases/赛中/3",
+        "id": null,
+        "title": "机会球先大目标",
+        "sha256": "4c63ddbea372317b9fe67287390dc380ba3b2f5d443ced3073c4de2afd00b484"
+      },
+      {
+        "pointer": "/phases/赛后/0",
+        "id": null,
+        "title": "只记录 1 个最好模式",
+        "sha256": "a292412259a512f9e6fe15d5cb9759f37fb73dc26f57b674699f862ca77c479d"
+      },
+      {
+        "pointer": "/phases/赛后/1",
+        "id": null,
+        "title": "只记录 1 个最糟模式",
+        "sha256": "4cf0d1c9665e61eefe9716c1be0acc39e74cbe7cf961e58f625bf3aa298eee8a"
+      },
+      {
+        "pointer": "/phases/赛后/2",
+        "id": null,
+        "title": "归类到技术/空间/心态/体能",
+        "sha256": "08dcac4a0f92706237ca52ce792a0db84ed9489af529be1a23f982da307743e9"
+      },
+      {
+        "pointer": "/phases/赛后/3",
+        "id": null,
+        "title": "决定下周是否继续同一主线",
+        "sha256": "db56ee912efc4d46276faa1ab018d4dbd26901ea32b1cfc5ab15d973271d856c"
+      },
+      {
+        "pointer": "/resetProtocols/0",
+        "id": null,
+        "title": "双误后 12 秒重置",
+        "sha256": "6deca65abdcd878722f083f3d12fbae3e7a498c8efce5ca321ced88218e7e2ae"
+      },
+      {
+        "pointer": "/resetProtocols/1",
+        "id": null,
+        "title": "机会球降风险流程",
+        "sha256": "4f810998a8a4b59ecd0b2b98267ceba73d8cacb4c0e46031e5f99329b964b74c"
+      },
+      {
+        "pointer": "/resetProtocols/2",
+        "id": null,
+        "title": "领先被追时回到保底球",
+        "sha256": "397a0c53dfbed3bda5e8bd58547c89abe7d4bcf2b71e87b6906cd1747d10fa8f"
+      },
+      {
+        "pointer": "/resetProtocols/3",
+        "id": null,
+        "title": "关键分一目标",
+        "sha256": "04df2354bbe72148c7ae496b8e51a7f383bb8e3cb02527dfc26e9a499a479eb1"
+      },
+      {
+        "pointer": "/scoreTriggers/0",
+        "id": null,
+        "title": "赛中",
+        "sha256": "df8c25c3e0fbd7740e07e15f070624e8272557378e40513eb79f3c4f701db07c"
+      },
+      {
+        "pointer": "/scoreTriggers/1",
+        "id": null,
+        "title": "赛中",
+        "sha256": "5bdf1299a1b03fdd5dfceeb4cab3533a3e4c721971e11d822a67d86d5a788b3c"
+      },
+      {
+        "pointer": "/scoreTriggers/2",
+        "id": null,
+        "title": "赛中",
+        "sha256": "1f555eebc41922c896eb53a1bc32f36f887195cbd79eb367e4eab93f01b273ca"
+      },
+      {
+        "pointer": "/scoreTriggers/3",
+        "id": null,
+        "title": "赛中",
+        "sha256": "9edfde19f562ae044de9fb28a8cdb3a2c5e600922519438f50cd5222c8dc1934"
+      },
+      {
+        "pointer": "/scoreTriggers/4",
+        "id": null,
+        "title": "赛中",
+        "sha256": "c5542baba4b2aef9893042400441a1360e7fbb52202497e1891dfb5a578ab1dd"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/progression-blocks.json",
+    "sourceSha256": "90a0f5fb17310aa411edf71711510253883c6765ec4085d2f03aaa4b4854e7f3",
+    "recordCount": 6,
+    "proposedModuleIds": [
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": null,
+        "title": "稳定性地基",
+        "sha256": "ce0f89e2f29a3e1f5b43a1c69730c4fb5aba13ef67dbefd62828d3a2a349184a"
+      },
+      {
+        "pointer": "/1",
+        "id": null,
+        "title": "击球点和空间感",
+        "sha256": "daf6f0a1426cdcfbdea39950b7f5b019c7fbc4546e26bbe6c51282e78aee6ba8"
+      },
+      {
+        "pointer": "/2",
+        "id": null,
+        "title": "发接发开局",
+        "sha256": "c83fc6c0af7de1bc542e8117e0c9c13dfed51e57d2707b20484afe8595e6a136"
+      },
+      {
+        "pointer": "/3",
+        "id": null,
+        "title": "机会球降风险",
+        "sha256": "0e8b0a3b199d5533e96fc43985690412fe3b00792be2b8bb6435bb2184147566"
+      },
+      {
+        "pointer": "/4",
+        "id": null,
+        "title": "比赛压力流程",
+        "sha256": "3ede45eb5377619fc51b1765c2d2ac8fd006762b6c588022ae4dd541d511b7bf"
+      },
+      {
+        "pointer": "/5",
+        "id": null,
+        "title": "3.5 验收和 4.0 预备",
+        "sha256": "59c1751bb0b31691af95950ed9f8bf56792257ab98f2e1f2b99c09be19e62008"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/progression.json",
+    "sourceSha256": "163a2920fad388f01898409b0770083b5f2ac982c7bef3ac28f268f4fe5c2aa1",
+    "recordCount": 3,
+    "proposedModuleIds": [
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/stages/0",
+        "id": "R01",
+        "title": "稳定性地基",
+        "sha256": "855ccee20b374821873b98314dce65ec696c9b2d6f5c09fd9eb56f7772bbde1b"
+      },
+      {
+        "pointer": "/stages/1",
+        "id": "R02",
+        "title": "深度和开局质量",
+        "sha256": "41a4971a09726d10d6759f5039b0654b921661acb21a5f20d4caf9ea1e80b03d"
+      },
+      {
+        "pointer": "/stages/2",
+        "id": "R03",
+        "title": "主动性和比赛管理",
+        "sha256": "a2d6772b460f464a3820dc96fc7132c5948770f209d217fead4140530adc8631"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/stage-assessments.json",
+    "sourceSha256": "190c60ea5fec1c318eb84de6281ee01944583d51e1cfb279169890f200d71972",
+    "recordCount": 3,
+    "proposedModuleIds": [
+      "learning"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": null,
+        "title": "普通对拉 10 分钟，只统计连续性、深度和击球点。",
+        "sha256": "4dac82f7cad0ef6cb22681b40c08965bcbff6a69cc1e0e6f9ef495b436a1ba65"
+      },
+      {
+        "pointer": "/1",
+        "id": null,
+        "title": "发接发 + 中场机会球组合测试。",
+        "sha256": "580dabad17c3a39c9c0989e5104e4dca7a18815f69e2c26ba97412bfee0ed279"
+      },
+      {
+        "pointer": "/2",
+        "id": null,
+        "title": "带目标的一盘比赛复盘。",
+        "sha256": "1359a5254ca774204b192d823d2b3e96ef9d8544a82a4c1198dd8670713936c5"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/strength-blocks.json",
+    "sourceSha256": "dd6083c99db9cb12643d9f0512825c613d5cafc02ddeb7ab89f7468091d84266",
+    "recordCount": 4,
+    "proposedModuleIds": [
+      "body"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": "S01",
+        "title": "移动刹车",
+        "sha256": "bdd6c4302495e503b785686b6d25ccdc82abc70aaef53dab2bdeebf4083f16db"
+      },
+      {
+        "pointer": "/1",
+        "id": "S02",
+        "title": "旋转发力",
+        "sha256": "e26f3dc00c507d125afbb83dfb61ca28fa10e9889229988583e2ba9d8ceafffc"
+      },
+      {
+        "pointer": "/2",
+        "id": "S03",
+        "title": "肩胛稳定",
+        "sha256": "cd9482063e0d7d020a9c612c34ed6cb1215f86b2b469aeca86595937ad0d2a3c"
+      },
+      {
+        "pointer": "/3",
+        "id": "S04",
+        "title": "核心抗旋",
+        "sha256": "9cbed38143880989cd5847f7df704c2306872346825d478bb18fe280980b5c4e"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/strength-phases.json",
+    "sourceSha256": "17927c0efe9bac8ac9502d1fd9fb30d3c9a74b3578893079548aa300a4bc3168",
+    "recordCount": 4,
+    "proposedModuleIds": [
+      "body"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": null,
+        "title": "基础容量",
+        "sha256": "fd2fdeecd67a976913e399fb09402495188bbd439f554277689aa5ae16539a04"
+      },
+      {
+        "pointer": "/1",
+        "id": null,
+        "title": "刹车和旋转",
+        "sha256": "223f83b154e8ca5b4eb24a5cd46d8c6505a399dbca067140ebd84d4cc7f149db"
+      },
+      {
+        "pointer": "/2",
+        "id": null,
+        "title": "速度和反应",
+        "sha256": "701d69c248dedbc1ef9bfa53956b3bac3ce589021c0aef2beee6f4499aa30fe1"
+      },
+      {
+        "pointer": "/3",
+        "id": null,
+        "title": "降负荷吸收",
+        "sha256": "ae96105c8227d43ff31d0ecd87b98b62aec1906b85b025f5a9f329464400f466"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/strokes.json",
+    "sourceSha256": "557450123ebb3ea58177069b5280177e27a06793933b5ee8975a85481e4ac765",
+    "recordCount": 12,
+    "proposedModuleIds": [
+      "technique",
+      "movement"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": "P01",
+        "title": "稳定击球优先级",
+        "sha256": "42fef1f0dc69f66a75982bb84bff9c6fa66b67e184c58e5025ba9759df7bf2e7"
+      },
+      {
+        "pointer": "/1",
+        "id": "P02",
+        "title": "击球点在身体前方",
+        "sha256": "b692dd8bf51b91ec05fb73551b64523e16b36fda56edb7a0243f9b148964262e"
+      },
+      {
+        "pointer": "/2",
+        "id": "P03",
+        "title": "Split Step 不是跳，是准备刹车",
+        "sha256": "13526d393b022f9bbcb469e7b1270014a9866a0d07a24c75ab8415aa6c349b5e"
+      },
+      {
+        "pointer": "/3",
+        "id": "P04",
+        "title": "正手从腿和躯干启动",
+        "sha256": "e5d7d4b97fd2732377f68efcfab0103d9a5df80bf85d2d32f216aae20912d852"
+      },
+      {
+        "pointer": "/4",
+        "id": "P05",
+        "title": "反手先保证拍面稳定",
+        "sha256": "95863cf9d2bcfd3ec7f64b3fd569b7bfd04221971cb4eb95abcb773323d4718b"
+      },
+      {
+        "pointer": "/5",
+        "id": "P06",
+        "title": "发球先练抛球窗口",
+        "sha256": "910dedaca6fb7feb994250a52cc8a74d4227d7a7c78200b3b1cd138227a0ba14"
+      },
+      {
+        "pointer": "/6",
+        "id": "P07",
+        "title": "2.7 到 3.5 的主线",
+        "sha256": "4a77697c2ed5e38c0572bd967e2d140c5a3f88ccf9aceb9781090dd1a598aff6"
+      },
+      {
+        "pointer": "/7",
+        "id": "P08",
+        "title": "比赛中少换技术动作",
+        "sha256": "6be3f5280f3d0a79297d57b4d80983b851a79a28c372e0b56ada26ab25c1055b"
+      },
+      {
+        "pointer": "/8",
+        "id": "P09",
+        "title": "被动球打大目标",
+        "sha256": "65058d006916162996a5bdba4dc0b517cac5481eaf52a6a1168c03771a7160e6"
+      },
+      {
+        "pointer": "/9",
+        "id": "P10",
+        "title": "力量训练服务三个能力",
+        "sha256": "a4b450aa643c947a2276a9f723a6bc4504ae00a7d0726d47c0c55d82448559bb"
+      },
+      {
+        "pointer": "/10",
+        "id": "P11",
+        "title": "脚步问题常常不是跑得慢",
+        "sha256": "4f00ade1e95cb0111d5eac2858ede8ba0bdcafb2b06a1c96dfa42e74e28d1b78"
+      },
+      {
+        "pointer": "/11",
+        "id": "P12",
+        "title": "每次只修一个技术点",
+        "sha256": "e5cad84fbb6b2aada78afff78674063be1b03f7a223eae54b840ab37f477933d"
+      }
+    ]
+  },
+  {
+    "sourcePath": "content/technique-cards.json",
+    "sourceSha256": "7e51d8c4ba0ea51cf83395487b556d05ea309dac8dc0d20c6475d6df0f12d9a6",
+    "recordCount": 12,
+    "proposedModuleIds": [
+      "technique",
+      "movement",
+      "tactics"
+    ],
+    "disposition": "preserved-reference-only",
+    "publishByDefault": false,
+    "records": [
+      {
+        "pointer": "/0",
+        "id": "P01",
+        "title": "稳定击球优先级",
+        "sha256": "4b5ee7c3c1b028ca60d97464bd39cfde427763f8033c6025518f346650c8db88"
+      },
+      {
+        "pointer": "/1",
+        "id": "P02",
+        "title": "击球点在身体前方",
+        "sha256": "c813d80f1912c16f2168d32739759cca665243b2a5838475fdb2e40aeae44d74"
+      },
+      {
+        "pointer": "/2",
+        "id": "P03",
+        "title": "Split Step 不是跳，是准备刹车",
+        "sha256": "c9db0057c122d91079c7dde622e76298ccd0ca29c2e9f235c0c0b646b0a16834"
+      },
+      {
+        "pointer": "/3",
+        "id": "P04",
+        "title": "正手从腿和躯干启动",
+        "sha256": "612936c951b25c764ca1d1e34646b45dc0f31b6ea7fe4a54dcc63a248ee8022d"
+      },
+      {
+        "pointer": "/4",
+        "id": "P05",
+        "title": "反手先保证拍面稳定",
+        "sha256": "7c0d7f3a1bad85e4b1df90c749ed59ac3f3efa3a9460df2715243af619663a87"
+      },
+      {
+        "pointer": "/5",
+        "id": "P06",
+        "title": "发球先练抛球窗口",
+        "sha256": "ee6517df15aff91216d4ade1eaab8bb1e165b49d27ccd639728ab71f4379a273"
+      },
+      {
+        "pointer": "/6",
+        "id": "P07",
+        "title": "2.7 到 3.5 的主线",
+        "sha256": "f962202d152e624d3d95cff3013f1509eb5344405f448db5272f66f418f53190"
+      },
+      {
+        "pointer": "/7",
+        "id": "P08",
+        "title": "比赛中少换技术动作",
+        "sha256": "d4b0ac47c4429c53ad1c5f2267978e589dc5e3814268da0efe7c5a6f4137b020"
+      },
+      {
+        "pointer": "/8",
+        "id": "P09",
+        "title": "被动球打大目标",
+        "sha256": "d994229ce2bd64716d2b37b6fb32e6158221b6518fc20d6ee3e01edd119d6c7b"
+      },
+      {
+        "pointer": "/9",
+        "id": "P10",
+        "title": "力量训练服务三个能力",
+        "sha256": "d4930b77c2e77954aef8409fa89ce935fdb60a7fcf6ddeca635a1abac0d9ab0a"
+      },
+      {
+        "pointer": "/10",
+        "id": "P11",
+        "title": "脚步问题常常不是跑得慢",
+        "sha256": "401137497c4d564f2262d36c935023cfacc79fdcfc8d4d5034b457c786ff31fe"
+      },
+      {
+        "pointer": "/11",
+        "id": "P12",
+        "title": "每次只修一个技术点",
+        "sha256": "d1627b3c80404d13f41577b614440cafd497610bec61f51f02b42a75ea23c7f1"
+      }
+    ]
+  }
+]

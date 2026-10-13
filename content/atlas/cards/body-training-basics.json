@@ -1,0 +1,1996 @@
+[
+  {
+    "id": "training.session-one-focus",
+    "title": "一堂训练只盯一个主目标",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "一堂训练只盯一个主目标"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "训练目标越多，复盘越散；一堂课先选一个主目标，其他内容都服务它。",
+    "encyclopedia": "网球训练很容易变成什么都想练：发球、正手、步伐、比赛心态全部混在一起。更稳的方法是一堂训练只设一个主目标，例如“接发先深中路”或“击球距离不贴身”。目标少，注意力才会集中，复盘也能判断到底有没有进步。",
+    "generatedImage": {
+      "assetId": "img-training-session-one-focus-v1",
+      "alt": "一堂训练只盯一个主目标 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "训练目标越多，复盘越散；一堂课先选一个主目标，其他内容都服务它。",
+      "commonFailure": "一堂课列五个目标，最后哪个都没有稳定重复。",
+      "onCourtCue": "今天只盯一件事。",
+      "verificationTest": "训练前写下一个主目标，训练后只复盘它是否完成。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-session-one-focus",
+        "title": "VR 一堂训练只盯一个主目标",
+        "durationMinutes": 6,
+        "instruction": "今天只盯一件事。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练前写下一个主目标，训练后只复盘它是否完成。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-session-one-focus",
+        "title": "一堂训练只盯一个主目标",
+        "durationMinutes": 8,
+        "instruction": "训练前写下一个主目标，训练后只复盘它是否完成。",
+        "successSignal": "你能把“今天只盯一件事。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "一堂训练只盯一个主目标这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "progression.review-funnel",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.warmup-purpose",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.warmup-raise-temperature",
+    "title": "热身第一步是升温，不是直接拉伸",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "热身第一步是升温",
+      "不是直接拉伸"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "身体先升温，关节和肌肉才更适合做动态准备和击球。",
+    "encyclopedia": "热身不是一上来压腿或猛挥拍。先用轻跑、跳步、动态移动让体温和心率上来，再进入关节活动和专项动作。冷身体直接做大幅度拉伸或高速挥拍，会让准备质量变差，也可能增加不适风险。",
+    "generatedImage": {
+      "assetId": "img-training-warmup-raise-temperature-v1",
+      "alt": "热身第一步是升温，不是直接拉伸 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "身体先升温，关节和肌肉才更适合做动态准备和击球。",
+      "commonFailure": "到场后直接猛拉肩、猛发球，身体还没进入状态。",
+      "onCourtCue": "先升温，再活动，再专项。",
+      "verificationTest": "上场前完成 5 分钟轻移动，再进入挥拍和发球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-warmup-raise-temperature",
+        "title": "VR 热身第一步是升温，不是直",
+        "durationMinutes": 6,
+        "instruction": "先升温，再活动，再专项。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "上场前完成 5 分钟轻移动，再进入挥拍和发球。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-warmup-raise-temperature",
+        "title": "热身第一步是升温，不是直接拉",
+        "durationMinutes": 8,
+        "instruction": "上场前完成 5 分钟轻移动，再进入挥拍和发球。",
+        "successSignal": "你能把“先升温，再活动，再专项。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "热身第一步是升温，不是直接拉伸这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "match.warmup-purpose",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.dynamic-mobility-before-hit",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.dynamic-mobility-before-hit",
+    "title": "动态活动比静态硬拉更适合上场前",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "动态活动比静态硬拉更适合上场前"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "上场前用动态活动打开髋、肩、踝，比长时间静态拉伸更贴近比赛需求。",
+    "encyclopedia": "网球需要启动、刹车、转体和挥拍，上场前的准备应让身体进入这些动作模式。动态活动包括肩绕环、髋部打开、弓步转体、脚踝弹动和小步移动。长时间静态硬拉更适合放在训练后或单独恢复环节。",
+    "generatedImage": {
+      "assetId": "img-training-dynamic-mobility-before-hit-v1",
+      "alt": "动态活动比静态硬拉更适合上场前 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "上场前用动态活动打开髋、肩、踝，比长时间静态拉伸更贴近比赛需求。",
+      "commonFailure": "上场前长时间压腿，随后移动反而发软。",
+      "onCourtCue": "赛前动态，赛后放松。",
+      "verificationTest": "热身中完成肩、髋、踝各 2 个动态动作。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-dynamic-mobility-before-hit",
+        "title": "VR 动态活动比静态硬拉更适合",
+        "durationMinutes": 6,
+        "instruction": "赛前动态，赛后放松。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "热身中完成肩、髋、踝各 2 个动态动作。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-dynamic-mobility-before-hit",
+        "title": "动态活动比静态硬拉更适合上场",
+        "durationMinutes": 8,
+        "instruction": "热身中完成肩、髋、踝各 2 个动态动作。",
+        "successSignal": "你能把“赛前动态，赛后放松。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "动态活动比静态硬拉更适合上场前这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.warmup-raise-temperature",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.day-after-match",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.shoulder-serve-prep",
+    "title": "发球前肩部要先被叫醒",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "发球前肩部要先被叫醒"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "发球对肩要求高，开局前先做低强度激活，再逐步加速。",
+    "encyclopedia": "发球不是第一拍就全速。肩部、肩胛和上背需要逐步进入状态：小幅绕环、弹力带外旋、轻松抛投感、半速发球，再到正常发球。这样既能提高控制，也能减少冷肩硬发带来的不适。",
+    "generatedImage": {
+      "assetId": "img-training-shoulder-serve-prep-v1",
+      "alt": "发球前肩部要先被叫醒 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "发球对肩要求高，开局前先做低强度激活，再逐步加速。",
+      "commonFailure": "刚上场就全速发球，肩前侧或肘部很快不舒服。",
+      "onCourtCue": "肩先醒，再发力。",
+      "verificationTest": "正式发球前完成肩部激活和 6 个渐进发球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-shoulder-serve-prep",
+        "title": "VR 发球前肩部要先被叫醒",
+        "durationMinutes": 8,
+        "instruction": "肩先醒，再发力。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "正式发球前完成肩部激活和 6 个渐进发球。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-shoulder-serve-prep",
+        "title": "发球前肩部要先被叫醒",
+        "durationMinutes": 10,
+        "instruction": "正式发球前完成肩部激活和 6 个渐进发球。",
+        "successSignal": "你能把“肩先醒，再发力。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "发球前肩部要先被叫醒这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.accessory.warmup-band",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.pain-scale-stoplight",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.drill-rest-ratio",
+    "title": "练习组间要有休息，不是越累越有效",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "练习组间要有休息",
+      "不是越累越有效"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "高质量重复需要休息；疲劳后继续堆数量，动作和判断都会变形。",
+    "encyclopedia": "练习不是把自己累趴才算有效。击球准确性、脚步节奏和判断都需要神经系统保持清醒。组间休息可以让下一组更接近目标动作；如果累到每球都晚、每步都乱，继续堆量只是练习错误。",
+    "generatedImage": {
+      "assetId": "img-training-drill-rest-ratio-v1",
+      "alt": "练习组间要有休息，不是越累越有效 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "高质量重复需要休息；疲劳后继续堆数量，动作和判断都会变形。",
+      "commonFailure": "为了多打球不休息，后半段动作全乱还以为自己在刻苦。",
+      "onCourtCue": "质量掉了，先休息。",
+      "verificationTest": "每组 8 到 12 球后休息 30 到 60 秒，记录质量是否恢复。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-drill-rest-ratio",
+        "title": "VR 练习组间要有休息，不是越",
+        "durationMinutes": 6,
+        "instruction": "质量掉了，先休息。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "每组 8 到 12 球后休息 30 到 60 秒，记录质量是否恢复。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-drill-rest-ratio",
+        "title": "练习组间要有休息，不是越累越",
+        "durationMinutes": 8,
+        "instruction": "每组 8 到 12 球后休息 30 到 60 秒，记录质量是否恢复。",
+        "successSignal": "你能把“质量掉了，先休息。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "练习组间要有休息，不是越累越有效这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.session-one-focus",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.intensity-zones",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.intensity-zones",
+    "title": "训练强度要分区，不是每次都打满",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "训练强度要分区",
+      "不是每次都打满"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "技术学习、对拉、比赛模拟需要不同强度；每次都打满会拖慢学习。",
+    "encyclopedia": "低强度适合学动作和建立感觉，中等强度适合稳定重复，高强度适合比赛压力和体能刺激。把所有训练都打成最高强度，会让技术学习变粗糙，也让恢复压力变大。你需要知道今天练的是学习、稳定还是比赛。",
+    "generatedImage": {
+      "assetId": "img-training-intensity-zones-v1",
+      "alt": "训练强度要分区，不是每次都打满 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "技术学习、对拉、比赛模拟需要不同强度；每次都打满会拖慢学习。",
+      "commonFailure": "技术课也打成比赛强度，动作还没学会就先疲劳。",
+      "onCourtCue": "先定强度，再定练法。",
+      "verificationTest": "训练前标记今天是低、中、高哪一档强度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-intensity-zones",
+        "title": "VR 训练强度要分区，不是每次",
+        "durationMinutes": 8,
+        "instruction": "先定强度，再定练法。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练前标记今天是低、中、高哪一档强度。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-intensity-zones",
+        "title": "训练强度要分区，不是每次都打",
+        "durationMinutes": 10,
+        "instruction": "训练前标记今天是低、中、高哪一档强度。",
+        "successSignal": "你能把“先定强度，再定练法。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "训练强度要分区，不是每次都打满这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.session-one-focus",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.lesson-notes-within-24h",
+    "title": "训练笔记最好 24 小时内写",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "训练笔记最好",
+      "24",
+      "小时内写"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "训练后的身体感受、有效提示和主要问题，很快会被模糊记忆覆盖。",
+    "encyclopedia": "课后复盘不需要长篇大论，但要及时。24 小时内记录三件事：今天主目标是什么、最有效的一句 cue 是什么、身体哪里有不适或疲劳。这样下一次训练才能接上，而不是每次重新开始。",
+    "generatedImage": {
+      "assetId": "img-training-lesson-notes-within-24h-v1",
+      "alt": "训练笔记最好 24 小时内写 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "训练后的身体感受、有效提示和主要问题，很快会被模糊记忆覆盖。",
+      "commonFailure": "隔几天才复盘，只记得输赢和情绪，忘了真正线索。",
+      "onCourtCue": "当天记三行。",
+      "verificationTest": "训练后 24 小时内写下目标、有效 cue、身体状态。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-lesson-notes-within-24h",
+        "title": "VR 训练笔记最好 24 小时",
+        "durationMinutes": 6,
+        "instruction": "当天记三行。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练后 24 小时内写下目标、有效 cue、身体状态。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-lesson-notes-within-24h",
+        "title": "训练笔记最好 24 小时内写",
+        "durationMinutes": 8,
+        "instruction": "训练后 24 小时内写下目标、有效 cue、身体状态。",
+        "successSignal": "你能把“当天记三行。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "训练笔记最好 24 小时内写这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "progression.review-funnel",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.pain-scale-stoplight",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.video-review-one-clip",
+    "title": "视频复盘先看一个片段，不刷完整场",
+    "category": "training-basics",
+    "topicIds": [
+      "training-routine",
+      "body-strength"
+    ],
+    "tags": [
+      "training-basics",
+      "training-routine",
+      "视频复盘先看一个片段",
+      "不刷完整场"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "视频太长会让复盘发散；先选一个和主目标相关的片段。",
+    "encyclopedia": "视频复盘最容易变成看完整场然后觉得哪里都不好。更有效的方法是只选一个片段，例如 5 个接发、10 个中场球或一局发球局，围绕当天主目标观察。片段小，结论才容易转成下一次训练。",
+    "generatedImage": {
+      "assetId": "img-training-video-review-one-clip-v1",
+      "alt": "视频复盘先看一个片段，不刷完整场 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "视频太长会让复盘发散；先选一个和主目标相关的片段。",
+      "commonFailure": "一口气看完整场，最后得到一堆模糊批评。",
+      "onCourtCue": "只看一段，只问一题。",
+      "verificationTest": "复盘时只截取一个片段，并写出一个下一次训练 cue。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-video-review-one-clip",
+        "title": "VR 视频复盘先看一个片段，不",
+        "durationMinutes": 8,
+        "instruction": "只看一段，只问一题。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "复盘时只截取一个片段，并写出一个下一次训练 cue。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-video-review-one-clip",
+        "title": "视频复盘先看一个片段，不刷完",
+        "durationMinutes": 10,
+        "instruction": "复盘时只截取一个片段，并写出一个下一次训练 cue。",
+        "successSignal": "你能把“只看一段，只问一题。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "视频复盘先看一个片段，不刷完整场这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.session-one-focus",
+        "type": "supporting"
+      },
+      {
+        "targetId": "progression.practice-bridge",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.sleep-anchor",
+    "title": "睡眠是最便宜的恢复工具",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "睡眠是最便宜的恢复工具"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "技术学习和身体恢复都依赖睡眠，少睡后不该安排高风险高强度训练。",
+    "encyclopedia": "睡眠影响反应、专注、学习巩固和肌肉恢复。睡眠不足时，脚步慢、判断晚、情绪波动大，硬上高强度比赛或大量发球会放大风险。睡眠差不是不能动，而是要降低训练目标和强度。",
+    "generatedImage": {
+      "assetId": "img-recovery-sleep-anchor-v1",
+      "alt": "睡眠是最便宜的恢复工具 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "技术学习和身体恢复都依赖睡眠，少睡后不该安排高风险高强度训练。",
+      "commonFailure": "睡很少还安排高强度发球和比赛，表现差又怪技术退步。",
+      "onCourtCue": "睡差就降级训练。",
+      "verificationTest": "睡眠不足 6 小时时，把训练改为低强度技术或恢复。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-sleep-anchor",
+        "title": "VR 睡眠是最便宜的恢复工具",
+        "durationMinutes": 6,
+        "instruction": "睡差就降级训练。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "睡眠不足 6 小时时，把训练改为低强度技术或恢复。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-sleep-anchor",
+        "title": "睡眠是最便宜的恢复工具",
+        "durationMinutes": 8,
+        "instruction": "睡眠不足 6 小时时，把训练改为低强度技术或恢复。",
+        "successSignal": "你能把“睡差就降级训练。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "睡眠是最便宜的恢复工具这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.intensity-zones",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.day-after-match",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.hydration-electrolytes",
+    "title": "补水不是口渴了才想起来",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "补水不是口渴了才想起来"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "出汗多时只喝水可能不够，补水和电解质要跟天气、时长和出汗量走。",
+    "encyclopedia": "网球训练常在户外、间歇、长时间进行。口渴是滞后的信号，热天或大量出汗时还要注意钠等电解质。原则不是死记毫升数，而是观察尿色、体重变化、抽筋风险和天气强度。",
+    "generatedImage": {
+      "assetId": "img-recovery-hydration-electrolytes-v1",
+      "alt": "补水不是口渴了才想起来 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "出汗多时只喝水可能不够，补水和电解质要跟天气、时长和出汗量走。",
+      "commonFailure": "热天训练两小时只喝一点水，后半段头晕或抽筋。",
+      "onCourtCue": "小口多次，热天加电解质。",
+      "verificationTest": "训练前后记录体感、尿色和是否出现头晕抽筋。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-hydration-electrolytes",
+        "title": "VR 补水不是口渴了才想起来",
+        "durationMinutes": 6,
+        "instruction": "小口多次，热天加电解质。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练前后记录体感、尿色和是否出现头晕抽筋。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-hydration-electrolytes",
+        "title": "补水不是口渴了才想起来",
+        "durationMinutes": 8,
+        "instruction": "训练前后记录体感、尿色和是否出现头晕抽筋。",
+        "successSignal": "你能把“小口多次，热天加电解质。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "补水不是口渴了才想起来这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.accessory.sun-hydration",
+        "type": "supporting"
+      },
+      {
+        "targetId": "environment.temperature-ball-bounce",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.post-session-fuel",
+    "title": "训练后先补一点能量和蛋白质",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "训练后先补一点能量和蛋白质"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "长时间训练后，身体需要补水、碳水和蛋白质来进入恢复。",
+    "encyclopedia": "训练后完全不吃不喝，会让恢复变慢，也影响下一次训练质量。简单原则是先补水，再补一点碳水和蛋白质。不是为了健身仪式感，而是帮助身体从消耗状态回到修复状态。",
+    "generatedImage": {
+      "assetId": "img-recovery-post-session-fuel-v1",
+      "alt": "训练后先补一点能量和蛋白质 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "长时间训练后，身体需要补水、碳水和蛋白质来进入恢复。",
+      "commonFailure": "打完很累却只喝咖啡，晚饭很晚才吃。",
+      "onCourtCue": "先补水，再补能量。",
+      "verificationTest": "超过 90 分钟训练后，30 到 60 分钟内完成基础补给。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-post-session-fuel",
+        "title": "VR 训练后先补一点能量和蛋白",
+        "durationMinutes": 6,
+        "instruction": "先补水，再补能量。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "超过 90 分钟训练后，30 到 60 分钟内完成基础补给。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-post-session-fuel",
+        "title": "训练后先补一点能量和蛋白质",
+        "durationMinutes": 8,
+        "instruction": "超过 90 分钟训练后，30 到 60 分钟内完成基础补给。",
+        "successSignal": "你能把“先补水，再补能量。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "训练后先补一点能量和蛋白质这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "recovery.hydration-electrolytes",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.sleep-anchor",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.soreness-vs-pain",
+    "title": "酸痛和疼痛不是一回事",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "酸痛和疼痛不是一回事"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "训练酸痛可以观察和调整，尖锐疼痛、关节痛和加重疼痛要降级处理。",
+    "encyclopedia": "酸痛通常是大范围、钝感、随热身减轻；疼痛更可能是尖锐、局部、关节深处或随着训练加重。区分两者很重要：酸痛可以降低强度继续活动，疼痛则需要停止相关动作、观察甚至寻求专业帮助。",
+    "generatedImage": {
+      "assetId": "img-recovery-soreness-vs-pain-v1",
+      "alt": "酸痛和疼痛不是一回事 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "训练酸痛可以观察和调整，尖锐疼痛、关节痛和加重疼痛要降级处理。",
+      "commonFailure": "把局部尖锐疼痛当成普通酸痛硬撑。",
+      "onCourtCue": "酸痛可调，疼痛先停。",
+      "verificationTest": "训练前用 0 到 10 分记录不适，超过 4 或加重就降级。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-soreness-vs-pain",
+        "title": "VR 酸痛和疼痛不是一回事",
+        "durationMinutes": 6,
+        "instruction": "酸痛可调，疼痛先停。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练前用 0 到 10 分记录不适，超过 4 或加重就降级。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-soreness-vs-pain",
+        "title": "酸痛和疼痛不是一回事",
+        "durationMinutes": 8,
+        "instruction": "训练前用 0 到 10 分记录不适，超过 4 或加重就降级。",
+        "successSignal": "你能把“酸痛可调，疼痛先停。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "酸痛和疼痛不是一回事这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.pain-scale-stoplight",
+        "type": "supporting"
+      },
+      {
+        "targetId": "injury.warning-signals-red-flags",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.weekly-load-spike",
+    "title": "周负荷突然暴增，身体最容易抗议",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "周负荷突然暴增",
+      "身体最容易抗议"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "突然从少打变成连续多打，比单次训练更容易带来伤痛风险。",
+    "encyclopedia": "身体适应需要时间。平时一周打一两次，突然连续几天高强度训练或比赛，肩、肘、膝、跟腱和腰背都可能抗议。周负荷管理的核心是渐进：增加频率、时长或强度时，一次只改一个变量。",
+    "generatedImage": {
+      "assetId": "img-recovery-weekly-load-spike-v1",
+      "alt": "周负荷突然暴增，身体最容易抗议 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "突然从少打变成连续多打，比单次训练更容易带来伤痛风险。",
+      "commonFailure": "假期突然天天打三小时，第三天开始肘肩膝都不舒服。",
+      "onCourtCue": "加量只加一个变量。",
+      "verificationTest": "本周训练增加时，只提高频率、时长或强度中的一个。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-weekly-load-spike",
+        "title": "VR 周负荷突然暴增，身体最容",
+        "durationMinutes": 8,
+        "instruction": "加量只加一个变量。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "本周训练增加时，只提高频率、时长或强度中的一个。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-weekly-load-spike",
+        "title": "周负荷突然暴增，身体最容易抗",
+        "durationMinutes": 10,
+        "instruction": "本周训练增加时，只提高频率、时长或强度中的一个。",
+        "successSignal": "你能把“加量只加一个变量。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "周负荷突然暴增，身体最容易抗议这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.intensity-zones",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.day-after-match",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.day-after-match",
+    "title": "比赛后第二天不一定适合继续硬练",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "比赛后第二天不一定适合继续硬练"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "高压力比赛后，第二天优先恢复和轻量技术，别马上再堆高强度。",
+    "encyclopedia": "比赛比普通训练更耗神经、情绪和身体。第二天如果腿沉、睡眠差、关节不适或注意力差，就更适合轻量活动、动态恢复、复盘和技术感觉练习。连续硬练可能把疲劳变成伤病。",
+    "generatedImage": {
+      "assetId": "img-recovery-day-after-match-v1",
+      "alt": "比赛后第二天不一定适合继续硬练 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "高压力比赛后，第二天优先恢复和轻量技术，别马上再堆高强度。",
+      "commonFailure": "刚比赛完第二天继续高强度对抗，身体信号被忽略。",
+      "onCourtCue": "赛后一天，先问身体。",
+      "verificationTest": "比赛后第二天根据睡眠、酸痛和关节感受决定强度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-day-after-match",
+        "title": "VR 比赛后第二天不一定适合继",
+        "durationMinutes": 6,
+        "instruction": "赛后一天，先问身体。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "比赛后第二天根据睡眠、酸痛和关节感受决定强度。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-day-after-match",
+        "title": "比赛后第二天不一定适合继续硬",
+        "durationMinutes": 8,
+        "instruction": "比赛后第二天根据睡眠、酸痛和关节感受决定强度。",
+        "successSignal": "你能把“赛后一天，先问身体。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "比赛后第二天不一定适合继续硬练这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "recovery.sleep-anchor",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.lesson-notes-within-24h",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.heat-stress-signals",
+    "title": "热天训练先识别热压力信号",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "热天训练先识别热压力信号"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "头晕、恶心、异常乏力和停止出汗，都不是普通累。",
+    "encyclopedia": "热环境下训练，身体不仅在打球，也在散热。头晕、恶心、寒战、异常乏力、意识模糊、停止出汗等信号需要认真处理。热天训练要更早补水、增加休息、降低强度，并准备阴凉处。",
+    "generatedImage": {
+      "assetId": "img-recovery-heat-stress-signals-v1",
+      "alt": "热天训练先识别热压力信号 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "头晕、恶心、异常乏力和停止出汗，都不是普通累。",
+      "commonFailure": "热天头晕还继续硬撑一组，认为只是意志力不够。",
+      "onCourtCue": "热信号出现，先停先降温。",
+      "verificationTest": "热天每 20 分钟检查体感和补水状态。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-heat-stress-signals",
+        "title": "VR 热天训练先识别热压力信号",
+        "durationMinutes": 6,
+        "instruction": "热信号出现，先停先降温。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "热天每 20 分钟检查体感和补水状态。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-heat-stress-signals",
+        "title": "热天训练先识别热压力信号",
+        "durationMinutes": 8,
+        "instruction": "热天每 20 分钟检查体感和补水状态。",
+        "successSignal": "你能把“热信号出现，先停先降温。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "热天训练先识别热压力信号这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "environment.temperature-ball-bounce",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.accessory.sun-hydration",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "recovery.cramp-risk-management",
+    "title": "抽筋风险来自疲劳、热和补给的组合",
+    "category": "recovery",
+    "topicIds": [
+      "recovery-load",
+      "body-strength"
+    ],
+    "tags": [
+      "recovery",
+      "recovery-load",
+      "抽筋风险来自疲劳",
+      "热和补给的组合"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "progression"
+    ],
+    "summary": "抽筋不是单一原因，常和疲劳、出汗、补给、强度和准备不足叠加。",
+    "encyclopedia": "网球抽筋往往出现在长时间、高热、出汗多、移动频繁和疲劳累积后。管理抽筋风险要从多个方向入手：渐进训练、足够补水和电解质、热天降强度、赛前别突然加量。只在抽筋后临时补救，通常已经太晚。",
+    "generatedImage": {
+      "assetId": "img-recovery-cramp-risk-management-v1",
+      "alt": "抽筋风险来自疲劳、热和补给的组合 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "抽筋不是单一原因，常和疲劳、出汗、补给、强度和准备不足叠加。",
+      "commonFailure": "只把抽筋理解成缺水，忽略训练量和疲劳。",
+      "onCourtCue": "防抽筋靠组合管理。",
+      "verificationTest": "长时间训练前检查天气、补水、电解质和近期负荷。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-cramp-risk-management",
+        "title": "VR 抽筋风险来自疲劳、热和补",
+        "durationMinutes": 8,
+        "instruction": "防抽筋靠组合管理。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "长时间训练前检查天气、补水、电解质和近期负荷。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-cramp-risk-management",
+        "title": "抽筋风险来自疲劳、热和补给的",
+        "durationMinutes": 10,
+        "instruction": "长时间训练前检查天气、补水、电解质和近期负荷。",
+        "successSignal": "你能把“防抽筋靠组合管理。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "抽筋风险来自疲劳、热和补给的组合这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "recovery.hydration-electrolytes",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.warning-signals-red-flags",
+    "title": "红灯疼痛不要靠意志力压过去",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "红灯疼痛不要靠意志力压过去"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "刺痛、麻木、无力、肿胀、夜间痛和越来越痛，都应优先停止相关动作。",
+    "encyclopedia": "训练中的不适要分级。红灯信号包括尖锐刺痛、麻木放射、明显无力、肿胀、夜间痛、疼痛越来越强或动作变形。出现这些信号时，不应该继续测试自己能不能忍，而要停止相关动作并考虑专业意见。",
+    "generatedImage": {
+      "assetId": "img-injury-warning-signals-red-flags-v1",
+      "alt": "红灯疼痛不要靠意志力压过去 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "刺痛、麻木、无力、肿胀、夜间痛和越来越痛，都应优先停止相关动作。",
+      "commonFailure": "疼痛越来越明显还继续发球或冲刺。",
+      "onCourtCue": "红灯出现，停止相关动作。",
+      "verificationTest": "训练中出现红灯信号时立即停止对应动作并记录。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-warning-signals-red-flags",
+        "title": "VR 红灯疼痛不要靠意志力压过",
+        "durationMinutes": 6,
+        "instruction": "红灯出现，停止相关动作。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练中出现红灯信号时立即停止对应动作并记录。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-warning-signals-red-flags",
+        "title": "红灯疼痛不要靠意志力压过去",
+        "durationMinutes": 8,
+        "instruction": "训练中出现红灯信号时立即停止对应动作并记录。",
+        "successSignal": "你能把“红灯出现，停止相关动作。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "红灯疼痛不要靠意志力压过去这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "recovery.soreness-vs-pain",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.pain-scale-stoplight",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "training.pain-scale-stoplight",
+    "title": "用红黄绿灯管理疼痛和训练强度",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "用红黄绿灯管理疼痛和训练强度"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "绿色可练，黄色降级，红色停止；比一句“忍一下”更可靠。",
+    "encyclopedia": "疼痛管理可以简单分为绿黄红：绿色是轻微、可控、不加重；黄色是影响动作或训练后加重，需要降级；红色是尖锐、麻木、肿胀或持续加重，需要停止相关动作。这个模型能帮你在场上做决定。",
+    "generatedImage": {
+      "assetId": "img-training-pain-scale-stoplight-v1",
+      "alt": "用红黄绿灯管理疼痛和训练强度 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "绿色可练，黄色降级，红色停止；比一句“忍一下”更可靠。",
+      "commonFailure": "只用能不能忍来决定是否继续。",
+      "onCourtCue": "绿练，黄降，红停。",
+      "verificationTest": "训练前中后各记录疼痛等级，并按颜色调整。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-training-pain-scale-stoplight",
+        "title": "VR 用红黄绿灯管理疼痛和训练",
+        "durationMinutes": 6,
+        "instruction": "绿练，黄降，红停。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "训练前中后各记录疼痛等级，并按颜色调整。"
+      },
+      "realCourtCheck": {
+        "id": "court-training-pain-scale-stoplight",
+        "title": "用红黄绿灯管理疼痛和训练强度",
+        "durationMinutes": 8,
+        "instruction": "训练前中后各记录疼痛等级，并按颜色调整。",
+        "successSignal": "你能把“绿练，黄降，红停。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "用红黄绿灯管理疼痛和训练强度这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "recovery.soreness-vs-pain",
+        "type": "supporting"
+      },
+      {
+        "targetId": "injury.warning-signals-red-flags",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.shoulder-serve-volume",
+    "title": "肩不舒服时先查发球量和恢复",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "肩不舒服时先查发球量和恢复"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "肩部不适常和发球量、热身不足、恢复差和动作代偿有关。",
+    "encyclopedia": "发球是网球里对肩要求最高的动作之一。肩不舒服时，先回看近期发球数量、是否冷肩全速发、是否连续多天高强度、是否睡眠不足。减少发球量、做好激活、降低强度，通常比硬换动作更稳。",
+    "generatedImage": {
+      "assetId": "img-injury-shoulder-serve-volume-v1",
+      "alt": "肩不舒服时先查发球量和恢复 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "肩部不适常和发球量、热身不足、恢复差和动作代偿有关。",
+      "commonFailure": "肩痛后只想着改技术，继续大量发球。",
+      "onCourtCue": "肩不适先减量。",
+      "verificationTest": "肩不适时当周发球量减半，并记录疼痛变化。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-shoulder-serve-volume",
+        "title": "VR 肩不舒服时先查发球量和恢",
+        "durationMinutes": 8,
+        "instruction": "肩不适先减量。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "肩不适时当周发球量减半，并记录疼痛变化。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-shoulder-serve-volume",
+        "title": "肩不舒服时先查发球量和恢复",
+        "durationMinutes": 10,
+        "instruction": "肩不适时当周发球量减半，并记录疼痛变化。",
+        "successSignal": "你能把“肩不适先减量。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "肩不舒服时先查发球量和恢复这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.shoulder-serve-prep",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.elbow-grip-string-load",
+    "title": "肘部压力要看握拍、球线和击球量",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "肘部压力要看握拍",
+      "球线和击球量"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "肘不适不是只怪动作，也可能来自硬线床、握太紧和突然加量。",
+    "encyclopedia": "肘部承受来自击球冲击、握拍紧张、球线硬度和训练量的叠加压力。出现肘不适时，可以检查线床是否过硬或过久、是否握拍过紧、是否突然多打、是否打了很多晚点击球。单纯硬撑通常会让恢复更慢。",
+    "generatedImage": {
+      "assetId": "img-injury-elbow-grip-string-load-v1",
+      "alt": "肘部压力要看握拍、球线和击球量 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "肘不适不是只怪动作，也可能来自硬线床、握太紧和突然加量。",
+      "commonFailure": "肘疼还继续用硬线大量打晚点球。",
+      "onCourtCue": "肘不适查三件：线、握、量。",
+      "verificationTest": "肘不适时记录球线状态、握拍紧张和击球量。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-elbow-grip-string-load",
+        "title": "VR 肘部压力要看握拍、球线和",
+        "durationMinutes": 8,
+        "instruction": "肘不适查三件：线、握、量。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "肘不适时记录球线状态、握拍紧张和击球量。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-elbow-grip-string-load",
+        "title": "肘部压力要看握拍、球线和击球",
+        "durationMinutes": 10,
+        "instruction": "肘不适时记录球线状态、握拍紧张和击球量。",
+        "successSignal": "你能把“肘不适查三件：线、握、量。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "肘部压力要看握拍、球线和击球量这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.arm-friendly-setup",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.wrist-late-contact",
+    "title": "手腕不适常和晚点、硬挡、过度手腕有关",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "手腕不适常和晚点",
+      "硬挡",
+      "过度手腕有关"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "手腕不是用来硬救每个晚点球的；击球点和拍面稳定更重要。",
+    "encyclopedia": "手腕不适常出现在晚点击球、被重球顶住硬挡、过度用手腕刷球或握拍太紧之后。处理思路是先降低冲击和频率，再回到击球点在前、身体带动、拍面稳定的基本要求。",
+    "generatedImage": {
+      "assetId": "img-injury-wrist-late-contact-v1",
+      "alt": "手腕不适常和晚点、硬挡、过度手腕有关 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "手腕不是用来硬救每个晚点球的；击球点和拍面稳定更重要。",
+      "commonFailure": "被动晚点球都用手腕硬救，训练后手腕痛。",
+      "onCourtCue": "晚点不硬救，先减冲击。",
+      "verificationTest": "手腕不适时减少重球对抗，记录晚点击球次数。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-wrist-late-contact",
+        "title": "VR 手腕不适常和晚点、硬挡、",
+        "durationMinutes": 8,
+        "instruction": "晚点不硬救，先减冲击。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "手腕不适时减少重球对抗，记录晚点击球次数。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-wrist-late-contact",
+        "title": "手腕不适常和晚点、硬挡、过度",
+        "durationMinutes": 10,
+        "instruction": "手腕不适时减少重球对抗，记录晚点击球次数。",
+        "successSignal": "你能把“晚点不硬救，先减冲击。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "手腕不适常和晚点、硬挡、过度手腕有关这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "stroke.contact-in-front",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.knee-deceleration",
+    "title": "膝盖压力常来自不会刹车",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "膝盖压力常来自不会刹车"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "网球不是只会启动，安全减速和变向同样重要。",
+    "encyclopedia": "膝盖在急停、横移、跨步和变向中承受很大压力。很多人只练启动速度，不练减速姿势：重心太高、膝盖内扣、脚步太大，都会增加压力。先学会小步调整和稳定刹车，再追求更快移动。",
+    "generatedImage": {
+      "assetId": "img-injury-knee-deceleration-v1",
+      "alt": "膝盖压力常来自不会刹车 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "网球不是只会启动，安全减速和变向同样重要。",
+      "commonFailure": "冲到球前不会减速，最后用膝盖硬顶住身体。",
+      "onCourtCue": "先刹稳，再出拍。",
+      "verificationTest": "练 10 次横移刹车，观察膝盖是否稳定对齐。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-knee-deceleration",
+        "title": "VR 膝盖压力常来自不会刹车",
+        "durationMinutes": 8,
+        "instruction": "先刹稳，再出拍。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "练 10 次横移刹车，观察膝盖是否稳定对齐。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-knee-deceleration",
+        "title": "膝盖压力常来自不会刹车",
+        "durationMinutes": 10,
+        "instruction": "练 10 次横移刹车，观察膝盖是否稳定对齐。",
+        "successSignal": "你能把“先刹稳，再出拍。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "膝盖压力常来自不会刹车这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.last-two-steps",
+        "type": "supporting"
+      },
+      {
+        "targetId": "conditioning.deceleration-basics",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.ankle-calf-achilles",
+    "title": "脚踝小腿跟腱要适应弹跳和急停",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "脚踝小腿跟腱要适应弹跳和急停"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "split step、蹬地和急停都要求小腿跟腱逐步适应，不能突然猛加量。",
+    "encyclopedia": "网球大量使用前脚掌弹跳、split step、横向蹬地和急停。小腿、脚踝和跟腱需要渐进适应。突然增加跳步、冲刺或硬地训练量，容易出现小腿紧、跟腱不适或脚踝疲劳。",
+    "generatedImage": {
+      "assetId": "img-injury-ankle-calf-achilles-v1",
+      "alt": "脚踝小腿跟腱要适应弹跳和急停 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "split step、蹬地和急停都要求小腿跟腱逐步适应，不能突然猛加量。",
+      "commonFailure": "突然练大量 split step 和冲刺，第二天跟腱紧痛。",
+      "onCourtCue": "弹跳加量要渐进。",
+      "verificationTest": "增加跳步训练时，每周只增加一个变量并记录跟腱感受。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-ankle-calf-achilles",
+        "title": "VR 脚踝小腿跟腱要适应弹跳和",
+        "durationMinutes": 8,
+        "instruction": "弹跳加量要渐进。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "增加跳步训练时，每周只增加一个变量并记录跟腱感受。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-ankle-calf-achilles",
+        "title": "脚踝小腿跟腱要适应弹跳和急停",
+        "durationMinutes": 10,
+        "instruction": "增加跳步训练时，每周只增加一个变量并记录跟腱感受。",
+        "successSignal": "你能把“弹跳加量要渐进。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "脚踝小腿跟腱要适应弹跳和急停这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.lower-back-rotation",
+    "title": "腰背不适常来自只用腰转，不用髋和胸椎",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "腰背不适常来自只用腰转",
+      "不用髋和胸椎"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "击球转体应由脚、髋、躯干协同，不是用腰硬拧。",
+    "encyclopedia": "网球击球需要旋转，但腰椎不该单独承担所有旋转。髋部活动不足、胸椎僵硬、核心控制差时，人容易用腰硬拧。腰背不适时，先降低强度，检查髋、胸椎和核心协同，而不是继续大力转。",
+    "generatedImage": {
+      "assetId": "img-injury-lower-back-rotation-v1",
+      "alt": "腰背不适常来自只用腰转，不用髋和胸椎 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "击球转体应由脚、髋、躯干协同，不是用腰硬拧。",
+      "commonFailure": "每拍都用腰硬甩，训练后腰背紧痛。",
+      "onCourtCue": "转体从脚和髋开始。",
+      "verificationTest": "热身中做髋部和胸椎活动，击球时观察是否用腰硬拧。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-lower-back-rotation",
+        "title": "VR 腰背不适常来自只用腰转，",
+        "durationMinutes": 8,
+        "instruction": "转体从脚和髋开始。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "热身中做髋部和胸椎活动，击球时观察是否用腰硬拧。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-lower-back-rotation",
+        "title": "腰背不适常来自只用腰转，不用",
+        "durationMinutes": 10,
+        "instruction": "热身中做髋部和胸椎活动，击球时观察是否用腰硬拧。",
+        "successSignal": "你能把“转体从脚和髋开始。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "腰背不适常来自只用腰转，不用髋和胸椎这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "conditioning.hip-mobility",
+        "type": "supporting"
+      },
+      {
+        "targetId": "conditioning.core-anti-rotation",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "injury.return-after-break",
+    "title": "停练后回归，要先打折训练量",
+    "category": "injury",
+    "topicIds": [
+      "injury-prevention",
+      "body-strength"
+    ],
+    "tags": [
+      "injury",
+      "injury-prevention",
+      "停练后回归",
+      "要先打折训练量"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "knowledge"
+    ],
+    "summary": "休息一段时间后，身体不是从上次巅峰继续，而是需要重新爬坡。",
+    "encyclopedia": "几周没打后，技术记忆可能还在，但肌腱、关节和体能耐受不一定同步回来。回归第一周应降低时长、强度和发球量，先恢复节奏，再逐步加量。最危险的是休息后第一天就按巅峰状态硬打。",
+    "generatedImage": {
+      "assetId": "img-injury-return-after-break-v1",
+      "alt": "停练后回归，要先打折训练量 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "休息一段时间后，身体不是从上次巅峰继续，而是需要重新爬坡。",
+      "commonFailure": "停练两周后第一天直接三小时比赛。",
+      "onCourtCue": "回归第一周打折。",
+      "verificationTest": "停练超过 10 天后，第一周训练量降低到平时 50%-70%。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-injury-return-after-break",
+        "title": "VR 停练后回归，要先打折训练",
+        "durationMinutes": 6,
+        "instruction": "回归第一周打折。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "停练超过 10 天后，第一周训练量降低到平时 50%-70%。"
+      },
+      "realCourtCheck": {
+        "id": "court-injury-return-after-break",
+        "title": "停练后回归，要先打折训练量",
+        "durationMinutes": 8,
+        "instruction": "停练超过 10 天后，第一周训练量降低到平时 50%-70%。",
+        "successSignal": "你能把“回归第一周打折。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "停练后回归，要先打折训练量这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "supporting"
+      },
+      {
+        "targetId": "training.intensity-zones",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.core-anti-rotation",
+    "title": "核心不是卷腹数量，是抗旋转能力",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "核心不是卷腹数量",
+      "是抗旋转能力"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "网球核心要能传力和稳定身体，抗旋转比单纯卷腹更贴近需求。",
+    "encyclopedia": "击球时身体需要把地面力量传到球拍，同时控制躯干不乱晃。抗旋转训练，例如 Pallof press、侧桥和稳定转移，比只做卷腹更贴近网球。核心强不是腹肌酸，而是移动和击球时身体更稳。",
+    "generatedImage": {
+      "assetId": "img-conditioning-core-anti-rotation-v1",
+      "alt": "核心不是卷腹数量，是抗旋转能力 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "网球核心要能传力和稳定身体，抗旋转比单纯卷腹更贴近需求。",
+      "commonFailure": "以为核心训练就是大量卷腹，场上仍然重心散。",
+      "onCourtCue": "核心要稳住旋转。",
+      "verificationTest": "每周 2 次抗旋转训练，观察击球时躯干是否更稳定。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-core-anti-rotation",
+        "title": "VR 核心不是卷腹数量，是抗旋",
+        "durationMinutes": 8,
+        "instruction": "核心要稳住旋转。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "每周 2 次抗旋转训练，观察击球时躯干是否更稳定。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-core-anti-rotation",
+        "title": "核心不是卷腹数量，是抗旋转能",
+        "durationMinutes": 10,
+        "instruction": "每周 2 次抗旋转训练，观察击球时躯干是否更稳定。",
+        "successSignal": "你能把“核心要稳住旋转。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "核心不是卷腹数量，是抗旋转能力这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "injury.lower-back-rotation",
+        "type": "supporting"
+      },
+      {
+        "targetId": "stroke.balance-finish",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.hip-mobility",
+    "title": "髋部活动度决定你能不能低下来",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "髋部活动度决定你能不能低下来"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "髋打不开，低球、宽球和关闭式步伐都会变困难。",
+    "encyclopedia": "髋部活动度影响下蹲、侧向移动、转体和低点击球。髋打不开时，人会用腰背或膝盖代偿。网球里的低重心不是硬蹲，而是髋、膝、踝一起参与。髋部动态活动应成为热身常规。",
+    "generatedImage": {
+      "assetId": "img-conditioning-hip-mobility-v1",
+      "alt": "髋部活动度决定你能不能低下来 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "髋打不开，低球、宽球和关闭式步伐都会变困难。",
+      "commonFailure": "低球时只弯腰不屈髋，腰背很快紧。",
+      "onCourtCue": "低下来先找髋。",
+      "verificationTest": "热身中完成髋部打开和弓步转体，再处理低球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-hip-mobility",
+        "title": "VR 髋部活动度决定你能不能低",
+        "durationMinutes": 6,
+        "instruction": "低下来先找髋。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "热身中完成髋部打开和弓步转体，再处理低球。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-hip-mobility",
+        "title": "髋部活动度决定你能不能低下来",
+        "durationMinutes": 8,
+        "instruction": "热身中完成髋部打开和弓步转体，再处理低球。",
+        "successSignal": "你能把“低下来先找髋。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "髋部活动度决定你能不能低下来这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.dynamic-mobility-before-hit",
+        "type": "supporting"
+      },
+      {
+        "targetId": "injury.lower-back-rotation",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.ankle-mobility",
+    "title": "脚踝活动度影响启动和低重心",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "脚踝活动度影响启动和低重心"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "脚踝太僵，急停、低姿态和前后移动都会受影响。",
+    "encyclopedia": "脚踝活动度决定你能不能在低重心下稳定移动。脚踝僵硬时，身体可能通过膝盖内扣、脚跟早抬或腰背代偿来完成动作。简单的踝关节动态活动和小步弹动，可以让上场准备更完整。",
+    "generatedImage": {
+      "assetId": "img-conditioning-ankle-mobility-v1",
+      "alt": "脚踝活动度影响启动和低重心 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "脚踝太僵，急停、低姿态和前后移动都会受影响。",
+      "commonFailure": "脚踝僵却直接做快速横移，动作别扭。",
+      "onCourtCue": "脚踝先醒，脚步才轻。",
+      "verificationTest": "热身中做脚踝弹动和前后重心转移各 30 秒。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-ankle-mobility",
+        "title": "VR 脚踝活动度影响启动和低重",
+        "durationMinutes": 6,
+        "instruction": "脚踝先醒，脚步才轻。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "热身中做脚踝弹动和前后重心转移各 30 秒。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-ankle-mobility",
+        "title": "脚踝活动度影响启动和低重心",
+        "durationMinutes": 8,
+        "instruction": "热身中做脚踝弹动和前后重心转移各 30 秒。",
+        "successSignal": "你能把“脚踝先醒，脚步才轻。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "脚踝活动度影响启动和低重心这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.dynamic-mobility-before-hit",
+        "type": "supporting"
+      },
+      {
+        "targetId": "injury.ankle-calf-achilles",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.deceleration-basics",
+    "title": "减速能力是移动体能的刹车系统",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "减速能力是移动体能的刹车系统"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "会跑到球前还不够，还要能安全停住并重新启动。",
+    "encyclopedia": "网球移动包含大量启动、追球、刹车、调整和再启动。减速能力差时，人会冲过头、重心飘、膝盖压力大，击球也不稳。练习减速可以从短距离跑停、横移刹车和最后两步控制开始。",
+    "generatedImage": {
+      "assetId": "img-conditioning-deceleration-basics-v1",
+      "alt": "减速能力是移动体能的刹车系统 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "会跑到球前还不够，还要能安全停住并重新启动。",
+      "commonFailure": "能冲很快，但到球前停不住，击球点乱。",
+      "onCourtCue": "移动要有刹车。",
+      "verificationTest": "每次移动练习加入 5 组跑停或横移刹车。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-deceleration-basics",
+        "title": "VR 减速能力是移动体能的刹车",
+        "durationMinutes": 8,
+        "instruction": "移动要有刹车。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "每次移动练习加入 5 组跑停或横移刹车。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-deceleration-basics",
+        "title": "减速能力是移动体能的刹车系统",
+        "durationMinutes": 10,
+        "instruction": "每次移动练习加入 5 组跑停或横移刹车。",
+        "successSignal": "你能把“移动要有刹车。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "减速能力是移动体能的刹车系统这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "injury.knee-deceleration",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.last-two-steps",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.lateral-strength",
+    "title": "横向力量比直线跑更贴近网球",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "横向力量比直线跑更贴近网球"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "网球大量横移和变向，侧向力量和稳定比直线耐力更直接。",
+    "encyclopedia": "跑步有帮助，但网球更常见的是横向启动、交叉步、并步、刹车和再启动。臀中肌、内收肌、小腿和核心都参与横向稳定。体能训练要包含侧向弓步、侧向弹力带走、横移刹车等内容。",
+    "generatedImage": {
+      "assetId": "img-conditioning-lateral-strength-v1",
+      "alt": "横向力量比直线跑更贴近网球 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "网球大量横移和变向，侧向力量和稳定比直线耐力更直接。",
+      "commonFailure": "只跑直线耐力，场上横移仍然散。",
+      "onCourtCue": "网球脚步多横向。",
+      "verificationTest": "每周加入 2 个侧向力量或稳定动作。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-lateral-strength",
+        "title": "VR 横向力量比直线跑更贴近网",
+        "durationMinutes": 8,
+        "instruction": "网球脚步多横向。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "每周加入 2 个侧向力量或稳定动作。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-lateral-strength",
+        "title": "横向力量比直线跑更贴近网球",
+        "durationMinutes": 10,
+        "instruction": "每周加入 2 个侧向力量或稳定动作。",
+        "successSignal": "你能把“网球脚步多横向。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "横向力量比直线跑更贴近网球这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.recover-from-wide",
+        "type": "supporting"
+      },
+      {
+        "targetId": "conditioning.deceleration-basics",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.balance-single-leg",
+    "title": "单脚稳定让最后一步更可靠",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "单脚稳定让最后一步更可靠"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "很多击球前的微调发生在单脚或偏重心状态，平衡能力会影响击球稳定。",
+    "encyclopedia": "网球不是一直双脚平均站稳。追球、开放式站位、关闭式跨步和随挥恢复都包含单脚承重。单脚稳定训练可以帮助最后一步更稳，也能减少脚踝和膝盖代偿。",
+    "generatedImage": {
+      "assetId": "img-conditioning-balance-single-leg-v1",
+      "alt": "单脚稳定让最后一步更可靠 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "很多击球前的微调发生在单脚或偏重心状态，平衡能力会影响击球稳定。",
+      "commonFailure": "最后一步踩不稳，击球时身体晃。",
+      "onCourtCue": "最后一步要站得住。",
+      "verificationTest": "每侧完成 3 组单脚平衡或轻触地控制。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-balance-single-leg",
+        "title": "VR 单脚稳定让最后一步更可靠",
+        "durationMinutes": 6,
+        "instruction": "最后一步要站得住。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "每侧完成 3 组单脚平衡或轻触地控制。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-balance-single-leg",
+        "title": "单脚稳定让最后一步更可靠",
+        "durationMinutes": 8,
+        "instruction": "每侧完成 3 组单脚平衡或轻触地控制。",
+        "successSignal": "你能把“最后一步要站得住。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "单脚稳定让最后一步更可靠这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.last-two-steps",
+        "type": "supporting"
+      },
+      {
+        "targetId": "stroke.balance-finish",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.power-before-fatigue",
+    "title": "爆发训练要放在疲劳前",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "爆发训练要放在疲劳前"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "速度、弹跳和反应训练需要神经清醒，别放在最累的时候硬做。",
+    "encyclopedia": "爆发力和速度训练依赖高质量输出。把冲刺、跳步、反应和快速变向放在训练后半段极疲劳时做，动作容易变形，风险也更高。更好的顺序是充分热身后先做少量高质量爆发，再进入技术或体能量。",
+    "generatedImage": {
+      "assetId": "img-conditioning-power-before-fatigue-v1",
+      "alt": "爆发训练要放在疲劳前 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "速度、弹跳和反应训练需要神经清醒，别放在最累的时候硬做。",
+      "commonFailure": "打到很累后再做大量冲刺跳步，动作崩掉。",
+      "onCourtCue": "爆发先少量高质量。",
+      "verificationTest": "速度或跳步训练放在热身后，并在质量下降时停止。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-power-before-fatigue",
+        "title": "VR 爆发训练要放在疲劳前",
+        "durationMinutes": 8,
+        "instruction": "爆发先少量高质量。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "速度或跳步训练放在热身后，并在质量下降时停止。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-power-before-fatigue",
+        "title": "爆发训练要放在疲劳前",
+        "durationMinutes": 10,
+        "instruction": "速度或跳步训练放在热身后，并在质量下降时停止。",
+        "successSignal": "你能把“爆发先少量高质量。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "爆发训练要放在疲劳前这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "training.drill-rest-ratio",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.weekly-load-spike",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "conditioning.strength-minimum-dose",
+    "title": "力量训练先求最小有效剂量",
+    "category": "conditioning",
+    "topicIds": [
+      "movement-conditioning",
+      "body-strength"
+    ],
+    "tags": [
+      "conditioning",
+      "movement-conditioning",
+      "力量训练先求最小有效剂量"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "strength",
+      "spacing"
+    ],
+    "summary": "网球爱好者不需要一开始练成健身计划，先稳定做少量关键动作。",
+    "encyclopedia": "力量训练的目标是支持上场，而不是把恢复全部吃掉。对网球爱好者，先建立最小有效剂量：髋主导、蹲、推、拉、核心、提踵这些基础动作，每周少量稳定，比偶尔一次练爆更有价值。",
+    "generatedImage": {
+      "assetId": "img-conditioning-strength-minimum-dose-v1",
+      "alt": "力量训练先求最小有效剂量 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "网球爱好者不需要一开始练成健身计划，先稳定做少量关键动作。",
+      "commonFailure": "一开始力量训练过猛，影响之后两天打球。",
+      "onCourtCue": "少量稳定，比一次练爆好。",
+      "verificationTest": "每周 2 次 20 到 30 分钟基础力量，并记录是否影响打球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-conditioning-strength-minimum-dose",
+        "title": "VR 力量训练先求最小有效剂量",
+        "durationMinutes": 6,
+        "instruction": "少量稳定，比一次练爆好。。在 VR 或影子练习里先做低强度判断，不追求复杂动作。",
+        "successSignal": "每周 2 次 20 到 30 分钟基础力量，并记录是否影响打球。"
+      },
+      "realCourtCheck": {
+        "id": "court-conditioning-strength-minimum-dose",
+        "title": "力量训练先求最小有效剂量",
+        "durationMinutes": 8,
+        "instruction": "每周 2 次 20 到 30 分钟基础力量，并记录是否影响打球。",
+        "successSignal": "你能把“少量稳定，比一次练爆好。”变成训练前后的身体管理选择。"
+      }
+    },
+    "reviewPrompt": "力量训练先求最小有效剂量这张卡的身体管理判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "conditioning.core-anti-rotation",
+        "type": "supporting"
+      },
+      {
+        "targetId": "recovery.day-after-match",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

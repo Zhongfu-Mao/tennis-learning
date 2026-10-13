@@ -1,0 +1,13 @@
+{
+  "equipment.string.vr-low-court-stringing": {
+    "slug": "equipment-string-low-court-stringing",
+    "encyclopedia": "少上场玩家常觉得线没怎么打就不用管，但线床仍可能随时间、温度和少量高强度使用改变。最实用的方式是记录穿线日期、真实上场小时、主要问题和下一次上场前是否需要检查线床状态。",
+    "imageAlt": "少上场球友的球线维护原版配图，仍需检查是否适合 Wiki 语境。",
+    "hideInlineImage": true,
+    "note": "去除 VR 训练的原版句子，保持少上场球线维护主题；原文和图片完整留在 atlas 与 public 中。此编辑不升级事实审核状态。"
+  },
+  "tactics.deep-middle": {
+    "title": "深中路：相持中的大目标",
+    "note": "标题去除针对原用户的固定等级范围；原文中的条件与适用性仍需来源复核。"
+  }
+}

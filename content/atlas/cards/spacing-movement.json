@@ -1,0 +1,250 @@
+[
+  {
+    "id": "spacing.recovery-position",
+    "title": "每球之后要回位，不是站着看球",
+    "category": "spacing",
+    "topicIds": [
+      "spacing-footwork",
+      "vr-practice"
+    ],
+    "tags": [
+      "recovery",
+      "回位",
+      "court position",
+      "spacing",
+      "footwork"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "spacing",
+      "mindset"
+    ],
+    "summary": "击球后要主动回到与对手回球角度匹配的最优等待位，而不是停在原地欣赏球，否则下一球必被拉开。",
+    "encyclopedia": "回位不是机械跑回正中，而是根据自己这球的落点和对手可能的回球角度，回到能覆盖两边的最优等待位。2.7 到 3.5 阶段大量被动是因为击球后停顿、看球落点，等反应过来已经晚一步。回位是回合里最被低估的一步：它决定你下一球是从容还是追球。",
+    "generatedImage": {
+      "assetId": "img-spacing-recovery-position-v1",
+      "alt": "Overhead court diagram of a green recovery path back to the optimal waiting spot versus staying out of position."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你下一球总被拉开，根因常是上一球后没回位；先补回位，被动率立刻降。",
+      "commonFailure": "击球后停在原地看球，等发现要跑已经慢一步。",
+      "onCourtCue": "击球完立刻问：我现在的最优等待位在哪？小步回过去。",
+      "verificationTest": "20 个回合球，至少 15 球击球后主动回到与回球角度匹配的等待位。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recovery-reset",
+        "title": "VR 回位复位 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "每球击完只练立即回到最优等待位并 split，不追求击球质量。",
+        "successSignal": "你能在下一球来之前回到位并完成 split，而不是原地看球。"
+      },
+      "realCourtCheck": {
+        "id": "court-recovery-20",
+        "title": "回位 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球，只记录每球后是否主动回位并在对手触球时 split。",
+        "successSignal": "至少 15 球完成回位+split，被拉开次数明显下降。"
+      }
+    },
+    "reviewPrompt": "为什么下一球被拉开，问题常常出在上一球之后的哪一步？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "spacing.recover-from-wide",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "spacing.last-two-steps",
+    "title": "最后两步是调距离的微调步",
+    "category": "spacing",
+    "topicIds": [
+      "spacing-footwork",
+      "technique-models"
+    ],
+    "tags": [
+      "last two steps",
+      "最后两步",
+      "adjust",
+      "spacing",
+      "footwork"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "spacing",
+      "technique"
+    ],
+    "summary": "接近球时用最后两步做小幅距离微调，而不是大跨步冲进去；微调步决定你击球时是否站稳、距离是否正好。",
+    "encyclopedia": "到位分两段：大步快速移动覆盖距离，最后两步做精细距离微调。很多被挤到或伸手够球，不是没跑到，而是最后用大跨步冲进去、刹不住、距离全错。把最后两步当成调焦：小、快、稳，让身体停在离球正好的位置再出手。",
+    "generatedImage": {
+      "assetId": "img-spacing-last-two-steps-v1",
+      "alt": "Side view comparing a big lunging final stride that overshoots versus small adjusting last two steps that set a balanced contact."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你被挤到和伸手够球的痛点，很多出在最后两步用大跨步而不是微调步。",
+      "commonFailure": "大步冲到球边刹不住，距离不是太近就是太远，击球失衡。",
+      "onCourtCue": "快步到位，最后两步改小：小、快、停稳再出手。",
+      "verificationTest": "20 球里至少 14 球用小幅最后两步完成距离微调并保持平衡。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-last-two-steps-adjust",
+        "title": "VR 最后两步微调 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "刻意把最后两步改小、改快，只练停稳和距离正好，不发力。",
+        "successSignal": "你能用小碎步停在离球正好的位置，而不是冲过头或够不到。"
+      },
+      "realCourtCheck": {
+        "id": "court-last-two-steps-20",
+        "title": "最后两步 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球，只记录最后两步是否为小幅微调以及击球是否平衡。",
+        "successSignal": "至少 14 球用微调步停稳，距离判断为正好。"
+      }
+    },
+    "reviewPrompt": "到位之后还失衡，问题常出在最后两步是大跨步还是微调步？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "ball.bounce-window",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "spacing.recover-from-wide",
+    "title": "被拉到边线，先深回中再谈反攻",
+    "category": "spacing",
+    "topicIds": [
+      "spacing-footwork",
+      "match-tactics"
+    ],
+    "tags": [
+      "pulled wide",
+      "被拉开",
+      "recovery",
+      "defense",
+      "spacing"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "spacing",
+      "mindset"
+    ],
+    "summary": "被拉到边线时，优先打高过网、深回中路争取回位时间，而不是在失衡中追求边线制胜。",
+    "encyclopedia": "被拉到边线意味着你已经失去场地中心、时间也被压缩。此时打直线制胜既风险高又来不及回位，往往一球送两分。正确做法是用高过网的深中路把对手顶回去，同时全力回位；先把回合拉回中性，再谈反攻。被动球的目标是争取时间，不是逞强。",
+    "generatedImage": {
+      "assetId": "img-spacing-recover-from-wide-v2",
+      "alt": "Overhead court diagram of a player pulled wide choosing a green deep-middle reply with recovery arc versus a risky stretched down-the-line."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你被拉开后送分多，常因为失衡还想制胜；先学会深回中争取回位。",
+      "commonFailure": "被拉到边线还硬打直线，球没到位人也回不来，连丢主动。",
+      "onCourtCue": "被拉开就想：高过网、深中路、全力回位。",
+      "verificationTest": "10 个被拉到边线的球，至少 7 个选择深回中并完成回位。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-recover-from-wide-reset",
+        "title": "VR 被拉开复位 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "被喂到边线的球只练高过网深中路 + 立即回位，不打边线。",
+        "successSignal": "你能在被动时稳定深回中并回到位，而不是失衡硬攻。"
+      },
+      "realCourtCheck": {
+        "id": "court-recover-from-wide-10",
+        "title": "被拉开 10 球",
+        "durationMinutes": 8,
+        "instruction": "搭档把球喂到边线 10 次，记录你是否深回中并完成回位。",
+        "successSignal": "至少 7 球深回中路且回到等待位，没有失衡硬打直线。"
+      }
+    },
+    "reviewPrompt": "被拉到边线时，争取时间和追求制胜哪个才是优先级？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.recovery-position",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "spacing.stance-choice",
+    "title": "开放式与关闭式站位按时间选",
+    "category": "spacing",
+    "topicIds": [
+      "spacing-footwork",
+      "technique-models"
+    ],
+    "tags": [
+      "stance",
+      "open stance",
+      "站位",
+      "footwork",
+      "spacing"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "spacing",
+      "technique"
+    ],
+    "summary": "时间紧、被顶住时用开放式站位快速出手；有时间、要主动压进时用关闭式站位转体发力。选站位看的是时间，不是习惯。",
+    "encyclopedia": "开放式站位身体面向球网，启动快、回位快，适合时间紧、来球深或被顶住时；关闭式（侧身）站位转体充分、能向前压重心，适合有时间、要主动加力的球。错误不是用了某种站位，而是用错场合：被顶住还硬要侧身，结果来不及；有时间却开放式，发不出力。先判断这球有没有时间，再决定站位。",
+    "generatedImage": {
+      "assetId": "img-spacing-stance-choice-v1",
+      "alt": "Side-by-side diagram of an open stance for rushed time and a neutral stance for set-up balls, with situation arrows."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你被顶住时来不及、或有时间却发不出力，常因为站位选择没跟着时间走。",
+      "commonFailure": "被深球顶住还坚持侧身关闭式，转体没做完球已经过去。",
+      "onCourtCue": "先判断这球有没有时间：紧就开放式快出手，宽裕就侧身压进。",
+      "verificationTest": "20 球里至少 14 球的站位选择与可用时间匹配并保持平衡。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-stance-choice-readout",
+        "title": "VR 站位选择 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "每球先判断有无时间并喊开放或侧身，再据此站位，不追求力量。",
+        "successSignal": "你能在击球前根据时间选对站位，而不是固定一种习惯。"
+      },
+      "realCourtCheck": {
+        "id": "court-stance-choice-20",
+        "title": "站位选择 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球，每球记录站位选择是否与可用时间匹配。",
+        "successSignal": "至少 14 球站位与时间匹配且击球平衡。"
+      }
+    },
+    "reviewPrompt": "决定用开放式还是关闭式站位，最关键的判断依据是什么？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "spacing.last-two-steps",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

@@ -1,0 +1,855 @@
+[
+  {
+    "id": "equipment.racquet.stiffness",
+    "title": "硬度 RA 影响力量和手感",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "硬度",
+      "RA",
+      "舒适性",
+      "力量"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "球拍硬度描述拍框受力时弯曲多少，会影响力量反馈、控制感和手臂舒适度。",
+    "encyclopedia": "硬度 RA 越高，拍框越不容易弯，击球反馈更直接，借力更明显，但震动和冲击也可能更明显；RA 越低，拍框形变更大，手感更柔和，控制和舒适性通常更友好，但免费力量可能少一些。硬度不能单独判断好坏，它会和线种、磅数、拍框厚度、击球甜区一起决定最终手感。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-stiffness-v1",
+      "alt": "Tennis racquet stiffness RA comparison knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "如果你经常手臂不适，拍框硬度、线种和磅数要一起看。",
+      "commonFailure": "只追求出球快，忽略硬拍加硬线可能带来的冲击。",
+      "onCourtCue": "击球后手臂感觉是清晰反馈，还是刺手和震？",
+      "verificationTest": "同一线种下试打硬度不同的拍，记录舒适性和出球深度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-stiffness-comfort-note",
+        "title": "VR 冲击感想象",
+        "durationMinutes": 4,
+        "instruction": "把硬度理解成拍框形变差异，回忆自己真实击球时的震感和疲劳。",
+        "successSignal": "你能把硬度和舒适性、出球反馈联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-stiffness-comfort-check",
+        "title": "硬度舒适性检查",
+        "durationMinutes": 12,
+        "instruction": "用两支硬度不同的拍各打 20 球，记录手臂反馈、控球和深度。",
+        "successSignal": "你能说出哪支拍更舒服，以及代价是什么。"
+      }
+    },
+    "reviewPrompt": "球拍硬度和线床硬度，哪个更可能让你觉得震手？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.tension",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.beam",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.beam",
+    "title": "拍框厚度改变力量来源",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "拍框厚度",
+      "力量",
+      "控制",
+      "稳定"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "厚框通常更稳定、更容易借力，薄框通常反馈更细、更强调主动发力和控制。",
+    "encyclopedia": "拍框厚度会影响拍框刚性和空气阻力，也会改变击球时的稳定感。厚框拍常见于力量型、容错型球拍，适合需要更多深度和稳定的人；薄框拍更常见于控制型球拍，反馈更清楚，但要求你有更稳定的发力和触球质量。选拍时要把厚度和硬度、重量、挥重一起看。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-beam-v1",
+      "alt": "Tennis racquet beam thickness comparison knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你如果经常打不深，厚框可能帮你；如果经常飞，薄框和控制取向可能更安心。",
+      "commonFailure": "只看拍面和重量，忽略拍框厚度对出球和稳定性的影响。",
+      "onCourtCue": "这支拍是在帮我把球送深，还是让我更清楚地控制落点？",
+      "verificationTest": "同样节奏打深区 20 球，比较厚框和薄框的深度稳定性。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-beam-depth-imagery",
+        "title": "VR 深度感联想",
+        "durationMinutes": 4,
+        "instruction": "练习时把拍框厚度和出球深度联系起来，观察自己需要多少主动发力。",
+        "successSignal": "你能理解厚框不是高级或低级，而是力量和控制取舍。"
+      },
+      "realCourtCheck": {
+        "id": "court-beam-depth-check",
+        "title": "厚薄框深度检查",
+        "durationMinutes": 10,
+        "instruction": "用不同厚度球拍各打 20 个底线球，记录落点深浅和飞球次数。",
+        "successSignal": "你能判断哪种厚度更适合当前发力质量。"
+      }
+    },
+    "reviewPrompt": "厚框带来的帮助，可能会在哪些情况下变成失控？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.stiffness",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.string-pattern",
+    "title": "线床密度影响旋转和控制",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets",
+      "equipment-strings"
+    ],
+    "tags": [
+      "球拍",
+      "线床",
+      "16x19",
+      "18x20",
+      "旋转",
+      "控制"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "开放线床更容易咬球和打出旋转，密集线床通常更稳定、更强调方向控制。",
+    "encyclopedia": "线床密度指竖线和横线的数量与间距。开放线床如 16x19，线间距更大，球更容易陷入线床并产生线的回弹，有利于旋转和抛物线；密集线床如 18x20，线间距更小，出球更稳定，方向感更清楚，但对主动发力和击球质量要求更高。线床效果还会受到线种、线径和磅数影响。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-string-pattern-v1",
+      "alt": "Tennis string pattern comparison card showing open and dense string beds."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你想要上旋安全感，线床可能比你想象中更影响弧线。",
+      "commonFailure": "把旋转不足全怪动作，没看线床和线种是否支持咬球。",
+      "onCourtCue": "同样刷球时，球是容易拱起来，还是更平直冲出去？",
+      "verificationTest": "用开放和密集线床各打 20 个上旋球，比较过网高度和落点。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-string-pattern-arc",
+        "title": "VR 弧线观察",
+        "durationMinutes": 5,
+        "instruction": "练习上旋时观察球路弧线，把线床密度作为装备变量记下来。",
+        "successSignal": "你能解释为什么不同线床会改变安全弧线。"
+      },
+      "realCourtCheck": {
+        "id": "court-string-pattern-topspin",
+        "title": "线床上旋对照",
+        "durationMinutes": 12,
+        "instruction": "两支线床不同的拍各打 20 球，记录下网、出界和落点深度。",
+        "successSignal": "你能判断哪种线床更符合当前上旋能力。"
+      }
+    },
+    "reviewPrompt": "16x19 和 18x20 的差别，为什么不能只理解成线多线少？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.gauge",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spin.topspin",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.poly",
+    "title": "聚酯线给旋转也给门槛",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "聚酯线",
+      "旋转",
+      "控制",
+      "舒适性"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "聚酯线常被用来获得控制和旋转潜力，但它更硬、更吃挥速，也更需要关注手臂负担。",
+    "encyclopedia": "聚酯线的优势通常在控制、耐用和旋转潜力，尤其适合挥速足、能主动刷球的人。它的代价是手感偏硬、弹性衰减后容易变钝，对手臂不一定友好。初学和中低阶球员如果挥速不足，聚酯线未必能自动带来旋转，反而可能让球浅、手臂紧、失误多。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-poly-v1",
+      "alt": "Polyester tennis string knowledge card about spin, control and comfort tradeoffs."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你想学上旋，但线太硬会让你更紧，反而刷不出来。",
+      "commonFailure": "看到职业球员用聚酯线，就以为自己也应该全床硬聚。",
+      "onCourtCue": "线是在帮我控制，还是让我每一拍都要更用力？",
+      "verificationTest": "换线后记录 3 次练习的深度、旋转感和手臂疲劳。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-poly-swing-speed",
+        "title": "VR 挥速门槛",
+        "durationMinutes": 5,
+        "instruction": "练习上旋时观察自己是否能放松加速，而不是靠手臂硬拉。",
+        "successSignal": "你知道聚酯线需要挥速和放松配合。"
+      },
+      "realCourtCheck": {
+        "id": "court-poly-comfort-log",
+        "title": "聚酯线三次日志",
+        "durationMinutes": 5,
+        "instruction": "每次打完记录球深、出界、下网、手臂疲劳和线床感觉。",
+        "successSignal": "你能判断聚酯线是帮助控制，还是让动作变紧。"
+      }
+    },
+    "reviewPrompt": "聚酯线为什么不是“上旋外挂”？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.tension",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.hybrid",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.synthetic-gut",
+    "title": "尼龙线是最稳的入门基准",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "尼龙线",
+      "synthetic gut",
+      "舒适",
+      "基准"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "尼龙线价格友好、手感均衡，适合作为判断自己真正需求的第一条基准线。",
+    "encyclopedia": "尼龙线常见、便宜、弹性和舒适性比较均衡，是很多球员理解线床手感的起点。它不一定在旋转、耐用或极致控制上突出，但能提供清楚的基准：如果你不知道自己需要什么，先用稳定的尼龙线建立参照，比一开始就追职业配置更可靠。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-synthetic-gut-v1",
+      "alt": "Synthetic gut tennis string baseline knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你需要先知道正常线床是什么感觉，才知道之后该换什么。",
+      "commonFailure": "还没建立基准，就直接追求硬聚、低磅或混线。",
+      "onCourtCue": "这条线是否让我能放松把球打深，并且手臂不紧？",
+      "verificationTest": "用尼龙线记录 3 次练习，建立深度、舒适和控制的个人基准。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-synthetic-gut-baseline",
+        "title": "VR 基准手感记录",
+        "durationMinutes": 4,
+        "instruction": "把尼龙线理解成装备基准，练习后写下你最需要补的是力量、旋转还是控制。",
+        "successSignal": "你能用基准线描述自己的装备需求。"
+      },
+      "realCourtCheck": {
+        "id": "court-synthetic-gut-baseline",
+        "title": "三次基准线记录",
+        "durationMinutes": 5,
+        "instruction": "连续三次上场都记录同一套指标：深度、飞球、手臂疲劳、线床弹性。",
+        "successSignal": "你能判断下一次换线该改变什么变量。"
+      }
+    },
+    "reviewPrompt": "为什么一条普通尼龙线反而适合建立装备基准？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.tension",
+        "type": "next"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.natural-gut-multi",
+    "title": "天然肠和复丝主打弹性舒适",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "天然肠线",
+      "复丝",
+      "舒适",
+      "弹性"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "天然肠线和复丝线通常更弹、更舒服，适合重视手感、深度和手臂保护的人。",
+    "encyclopedia": "天然肠线以弹性、保磅和舒适著称，但价格高、维护要求也高；复丝线用多股纤维模拟柔软和弹性，成本更低，是舒适取向的常见选择。它们通常不如聚酯线耐磨和强控，但能让球更容易打深，手臂负担更小。对需要保护手臂或想要轻松深度的人，这类线值得认真考虑。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-natural-gut-multi-v1",
+      "alt": "Natural gut and multifilament tennis string comfort comparison knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "装备不该逼你硬发力；舒适线可以帮你先打出稳定深度。",
+      "commonFailure": "把舒服误解成低级，忽略自己手臂和挥速的现实条件。",
+      "onCourtCue": "球是否更容易过网打深，同时手臂更放松？",
+      "verificationTest": "用舒适线打一小时，比较深度稳定性和第二天手臂反馈。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-comfort-string-depth",
+        "title": "VR 放松深度联想",
+        "durationMinutes": 5,
+        "instruction": "练习时关注放松挥拍和深度，不把每一拍都打成硬发力。",
+        "successSignal": "你能把舒适线和放松输出联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-comfort-string-check",
+        "title": "舒适线一小时检查",
+        "durationMinutes": 60,
+        "instruction": "打一小时后记录深度、控球、线床弹性和手臂疲劳。",
+        "successSignal": "你能判断舒适性是否换来了更稳定的输出。"
+      }
+    },
+    "reviewPrompt": "舒服的线为什么可能帮助你进步，而不是拖慢你？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.hybrid",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.tension",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.gauge",
+    "title": "线径越细越咬球也越脆",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "线径",
+      "耐用",
+      "旋转",
+      "手感"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "线径影响咬球、手感、耐用和断线速度，细线通常更灵敏，粗线通常更耐打。",
+    "encyclopedia": "线径越细，线床通常更容易形变，触球反馈更灵敏，也更容易带来咬球和旋转感；线径越粗，耐用性通常更好，线床更稳，但手感可能更钝。线径不是独立答案，它要和线种、线床密度、磅数以及你是否容易断线一起决定。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-gauge-v1",
+      "alt": "Tennis string gauge comparison card showing thin and thick string tradeoffs."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你如果打不出咬球感，线径可能是比换拍更小、更便宜的变量。",
+      "commonFailure": "只问线种，不问线径，结果同一条线打出完全不同感觉。",
+      "onCourtCue": "线床是灵敏咬球，还是稳定但偏钝？",
+      "verificationTest": "同线种不同线径各试一次，记录旋转感、耐用和舒适性。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-gauge-feel-map",
+        "title": "VR 线径变量图",
+        "durationMinutes": 4,
+        "instruction": "把线径当作装备变量，练习后写下自己更需要灵敏还是耐用。",
+        "successSignal": "你能说出细线和粗线的取舍。"
+      },
+      "realCourtCheck": {
+        "id": "court-gauge-comparison",
+        "title": "线径对照记录",
+        "durationMinutes": 10,
+        "instruction": "试打不同线径时只比较三项：咬球感、飞球控制、线床舒适。",
+        "successSignal": "你能判断线径调整是否解决了当前问题。"
+      }
+    },
+    "reviewPrompt": "为什么同一种球线换个线径，手感也可能明显不同？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.string-pattern",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.string.tension",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.tension",
+    "title": "磅数不是越高越控",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "磅数",
+      "控制",
+      "力量",
+      "舒适性"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "磅数改变线床弹性和出球角度，高低都不是绝对答案，要围绕深度、控制和舒适性调整。",
+    "encyclopedia": "较高磅数通常让线床更紧，出球更直接，控制感更强，但甜区、力量和舒适性可能下降；较低磅数通常更弹、更容易打深，也更舒服，但如果挥拍和拍面管理不稳定，可能觉得球飞。磅数要结合线种：硬聚、尼龙、复丝和天然肠的合理区间和手感完全不同。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-tension-v1",
+      "alt": "Tennis string tension knowledge card explaining power, control and comfort tradeoffs."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "很多飞球不是磅数低造成的，而是拍面和挥拍路径不稳定。",
+      "commonFailure": "一飞就加磅，结果球浅、手臂紧、动作更不放松。",
+      "onCourtCue": "我需要更稳的拍面，还是更合适的线床弹性？",
+      "verificationTest": "只改 2-3 磅试一次，记录深度、飞球、下网和手臂反馈。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tension-depth-control",
+        "title": "VR 深度控制分辨",
+        "durationMinutes": 5,
+        "instruction": "练习时分开记录飞球原因：拍面开、挥太平、还是想象中的线床太弹。",
+        "successSignal": "你不会把所有出界都归因于磅数。"
+      },
+      "realCourtCheck": {
+        "id": "court-tension-small-step",
+        "title": "小幅磅数实验",
+        "durationMinutes": 10,
+        "instruction": "下一次换线只改一个变量，磅数小幅调整，并记录四项失误。",
+        "successSignal": "你能用证据判断加磅或降磅是否有效。"
+      }
+    },
+    "reviewPrompt": "为什么“飞了就加磅”可能是错误诊断？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.poly",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.string.hybrid",
+    "title": "混线是在组合取舍",
+    "category": "equipment-string",
+    "topicIds": [
+      "equipment-strings"
+    ],
+    "tags": [
+      "球线",
+      "混线",
+      "竖线",
+      "横线",
+      "舒适",
+      "控制"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "混线用不同竖线和横线组合旋转、控制、弹性、舒适和耐用，不是简单叠加优点。",
+    "encyclopedia": "混线通常用竖线决定主要触球性格，横线调节舒适、弹性和线床反应。比如聚酯搭配复丝或天然肠，可以在控制与舒适之间找平衡；但混线也会带来更复杂的掉磅、磨损和手感变化。只有当你已经知道单一线种的问题在哪里，混线才更有意义。",
+    "generatedImage": {
+      "assetId": "img-equipment-string-hybrid-v1",
+      "alt": "Hybrid tennis string setup knowledge card showing mains and crosses."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "混线能细调手感，但前提是你知道自己要解决什么问题。",
+      "commonFailure": "听到职业配置就照抄，不知道竖线横线各承担什么。",
+      "onCourtCue": "我是在解决控制、舒适、旋转、耐用中的哪一个？",
+      "verificationTest": "混线前后各记录 3 次，比较原本问题是否真的改善。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-hybrid-problem-first",
+        "title": "VR 问题优先",
+        "durationMinutes": 4,
+        "instruction": "先写下当前线床最大问题，再决定混线想解决的唯一主问题。",
+        "successSignal": "你能先定义问题，再谈混线方案。"
+      },
+      "realCourtCheck": {
+        "id": "court-hybrid-three-session",
+        "title": "混线三次复盘",
+        "durationMinutes": 5,
+        "instruction": "混线后连续三次记录舒适、控制、旋转、耐用和掉磅感。",
+        "successSignal": "你能判断混线是否比单线更适合你。"
+      }
+    },
+    "reviewPrompt": "混线之前，为什么要先知道单线到底哪里不满足你？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.poly",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.string.natural-gut-multi",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.grip.size",
+    "title": "手柄号决定放松还是硬抓",
+    "category": "equipment-grip",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "握把",
+      "手柄号",
+      "放松",
+      "手腕",
+      "控拍"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "手柄太大或太小都会影响放松握拍、手腕活动和拍面稳定。",
+    "encyclopedia": "手柄号不是小细节。太小可能让你不自觉攥紧，击球时拍面容易扭；太大可能限制手腕和握法转换，让放松加速变困难。常见经验法可以作为初筛，但最终要结合握把胶厚度、手掌大小、握拍习惯和上场后的放松程度判断。",
+    "generatedImage": {
+      "assetId": "img-equipment-grip-size-v1",
+      "alt": "Tennis grip size knowledge card about hand fit and relaxed control."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你如果总是手臂紧，握把尺寸和胶厚可能在偷偷加剧问题。",
+      "commonFailure": "只看球拍参数，不检查手柄是否让自己越打越用力抓。",
+      "onCourtCue": "握拍是否能放松到还能快速调整拍面？",
+      "verificationTest": "连续打 15 分钟后，观察手掌和前臂是否明显紧绷。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-grip-relaxation",
+        "title": "VR 放松握拍",
+        "durationMinutes": 5,
+        "instruction": "练习中每 5 球检查一次手是否过度用力，建立放松握拍意识。",
+        "successSignal": "你能在快节奏中发现自己何时硬抓。"
+      },
+      "realCourtCheck": {
+        "id": "court-grip-size-relaxation",
+        "title": "握把放松检查",
+        "durationMinutes": 10,
+        "instruction": "用当前握把打一组对拉，记录是否容易调整握法和拍面。",
+        "successSignal": "你能判断手柄大小是否影响放松控拍。"
+      }
+    },
+    "reviewPrompt": "为什么握把不合适会让你误以为自己技术紧？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.overgrip",
+        "type": "next"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.grip.overgrip",
+    "title": "吸汗带是手感消耗品",
+    "category": "equipment-grip",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "握把",
+      "吸汗带",
+      "防滑",
+      "手感",
+      "维护"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "吸汗带会磨损、变滑、变厚或变硬，应该按使用频率更换，而不是等到完全脏了才换。",
+    "encyclopedia": "吸汗带影响防滑、握把粗细和触感。新胶太厚、旧胶太滑、汗多时失去摩擦，都会改变你对球拍的控制。很多拍面不稳和手臂紧张，其实来自你在下意识防止球拍滑动。把吸汗带当作消耗品，建立固定更换节奏，比临场硬抓更可靠。",
+    "generatedImage": {
+      "assetId": "img-equipment-grip-overgrip-v1",
+      "alt": "Tennis overgrip maintenance knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "稳定握拍是稳定拍面的前提，吸汗带太滑会让动作变紧。",
+      "commonFailure": "球拍滑了还怪自己控拍差，继续越抓越紧。",
+      "onCourtCue": "我是在握拍，还是在防滑？",
+      "verificationTest": "换新吸汗带后打一组球，比较拍面稳定和手臂放松程度。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-overgrip-relax-check",
+        "title": "VR 防滑意识",
+        "durationMinutes": 4,
+        "instruction": "练习时感受自己是否为了防滑而硬抓球拍。",
+        "successSignal": "你能把握把状态和动作紧张联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-overgrip-fresh-check",
+        "title": "新旧吸汗带对照",
+        "durationMinutes": 10,
+        "instruction": "换新吸汗带前后各打一组，记录防滑、握感和拍面稳定。",
+        "successSignal": "你能决定自己的更换周期。"
+      }
+    },
+    "reviewPrompt": "为什么吸汗带太滑会间接影响拍面稳定？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.grip.size",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.outsole",
+    "title": "鞋底纹路要匹配场地",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "硬地鞋",
+      "红土鞋",
+      "草地鞋",
+      "外底"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "spacing"
+    ],
+    "summary": "网球鞋外底不是装饰，硬地、红土、草地需要不同抓地和滑动策略。",
+    "encyclopedia": "硬地鞋通常重视耐磨和多方向支撑；红土鞋常见人字纹外底，帮助在颗粒场地上抓地并可控滑动；草地鞋需要在低摩擦草面上提供抓地，但又不能破坏场地。穿错外底可能让你滑不动、停不住，或者在启动时失去安全感。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-outsole-v1",
+      "alt": "Tennis shoe outsole comparison for hard court, clay and grass."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你想练步伐，鞋底先要让你安全启动和刹车。",
+      "commonFailure": "用跑鞋或不合场地的鞋打球，结果急停横移都不敢做。",
+      "onCourtCue": "启动、横移、急停时，鞋底是在帮我还是让我犹豫？",
+      "verificationTest": "做 10 次小碎步启动和 10 次横向刹车，观察是否稳定不打滑。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-shoe-outsole-awareness",
+        "title": "VR 场地鞋底联想",
+        "durationMinutes": 4,
+        "instruction": "在 VR 横移时想象真实场地抓地差异，把步伐安全放在第一位。",
+        "successSignal": "你能说出不同场地为什么需要不同鞋底。"
+      },
+      "realCourtCheck": {
+        "id": "court-outsole-stop-start",
+        "title": "启动刹车检查",
+        "durationMinutes": 8,
+        "instruction": "在当前场地做小范围启动、横移、刹车，记录抓地和滑动是否可控。",
+        "successSignal": "你能判断这双鞋是否适合当前场地。"
+      }
+    },
+    "reviewPrompt": "为什么跑鞋不适合替代网球鞋？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.support",
+        "type": "next"
+      },
+      {
+        "targetId": "spacing.split-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.shoe.support",
+    "title": "网球鞋要保护横向移动",
+    "category": "equipment-footwear",
+    "topicIds": [
+      "equipment-footwear"
+    ],
+    "tags": [
+      "球鞋",
+      "支撑",
+      "缓震",
+      "横移",
+      "安全"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "spacing",
+      "strength"
+    ],
+    "summary": "网球有大量横移、急停和变向，鞋子的侧向支撑比单纯轻便更重要。",
+    "encyclopedia": "跑步主要是前后方向，网球则充满横向启动、分腿垫步、急停、交叉步和回位。好的网球鞋会在外底、鞋面和中足结构上提供侧向支撑，减少脚在鞋内滑动和翻转风险。缓震重要，但不能只追软；太软太高的鞋可能让横向稳定变差。",
+    "generatedImage": {
+      "assetId": "img-equipment-shoe-support-v1",
+      "alt": "Tennis shoe lateral support and cushioning knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你如果不敢横移发力，很多技术训练都会被脚下安全感限制。",
+      "commonFailure": "只买轻和软，忽略横移时脚是否被稳定包住。",
+      "onCourtCue": "急停时脚是在鞋里稳住，还是在鞋里滑动？",
+      "verificationTest": "做 10 次横向急停，观察脚踝和膝盖是否有不安全感。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-shoe-support-footwork",
+        "title": "VR 横移安全意识",
+        "durationMinutes": 5,
+        "instruction": "练习横移时关注真实上场需要的启动、刹车和重心控制。",
+        "successSignal": "你知道鞋的支撑会影响你敢不敢做步伐。"
+      },
+      "realCourtCheck": {
+        "id": "court-shoe-lateral-support",
+        "title": "侧向支撑检查",
+        "durationMinutes": 8,
+        "instruction": "左右移动到定点击球位置，记录脚在鞋内是否滑动。",
+        "successSignal": "你能判断当前鞋是否支持横向移动。"
+      }
+    },
+    "reviewPrompt": "为什么网球鞋不能只看轻、软、好走？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.split-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.accessory.dampener",
+    "title": "减震器主要改声音和手感",
+    "category": "equipment-accessory",
+    "topicIds": [
+      "equipment-racquets",
+      "equipment-strings"
+    ],
+    "tags": [
+      "减震器",
+      "球线",
+      "震动",
+      "手感",
+      "声音"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "减震器主要减少线床的高频振动和声音，不应该被当作解决手臂伤痛的核心方案。",
+    "encyclopedia": "减震器装在线床下方，常见效果是改变击球声音和线床振动感，让手感更闷或更安静。它不能替代合适的球拍硬度、线种、磅数、动作放松和训练负荷管理。如果手臂不舒服，先检查线床、拍框、握把、击球点和训练量，而不是把减震器当成唯一答案。",
+    "generatedImage": {
+      "assetId": "img-equipment-accessory-dampener-v1",
+      "alt": "Tennis dampener knowledge card explaining sound and feel rather than injury prevention."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你需要知道哪些装备改变是真作用，哪些只是手感偏好。",
+      "commonFailure": "手臂不舒服只换减震器，却不检查硬线、高磅和击球紧张。",
+      "onCourtCue": "装上后是声音变了，还是击球负担真的变了？",
+      "verificationTest": "同一组球装和不装各打一遍，只比较声音、振动感和控球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-dampener-myth-check",
+        "title": "VR 装备迷思辨认",
+        "durationMinutes": 3,
+        "instruction": "列出一个手臂不舒服时应该先检查的装备变量，而不是只想到减震器。",
+        "successSignal": "你能把减震器放回正确优先级。"
+      },
+      "realCourtCheck": {
+        "id": "court-dampener-ab-check",
+        "title": "减震器 AB 检查",
+        "durationMinutes": 8,
+        "instruction": "同一球拍装和不装减震器各打 10 球，记录声音、振动和控球差异。",
+        "successSignal": "你能判断自己喜欢的是声音变化还是实际手感变化。"
+      }
+    },
+    "reviewPrompt": "为什么减震器不能替代线种、磅数和动作放松？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.string.tension",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.stiffness",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  }
+]

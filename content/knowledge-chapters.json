@@ -1,0 +1,38 @@
+[
+  {
+    "id": "all",
+    "label": "全部"
+  },
+  {
+    "id": "history_rules",
+    "label": "起源规则"
+  },
+  {
+    "id": "courts_balls",
+    "label": "场地球感"
+  },
+  {
+    "id": "gear_strings",
+    "label": "球拍球线"
+  },
+  {
+    "id": "spin_physics",
+    "label": "旋转物理"
+  },
+  {
+    "id": "court_zones",
+    "label": "区域目标"
+  },
+  {
+    "id": "levels_training",
+    "label": "等级训练"
+  },
+  {
+    "id": "tactics_language",
+    "label": "战术语言"
+  },
+  {
+    "id": "body_recovery",
+    "label": "装备身体"
+  }
+]

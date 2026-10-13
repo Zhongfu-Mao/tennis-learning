@@ -1,0 +1,15 @@
+{
+  "name": "tennis-learning",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "面向球友的网球 Wiki 内容与迁移交接工程",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "content:generate": "node scripts/wiki-content.mjs --write",
+    "content:check": "node scripts/wiki-content.mjs --check",
+    "test": "npm run content:check",
+    "reference:test": "npm --prefix reference/progression-assistant test",
+    "reference:build": "npm --prefix reference/progression-assistant run build"
+  }
+}

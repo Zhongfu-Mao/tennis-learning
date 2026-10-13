@@ -1,0 +1,251 @@
+[
+  {
+    "id": "spin.topspin",
+    "title": "上旋是安全弧线，不是往上刷",
+    "category": "spin",
+    "topicIds": [
+      "spin-physics",
+      "technique-models"
+    ],
+    "tags": [
+      "topspin",
+      "上旋",
+      "trajectory",
+      "safety arc",
+      "net clearance"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "technique",
+      "progression"
+    ],
+    "summary": "上旋的价值是更高的过网弧线和落地后下坠，让你能打深又不容易出界，而不是把球往上刷高。",
+    "encyclopedia": "上旋让球在空中向前下坠、落地后向前跳。它给你的不是花哨，而是更大的容错：同样的深度，上旋可以用更高的过网高度换更低的出界风险。2.7 到 3.5 阶段最常见的误解是把上旋理解成手腕往上刷，结果球软、没深度。真正的上旋是球拍向前通过球、同时刷过球的后上方，弧线先升后沉。",
+    "generatedImage": {
+      "assetId": "img-spin-topspin-arc-v1",
+      "alt": "Side view comparing a flat low-risk line and a high topspin safety arc that dips into the deep court."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你现在很多出界其实是平击线路太贴网；上旋先解决容错，再谈速度。",
+      "commonFailure": "只用手腕往上刷，球飞高但没向前，落点浅又没威胁。",
+      "onCourtCue": "想着向前通过球，让弧线高过网带一点余量，再下沉。",
+      "verificationTest": "20 球用上旋打深，至少 14 球过网有明显余量且落在发球线后半段。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-topspin-arc-window",
+        "title": "VR 上旋弧线窗口 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "只盯过网高度和落点深度，先用 70% 力量把弧线打高再打深，不追速度。",
+        "successSignal": "你能稳定让球高过网且落到深区，而不是贴网平飞。"
+      },
+      "realCourtCheck": {
+        "id": "court-topspin-depth-20",
+        "title": "上旋深度 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球只打上旋，记录过网余量和深度，不记速度。",
+        "successSignal": "至少 14 球过网有余量并落到发球线后半段。"
+      }
+    },
+    "reviewPrompt": "上旋真正给你的安全优势是什么——是球转得快，还是过网弧线和落地下坠？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      },
+      {
+        "targetId": "trajectory.net-clearance",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "spin.slice",
+    "title": "切削不是逃避发力，是给球加刹车",
+    "category": "spin",
+    "topicIds": [
+      "spin-physics",
+      "technique-models"
+    ],
+    "tags": [
+      "slice",
+      "backspin",
+      "下旋",
+      "切削",
+      "defense",
+      "time"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "technique",
+      "mindset"
+    ],
+    "summary": "切削（下旋）让球贴地慢走、为你争取回位时间，是被动球和过渡球的合法选择，不是不敢发力。",
+    "encyclopedia": "下旋让球落地后减速、弹得更低。它的核心用途不是进攻，而是控制时间和高度：被动时用深切削把对手顶回去并争取回位；对手低球时用切削逼对方从低点起球。2.7 到 3.5 阶段常见心理误区是把所有非上旋球当成逃避，结果被动球还硬抽，失误反而更多。",
+    "generatedImage": {
+      "assetId": "img-spin-slice-skid-v2",
+      "alt": "Side view of a low skidding backspin path staying under shoulder height versus a high topspin bounce."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你被动球失误多，常因为没有一个低风险的过渡选项；切削先给你时间，再谈反攻。",
+      "commonFailure": "被动球还想上旋强攻，击球点已经过晚，只能勉强救球失误。",
+      "onCourtCue": "被动时想：深切削、过网稳、把对手顶回底线。",
+      "verificationTest": "10 个被动来球用深切削处理，至少 7 个过网安全且落到对方底线区。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-slice-defense-rescue",
+        "title": "VR 切削防守 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "只练被动球切削：低引拍、拍面稳、向前送，先求深和稳不求转。",
+        "successSignal": "你能在被动时用切削把球安全送深，而不是勉强抽失误。"
+      },
+      "realCourtCheck": {
+        "id": "court-slice-depth-10",
+        "title": "被动切削 10 球",
+        "durationMinutes": 8,
+        "instruction": "让搭档喂偏深偏顶的球，全部用切削处理，记录过网与深度。",
+        "successSignal": "至少 7 球安全过网并落到对方底线半场。"
+      }
+    },
+    "reviewPrompt": "被动球时切削帮你争取的到底是什么——是更帅，还是时间和高度控制？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "trajectory.net-clearance",
+    "title": "过网高度是你的安全预算",
+    "category": "trajectory",
+    "topicIds": [
+      "spin-physics",
+      "match-tactics"
+    ],
+    "tags": [
+      "net clearance",
+      "过网高度",
+      "trajectory",
+      "safety",
+      "depth"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "technique",
+      "progression"
+    ],
+    "summary": "稳定性先看过网高度和深度，再看方向和速度。压力分提高过网高度，等于给自己买失误保险。",
+    "encyclopedia": "网像收费站，过网高度就是你的失误预算。贴网平球回合短但风险高，稍有偏差就下网；高过网的深球落点更可控、容错更大。对 2.7 到 3.5 阶段，稳定性的优先级是高度优先于深度、深度优先于方向、方向优先于速度。很多下网失误不是动作坏，而是预算给得太低。",
+    "generatedImage": {
+      "assetId": "img-trajectory-net-clearance-v1",
+      "alt": "Side view showing a thin risky low-over-the-net line versus a generous high clearance band landing deep."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你的下网失误很多来自过网太低；先抬高安全预算，失误自然降。",
+      "commonFailure": "压力分还想贴网打快，余量为零，稍偏就下网。",
+      "onCourtCue": "压力分和被动球：先想过网一个身位高，再想深中路。",
+      "verificationTest": "压力情境 20 球，至少 15 球过网有清晰余量且不下网。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-net-clearance-band",
+        "title": "VR 过网余量带 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "想象网上方有一条余量带，所有球必须从带里穿过，先不管速度。",
+        "successSignal": "你能稳定从余量带穿过并落深，下网明显减少。"
+      },
+      "realCourtCheck": {
+        "id": "court-net-clearance-20",
+        "title": "过网余量 20 球",
+        "durationMinutes": 8,
+        "instruction": "对拉 20 球只盯过网余量与是否下网，记录下网次数。",
+        "successSignal": "下网少于 4 次，且至少 15 球落到深区。"
+      }
+    },
+    "reviewPrompt": "压力分时你最先该调高的是速度、方向，还是过网高度？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      },
+      {
+        "targetId": "spin.topspin",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "ball.bounce-window",
+    "title": "弹跳点决定你的击球窗口",
+    "category": "ball-quality",
+    "topicIds": [
+      "spin-physics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "bounce",
+      "contact window",
+      "弹跳点",
+      "timing",
+      "rising ball"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "spacing",
+      "technique"
+    ],
+    "summary": "击球点不是一个点，而是上升期、最高点、下落期组成的一段窗口；选错位置动作就会变形。",
+    "encyclopedia": "球落地后像钟摆：上升期能抢时间但难控、最高点最稳定、下落期最被动还容易被压。被挤到和击球点晚，往往不是手慢，而是没在弹跳窗口里选对位置。先学会判断球在窗口的哪一段，再决定抢上升点还是退到最高点。",
+    "generatedImage": {
+      "assetId": "img-ball-bounce-window-v1",
+      "alt": "Side view of a bounce parabola with three contact options marked: rising, peak, and dropping."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你常被挤到或击球点晚，先解决在弹跳窗口里的选择，再谈挥拍。",
+      "commonFailure": "总在下落期才打，动作被迫变形，还以为是手法问题。",
+      "onCourtCue": "对手触球就判断：这球我抢上升点，还是退一步等最高点？",
+      "verificationTest": "20 球里至少 14 球能在击球前说出抢上升或等最高，并保持平衡。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-bounce-window-callout",
+        "title": "VR 弹跳窗口喊声 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "每球击球前喊上升、最高或下落，只练判断不追求力量。",
+        "successSignal": "你能在击球前说出窗口位置，而不是打完才发现晚了。"
+      },
+      "realCourtCheck": {
+        "id": "court-bounce-window-20",
+        "title": "弹跳窗口 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球，每球击球前报窗口位置并记录是否保持平衡。",
+        "successSignal": "至少 14 球判断正确且击球时身体稳定。"
+      }
+    },
+    "reviewPrompt": "为什么总在下落期击球会让动作变形——是手法问题还是窗口选择问题？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

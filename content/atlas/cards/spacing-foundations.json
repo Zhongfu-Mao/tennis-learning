@@ -1,0 +1,185 @@
+[
+  {
+    "id": "spacing.split-timing",
+    "title": "Split 不是跳，是落地后能启动",
+    "category": "spacing",
+    "topicIds": [
+      "spacing-footwork",
+      "vr-practice"
+    ],
+    "tags": [
+      "split step",
+      "spacing",
+      "footwork",
+      "vr"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "spacing",
+      "technique"
+    ],
+    "summary": "split step 的价值不是跳起来，而是在对手触球前后完成预备落地，让身体能向任意方向启动。",
+    "encyclopedia": "Split step 是网球移动中的预备落地动作。它通常发生在对手触球前后，让重心降低、双脚准备承重，并让下一步可以向前、侧向或后退启动。初学者常把 split 当成一个显眼的跳跃动作，但真正重要的是落地时机和落地后的方向选择。",
+    "generatedImage": {
+      "assetId": "img-split-timing-field-guide-v2",
+      "alt": "A tennis player landing from a split step as the opponent contacts the ball, with visual timing cues."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你当前最常见的问题之一是被挤到或启动晚。split timing 先解决判断和启动，再谈挥拍细节。",
+      "commonFailure": "只顾着跳，落地时已经太晚，结果还是追着球跑。",
+      "onCourtCue": "对手触球时轻喊 split，落地后先判断近、正好、远。",
+      "verificationTest": "连续 30 球中记录距离判断，被挤到次数少于 6 次。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-split-depth-read",
+        "title": "VR 深浅判断 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "每次对手挥拍时轻喊 split，只追提前判断深浅，不追求大力击球。",
+        "successSignal": "你能在击球前说出近、正好、远，而不是打完才发现被挤到。"
+      },
+      "realCourtCheck": {
+        "id": "court-split-distance-check",
+        "title": "30 球距离判断",
+        "durationMinutes": 10,
+        "instruction": "对拉 30 球，每球击球前说出距离判断，结束后记录被挤到次数。",
+        "successSignal": "被挤到少于 6 次，并且失误后能说清是启动晚还是最后两步太大。"
+      }
+    },
+    "reviewPrompt": "split step 最重要的是跳得高，还是落地后能启动？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "next"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "spacing.contact-distance",
+    "title": "击球距离先判断太近、正好、太远",
+    "category": "spacing",
+    "topicIds": [
+      "spacing-footwork",
+      "technique-models"
+    ],
+    "tags": [
+      "contact distance",
+      "spacing",
+      "forehand",
+      "backhand"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "spacing",
+      "technique"
+    ],
+    "summary": "击球距离决定你是否能稳定发力。太近会被挤到，太远会伸手够球，正好才有稳定挥拍空间。",
+    "encyclopedia": "击球距离是身体和来球之间的空间关系。对 2.7 到 3.0 阶段的球员来说，很多挥拍问题其实来自距离错误：离球太近时手臂被压住，离球太远时身体失去支撑。先学会判断距离，技术调整才有意义。",
+    "generatedImage": {
+      "assetId": "img-contact-distance-comparison-v1",
+      "alt": "Three tennis contact distance examples showing too close, balanced, and too far."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你不需要每次都重修挥拍。先知道自己是太近、正好还是太远，才能稳定普通球。",
+      "commonFailure": "把所有出界或下网都归因于拍面，却忽略身体和球的距离。",
+      "onCourtCue": "击球前最后两步只做距离调整，不再跨大步冲进去。",
+      "verificationTest": "连续 20 球中，至少 14 球能在击球前判断距离并保持平衡。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-contact-distance-callout",
+        "title": "VR 距离喊声练习",
+        "durationMinutes": 8,
+        "instruction": "每球击球前说出太近、正好或太远。先降低力量，优先确认距离。",
+        "successSignal": "你能在击球前调整，而不是击球后才解释失误。"
+      },
+      "realCourtCheck": {
+        "id": "court-contact-distance-20",
+        "title": "20 球距离记录",
+        "durationMinutes": 8,
+        "instruction": "对拉 20 球，只记录距离判断和是否保持身体平衡。",
+        "successSignal": "至少 14 球击球前身体稳定，没有明显被挤或伸手。"
+      }
+    },
+    "reviewPrompt": "为什么很多挥拍问题其实先要看击球距离？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "tactics.deep-middle",
+    "title": "深中路是 2.7 到 3.5 的低风险答案",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "deep middle",
+      "tactics",
+      "consistency",
+      "risk"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "progression",
+      "mindset"
+    ],
+    "summary": "深中路不是保守，而是用更低风险换取连续性和下一拍机会。",
+    "encyclopedia": "深中路目标把边线风险降到最低，同时用深度限制对手进攻。对 2.7 到 3.5 的球员来说，稳定把普通球送到深区，比追求边线制胜更能提高比赛质量。",
+    "generatedImage": {
+      "assetId": "img-deep-middle-target-v2",
+      "alt": "A tennis court target zone showing a deep middle rally target and reduced sideline risk."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "当真实场地机会少时，最值得验证的是能否稳定进入回合，而不是偶尔打出漂亮制胜分。",
+      "commonFailure": "机会球马上追边线，普通球也过早加速。",
+      "onCourtCue": "被动球深中路，机会球先大目标，再谈角度。",
+      "verificationTest": "70% 力量深中路 20 球，至少 14 球落到发球线后半段。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-deep-middle-20",
+        "title": "VR 深中路 20 球",
+        "durationMinutes": 10,
+        "instruction": "用 70% 力量连续打深中路，只统计过网高度和落点深度。",
+        "successSignal": "你能降低力量但不缩短落点。"
+      },
+      "realCourtCheck": {
+        "id": "court-deep-middle-20",
+        "title": "深中路 20 球验收",
+        "durationMinutes": 10,
+        "instruction": "连续 20 球瞄深中路，记录发球线后半段命中数。",
+        "successSignal": "至少 14 球到达深区，且没有为了深度盲目加速。"
+      }
+    },
+    "reviewPrompt": "深中路为什么不是消极保守？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "spacing.split-timing",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  }
+]

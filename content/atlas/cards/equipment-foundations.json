@@ -1,0 +1,618 @@
+[
+  {
+    "id": "equipment.ball.pressurized",
+    "title": "压力球为什么更像比赛球",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "压力球",
+      "比赛球",
+      "弹跳",
+      "装备"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "压力球靠内部气压提供活力，弹跳和速度更接近正式比赛，但开罐后会持续衰减。",
+    "encyclopedia": "大多数正式比赛使用压力球。它的核心不是外观看起来更新，而是内部气压会让球更有弹性，出拍更活、弹跳更接近比赛节奏。开罐后气压会慢慢流失，所以同一罐球从第一天到几周后，速度、弹跳高度和击球声音都会变化。练稳定性时可以接受旧球，但练发球、接发、比赛节奏时，太旧的压力球会让你的判断偏慢。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-pressurized-v1",
+      "alt": "Infographic explaining a pressurized tennis ball can, internal pressure, fresh bounce, and match-like feel."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你如果长期用很旧的球练习，真实比赛里的来球速度和弹跳会显得突然变快。",
+      "commonFailure": "只看球毛新不新，不记录开罐时间，结果用失压球练比赛节奏。",
+      "onCourtCue": "练比赛节奏前先问：这罐球开了多久，弹跳还像新球吗？",
+      "verificationTest": "同一高度放手比较新球和旧球弹跳，能明显说出哪颗更接近比赛手感。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-ball-speed-awareness",
+        "title": "VR 球速校准 5 分钟",
+        "durationMinutes": 5,
+        "instruction": "进入 VR 前先用现实球做一次弹跳比较，再在 VR 里只观察来球速度和弹跳节奏。",
+        "successSignal": "你能把现实旧球偏慢和 VR/新球偏快的节奏差异说清楚。"
+      },
+      "realCourtCheck": {
+        "id": "court-pressurized-ball-bounce-check",
+        "title": "开罐弹跳检查",
+        "durationMinutes": 3,
+        "instruction": "每次开新罐和用旧球前，从同一高度放手观察弹跳高度和声音。",
+        "successSignal": "你能判断这颗球适合比赛节奏练习，还是只适合喂球和手感练习。"
+      }
+    },
+    "reviewPrompt": "压力球和旧球的最大差别，是球毛颜色，还是内部气压带来的弹跳活力？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "next"
+      },
+      {
+        "targetId": "equipment.ball.pressureless",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.pressureless",
+    "title": "无压球适合训练，不等于适合比赛",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "无压球",
+      "训练球",
+      "球感",
+      "装备"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "无压球靠橡胶结构弹起，耐放耐用，适合重复喂球，但手感和比赛压力球不同。",
+    "encyclopedia": "无压球没有靠内部高气压维持弹跳，更多依靠橡胶壳体本身回弹。它的优势是耐放、寿命长、适合球机、墙练和大量重复训练；劣势是出拍反馈、重量感和弹跳节奏往往不像正式压力球。对少上场的人，无压球可以降低耗材成本，但不要只用无压球建立比赛手感。越接近比赛的训练，越应该切回新鲜压力球校准节奏。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-pressureless-v1",
+      "alt": "Knowledge card comparing pressureless training balls with pressurized match balls."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你在东京上场机会有限，训练球能提高重复量，但比赛前必须重新校准压力球手感。",
+      "commonFailure": "用无压球练得很多，却发现正式球更轻快、更容易顶到身体。",
+      "onCourtCue": "大量重复用无压球，比赛前一周用压力球找节奏。",
+      "verificationTest": "同一拍速打 20 球，能说出无压球和压力球在出拍、落地、声音上的差异。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-pressureless-vs-match-feel",
+        "title": "VR 与训练球手感对照",
+        "durationMinutes": 5,
+        "instruction": "用无压球做现实挥拍热身，再进入 VR 观察来球速度，记录两者节奏差。",
+        "successSignal": "你不会把无压球的慢节奏误认为比赛球节奏。"
+      },
+      "realCourtCheck": {
+        "id": "court-pressureless-calibration",
+        "title": "无压球校准 20 球",
+        "durationMinutes": 8,
+        "instruction": "先用无压球打 10 球，再用压力球打 10 球，只比较弹跳和出拍声音。",
+        "successSignal": "你能说出哪种球更适合今天的训练目的。"
+      }
+    },
+    "reviewPrompt": "无压球的优势是比赛还原度，还是耐用和重复训练？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.pressurized",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.ball.surface",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.felt",
+    "title": "球毛决定空气阻力和咬球感",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls",
+      "spin-physics"
+    ],
+    "tags": [
+      "网球",
+      "球毛",
+      "旋转",
+      "空气阻力",
+      "弹跳"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "球毛不只是耐磨外衣，它会影响空气阻力、球速、落地摩擦和拍线咬球感。",
+    "encyclopedia": "新球球毛蓬松，飞行阻力和落地摩擦都更明显；旧球球毛被打平后，球速、弹跳和旋转反馈会变化。不同场地也会改变球毛磨损速度：硬地更磨，红土会让球毛沾土变重，草地则更强调低弹和快速通过。你感觉今天球“飞”或“拖”，不一定全是动作问题，也可能是球毛和场地共同改变了球的行为。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-felt-v1",
+      "alt": "Infographic showing tennis ball felt, air drag, court friction, and string bite."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "理解球毛变化，能让你少把器材和场地变化误判成动作退步。",
+      "commonFailure": "旧球飞行和弹跳变了，还以为自己突然不会控球。",
+      "onCourtCue": "先看球毛：蓬、平、湿、脏，再判断今天该多给多少余量。",
+      "verificationTest": "拿新旧两颗球各打 10 球，能描述速度、弹跳和旋转反馈差异。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-felt-spin-awareness",
+        "title": "VR 旋转反馈观察",
+        "durationMinutes": 6,
+        "instruction": "现实先观察新旧球球毛，再在 VR 中专注看旋转球落地后的变化。",
+        "successSignal": "你能把球毛、旋转和落地摩擦三件事联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-felt-old-new-compare",
+        "title": "新旧球毛对比",
+        "durationMinutes": 8,
+        "instruction": "用新球和旧球各打 10 个上旋，记录落点深浅和弹跳高度。",
+        "successSignal": "你能判断球毛变化是否影响了今天的深度控制。"
+      }
+    },
+    "reviewPrompt": "球毛影响的是外观，还是空气阻力、落地摩擦和拍线咬球？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spin.topspin",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.lifespan",
+    "title": "开罐时间会偷走你的比赛手感",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls"
+    ],
+    "tags": [
+      "网球",
+      "开罐",
+      "寿命",
+      "失压",
+      "训练质量"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "球不是坏了才不能用，而是从开罐后就开始慢慢失去比赛节奏。",
+    "encyclopedia": "压力球开罐后就开始和外界气压趋同，弹跳、声音、速度会逐步衰减。旧球仍然能练手感、脚步和控制，但不适合长期拿来判断发球速度、接发反应和比赛节奏。装备日志里记录开罐日期，比凭感觉说“这球还行”更可靠。对上场机会有限的人，最好把球分成比赛节奏球、普通训练球、喂球/墙练球三类。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-lifespan-v1",
+      "alt": "Knowledge card showing tennis ball lifespan after opening a can and three use tiers."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你需要用有限场地时间练真实节奏，而不是被旧球拖慢判断。",
+      "commonFailure": "同一批球用太久，练习质量下降却没有意识到。",
+      "onCourtCue": "开罐就写日期，旧球降级使用，不拿旧球模拟比赛。",
+      "verificationTest": "把家里的球分成三类，并能说明每类适合哪种训练。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-ball-lifespan-setup",
+        "title": "VR 前球况标记",
+        "durationMinutes": 3,
+        "instruction": "进入 VR 前，先把现实球按新旧分类，提醒自己现实和 VR 的速度差。",
+        "successSignal": "你不会把现实旧球节奏迁移成比赛预期。"
+      },
+      "realCourtCheck": {
+        "id": "court-ball-tier-audit",
+        "title": "球况分层整理",
+        "durationMinutes": 10,
+        "instruction": "按开罐时间和弹跳，把球分为比赛节奏、普通训练、喂球墙练三组。",
+        "successSignal": "下一次训练前能快速拿到适合目标的球。"
+      }
+    },
+    "reviewPrompt": "旧球是不是不能用？还是应该降级到合适的训练任务？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.pressurized",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.ball.surface",
+    "title": "同一颗球，到不同场地会变性格",
+    "category": "equipment-ball",
+    "topicIds": [
+      "equipment-balls",
+      "spin-physics"
+    ],
+    "tags": [
+      "网球",
+      "场地",
+      "硬地",
+      "红土",
+      "草地",
+      "弹跳"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "球感来自球和场地的组合：硬地、红土、草地会改变磨损、弹跳、速度和旋转反馈。",
+    "encyclopedia": "装备不是孤立存在的。硬地会更直接地磨损球毛，反弹相对均衡；红土摩擦大，球毛沾土后更重，旋转和高弹更明显；草地让球更低、更快通过。你换场地后觉得球速和弹跳不一样，不一定是球变了，而是球和表层共同决定了来球性格。理解这一点，能帮你把装备选择、战术和预期放在同一张地图里。",
+    "generatedImage": {
+      "assetId": "img-equipment-ball-surface-v1",
+      "alt": "Infographic comparing how the same tennis ball behaves on hard, clay, and grass courts."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你在不同场地打球时，不能用同一套落点和弹跳预期解释所有问题。",
+      "commonFailure": "换场地后还按旧节奏击球，结果不是被顶住就是被低球穿过。",
+      "onCourtCue": "上场前先问：今天表层让球更快、更慢、更高还是更低？",
+      "verificationTest": "能用一句话描述硬地、红土、草地对球速和弹跳的主要影响。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-surface-ball-read",
+        "title": "VR 场地弹跳读取",
+        "durationMinutes": 6,
+        "instruction": "切换 VR 场地或练习模式时，只观察球落地后高低和前冲速度。",
+        "successSignal": "你能根据弹跳差异调整站位，而不是只盯挥拍。"
+      },
+      "realCourtCheck": {
+        "id": "court-surface-ball-note",
+        "title": "场地球感记录",
+        "durationMinutes": 5,
+        "instruction": "每次换场地，记录球速、弹跳高度、球毛磨损和你需要调整的站位。",
+        "successSignal": "三次记录后能看出不同场地的固定模式。"
+      }
+    },
+    "reviewPrompt": "球感变化只来自球本身，还是来自球和场地表层的组合？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.felt",
+        "type": "supporting"
+      },
+      {
+        "targetId": "trajectory.net-clearance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.head-size",
+    "title": "拍面越大，甜区通常越宽",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "拍面",
+      "甜区",
+      "容错",
+      "装备参数"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "拍面大小影响甜区和容错，但不是越大越高级；它是在稳定性、控制和手感之间取舍。",
+    "encyclopedia": "拍面越大，通常越容易提供更宽的甜区和更高容错，偏心击球时更不容易完全失控。小拍面更强调反馈和精准，但对击球点、脚步和稳定性要求更高。对 2.7 到 3.5 阶段，拍面参数应该服务于稳定击中甜区，而不是模仿职业球员的小拍面。你真正要问的是：我现在需要更多容错，还是已经能稳定打到中心再追求更直接的反馈？",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-head-size-v1",
+      "alt": "Infographic comparing tennis racquet head sizes and sweet spot area."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "如果你常打到拍框或甜区外，拍面容错比职业同款更重要。",
+      "commonFailure": "为了高级感选太小拍面，结果每次被动球都偏心失控。",
+      "onCourtCue": "先问自己：我现在稳定打中甜区了吗？",
+      "verificationTest": "连续 20 球后，能估算自己有多少球打在舒适甜区附近。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-sweet-spot-awareness",
+        "title": "VR 甜区意识 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "每次击球后只评价是否像打中中心，不追求速度和角度。",
+        "successSignal": "你开始能区分中心击球和偏心击球的手感。"
+      },
+      "realCourtCheck": {
+        "id": "court-sweet-spot-20",
+        "title": "甜区 20 球记录",
+        "durationMinutes": 8,
+        "instruction": "对拉 20 球，每球只记中心、偏上、偏下、偏框。",
+        "successSignal": "你能判断当前拍面对你是容错足够，还是过于苛刻。"
+      }
+    },
+    "reviewPrompt": "拍面大小解决的是面子问题，还是甜区和容错问题？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.weight",
+        "type": "next"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.weight",
+    "title": "静态重量不是挥起来的全部",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "重量",
+      "静态重量",
+      "稳定性",
+      "装备参数"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "球拍标注的重量只是静态重量；真正上场还要看平衡点和挥重如何共同影响挥动。",
+    "encyclopedia": "静态重量告诉你球拍放在秤上多重，但挥起来的感觉还取决于重量分布。两支同样 300 克的拍，头重的一支可能更难加速，头轻的一支可能更灵活。重量更大通常带来更好稳定性和抗冲击，但也更消耗体能和准备时间。对进阶阶段，重量选择要看你能不能在第三盘、被动球和连续来回中仍然按时挥拍。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-weight-v1",
+      "alt": "Knowledge card explaining static racquet weight versus real on-court swing feel."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "太重会让你准备晚，太轻可能顶不住来球；稳定和灵活要平衡。",
+      "commonFailure": "只看克数买拍，忽略自己是否能连续按时挥动。",
+      "onCourtCue": "好拍不是第一拍舒服，而是连续 30 分钟还来得及。",
+      "verificationTest": "连续对拉 15 分钟后，观察是否明显准备变晚或手臂疲劳。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-racquet-weight-timing",
+        "title": "VR 准备时间检查",
+        "durationMinutes": 6,
+        "instruction": "在 VR 中只盯准备动作是否按时完成，想象不同重量对准备时间的影响。",
+        "successSignal": "你能把装备重量和准备晚联系起来，而不是只怪反应慢。"
+      },
+      "realCourtCheck": {
+        "id": "court-weight-fatigue-check",
+        "title": "重量疲劳检查",
+        "durationMinutes": 15,
+        "instruction": "对拉 15 分钟后记录挥拍速度、准备时间和手臂疲劳。",
+        "successSignal": "你能判断当前重量是否超过自己稳定输出能力。"
+      }
+    },
+    "reviewPrompt": "球拍重量只看克数，还是要结合平衡点和连续挥拍能力？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.balance",
+        "type": "next"
+      },
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.balance",
+    "title": "平衡点决定头轻还是头重",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "平衡点",
+      "头轻",
+      "头重",
+      "操控"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "平衡点描述重量偏向拍头还是手柄，会改变灵活性、稳定性和击球穿透感。",
+    "encyclopedia": "平衡点越靠拍头，球拍越有头重感，击球更容易借到惯性，但准备和变向会更慢；平衡点越靠手柄，球拍更灵活，网前和防守更容易调整，但对抗重球时可能需要你自己提供更多稳定。平衡点不是孤立参数，它和静态重量、挥重一起决定实际手感。选拍时不要只问“重不重”，还要问重量在哪里。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-balance-v1",
+      "alt": "Infographic showing head-light and head-heavy tennis racquet balance points."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你如果回拍慢或网前调整慢，可能不是反应问题，而是头重感不适合。",
+      "commonFailure": "只觉得某支拍沉，却没分清是总重量沉还是拍头拖。",
+      "onCourtCue": "拿拍空挥时感受：拍头是在帮我穿透，还是拖慢准备？",
+      "verificationTest": "用两支平衡不同的拍做截击和底线各 20 球，能说出灵活性差异。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-balance-recovery",
+        "title": "VR 回拍灵活性观察",
+        "durationMinutes": 6,
+        "instruction": "在快节奏 VR 回合中观察自己是否能及时回拍到准备位。",
+        "successSignal": "你能把头轻/头重感和回拍速度联系起来。"
+      },
+      "realCourtCheck": {
+        "id": "court-balance-net-baseline",
+        "title": "平衡点手感对照",
+        "durationMinutes": 12,
+        "instruction": "底线 10 球、截击 10 球，记录哪种动作感觉更拖拍头。",
+        "successSignal": "你知道当前平衡点更偏底线穿透还是灵活操控。"
+      }
+    },
+    "reviewPrompt": "两支同重量球拍为什么挥起来可能完全不同？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.weight",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.racquet.swingweight",
+    "title": "挥重才是挥起来的重量",
+    "category": "equipment-racquet",
+    "topicIds": [
+      "equipment-racquets"
+    ],
+    "tags": [
+      "球拍",
+      "挥重",
+      "swingweight",
+      "稳定性",
+      "加速"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "technique"
+    ],
+    "summary": "挥重描述球拍绕手挥动时的惯性，比静态重量更接近你上场感受到的“好不好挥”。",
+    "encyclopedia": "挥重高的球拍更能顶住来球、击球更有穿透，但启动、加速和临时变向更费力；挥重低的球拍更容易加速和调整，但面对重球时稳定性可能不足。它不是越高越职业，也不是越低越轻松，而是要匹配你的准备时间、力量和击球节奏。很多人买拍只看重量，却忽略挥重，结果发现纸面不重，上场却很拖。",
+    "generatedImage": {
+      "assetId": "img-equipment-racquet-swingweight-v1",
+      "alt": "Tennis knowledge card explaining swingweight as rotational inertia and on-court swing feel."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你想提升稳定性，但挥重太高会让准备变晚，反而打不准。",
+      "commonFailure": "追求职业感上高挥重，结果快球和被动球都来不及。",
+      "onCourtCue": "挥重合适的拍，连续防守时也能按时到位。",
+      "verificationTest": "连续接 20 个快节奏来球，观察是否总是慢半拍或拍头掉下去。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-swingweight-late-contact",
+        "title": "VR 晚点观察",
+        "durationMinutes": 6,
+        "instruction": "在快节奏 VR 中记录自己晚点击球次数，思考装备惯性与准备时间关系。",
+        "successSignal": "你能分辨技术晚点和装备拖慢的可能性。"
+      },
+      "realCourtCheck": {
+        "id": "court-swingweight-fast-feed",
+        "title": "挥重快球检查",
+        "durationMinutes": 10,
+        "instruction": "让搭档连续喂快球 20 个，只记录是否按时到触球点。",
+        "successSignal": "至少 14 球能按时触球，且手腕/前臂不过度紧张。"
+      }
+    },
+    "reviewPrompt": "为什么纸面重量不重的球拍，挥起来仍然可能拖？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.racquet.balance",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "equipment.maintenance.match-log",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "equipment.maintenance.match-log",
+    "title": "装备日志比玄学手感可靠",
+    "category": "equipment-maintenance",
+    "topicIds": [
+      "equipment-balls",
+      "equipment-racquets",
+      "equipment-strings",
+      "equipment-footwear"
+    ],
+    "tags": [
+      "装备日志",
+      "复盘",
+      "球况",
+      "穿线",
+      "鞋底"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "装备选择不能只靠当天感觉，记录球况、拍线、鞋底和上场表现，才能看出真正适合你的组合。",
+    "encyclopedia": "装备日志是把主观手感变成可比较数据的方法。每次打球后记录日期、场地、用球状态、球拍、线种和磅数、鞋底抓地、身体疲劳、最明显的问题和一个结论。它不需要复杂，只要每次都用同一套字段。连续几周后，你会更容易分辨问题来自技术、球况、线床衰减、球拍参数还是鞋底磨损，而不是每次都重新猜。",
+    "generatedImage": {
+      "assetId": "img-equipment-maintenance-match-log-v1",
+      "alt": "Tennis equipment log knowledge card linking balls, racquets, strings and shoes to on-court notes."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你还在建立稳定输入，装备变化会放大手感波动；日志能帮你少被偶然表现误导。",
+      "commonFailure": "今天打得好就觉得装备完美，今天打得差就想立刻换拍换线。",
+      "onCourtCue": "先问今天变了什么：球、场地、线、鞋、疲劳，还是技术执行？",
+      "verificationTest": "连续记录 5 次上场后，能指出至少一个影响表现的装备变量。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-equipment-log-template",
+        "title": "VR 手感日志",
+        "durationMinutes": 4,
+        "instruction": "每次 VR 练习后记录模式、节奏、最容易晚点的球和一个技术结论。",
+        "successSignal": "你能把练习体验写成可比较的短记录，而不是只留下模糊感觉。"
+      },
+      "realCourtCheck": {
+        "id": "court-equipment-log-five-sessions",
+        "title": "五次上场装备日志",
+        "durationMinutes": 5,
+        "instruction": "每次下场后用同一模板记录球况、拍线、鞋底和表现，不超过 5 分钟。",
+        "successSignal": "第 5 次后能说出一个装备变量和表现之间的关系。"
+      }
+    },
+    "reviewPrompt": "今天表现变化，是技术变化，还是球、线、拍、鞋、疲劳这些变量变了？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.lifespan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.racquet.swingweight",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "verified"
+  }
+]

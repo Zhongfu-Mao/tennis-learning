@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "img-split-timing-field-guide-v1",
+    "path": "/assets/knowledge/xhs-split-timing-v1.png",
+    "cardIds": [
+      "spacing.split-timing"
+    ],
+    "kind": "hero",
+    "status": "replace",
+    "prompt": "竖版小红书风技术图文：split 不是跳高，而是落地后能启动。",
+    "version": 2
+  },
+  {
+    "id": "candidate-split-timing-direction-a",
+    "path": "/assets/knowledge/candidates/split-timing-direction-a.png",
+    "cardIds": [
+      "spacing.split-timing"
+    ],
+    "kind": "hero",
+    "status": "replace",
+    "prompt": "Direction A: Premium sports field guide, realistic tennis court lighting, athlete landing from split step as opponent contacts ball, elegant instructional composition, no text in image.",
+    "version": 1
+  },
+  {
+    "id": "candidate-split-timing-direction-b",
+    "path": "/assets/knowledge/candidates/split-timing-direction-b.png",
+    "cardIds": [
+      "spacing.split-timing"
+    ],
+    "kind": "hero",
+    "status": "candidate",
+    "prompt": "Direction B: Apple Fitness-inspired training still, dynamic but clean, athlete in split-step landing posture, court depth visible, modern premium lighting, no text in image.",
+    "version": 1
+  },
+  {
+    "id": "candidate-split-timing-direction-c",
+    "path": "/assets/knowledge/candidates/split-timing-direction-c.png",
+    "cardIds": [
+      "spacing.split-timing"
+    ],
+    "kind": "hero",
+    "status": "candidate",
+    "prompt": "Direction C: Coach dossier reference plate, realistic athlete movement evidence, subtle timing markers through composition rather than text, premium editorial sports photography, no text in image.",
+    "version": 1
+  },
+  {
+    "id": "img-contact-distance-comparison-v1",
+    "path": "/assets/knowledge/xhs-contact-distance-v1.png",
+    "cardIds": [
+      "spacing.contact-distance"
+    ],
+    "kind": "comparison",
+    "status": "replace",
+    "prompt": "竖版小红书风技术图文：击球距离先判断太近、正好、太远。",
+    "version": 2
+  },
+  {
+    "id": "img-deep-middle-target-v1",
+    "path": "/assets/knowledge/xhs-deep-middle-target-v1.png",
+    "cardIds": [
+      "tactics.deep-middle"
+    ],
+    "kind": "hero",
+    "status": "replace",
+    "prompt": "竖版小红书风战术信息图：深中路是 2.7 到 3.5 的低风险答案。",
+    "version": 2
+  },
+  {
+    "id": "img-serve-toss-window-v2",
+    "path": "/assets/knowledge/xhs-serve-toss-window-v4.png",
+    "cardIds": [
+      "serve.toss-window"
+    ],
+    "kind": "hero",
+    "status": "candidate",
+    "prompt": "竖版小红书风技术图文：发球先练抛球窗口。采用腰部以上特写，不显示脚和底线；抛球手向上，持拍手为 trophy position，3 个球影进入同一绿色抛球窗口。",
+    "version": 4
+  },
+  {
+    "id": "img-spin-topspin-arc-v1",
+    "path": "/assets/knowledge/xhs-spin-topspin-arc-v8.png",
+    "cardIds": [
+      "spin.topspin"
+    ],
+    "kind": "comparison",
+    "status": "replace",
+    "prompt": "竖版小红书风技术图文：确定性侧视轨迹，上旋从左侧触球点越过中线球网，落到右侧对方深区并向前上跳。",
+    "version": 8
+  },
+  {
+    "id": "img-spin-slice-skid-v1",
+    "path": "/assets/knowledge/xhs-spin-slice-skid-v1.png",
+    "cardIds": [
+      "spin.slice"
+    ],
+    "kind": "comparison",
+    "status": "replace",
+    "prompt": "竖版小红书风技术图文：切削不是逃避发力，是给球加刹车。",
+    "version": 2
+  },
+  {
+    "id": "img-trajectory-net-clearance-v1",
+    "path": "/assets/knowledge/xhs-trajectory-net-clearance-v9.png",
+    "cardIds": [
+      "trajectory.net-clearance"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "混合管线 v9：干净真实网球摄影底图，无预制海报 UI；后期排版标题/教练笔记，并用确定性薄 overlay 绘制同一触球点、贴网安全窗口、绿色落对方深区、橙色撞网。",
+    "version": 9
+  },
+  {
+    "id": "img-ball-bounce-window-v1",
+    "path": "/assets/knowledge/xhs-ball-bounce-window-v4.png",
+    "cardIds": [
+      "ball.bounce-window"
+    ],
+    "kind": "comparison",
+    "status": "replace",
+    "prompt": "竖版小红书风知识海报：单次弹跳曲线上标出上升期、最高点、下降期三个击球窗口，不画真人和迷你球场。",
+    "version": 5
+  },
+  {
+    "id": "img-tactics-cross-court-v1",
+    "path": "/assets/knowledge/tactics-cross-court-v1.png",
+    "cardIds": [
+      "tactics.cross-court"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TACTICAL TEACHING PLATE — elevated three-quarter overhead, one clean blue hard court, near player at bottom. Lesson: the cross-court diagonal is the LONGEST path and crosses the net at its low centre, so it carries the most margin. Draw a bold CALM GREEN trajectory travelling the FULL cross-court diagonal corner to corner — visibly the longest line on the court — crossing clearly over the LOW CENTRE of the net and landing in a translucent green deep far corner. Draw a clearly SHORTER thin WARM AMBER down-the-line path running parallel to the sideline a much shorter distance and crossing a HIGHER part of the net near the band, with an amber risk spark there. The green diagonal must look dramatically longer than the amber line. Both bounce once and never tangle. No text, numerals, or logos. Obey the HARD CONSTRAINTS in the production spec.",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-down-the-line-cost-v1",
+    "path": "/assets/knowledge/tactics-down-the-line-cost-v1.png",
+    "cardIds": [
+      "tactics.down-the-line-cost"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TACTICAL TEACHING PLATE — clean elevated three-quarter overhead, one clean blue hard court, ONE near player, minimal clutter. Lesson: replying along the ball's direction is easy; changing direction down-the-line costs risk. Draw the incoming ball arriving cross-court to the near player. From contact draw exactly TWO well-separated replies: a bold CALM GREEN reply continuing WITH the ball's direction (back cross-court) into a green deep zone; and a WARM AMBER reply sharply bending direction to go straight down-the-line, with a single small amber marker meaning 'needs earlier preparation'. Do NOT add busy dashed footwork arcs or extra ghost figures — keep the court clean and the two lines easily traceable. No text, numerals, or logos. Obey the HARD CONSTRAINTS in the production spec.",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-midcourt-opportunity-v1",
+    "path": "/assets/knowledge/tactics-midcourt-opportunity-v1.png",
+    "cardIds": [
+      "tactics.midcourt-opportunity"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TACTICAL TEACHING PLATE. Lesson: a short ball into the midcourt is a 'yellow light' — settle and reduce risk first, then add angle. Elevated three-quarter overhead view of one clean blue hard court, landscape 3:2. Shade the midcourt band (around the service line) with a translucent CAUTION-AMBER 'yellow light' wash where a short ball has landed. From it draw TWO options: a bold CALM GREEN controlled reply going deep cross-court / deep middle into a green safe zone (emphasized), and a thin WARM AMBER greedy blast at the far sideline corner with an amber risk burst near the line. A faint ghosted balanced posture sits over the green option; an off-balance lunging ghost over the amber one. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-short-ball-danger-v1",
+    "path": "/assets/knowledge/tactics-short-ball-danger-v1.png",
+    "cardIds": [
+      "tactics.short-ball-danger"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TACTICAL TEACHING PLATE — elevated three-quarter overhead, one clean blue hard court, near player at bottom, ONE clear translucent ghost opponent on the far side. Lesson: a short ball invites attack; a deep ball pushes the opponent back. Draw TWO clearly separated trajectories from the near player: (1) a WARM AMBER ball landing SHORT in a translucent amber zone around the far service line, with the ghost opponent stepping FORWARD into the court to attack it; (2) a bold CALM GREEN ball with higher clearance landing in a translucent green zone near the far BASELINE, with a second ghost of the opponent pushed BACK behind the baseline reaching defensively. Both balls bounce exactly once. The forward-vs-back opponent contrast must be obvious. No text, numerals, or logos. Obey the HARD CONSTRAINTS in the production spec.",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-pressure-point-play-v1",
+    "path": "/assets/knowledge/tactics-pressure-point-play-v1.png",
+    "cardIds": [
+      "tactics.pressure-point-play"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TACTICAL TEACHING PLATE. Lesson: under pressure, do the opposite of tightening up — enlarge the target, lower the pace, add net-clearance margin. Elevated three-quarter overhead view of one clean blue hard court, landscape 3:2, with a subtle dark vignette around the frame edges to convey pressure. Show TWO responses to the same pressure moment: a WARM AMBER tiny target patch tight to the far sideline reached by a fast flat low line (high risk), versus a bold CALM GREEN enlarged broad deep-middle target zone reached by a higher, calmer, controlled arc with visible net-clearance margin (emphasized, clearly the bigger safer answer). The contrast small-fast-amber vs big-calm-green is the whole subject. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-progression-review-funnel-v1",
+    "path": "/assets/knowledge/xhs-progression-review-funnel-v1.png",
+    "cardIds": [
+      "progression.review-funnel"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风认知信息图：复盘不是找十个错，把多处比赛错误收敛成下次唯一重点。",
+    "version": 2
+  },
+  {
+    "id": "img-progression-levels-ladder-v1",
+    "path": "/assets/knowledge/xhs-progression-levels-ladder-v1.png",
+    "cardIds": [
+      "progression.levels-ladder"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风认知信息图：升级不是一拍神球，而是深区落点更稳定、更可重复。",
+    "version": 2
+  },
+  {
+    "id": "img-progression-practice-bridge-v1",
+    "path": "/assets/knowledge/xhs-progression-practice-bridge-v1.png",
+    "cardIds": [
+      "progression.practice-bridge"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风认知信息图：计分练习是从技术练习到比赛表现的桥。",
+    "version": 2
+  },
+  {
+    "id": "img-progression-three-rooms-v1",
+    "path": "/assets/knowledge/xhs-progression-three-rooms-v1.png",
+    "cardIds": [
+      "progression.three-rooms"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风认知信息图：技术课、对拉、比赛是三个不同目标的训练房间。",
+    "version": 2
+  },
+  {
+    "id": "img-spacing-recovery-position-v1",
+    "path": "/assets/knowledge/xhs-spacing-recovery-position-v2.png",
+    "cardIds": [
+      "spacing.recovery-position"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风技术图文：打完一拍先回准备位，真人随挥后恢复重心，回位箭头指向下一拍准备位。",
+    "version": 3
+  },
+  {
+    "id": "img-spacing-last-two-steps-v1",
+    "path": "/assets/knowledge/xhs-spacing-last-two-steps-v2.png",
+    "cardIds": [
+      "spacing.last-two-steps"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风技术图文：最后两步调出击球距离，球路从拍面飞向对方半场深区。",
+    "version": 3
+  },
+  {
+    "id": "img-spacing-recover-from-wide-v1",
+    "path": "/assets/knowledge/spacing-recover-from-wide-v1.png",
+    "cardIds": [
+      "spacing.recover-from-wide"
+    ],
+    "kind": "comparison",
+    "status": "replace",
+    "prompt": "TEACHING PLATE. Lesson: pulled wide — reply deep-middle and recover, don't gamble on a stretched line winner. Elevated three-quarter overhead view of one clean blue hard court, landscape 3:2. A near player is stretched wide into a corner. Draw a bold CALM GREEN high deep-middle reply trajectory into a green deep zone PLUS a green recovery arrow back toward centre; and a thin WARM AMBER stretched down-the-line attempt with an amber risk burst and the court left wide open behind it. Green safe-deep-and-recover vs amber stretched-line-gamble is the whole subject. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-spacing-stance-choice-v1",
+    "path": "/assets/knowledge/xhs-spacing-stance-choice-v7.png",
+    "cardIds": [
+      "spacing.stance-choice"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风技术图文：真实腿部特写对比，开放式右脚加载，中性式左脚跨入，用户复核认为站位可读且视觉质感更佳。",
+    "version": 7
+  },
+  {
+    "id": "img-serve-first-second-plan-v1",
+    "path": "/assets/knowledge/xhs-serve-first-second-plan-v5.png",
+    "cardIds": [
+      "serve.first-second-plan"
+    ],
+    "kind": "hero",
+    "status": "candidate",
+    "prompt": "竖版小红书风战术图文：发球局先设一发方向和二发安全选择。用真实训练场 + 教练计划夹板表达，不画完整发球路线或服务区落点几何。文案必须准确自解释：一发写成“先选外角、追身或内角，但目标不贴发球区的边线、中心发球线或发球线”；二发写成“更靠发球区中部、带旋转、过网更高，先稳定进区”。不要使用“大目标、保底区、离线、余量”这类不解释对象的短词。",
+    "version": 7
+  },
+  {
+    "id": "img-serve-second-serve-spin-v1",
+    "path": "/assets/knowledge/xhs-serve-second-serve-spin-v1.png",
+    "cardIds": [
+      "serve.second-serve-spin"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风技术图文：二发不是慢慢推过去，稳定来自刷球、固定触球窗口和更高过网余量。",
+    "version": 2
+  },
+  {
+    "id": "img-return-depth-first-v1",
+    "path": "/assets/knowledge/xhs-return-depth-first-v7.png",
+    "cardIds": [
+      "return.depth-first"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风战术图文：接发先深中路，不先想制胜。用真实接发准备场景 + 教练复盘卡表达，不画完整发球落点箭头、边线目标框或双打边界教学区域。文案必须准确自解释：“深中路”要写清楚是把回球送到对方发球线之后、靠近底线的中间区域；原因写清楚：目标比边线更大、中路不给角度、深度把对手留在底线附近。不要使用“大目标、保底、离线、余量”这类不解释对象的短词。",
+    "version": 10
+  },
+  {
+    "id": "img-return-split-on-toss-v1",
+    "path": "/assets/knowledge/xhs-return-split-on-toss-v1.png",
+    "cardIds": [
+      "return.split-on-toss"
+    ],
+    "kind": "hero",
+    "status": "candidate",
+    "prompt": "竖版小红书风技术图文：接发 split 跟着对手触球节奏，落地后能启动。",
+    "version": 2
+  },
+  {
+    "id": "img-stroke-unit-turn-early-v1",
+    "path": "/assets/knowledge/stroke-unit-turn-early-v1.png",
+    "cardIds": [
+      "stroke.unit-turn-early"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TEACHING PLATE — side-on, one clean blue hard court, two clearly SEPARATED states of ONE athlete (no overlap, no motion-blur smear, no duplicate limbs). Lesson: prepare with an early whole-body shoulder turn, not a late arm-only takeback. LEFT, WARM AMBER: shoulders and chest still facing the net while only the arm is pulled back and the ball is already arriving — visibly late and disconnected. RIGHT, CALM GREEN: shoulders and torso rotated together as one unit (chest turned roughly 90 degrees away from the net), the racquet carried back by that turn, balanced and early, with a clean green curved arrow on the shoulders showing the rotation. The chest-facing-net vs chest-turned difference must be obvious at a glance. No text, numerals, or logos. Obey the HARD CONSTRAINTS in the production spec.",
+    "version": 1
+  },
+  {
+    "id": "img-stroke-contact-in-front-v1",
+    "path": "/assets/knowledge/stroke-contact-in-front-v1.png",
+    "cardIds": [
+      "stroke.contact-in-front"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TEACHING PLATE. Lesson: the stable powerful contact point is well in front of the body; beside or behind is cramped. Landscape 3:2, clean blue hard court, side-on view of one athlete with the swing path drawn. Mark THREE contact options along the swing path with translucent rings: a WARM AMBER ring behind the body (cramped, off-balance ghost), a cool neutral ring beside the body, and a bold CALM GREEN ring well in front of the body where the player is balanced and using rotation (emphasized). Faint ghosted postures at each ring. The three marked contact points are the whole subject. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-stroke-low-to-high-shape-v1",
+    "path": "/assets/knowledge/stroke-low-to-high-shape-v1.png",
+    "cardIds": [
+      "stroke.low-to-high-shape"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TEACHING PLATE. Lesson: topspin arc comes from a low-to-high brushing swing path through the ball, not a wrist flick up. Landscape 3:2, clean blue hard court, side-on view. Show TWO racquet swing-path shapes from the same athlete: a bold CALM GREEN low-to-high path starting below the ball and brushing up-and-forward through it, finishing high by the shoulder, with the resulting safe deep green ball arc; and a thin WARM AMBER flat over-the-top chop path producing a floaty short amber ball. Draw the racquet-path curves clearly and distinctly. The green low-to-high vs amber chop swing shapes are the whole subject. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-stroke-balance-finish-v1",
+    "path": "/assets/knowledge/stroke-balance-finish-v1.png",
+    "cardIds": [
+      "stroke.balance-finish"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TEACHING PLATE. Lesson: a balanced full follow-through you can hold is the stability checkpoint. Landscape 3:2, clean blue hard court, two side-by-side panels, same athlete. Left CALM GREEN: a balanced complete follow-through, weight controlled, body still and stacked, racquet finished over the shoulder. Right WARM AMBER: off-balance, falling away sideways, an abbreviated cut-off finish, recovering with a hop. The green hold vs amber fall-away finish contrast is the whole subject. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-stroke-consistent-prep-v1",
+    "path": "/assets/knowledge/stroke-consistent-prep-v1.png",
+    "cardIds": [
+      "stroke.consistent-prep"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "TEACHING PLATE. Lesson: forehand and backhand share the same four preparation beats; the backhand fails when it skips one. Landscape 3:2, clean blue hard court. TWO stacked horizontal ghosted mini-sequences of the same athlete: the top row a forehand, the bottom row a backhand, each showing the same four beats left-to-right — split landing, direction read, shoulder/unit turn, set at an in-front contact. Tint the matching beats CALM GREEN to show they align one-to-one between the rows. On the backhand row mark one skipped/weak beat (the missing unit turn) with a WARM AMBER gap to show where it breaks down. The two aligned four-beat rows are the whole subject. No text, numerals, or logos. Follow KNOWLEDGE-CARD PRODUCTION SPEC.",
+    "version": 1
+  },
+  {
+    "id": "img-serve-second-serve-spin-v2",
+    "path": "/assets/knowledge/xhs-serve-second-serve-spin-v1.png",
+    "cardIds": [
+      "serve.second-serve-spin"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风技术图文：二发不是慢推，主视觉只显示触球窗口和向上刷球方向。",
+    "version": 3
+  },
+  {
+    "id": "img-split-timing-field-guide-v2",
+    "path": "/assets/knowledge/split-timing-field-guide-v2.png",
+    "cardIds": [
+      "spacing.split-timing"
+    ],
+    "kind": "hero",
+    "status": "candidate",
+    "prompt": "Split-step landing teaching image: receiver lands low with both feet on court as opponent contacts the ball; small ground-level push-off options only, no jump-for-height cue.",
+    "version": 2
+  },
+  {
+    "id": "img-deep-middle-target-v2",
+    "path": "/assets/knowledge/xhs-deep-middle-target-v4.png",
+    "cardIds": [
+      "tactics.deep-middle"
+    ],
+    "kind": "hero",
+    "status": "approved",
+    "prompt": "竖版小红书风战术信息图：单打底线回球飞向对方发球线后、靠近底线中间的深中路目标区。",
+    "version": 4
+  },
+  {
+    "id": "img-spacing-recover-from-wide-v2",
+    "path": "/assets/knowledge/xhs-spacing-recover-from-wide-v4.png",
+    "cardIds": [
+      "spacing.recover-from-wide"
+    ],
+    "kind": "hero",
+    "status": "approved",
+    "prompt": "竖版小红书风战术信息图：被拉到边线后用高弧线深回中路，并回到中路准备位。",
+    "version": 4
+  },
+  {
+    "id": "img-spin-slice-skid-v2",
+    "path": "/assets/knowledge/xhs-spin-slice-skid-v10.png",
+    "cardIds": [
+      "spin.slice"
+    ],
+    "kind": "comparison",
+    "status": "replace",
+    "prompt": "竖版小红书风技术图文：确定性侧视轨迹，切削从左侧触球点贴网越过中线球网，第一次落点和低滑箭头都在右侧对方半场。",
+    "version": 10
+  },
+  {
+    "id": "img-equipment-ball-pressurized-v1",
+    "path": "/assets/knowledge/equipment-ball-pressurized-v1.png",
+    "cardIds": [
+      "equipment.ball.pressurized"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：压力球剖面、开罐气压、比赛弹跳和旧球衰减对比。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-pressureless-v1",
+    "path": "/assets/knowledge/equipment-ball-pressureless-v1.png",
+    "cardIds": [
+      "equipment.ball.pressureless"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：无压训练球与压力比赛球对比，突出耐用、重复训练和比赛手感差异。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-felt-v1",
+    "path": "/assets/knowledge/equipment-ball-felt-v1.png",
+    "cardIds": [
+      "equipment.ball.felt"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风装备百科卡：网球球毛放大图，连接空气阻力、落地摩擦、拍线咬球和新旧球差异。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-lifespan-v1",
+    "path": "/assets/knowledge/equipment-ball-lifespan-v1.png",
+    "cardIds": [
+      "equipment.ball.lifespan"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：开罐时间轴，把球分为比赛节奏球、普通训练球、喂球墙练球。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-surface-v1",
+    "path": "/assets/knowledge/equipment-ball-surface-v1.png",
+    "cardIds": [
+      "equipment.ball.surface"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：同一颗球在硬地、红土、草地上的速度、弹跳和球毛变化对比。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-head-size-v1",
+    "path": "/assets/knowledge/equipment-racquet-head-size-v1.png",
+    "cardIds": [
+      "equipment.racquet.head-size"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：不同拍面大小、甜区范围和容错差异对比。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-weight-v1",
+    "path": "/assets/knowledge/equipment-racquet-weight-v1.png",
+    "cardIds": [
+      "equipment.racquet.weight"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：静态重量、连续挥拍疲劳、稳定性和灵活性取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-balance-v1",
+    "path": "/assets/knowledge/equipment-racquet-balance-v1.png",
+    "cardIds": [
+      "equipment.racquet.balance"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：头轻、均衡、头重球拍的平衡点示意和上场手感差异。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-swingweight-v1",
+    "path": "/assets/knowledge/equipment-racquet-swingweight-v1.png",
+    "cardIds": [
+      "equipment.racquet.swingweight"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：挥重解释为旋转惯性，连接启动速度、抗重球和准备时间。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-maintenance-match-log-v1",
+    "path": "/assets/knowledge/equipment-maintenance-match-log-v1.png",
+    "cardIds": [
+      "equipment.maintenance.match-log"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：一页装备日志模板，把球况、球拍、线床、鞋底和当天表现连接起来。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-stiffness-v1",
+    "path": "/assets/knowledge/equipment-racquet-stiffness-v1.png",
+    "cardIds": [
+      "equipment.racquet.stiffness"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：球拍硬度 RA 对力量、控制、震感和舒适性的影响。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-beam-v1",
+    "path": "/assets/knowledge/equipment-racquet-beam-v1.png",
+    "cardIds": [
+      "equipment.racquet.beam"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风装备百科卡：厚框与薄框球拍的力量、反馈、稳定和控制取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-string-pattern-v1",
+    "path": "/assets/knowledge/equipment-racquet-string-pattern-v1.png",
+    "cardIds": [
+      "equipment.racquet.string-pattern"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：16x19 开放线床与 18x20 密集线床，展示旋转、弧线和方向控制差异。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-poly-v1",
+    "path": "/assets/knowledge/equipment-string-poly-v1.png",
+    "cardIds": [
+      "equipment.string.poly"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：聚酯线的旋转潜力、控制、硬度和挥速门槛。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-synthetic-gut-v1",
+    "path": "/assets/knowledge/equipment-string-synthetic-gut-v1.png",
+    "cardIds": [
+      "equipment.string.synthetic-gut"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：尼龙线作为入门基准，展示舒适、弹性、价格和均衡手感。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-natural-gut-multi-v1",
+    "path": "/assets/knowledge/equipment-string-natural-gut-multi-v1.png",
+    "cardIds": [
+      "equipment.string.natural-gut-multi"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：天然肠线与复丝线，突出弹性、舒适、保磅和成本差异。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-gauge-v1",
+    "path": "/assets/knowledge/equipment-string-gauge-v1.png",
+    "cardIds": [
+      "equipment.string.gauge"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：细线与粗线的咬球、耐用、手感和断线速度对比。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-tension-v1",
+    "path": "/assets/knowledge/equipment-string-tension-v1.png",
+    "cardIds": [
+      "equipment.string.tension"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：穿线磅数如何影响力量、控制、舒适性和出球角度。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-hybrid-v1",
+    "path": "/assets/knowledge/equipment-string-hybrid-v1.png",
+    "cardIds": [
+      "equipment.string.hybrid"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：混线的竖线与横线分工，组合控制、舒适、旋转和耐用。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-grip-size-v1",
+    "path": "/assets/knowledge/equipment-grip-size-v1.png",
+    "cardIds": [
+      "equipment.grip.size"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：手柄号如何影响放松握拍、手腕活动和拍面稳定。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-grip-overgrip-v1",
+    "path": "/assets/knowledge/equipment-grip-overgrip-v1.png",
+    "cardIds": [
+      "equipment.grip.overgrip"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：吸汗带作为消耗品，展示防滑、厚度、手感和更换周期。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-outsole-v1",
+    "path": "/assets/knowledge/equipment-shoe-outsole-v1.png",
+    "cardIds": [
+      "equipment.shoe.outsole"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：硬地鞋、红土鞋、草地鞋外底纹路和抓地滑动差异。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-support-v1",
+    "path": "/assets/knowledge/equipment-shoe-support-v1.png",
+    "cardIds": [
+      "equipment.shoe.support"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：网球鞋侧向支撑、缓震、急停和横移安全。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-accessory-dampener-v1",
+    "path": "/assets/knowledge/equipment-accessory-dampener-v1.png",
+    "cardIds": [
+      "equipment.accessory.dampener"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风装备百科卡：减震器主要改变声音和线床振动感，不替代线床与动作调整。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-match-vs-training-v1",
+    "path": "/assets/knowledge/equipment-ball-match-vs-training-v1.png",
+    "cardIds": [
+      "equipment.ball.match-vs-training"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：比赛球和训练球不是一回事，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-high-altitude-v1",
+    "path": "/assets/knowledge/equipment-ball-high-altitude-v1.png",
+    "cardIds": [
+      "equipment.ball.high-altitude"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：高海拔球是为了让球别飞疯，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-temperature-v1",
+    "path": "/assets/knowledge/equipment-ball-temperature-v1.png",
+    "cardIds": [
+      "equipment.ball.temperature"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：冷热天气会改球的活性，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-new-ball-game-v1",
+    "path": "/assets/knowledge/equipment-ball-new-ball-game-v1.png",
+    "cardIds": [
+      "equipment.ball.new-ball-game"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：新球局会突然变快，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-dead-ball-v1",
+    "path": "/assets/knowledge/equipment-ball-dead-ball-v1.png",
+    "cardIds": [
+      "equipment.ball.dead-ball"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：旧球会偷走你的穿透，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-ball-storage-v1",
+    "path": "/assets/knowledge/equipment-ball-storage-v1.png",
+    "cardIds": [
+      "equipment.ball.storage"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风装备百科卡：罐装球也需要保存逻辑，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-length-v1",
+    "path": "/assets/knowledge/equipment-racquet-length-v1.png",
+    "cardIds": [
+      "equipment.racquet.length"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：加长拍换来杠杆也换来难度，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-grip-shape-v1",
+    "path": "/assets/knowledge/equipment-racquet-grip-shape-v1.png",
+    "cardIds": [
+      "equipment.racquet.grip-shape"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：握把形状会影响换握，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-throat-stability-v1",
+    "path": "/assets/knowledge/equipment-racquet-throat-stability-v1.png",
+    "cardIds": [
+      "equipment.racquet.throat-stability"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：拍喉影响稳定和反馈，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-sweet-spot-location-v1",
+    "path": "/assets/knowledge/equipment-racquet-sweet-spot-location-v1.png",
+    "cardIds": [
+      "equipment.racquet.sweet-spot-location"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：甜区位置比甜区大小更隐蔽，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-twistweight-v1",
+    "path": "/assets/knowledge/equipment-racquet-twistweight-v1.png",
+    "cardIds": [
+      "equipment.racquet.twistweight"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：抗扭稳定决定偏心容错，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-lead-tape-v1",
+    "path": "/assets/knowledge/equipment-racquet-lead-tape-v1.png",
+    "cardIds": [
+      "equipment.racquet.lead-tape"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：配重胶是小手术不是装饰，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-handle-weight-v1",
+    "path": "/assets/knowledge/equipment-racquet-handle-weight-v1.png",
+    "cardIds": [
+      "equipment.racquet.handle-weight"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：手柄配重会改变头轻感，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-first-racquet-v1",
+    "path": "/assets/knowledge/equipment-racquet-first-racquet-v1.png",
+    "cardIds": [
+      "equipment.racquet.first-racquet"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：第一支拍要买稳定范围，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-upgrade-timing-v1",
+    "path": "/assets/knowledge/equipment-racquet-upgrade-timing-v1.png",
+    "cardIds": [
+      "equipment.racquet.upgrade-timing"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：换拍时机看瓶颈不是看心动，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-racquet-pro-player-myth-v1",
+    "path": "/assets/knowledge/equipment-racquet-pro-player-myth-v1.png",
+    "cardIds": [
+      "equipment.racquet.pro-player-myth"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：职业球员用拍不能直接抄，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-tension-loss-v1",
+    "path": "/assets/knowledge/equipment-string-tension-loss-v1.png",
+    "cardIds": [
+      "equipment.string.tension-loss"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风装备百科卡：掉磅会让线床换性格，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-cut-out-timing-v1",
+    "path": "/assets/knowledge/equipment-string-cut-out-timing-v1.png",
+    "cardIds": [
+      "equipment.string.cut-out-timing"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：什么时候该剪线，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-locked-stringbed-v1",
+    "path": "/assets/knowledge/equipment-string-locked-stringbed-v1.png",
+    "cardIds": [
+      "equipment.string.locked-stringbed"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：线床锁死会偷走旋转，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-snapback-v1",
+    "path": "/assets/knowledge/equipment-string-snapback-v1.png",
+    "cardIds": [
+      "equipment.string.snapback"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：Snapback 是线的回弹，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-round-vs-shaped-v1",
+    "path": "/assets/knowledge/equipment-string-round-vs-shaped-v1.png",
+    "cardIds": [
+      "equipment.string.round-vs-shaped"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：圆线和多边线不是高低级，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-soft-vs-stiff-poly-v1",
+    "path": "/assets/knowledge/equipment-string-soft-vs-stiff-poly-v1.png",
+    "cardIds": [
+      "equipment.string.soft-vs-stiff-poly"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：软聚和硬聚差很多，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-hybrid-main-cross-v1",
+    "path": "/assets/knowledge/equipment-string-hybrid-main-cross-v1.png",
+    "cardIds": [
+      "equipment.string.hybrid-main-cross"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：混线先看竖线横线分工，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-winter-tension-v1",
+    "path": "/assets/knowledge/equipment-string-winter-tension-v1.png",
+    "cardIds": [
+      "equipment.string.winter-tension"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：冬天可能需要更友好的线床，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-arm-friendly-setup-v1",
+    "path": "/assets/knowledge/equipment-string-arm-friendly-setup-v1.png",
+    "cardIds": [
+      "equipment.string.arm-friendly-setup"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：手臂不适先软化线床，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-string-vr-low-court-stringing-v1",
+    "path": "/assets/knowledge/equipment-string-vr-low-court-stringing-v1.png",
+    "cardIds": [
+      "equipment.string.vr-low-court-stringing"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：少上场也要管理穿线周期，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-grip-replacement-grip-thickness-v1",
+    "path": "/assets/knowledge/equipment-grip-replacement-grip-thickness-v1.png",
+    "cardIds": [
+      "equipment.grip.replacement-grip-thickness"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：底胶厚度会改手柄号，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-grip-dry-vs-tacky-v1",
+    "path": "/assets/knowledge/equipment-grip-dry-vs-tacky-v1.png",
+    "cardIds": [
+      "equipment.grip.dry-vs-tacky"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：干性和粘性吸汗带看出汗，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-grip-change-cycle-v1",
+    "path": "/assets/knowledge/equipment-grip-change-cycle-v1.png",
+    "cardIds": [
+      "equipment.grip.change-cycle"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：吸汗带周期要固定下来，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-wear-pattern-v1",
+    "path": "/assets/knowledge/equipment-shoe-wear-pattern-v1.png",
+    "cardIds": [
+      "equipment.shoe.wear-pattern"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：鞋底磨损会暴露步伐习惯，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-hard-court-universal-v1",
+    "path": "/assets/knowledge/equipment-shoe-hard-court-universal-v1.png",
+    "cardIds": [
+      "equipment.shoe.hard-court-universal"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：硬地鞋最通用但不是万能，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-clay-on-hard-court-v1",
+    "path": "/assets/knowledge/equipment-shoe-clay-on-hard-court-v1.png",
+    "cardIds": [
+      "equipment.shoe.clay-on-hard-court"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：红土鞋上硬地可能卡脚，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-indoor-court-choice-v1",
+    "path": "/assets/knowledge/equipment-shoe-indoor-court-choice-v1.png",
+    "cardIds": [
+      "equipment.shoe.indoor-court-choice"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：室内场地先看地面材质，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-shoe-tokyo-artificial-grass-v1",
+    "path": "/assets/knowledge/equipment-shoe-tokyo-artificial-grass-v1.png",
+    "cardIds": [
+      "equipment.shoe.tokyo-artificial-grass"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：东京人工草要重视砂和滑，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-accessory-bag-organization-v1",
+    "path": "/assets/knowledge/equipment-accessory-bag-organization-v1.png",
+    "cardIds": [
+      "equipment.accessory.bag-organization"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：网球包分层是在保护装备，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-accessory-sun-hydration-v1",
+    "path": "/assets/knowledge/equipment-accessory-sun-hydration-v1.png",
+    "cardIds": [
+      "equipment.accessory.sun-hydration"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版小红书风装备百科卡：防晒和补水也是装备，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-accessory-warmup-band-v1",
+    "path": "/assets/knowledge/equipment-accessory-warmup-band-v1.png",
+    "cardIds": [
+      "equipment.accessory.warmup-band"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：弹力带是热身工具不是表演，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-equipment-accessory-spend-upgrade-v1",
+    "path": "/assets/knowledge/equipment-accessory-spend-upgrade-v1.png",
+    "cardIds": [
+      "equipment.accessory.spend-upgrade"
+    ],
+    "kind": "comparison",
+    "status": "approved",
+    "prompt": "竖版小红书风装备百科卡：花钱升级要先解决瓶颈，用参数拆解、对比小图和短标签解释核心取舍。",
+    "version": 1
+  },
+  {
+    "id": "img-court-lines-baseline-sideline-v1",
+    "path": "/assets/knowledge/court-lines-baseline-sideline-v1.png",
+    "cardIds": [
+      "court.lines.baseline-sideline"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：场地线总览知识图，标出底线、单打边线、双打边线和安全落点区。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-lines-service-box-v1",
+    "path": "/assets/knowledge/court-lines-service-box-v1.png",
+    "cardIds": [
+      "court.lines.service-box"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：规则知识图：对角发球区与相持短球危险区的双语境对比。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-lines-doubles-alley-v1",
+    "path": "/assets/knowledge/court-lines-doubles-alley-v1.png",
+    "cardIds": [
+      "court.lines.doubles-alley"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：场地知识图：单打边线、双打边线、alley 区域和站位责任。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-net-height-center-posts-v1",
+    "path": "/assets/knowledge/court-net-height-center-posts-v1.png",
+    "cardIds": [
+      "court.net.height-center-posts"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：场地几何知识图：网中间与两侧高度差、斜线和直线路径对比。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-no-mans-land-risk-v1",
+    "path": "/assets/knowledge/court-no-mans-land-risk-v1.png",
+    "cardIds": [
+      "court.no-mans-land-risk"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：场地区域知识图：底线、发球线、no man’s land 和安全站位选择。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-target-zones-depth-v1",
+    "path": "/assets/knowledge/court-target-zones-depth-v1.png",
+    "cardIds": [
+      "court.target-zones-depth"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：落点知识图：深区大目标、边线小目标和发球线后半段分区。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-surface-hard-clay-grass-map-v1",
+    "path": "/assets/knowledge/court-surface-hard-clay-grass-map-v1.png",
+    "cardIds": [
+      "court.surface.hard-clay-grass-map"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：场地类型知识图：硬地、红土、草地的速度、弹跳和滑动对比。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-court-indoor-outdoor-differences-v1",
+    "path": "/assets/knowledge/court-indoor-outdoor-differences-v1.png",
+    "cardIds": [
+      "court.indoor-outdoor-differences"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：环境知识图：室内与室外变量清单、风险和战术余量。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-scoring-love-15-30-40-v1",
+    "path": "/assets/knowledge/rules-scoring-love-15-30-40-v1.png",
+    "cardIds": [
+      "rules.scoring-love-15-30-40"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：计分知识图：love、15、30、40 台阶和发球方先报分。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-deuce-ad-game-v1",
+    "path": "/assets/knowledge/rules-deuce-ad-game-v1.png",
+    "cardIds": [
+      "rules.deuce-ad-game"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：规则流程知识图：deuce、advantage、回到 deuce、赢局的路径。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-tiebreak-basics-v1",
+    "path": "/assets/knowledge/rules-tiebreak-basics-v1.png",
+    "cardIds": [
+      "rules.tiebreak-basics"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：抢七规则知识图：发球顺序、到 7 领先 2、每 6 分换边。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-set-formats-v1",
+    "path": "/assets/knowledge/rules-set-formats-v1.png",
+    "cardIds": [
+      "rules.set-formats"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛格式知识图：标准盘、短盘、抢七、抢十的差异。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-serve-order-switch-v1",
+    "path": "/assets/knowledge/rules-serve-order-switch-v1.png",
+    "cardIds": [
+      "rules.serve-order-switch"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：规则流程知识图：单打发球轮换和双打轮次示意。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-changeover-timing-v1",
+    "path": "/assets/knowledge/rules-changeover-timing-v1.png",
+    "cardIds": [
+      "rules.changeover-timing"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：规则流程知识图：奇数局换边、抢七换边和环境重置清单。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-let-serve-v1",
+    "path": "/assets/knowledge/rules-let-serve-v1.png",
+    "cardIds": [
+      "rules.let-serve"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：规则知识图：发球擦网后 let 与 fault 的判断流程。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-rules-in-out-line-call-v1",
+    "path": "/assets/knowledge/rules-in-out-line-call-v1.png",
+    "cardIds": [
+      "rules.in-out-line-call"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：规则知识图：压线算界内、第一落点判断和常见误判。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-warmup-purpose-v1",
+    "path": "/assets/knowledge/match-warmup-purpose-v1.png",
+    "cardIds": [
+      "match.warmup-purpose"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛基础知识图：热身校准清单，场地、球、身体、对手四象限。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-coin-toss-choice-v1",
+    "path": "/assets/knowledge/match-coin-toss-choice-v1.png",
+    "cardIds": [
+      "match.coin-toss-choice"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛流程知识图：猜先后发球、接发、选边的决策树。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-first-serve-second-serve-v1",
+    "path": "/assets/knowledge/match-first-serve-second-serve-v1.png",
+    "cardIds": [
+      "match.first-serve-second-serve"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛基础知识图：一发任务、二发任务和风险差异。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-return-position-basics-v1",
+    "path": "/assets/knowledge/match-return-position-basics-v1.png",
+    "cardIds": [
+      "match.return-position-basics"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛基础知识图：一发、二发、外角、身体位对应接发站位。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-point-start-routine-v1",
+    "path": "/assets/knowledge/match-point-start-routine-v1.png",
+    "cardIds": [
+      "match.point-start-routine"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛流程知识图：分前例行流程，比分、目标、执行三步。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-between-points-time-v1",
+    "path": "/assets/knowledge/match-between-points-time-v1.png",
+    "cardIds": [
+      "match.between-points-time"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛流程知识图：分间重置，呼吸、比分、下一分目标。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-end-changeover-reset-v1",
+    "path": "/assets/knowledge/match-end-changeover-reset-v1.png",
+    "cardIds": [
+      "match.end-changeover-reset"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛基础知识图：换边小复盘漏斗，问题、优先级、一个关键词。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-match-score-announcing-v1",
+    "path": "/assets/knowledge/match-score-announcing-v1.png",
+    "cardIds": [
+      "match.score-announcing"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：比赛基础知识图：发球方报分顺序和比分压力提示。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-wind-direction-v1",
+    "path": "/assets/knowledge/environment-wind-direction-v1.png",
+    "cardIds": [
+      "environment.wind-direction"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：环境知识图：顺风、逆风、横风对球路和目标余量的影响。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-sun-glare-v1",
+    "path": "/assets/knowledge/environment-sun-glare-v1.png",
+    "cardIds": [
+      "environment.sun-glare"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：环境知识图：太阳位置、抛球/高球风险和场地选择。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-temperature-ball-bounce-v1",
+    "path": "/assets/knowledge/environment-temperature-ball-bounce-v1.png",
+    "cardIds": [
+      "environment.temperature-ball-bounce"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：环境知识图：热天、冷天对球弹性、落点和深度的影响。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-humidity-heavy-ball-v1",
+    "path": "/assets/knowledge/environment-humidity-heavy-ball-v1.png",
+    "cardIds": [
+      "environment.humidity-heavy-ball"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：环境知识图：湿度对球毛、球速、弹跳和体感重量的影响。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-wet-court-risk-v1",
+    "path": "/assets/knowledge/environment-wet-court-risk-v1.png",
+    "cardIds": [
+      "environment.wet-court-risk"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：安全环境知识图：湿滑场地风险、鞋底抓地和训练降级流程。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-new-old-ball-match-v1",
+    "path": "/assets/knowledge/environment-new-old-ball-match-v1.png",
+    "cardIds": [
+      "environment.new-old-ball-match"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：球性环境知识图：新球与旧球在速度、弹跳和控制上的对比。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-altitude-fast-ball-v1",
+    "path": "/assets/knowledge/environment-altitude-fast-ball-v1.png",
+    "cardIds": [
+      "environment.altitude-fast-ball"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：环境知识图：高海拔、空气阻力、球飞行距离和高海拔球。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-environment-surface-bounce-speed-v1",
+    "path": "/assets/knowledge/environment-surface-bounce-speed-v1.png",
+    "cardIds": [
+      "environment.surface-bounce-speed"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：场地环境知识图：不同场地对球速、弹跳、旋转和站位的影响。，小红书风但保持清晰克制，使用网球场地示意、规则流程、环境对比或计分板，不画复杂真人技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-session-one-focus-v1",
+    "path": "/assets/knowledge/training-session-one-focus-v1.png",
+    "cardIds": [
+      "training.session-one-focus"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：训练知识图：一堂训练一个主目标，展示目标、练习、复盘的闭环。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-warmup-raise-temperature-v1",
+    "path": "/assets/knowledge/training-warmup-raise-temperature-v1.png",
+    "cardIds": [
+      "training.warmup-raise-temperature"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：热身知识图：升温、动态活动、专项准备三段流程。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-dynamic-mobility-before-hit-v1",
+    "path": "/assets/knowledge/training-dynamic-mobility-before-hit-v1.png",
+    "cardIds": [
+      "training.dynamic-mobility-before-hit"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：动态热身知识图：肩、髋、踝动态动作和赛前/赛后区别。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-shoulder-serve-prep-v1",
+    "path": "/assets/knowledge/training-shoulder-serve-prep-v1.png",
+    "cardIds": [
+      "training.shoulder-serve-prep"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：肩部热身知识图：弹力带激活、半速发球、渐进加速流程。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-drill-rest-ratio-v1",
+    "path": "/assets/knowledge/training-drill-rest-ratio-v1.png",
+    "cardIds": [
+      "training.drill-rest-ratio"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：训练质量知识图：练习组、休息、质量下降和恢复的关系。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-intensity-zones-v1",
+    "path": "/assets/knowledge/training-intensity-zones-v1.png",
+    "cardIds": [
+      "training.intensity-zones"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：训练强度知识图：低中高三档训练目的和适用场景。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-lesson-notes-within-24h-v1",
+    "path": "/assets/knowledge/training-lesson-notes-within-24h-v1.png",
+    "cardIds": [
+      "training.lesson-notes-within-24h"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：训练复盘知识图：24 小时内三行笔记，目标、cue、身体状态。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-video-review-one-clip-v1",
+    "path": "/assets/knowledge/training-video-review-one-clip-v1.png",
+    "cardIds": [
+      "training.video-review-one-clip"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：视频复盘知识图：从完整视频收敛到一个片段和一个问题。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-sleep-anchor-v1",
+    "path": "/assets/knowledge/recovery-sleep-anchor-v1.png",
+    "cardIds": [
+      "recovery.sleep-anchor"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：恢复知识图：睡眠、反应、学习巩固和训练降级决策。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-hydration-electrolytes-v1",
+    "path": "/assets/knowledge/recovery-hydration-electrolytes-v1.png",
+    "cardIds": [
+      "recovery.hydration-electrolytes"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：恢复知识图：补水、电解质、天气强度和身体信号清单。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-post-session-fuel-v1",
+    "path": "/assets/knowledge/recovery-post-session-fuel-v1.png",
+    "cardIds": [
+      "recovery.post-session-fuel"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：恢复知识图：训练后补水、碳水、蛋白质和时间窗口。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-soreness-vs-pain-v1",
+    "path": "/assets/knowledge/recovery-soreness-vs-pain-v1.png",
+    "cardIds": [
+      "recovery.soreness-vs-pain"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：恢复知识图：酸痛与疼痛对比、可继续/需降级/需停止信号。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-weekly-load-spike-v1",
+    "path": "/assets/knowledge/recovery-weekly-load-spike-v1.png",
+    "cardIds": [
+      "recovery.weekly-load-spike"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：恢复负荷知识图：频率、时长、强度三个旋钮和突然加量风险。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-day-after-match-v1",
+    "path": "/assets/knowledge/recovery-day-after-match-v1.png",
+    "cardIds": [
+      "recovery.day-after-match"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：赛后恢复知识图：比赛后第二天的身体检查和训练降级。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-heat-stress-signals-v1",
+    "path": "/assets/knowledge/recovery-heat-stress-signals-v1.png",
+    "cardIds": [
+      "recovery.heat-stress-signals"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：身体管理知识图：热压力信号、补水、阴凉和停止训练流程。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-recovery-cramp-risk-management-v1",
+    "path": "/assets/knowledge/recovery-cramp-risk-management-v1.png",
+    "cardIds": [
+      "recovery.cramp-risk-management"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：恢复知识图：抽筋风险四因素，疲劳、热、出汗、负荷。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-warning-signals-red-flags-v1",
+    "path": "/assets/knowledge/injury-warning-signals-red-flags-v1.png",
+    "cardIds": [
+      "injury.warning-signals-red-flags"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：伤病预防知识图：红灯疼痛信号和停止训练流程。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-training-pain-scale-stoplight-v1",
+    "path": "/assets/knowledge/training-pain-scale-stoplight-v1.png",
+    "cardIds": [
+      "training.pain-scale-stoplight"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：伤病预防知识图：疼痛红黄绿灯和训练强度对应关系。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-shoulder-serve-volume-v1",
+    "path": "/assets/knowledge/injury-shoulder-serve-volume-v1.png",
+    "cardIds": [
+      "injury.shoulder-serve-volume"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：肩部伤病预防知识图：发球量、热身、恢复和肩不适排查。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-elbow-grip-string-load-v1",
+    "path": "/assets/knowledge/injury-elbow-grip-string-load-v1.png",
+    "cardIds": [
+      "injury.elbow-grip-string-load"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：肘部管理知识图：球线、握拍紧张、击球量和肘部压力。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-wrist-late-contact-v1",
+    "path": "/assets/knowledge/injury-wrist-late-contact-v1.png",
+    "cardIds": [
+      "injury.wrist-late-contact"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：手腕伤病预防知识图：晚点、硬挡、握紧和冲击路径。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-knee-deceleration-v1",
+    "path": "/assets/knowledge/injury-knee-deceleration-v1.png",
+    "cardIds": [
+      "injury.knee-deceleration"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：膝盖预防知识图：启动、减速、膝盖对齐和刹车姿势。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-ankle-calf-achilles-v1",
+    "path": "/assets/knowledge/injury-ankle-calf-achilles-v1.png",
+    "cardIds": [
+      "injury.ankle-calf-achilles"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：脚踝小腿知识图：split step、蹬地、跟腱和渐进加量。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-lower-back-rotation-v1",
+    "path": "/assets/knowledge/injury-lower-back-rotation-v1.png",
+    "cardIds": [
+      "injury.lower-back-rotation"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：腰背预防知识图：脚、髋、胸椎、核心协同和腰部代偿。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-injury-return-after-break-v1",
+    "path": "/assets/knowledge/injury-return-after-break-v1.png",
+    "cardIds": [
+      "injury.return-after-break"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版知识图：伤病预防知识图：停练回归、训练量打折和重新爬坡。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-core-anti-rotation-v1",
+    "path": "/assets/knowledge/conditioning-core-anti-rotation-v1.png",
+    "cardIds": [
+      "conditioning.core-anti-rotation"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：抗旋转核心、传力和击球稳定。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-hip-mobility-v1",
+    "path": "/assets/knowledge/conditioning-hip-mobility-v1.png",
+    "cardIds": [
+      "conditioning.hip-mobility"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：髋部活动度、低重心和腰膝代偿。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-ankle-mobility-v1",
+    "path": "/assets/knowledge/conditioning-ankle-mobility-v1.png",
+    "cardIds": [
+      "conditioning.ankle-mobility"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：脚踝活动度、低重心、启动和急停。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-deceleration-basics-v1",
+    "path": "/assets/knowledge/conditioning-deceleration-basics-v1.png",
+    "cardIds": [
+      "conditioning.deceleration-basics"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：启动、刹车、最后两步和再启动。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-lateral-strength-v1",
+    "path": "/assets/knowledge/conditioning-lateral-strength-v1.png",
+    "cardIds": [
+      "conditioning.lateral-strength"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：直线跑与横向移动需求对比。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-balance-single-leg-v1",
+    "path": "/assets/knowledge/conditioning-balance-single-leg-v1.png",
+    "cardIds": [
+      "conditioning.balance-single-leg"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：单脚稳定、最后一步和击球平衡。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-power-before-fatigue-v1",
+    "path": "/assets/knowledge/conditioning-power-before-fatigue-v1.png",
+    "cardIds": [
+      "conditioning.power-before-fatigue"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：爆发训练顺序，疲劳前高质量、疲劳后降风险。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-conditioning-strength-minimum-dose-v1",
+    "path": "/assets/knowledge/conditioning-strength-minimum-dose-v1.png",
+    "cardIds": [
+      "conditioning.strength-minimum-dose"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版知识图：体能知识图：最小有效力量训练，基础动作和恢复成本。，主题是网球训练、身体管理、恢复、伤病预防或体能基础；使用流程图、红黄绿灯、训练清单或身体信号对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-defensive-high-middle-v1",
+    "path": "/assets/knowledge/tactics-defensive-high-middle-v1.png",
+    "cardIds": [
+      "tactics.defensive-high-middle"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：被动球高深中路重置，展示安全落点、回位箭头和错误反攻路线。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-neutral-depth-loop-v1",
+    "path": "/assets/knowledge/tactics-neutral-depth-loop-v1.png",
+    "cardIds": [
+      "tactics.neutral-depth-loop"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：深度循环到浅球升级的流程，使用球场落点序列。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-attack-big-target-v1",
+    "path": "/assets/knowledge/tactics-attack-big-target-v1.png",
+    "cardIds": [
+      "tactics.attack-big-target"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：大目标进攻区与边线小目标对比，标出成功率和风险。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-approach-deep-corner-v1",
+    "path": "/assets/knowledge/tactics-approach-deep-corner-v1.png",
+    "cardIds": [
+      "tactics.approach-deep-corner"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：深角落 approach 后随球上网，显示对手被压迫的穿越窗口。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-net-close-angle-v1",
+    "path": "/assets/knowledge/tactics-net-close-angle-v1.png",
+    "cardIds": [
+      "tactics.net-close-angle"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：网前关角度站位，对比站中间和随 approach 方向压迫。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-pass-low-cross-v1",
+    "path": "/assets/knowledge/tactics-pass-low-cross-v1.png",
+    "cardIds": [
+      "tactics.pass-low-cross"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：低斜线穿越逼低截，对比边线赌博穿越。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-lob-when-stretched-v1",
+    "path": "/assets/knowledge/tactics-lob-when-stretched-v1.png",
+    "cardIds": [
+      "tactics.lob-when-stretched"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：被动挑高越过网前人，显示恢复时间和对手后退路线。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-drop-shot-green-light-v1",
+    "path": "/assets/knowledge/tactics-drop-shot-green-light-v1.png",
+    "cardIds": [
+      "tactics.drop-shot-green-light"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：小球三绿灯决策树，深站位、站稳、来球轻。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-short-angle-open-court-v1",
+    "path": "/assets/knowledge/tactics-short-angle-open-court-v1.png",
+    "cardIds": [
+      "tactics.short-angle-open-court"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：短斜线拉开场地的条件和错误使用场景。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-inside-out-pattern-v1",
+    "path": "/assets/knowledge/tactics-inside-out-pattern-v1.png",
+    "cardIds": [
+      "tactics.inside-out-pattern"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：inside-out 与 inside-in 路线、空档和风险对比。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-weaker-wing-target-v1",
+    "path": "/assets/knowledge/tactics-weaker-wing-target-v1.png",
+    "cardIds": [
+      "tactics.weaker-wing-target"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：对手弱侧确认和连续压迫路线，不是一拍赌博。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-big-hitter-time-denial-v1",
+    "path": "/assets/knowledge/tactics-big-hitter-time-denial-v1.png",
+    "cardIds": [
+      "tactics.big-hitter-time-denial"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：对重炮手的深中路、高度变化和节奏变化。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-consistent-opponent-patience-v1",
+    "path": "/assets/knowledge/tactics-consistent-opponent-patience-v1.png",
+    "cardIds": [
+      "tactics.consistent-opponent-patience"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：稳定型对手应对，耐心、深度和主动失误预算。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-slicer-knee-bend-v1",
+    "path": "/assets/knowledge/tactics-slicer-knee-bend-v1.png",
+    "cardIds": [
+      "tactics.slicer-knee-bend"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：低切球击球窗口、重心下降和前向调整。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-net-rusher-first-pass-v1",
+    "path": "/assets/knowledge/tactics-net-rusher-first-pass-v1.png",
+    "cardIds": [
+      "tactics.net-rusher-first-pass"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：上网型对手脚下、身后、两侧三类目标决策树。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-moonballer-step-in-v1",
+    "path": "/assets/knowledge/tactics-moonballer-step-in-v1.png",
+    "cardIds": [
+      "tactics.moonballer-step-in"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：高弧线球前抢窗口和后退回深判断。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-serve-plus-one-open-court-v1",
+    "path": "/assets/knowledge/tactics-serve-plus-one-open-court-v1.png",
+    "cardIds": [
+      "tactics.serve-plus-one-open-court"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：发球方向和 plus-one 大目标的组合板。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-second-serve-body-v1",
+    "path": "/assets/knowledge/tactics-second-serve-body-v1.png",
+    "cardIds": [
+      "tactics.second-serve-body"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：身体位二发、外角冒险和安全深区目标对比。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-return-crosscourt-default-v1",
+    "path": "/assets/knowledge/tactics-return-crosscourt-default-v1.png",
+    "cardIds": [
+      "tactics.return-crosscourt-default"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：接发深斜线默认目标和直线抢攻风险。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-return-second-serve-step-in-v1",
+    "path": "/assets/knowledge/tactics-return-second-serve-step-in-v1.png",
+    "cardIds": [
+      "tactics.return-second-serve-step-in"
+    ],
+    "kind": "comparison",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：弱二发前压接发，站位、早接和大目标。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-deuce-ad-defaults-v1",
+    "path": "/assets/knowledge/tactics-deuce-ad-defaults-v1.png",
+    "cardIds": [
+      "tactics.deuce-ad-defaults"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：平分区和占先区发球默认计划板。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-tiebreak-first-four-v1",
+    "path": "/assets/knowledge/tactics-tiebreak-first-four-v1.png",
+    "cardIds": [
+      "tactics.tiebreak-first-four"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：抢七前四分低风险默认，计分板加目标区。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-momentum-reset-v1",
+    "path": "/assets/knowledge/tactics-momentum-reset-v1.png",
+    "cardIds": [
+      "tactics.momentum-reset"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：连丢两分后的重置流程，呼吸、比分、大目标。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  },
+  {
+    "id": "img-tactics-error-budget-v1",
+    "path": "/assets/knowledge/tactics-error-budget-v1.png",
+    "cardIds": [
+      "tactics.error-budget"
+    ],
+    "kind": "step",
+    "status": "candidate",
+    "prompt": "竖版战术知识图：战术知识图：每局主动失误预算表和预算爆掉后的低风险默认。，使用俯视球场、目标区、计分板、决策树或风险对比，不画复杂真人击球技术动作。",
+    "version": 1
+  }
+]

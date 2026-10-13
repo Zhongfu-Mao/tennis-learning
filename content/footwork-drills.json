@@ -1,0 +1,56 @@
+[
+  {
+    "id": "F01",
+    "name": "Split timing",
+    "problem": "footwork_late",
+    "pattern": "对手触球瞬间轻落地",
+    "cue": "split 不是跳高，是准备刹车和变向。",
+    "dosage": "对拉 10 分钟，每球轻喊 split。",
+    "successSignal": "启动不再等球过网。"
+  },
+  {
+    "id": "F02",
+    "name": "近/正好/远判断",
+    "problem": "too_close",
+    "pattern": "来球落地前先判断身体距离",
+    "cue": "先判断距离，再挥拍。",
+    "dosage": "喂球 30 球，每球喊近、正好或远。",
+    "successSignal": "被挤到次数下降。"
+  },
+  {
+    "id": "F03",
+    "name": "最后两步调整",
+    "problem": "late_contact",
+    "pattern": "大步到区域，小步找击球点",
+    "cue": "最后两步小，击球前停稳。",
+    "dosage": "半场移动球 6 组，每组 8 球。",
+    "successSignal": "击球点更靠前。"
+  },
+  {
+    "id": "F04",
+    "name": "侧向刹车",
+    "problem": "too_close",
+    "pattern": "外侧脚承重后髋膝踝一起减速",
+    "cue": "停得住，才打得稳。",
+    "dosage": "侧向弓步 + 场上两步急停。",
+    "successSignal": "跑到球前不再身体漂移。"
+  },
+  {
+    "id": "F05",
+    "name": "后退高球脚步",
+    "problem": "footwork_late",
+    "pattern": "先侧身，再交叉步后退",
+    "cue": "别倒着跑，先让髋转开。",
+    "dosage": "lob 追球 10 组。",
+    "successSignal": "高球下方站位更稳定。"
+  },
+  {
+    "id": "F06",
+    "name": "回位路线",
+    "problem": "late_contact",
+    "pattern": "击球后回到对手最大角度的中心",
+    "cue": "不是回场地中心，是回威胁中心。",
+    "dosage": "斜线对拉后回位标志点。",
+    "successSignal": "下一拍不再总是晚半拍。"
+  }
+]

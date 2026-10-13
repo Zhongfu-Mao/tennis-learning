@@ -1,0 +1,1777 @@
+[
+  {
+    "id": "tactics.cross-court",
+    "title": "大斜线是最长的对角线，所以更容错",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "cross-court",
+      "大斜线",
+      "tactics",
+      "margin",
+      "rally"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "progression",
+      "mindset"
+    ],
+    "summary": "大斜线走球场最长的对角线，过网最低处也更低，所以同样力量下容错比直线大，是回合和机会球的默认答案。",
+    "encyclopedia": "斜线球比直线多走一段对角线长度，而且过网点在球网较低的中间区域。更长的场地加更低的过网点，意味着同样的弧线和力量，斜线出界和下网的概率都更低。对 2.7 到 3.5 阶段，普通球和不确定的机会球先打深斜线建立优势，比急着变直线安全得多。",
+    "generatedImage": {
+      "assetId": "img-tactics-cross-court-v1",
+      "alt": "Overhead court diagram comparing a long safe cross-court diagonal and a short risky down-the-line path."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你机会球失误多，常因为一兴奋就改直线；先把斜线当默认，失误立刻降。",
+      "commonFailure": "回合里频繁打直线变线，过网点高、场地短，出界下网都变多。",
+      "onCourtCue": "不确定就深斜线：过最长对角线，留过网余量。",
+      "verificationTest": "20 个普通球默认打深斜线，至少 15 球过网有余量并落到对方深区。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-cross-court-default",
+        "title": "VR 斜线默认 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "所有普通球只打深斜线，盯过网余量和对角线深度，不打变线。",
+        "successSignal": "你能稳定把斜线打深，而不是每球都想换方向。"
+      },
+      "realCourtCheck": {
+        "id": "court-cross-court-20",
+        "title": "斜线深度 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球只打深斜线，记录过网余量和落点深度。",
+        "successSignal": "至少 15 球过网有余量并落到对方底线半场。"
+      }
+    },
+    "reviewPrompt": "斜线通常比直线安全，靠的是哪两个几何优势？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.down-the-line-cost",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.down-the-line-cost",
+    "title": "改变方向要付风险税",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "technique-models"
+    ],
+    "tags": [
+      "down the line",
+      "直线",
+      "change direction",
+      "risk",
+      "tactics"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "mindset",
+      "technique"
+    ],
+    "summary": "顺着来球方向回球最自然；改变方向打直线需要更早准备、更稳拍面，只在站稳、来球不重、目标明确时才付这个风险税。",
+    "encyclopedia": "球有惯性，顺着来球方向打最省力、最稳。改变方向（尤其斜线来球打成直线）要求你更早判断、更早引拍、击球点更靠前、拍面更稳，任何一项不到位都会失误。直线本身不是错，错的是在被动或没站稳时硬变线。它是有前提的高风险选择，不是默认。",
+    "generatedImage": {
+      "assetId": "img-tactics-down-the-line-cost-v1",
+      "alt": "Overhead diagram showing an easy go-with-the-ball reply versus a costly direction-change down-the-line shot."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "你被动时仍想打直线制胜，失误集中在这里；先认清前提，再决定要不要付这个税。",
+      "commonFailure": "跑动中、来球又重还强行变直线，球还没到位拍面就乱了。",
+      "onCourtCue": "想变直线前自检三件事：站稳了吗？来球不重吗？击球点在前吗？",
+      "verificationTest": "10 个变线机会，只在三条件都满足时打直线，错误变线少于 3 次。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-direction-change-gate",
+        "title": "VR 变线前自检 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "每次想打直线前先口头确认站稳、来球轻、击球点在前，否则回深斜线。",
+        "successSignal": "你能在被动球放弃变线，只在三条件满足时才打直线。"
+      },
+      "realCourtCheck": {
+        "id": "court-direction-change-10",
+        "title": "变线决策 10 球",
+        "durationMinutes": 8,
+        "instruction": "搭档随机喂球，记录你打直线时三条件是否真的满足。",
+        "successSignal": "错误时机的变线少于 3 次，被动球都回斜线或深中路。"
+      }
+    },
+    "reviewPrompt": "打直线前必须同时满足哪三个前提？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.cross-court",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "ball.bounce-window",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.midcourt-opportunity",
+    "title": "中场机会球是黄灯，先降风险再加料",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "midcourt",
+      "机会球",
+      "approach",
+      "risk",
+      "tactics"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "spacing"
+    ],
+    "summary": "浅球进中场像黄灯：可以前进，但要先确认站稳、降低风险，再决定加方向或加速度，不是一兴奋就猛打边线。",
+    "encyclopedia": "中场机会球同时是机会和陷阱。浅球让你有进攻空间，但球往往还在移动、你也在向前冲，边跑边猛抽边线会让失误暴增。正确顺序是：先到位站稳，默认深斜线或深中路压制，确认主动后再考虑加角度或上网，而不是把每个浅球都当制胜分。",
+    "generatedImage": {
+      "assetId": "img-tactics-midcourt-opportunity-v1",
+      "alt": "Overhead diagram of a short ball in the midcourt zone with a safe big-target reply versus a greedy line blast."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你正中机会球失误这个痛点：兴奋导致过早发力；先稳再加料能直接提升赢回合率。",
+      "commonFailure": "浅球边冲边猛抽边线，身体没稳，球非飞即下网。",
+      "onCourtCue": "中场球先想：到位、站稳、深斜线压住，再谈角度。",
+      "verificationTest": "10 个中场浅球，至少 7 个先压深斜线/深中路且没有为求角度盲目加速。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-midcourt-control-first",
+        "title": "VR 中场先稳 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "每个浅球先脚步到位再击球，默认深斜线，不打边线制胜。",
+        "successSignal": "你能在中场先稳住并压深，而不是边冲边猛抽。"
+      },
+      "realCourtCheck": {
+        "id": "court-midcourt-10",
+        "title": "中场机会球 10 球",
+        "durationMinutes": 8,
+        "instruction": "搭档喂 10 个浅球，记录你是否先站稳并压深再考虑加料。",
+        "successSignal": "至少 7 球先压深斜线/深中路，没有盲目飙边线。"
+      }
+    },
+    "reviewPrompt": "中场机会球最常见的陷阱是什么，正确的处理顺序是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.cross-court",
+        "type": "application"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "prerequisite"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.short-ball-danger",
+    "title": "短到发球区，等于邀请对手进攻",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "short ball",
+      "depth",
+      "发球区",
+      "defense",
+      "tactics"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "progression",
+      "mindset"
+    ],
+    "summary": "普通球落到发球区附近，对手就能进场加速；用过网高度和深度把对手顶回底线，是最便宜的防守。",
+    "encyclopedia": "深球让对手在底线后被动起球，短球让对手向前进场、用更好的角度和时间进攻你。2.7 到 3.5 阶段被压着打，常不是对手强，而是自己普通球太短。解决办法不是更用力，而是抬高过网弧线、把落点推过发球线后半段，把空间还给自己。",
+    "generatedImage": {
+      "assetId": "img-tactics-short-ball-danger-v1",
+      "alt": "Overhead diagram contrasting a short ball that invites an attacking step-in versus a deep ball pushing the opponent back."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你常被压着打的根因往往是球太短；先把深度补上，比加力量更有效。",
+      "commonFailure": "想打稳就缩手，结果球软又短，对手一步进场就主动。",
+      "onCourtCue": "稳不等于短：抬高过网，把球推过发球线后半段。",
+      "verificationTest": "20 个普通球，至少 14 球过发球线后半段，对手被顶在底线起球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-depth-push-back",
+        "title": "VR 深度顶人 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "只盯落点深度和过网高度，用 70% 力量把球推过发球线后半段。",
+        "successSignal": "你能稳定打深把对手顶回底线，而不是软短被进场。"
+      },
+      "realCourtCheck": {
+        "id": "court-depth-pushback-20",
+        "title": "深度 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球只记录落点是否过发球线后半段以及对手是否被顶后。",
+        "successSignal": "至少 14 球落深，对手多数球在底线附近被动起球。"
+      }
+    },
+    "reviewPrompt": "为什么普通球短到发球区会改变整个回合的主动权？",
+    "relatedCards": [
+      {
+        "targetId": "trajectory.net-clearance",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.pressure-point-play",
+    "title": "关键分：放大目标，降速度，留余量",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "pressure point",
+      "关键分",
+      "risk",
+      "mindset",
+      "tactics"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "关键分不是打得更猛，而是把目标改大、力量降到七八成、过网留余量，用可重复的稳定动作管理压力。",
+    "encyclopedia": "压力分上人容易反向操作：缩手又想一拍解决，结果目标变小、动作变僵。更职业的做法是反过来——目标区放大、力量降到 70%-80%、过网高度加余量，让这一分变成一个可重复的流程而不是赌博。心态训练要落到具体动作：大目标、降速度、留余量。",
+    "generatedImage": {
+      "assetId": "img-tactics-pressure-point-play-v1",
+      "alt": "Overhead diagram contrasting a small risky fast target and an enlarged safe target with a controlled deep arc under pressure."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你的心态痛点要可执行；把压力翻译成大目标、降速度、留余量这三个动作就能练。",
+      "commonFailure": "关键分缩手又想一拍打死，目标小、动作僵，双误或主动失误。",
+      "onCourtCue": "关键分口令：目标放大、力量降两成、过网多留一个身位。",
+      "verificationTest": "模拟 10 个压力分，至少 7 个执行大目标+降速度并把球安全打深。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-pressure-routine",
+        "title": "VR 压力分流程 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "每球前默念大目标、降速度、留余量，再执行，不追求制胜。",
+        "successSignal": "你能在压力情境保持同一个稳定流程，而不是缩手或猛打。"
+      },
+      "realCourtCheck": {
+        "id": "court-pressure-points-10",
+        "title": "压力分 10 球",
+        "durationMinutes": 8,
+        "instruction": "把 10 个球设为关键分，记录是否执行了大目标和降速度。",
+        "successSignal": "至少 7 个压力分动作不变形并把球安全打深。"
+      }
+    },
+    "reviewPrompt": "关键分时正确的反直觉调整是哪三件事？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      },
+      {
+        "targetId": "trajectory.net-clearance",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.defensive-high-middle",
+    "title": "被动时先高深中路，别急着反攻",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "被动时先高深中路",
+      "别急着反攻"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "被拉开或来球很重时，第一目标不是反击，而是用高深中路争取回位时间。",
+    "encyclopedia": "防守球的价值在于把回合从危险状态拉回中性。高一点的过网弧线给自己时间，深中路减少对手角度，也降低打边线的失误。被动时硬打小角度或直线，往往等于把已经困难的一球变成主动送分。",
+    "generatedImage": {
+      "assetId": "img-tactics-defensive-high-middle-v1",
+      "alt": "被动时先高深中路，别急着反攻 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "被拉开或来球很重时，第一目标不是反击，而是用高深中路争取回位时间。",
+      "commonFailure": "跑动中打低平直线，球下网或出边线，自己也来不及回位。",
+      "onCourtCue": "被动三字诀：高、深、中。",
+      "verificationTest": "10 个被动喂球，至少 7 个用高深中路把球救回并完成回位。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-defensive-high-middle",
+        "title": "VR 被动时先高深中路，别急着",
+        "durationMinutes": 6,
+        "instruction": "被动三字诀：高、深、中。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个被动喂球，至少 7 个用高深中路把球救回并完成回位。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-defensive-high-middle",
+        "title": "被动时先高深中路，别急着反攻",
+        "durationMinutes": 8,
+        "instruction": "10 个被动喂球，至少 7 个用高深中路把球救回并完成回位。",
+        "successSignal": "你能把“被动三字诀：高、深、中。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "被动时先高深中路，别急着反攻这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.recover-from-wide",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.neutral-depth-loop",
+    "title": "中性相持先用深度循环，不急着升级风险",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "中性相持先用深度循环",
+      "不急着升级风险"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "中性相持的基本盘是连续深球，先让对手多打一拍，再等浅球或失衡。",
+    "encyclopedia": "很多分不是靠一拍打穿，而是靠连续把球打到对方不舒服的位置。中性球没有明显机会时，最稳的选择是深斜线或深中路循环，让对手在底线后持续移动。只有当对手回浅、失位或给出慢球时，才升级到进攻选择。",
+    "generatedImage": {
+      "assetId": "img-tactics-neutral-depth-loop-v1",
+      "alt": "中性相持先用深度循环，不急着升级风险 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "中性相持的基本盘是连续深球，先让对手多打一拍，再等浅球或失衡。",
+      "commonFailure": "普通相持第三拍就想变线加速，主动失误比对手更多。",
+      "onCourtCue": "没机会就深循环，有浅球再升级。",
+      "verificationTest": "连续 15 个中性球，至少 10 球选择深目标，不盲目变线。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-neutral-depth-loop",
+        "title": "VR 中性相持先用深度循环，不",
+        "durationMinutes": 6,
+        "instruction": "没机会就深循环，有浅球再升级。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "连续 15 个中性球，至少 10 球选择深目标，不盲目变线。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-neutral-depth-loop",
+        "title": "中性相持先用深度循环，不急着",
+        "durationMinutes": 8,
+        "instruction": "连续 15 个中性球，至少 10 球选择深目标，不盲目变线。",
+        "successSignal": "你能把“没机会就深循环，有浅球再升级。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "中性相持先用深度循环，不急着升级风险这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.cross-court",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.midcourt-opportunity",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.attack-big-target",
+    "title": "进攻先打大目标，不先瞄线",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "technique-models"
+    ],
+    "tags": [
+      "tactics",
+      "technique-models",
+      "进攻先打大目标",
+      "不先瞄线"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "进攻球不是越贴线越高级，先用大目标压深或打空档，才是可重复的得分方式。",
+    "encyclopedia": "机会球给了你主动权，但不等于必须打边线。大目标通常是深斜线、深中路压迫、或对手移动后的空档区域。目标越小，对脚步、击球点和拍面要求越高；在 3.0 到 3.5 阶段，能稳定打进大目标，比偶尔漂亮制胜更值钱。",
+    "generatedImage": {
+      "assetId": "img-tactics-attack-big-target-v1",
+      "alt": "进攻先打大目标，不先瞄线 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "进攻球不是越贴线越高级，先用大目标压深或打空档，才是可重复的得分方式。",
+      "commonFailure": "中场球一看到机会就瞄边线，身体没稳就主动失误。",
+      "onCourtCue": "先进大目标，再谈漂亮角度。",
+      "verificationTest": "10 个机会球，至少 7 个打进大目标区，不追贴线。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-attack-big-target",
+        "title": "VR 进攻先打大目标，不先瞄线",
+        "durationMinutes": 8,
+        "instruction": "先进大目标，再谈漂亮角度。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个机会球，至少 7 个打进大目标区，不追贴线。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-attack-big-target",
+        "title": "进攻先打大目标，不先瞄线",
+        "durationMinutes": 10,
+        "instruction": "10 个机会球，至少 7 个打进大目标区，不追贴线。",
+        "successSignal": "你能把“先进大目标，再谈漂亮角度。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "进攻先打大目标，不先瞄线这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.midcourt-opportunity",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.approach-deep-corner",
+    "title": "随球上网要先把对手压进角落",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "随球上网要先把对手压进角落"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "上网前的关键不是冲得快，而是把 approach 打深到角落，让对手低质量穿越。",
+    "encyclopedia": "随球上网的第一拍决定你在网前会不会被动。如果 approach 球短或居中，对手有时间抬头选穿越或挑高；如果球深到角落，对手只能在跑动和低点下处理，穿越质量会下降。所以上网不是跑步比赛，而是先用落点限制对手选择。",
+    "generatedImage": {
+      "assetId": "img-tactics-approach-deep-corner-v1",
+      "alt": "随球上网要先把对手压进角落 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "上网前的关键不是冲得快，而是把 approach 打深到角落，让对手低质量穿越。",
+      "commonFailure": "浅球随便推到中路就冲上网，让对手舒服穿越。",
+      "onCourtCue": "先深角落，再向前关门。",
+      "verificationTest": "10 个 approach，至少 7 个先落到深角落再上网。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-approach-deep-corner",
+        "title": "VR 随球上网要先把对手压进角",
+        "durationMinutes": 8,
+        "instruction": "先深角落，再向前关门。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个 approach，至少 7 个先落到深角落再上网。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-approach-deep-corner",
+        "title": "随球上网要先把对手压进角落",
+        "durationMinutes": 10,
+        "instruction": "10 个 approach，至少 7 个先落到深角落再上网。",
+        "successSignal": "你能把“先深角落，再向前关门。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "随球上网要先把对手压进角落这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.attack-big-target",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.net-close-angle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.net-close-angle",
+    "title": "到网前后先关角度，不是等球飞来",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "到网前后先关角度",
+      "不是等球飞来"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "网前站位要跟着自己的来球方向移动，用位置缩小对手穿越角度。",
+    "encyclopedia": "上网后如果站在场地中央等球，对手可以选择两边穿越。更好的做法是根据你上一拍打到哪里，向对应方向压近并关掉最大角度。网前战术的核心不是反应神速，而是用站位提前减少对手可选窗口。",
+    "generatedImage": {
+      "assetId": "img-tactics-net-close-angle-v1",
+      "alt": "到网前后先关角度，不是等球飞来 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "网前站位要跟着自己的来球方向移动，用位置缩小对手穿越角度。",
+      "commonFailure": "上网后停在中间，给对手两条清晰穿越线。",
+      "onCourtCue": "球去哪里，人就向哪里关角度。",
+      "verificationTest": "10 次随球上网，至少 7 次根据 approach 方向调整网前站位。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-net-close-angle",
+        "title": "VR 到网前后先关角度，不是等",
+        "durationMinutes": 8,
+        "instruction": "球去哪里，人就向哪里关角度。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 次随球上网，至少 7 次根据 approach 方向调整网前站位。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-net-close-angle",
+        "title": "到网前后先关角度，不是等球飞",
+        "durationMinutes": 10,
+        "instruction": "10 次随球上网，至少 7 次根据 approach 方向调整网前站位。",
+        "successSignal": "你能把“球去哪里，人就向哪里关角度。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "到网前后先关角度，不是等球飞来这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.approach-deep-corner",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.net-rusher-first-pass",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.pass-low-cross",
+    "title": "穿越不一定打死，低斜线先逼截击",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "tactics",
+      "spin-physics",
+      "穿越不一定打死",
+      "低斜线先逼截击"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "面对网前人，低斜线穿越能让对方在低点截击，先制造难度再找空档。",
+    "encyclopedia": "对手上网时，很多人第一反应是全力打边线穿越。但低斜线过网有两个价值：一是让对手必须在低点处理，二是把截击质量压低，为下一拍创造机会。穿越不是只分一拍打死和失败，也可以用低球逼对手截出半场球。",
+    "generatedImage": {
+      "assetId": "img-tactics-pass-low-cross-v1",
+      "alt": "穿越不一定打死，低斜线先逼截击 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "面对网前人，低斜线穿越能让对方在低点截击，先制造难度再找空档。",
+      "commonFailure": "看到网前人就猛抽直线，出界或被轻松截住。",
+      "onCourtCue": "先低斜线，让他低点截。",
+      "verificationTest": "10 次对手上网，至少 6 次选择低斜线或脚下目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-pass-low-cross",
+        "title": "VR 穿越不一定打死，低斜线先",
+        "durationMinutes": 8,
+        "instruction": "先低斜线，让他低点截。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 次对手上网，至少 6 次选择低斜线或脚下目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-pass-low-cross",
+        "title": "穿越不一定打死，低斜线先逼截",
+        "durationMinutes": 10,
+        "instruction": "10 次对手上网，至少 6 次选择低斜线或脚下目标。",
+        "successSignal": "你能把“先低斜线，让他低点截。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "穿越不一定打死，低斜线先逼截击这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.net-rusher-first-pass",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spin.slice",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.lob-when-stretched",
+    "title": "被压到低点时，挑高球是重置工具",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "tactics",
+      "spin-physics",
+      "被压到低点时",
+      "挑高球是重置工具"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "当你被压低、被拉开或对手贴网时，挑高球能争取时间并迫使对手后退。",
+    "encyclopedia": "挑高球不是消极球。合适的挑高能改变对手站位，让网前人后退，也能给自己恢复时间。尤其在身体被拉开、击球点低、直线穿越窗口小的时候，高而深的挑高比硬抽穿越更合理。",
+    "generatedImage": {
+      "assetId": "img-tactics-lob-when-stretched-v1",
+      "alt": "被压到低点时，挑高球是重置工具 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "当你被压低、被拉开或对手贴网时，挑高球能争取时间并迫使对手后退。",
+      "commonFailure": "低点被动球还试图平抽穿越，球下网或被截。",
+      "onCourtCue": "低点被动，看见网前就高深挑。",
+      "verificationTest": "8 次被动低点或网前压力，至少 5 次选择高深挑或重置球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-lob-when-stretched",
+        "title": "VR 被压到低点时，挑高球是重",
+        "durationMinutes": 8,
+        "instruction": "低点被动，看见网前就高深挑。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "8 次被动低点或网前压力，至少 5 次选择高深挑或重置球。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-lob-when-stretched",
+        "title": "被压到低点时，挑高球是重置工",
+        "durationMinutes": 10,
+        "instruction": "8 次被动低点或网前压力，至少 5 次选择高深挑或重置球。",
+        "successSignal": "你能把“低点被动，看见网前就高深挑。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "被压到低点时，挑高球是重置工具这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.pass-low-cross",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.defensive-high-middle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.drop-shot-green-light",
+    "title": "放小球要等绿灯，不是随手炫技",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "tactics",
+      "spin-physics",
+      "放小球要等绿灯",
+      "不是随手炫技"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "小球适合对手站得深、你有时间、来球不重的时候；被动时乱放只是送短球。",
+    "encyclopedia": "放小球需要三个绿灯：对手站位深、自己站稳有时间、来球速度和旋转可控。缺任何一个条件，小球就容易变成半场喂球。小球的战术目标不是表演，而是利用对手站位，把他从舒适的底线位置拉出来。",
+    "generatedImage": {
+      "assetId": "img-tactics-drop-shot-green-light-v1",
+      "alt": "放小球要等绿灯，不是随手炫技 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "小球适合对手站得深、你有时间、来球不重的时候；被动时乱放只是送短球。",
+      "commonFailure": "被动或来球很重时突然放小，球浮高或不过网。",
+      "onCourtCue": "深站位、我站稳、来球轻，三绿灯才放。",
+      "verificationTest": "10 次想放小球时先判断三绿灯，错误时机少于 3 次。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-drop-shot-green-light",
+        "title": "VR 放小球要等绿灯，不是随手",
+        "durationMinutes": 8,
+        "instruction": "深站位、我站稳、来球轻，三绿灯才放。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 次想放小球时先判断三绿灯，错误时机少于 3 次。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-drop-shot-green-light",
+        "title": "放小球要等绿灯，不是随手炫技",
+        "durationMinutes": 10,
+        "instruction": "10 次想放小球时先判断三绿灯，错误时机少于 3 次。",
+        "successSignal": "你能把“深站位、我站稳、来球轻，三绿灯才放。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "放小球要等绿灯，不是随手炫技这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.attack-big-target",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spin.slice",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.short-angle-open-court",
+    "title": "短斜线是拉开场地，不是每球都用的花活",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "tactics",
+      "spin-physics",
+      "短斜线是拉开场地",
+      "不是每球都用的花活"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "短斜线适合你在场内、能控旋转、对手站位偏深时，用来把对手拉出场外。",
+    "encyclopedia": "短斜线的价值是打开场地，而不是炫耀角度。它需要更高的旋转控制和更清楚的对手站位判断。站在底线后、来球重、身体没稳时强行打短斜线，很容易下网或出边线；站进场内且对手偏深时，短斜线才会变成有效拉扯。",
+    "generatedImage": {
+      "assetId": "img-tactics-short-angle-open-court-v1",
+      "alt": "短斜线是拉开场地，不是每球都用的花活 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "短斜线适合你在场内、能控旋转、对手站位偏深时，用来把对手拉出场外。",
+      "commonFailure": "底线后被动球还打短斜线，角度没出来反而送失误。",
+      "onCourtCue": "人在场内、球可控、对手深，才短斜线。",
+      "verificationTest": "10 次短斜线尝试，至少 7 次满足三条件。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-short-angle-open-court",
+        "title": "VR 短斜线是拉开场地，不是每",
+        "durationMinutes": 8,
+        "instruction": "人在场内、球可控、对手深，才短斜线。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 次短斜线尝试，至少 7 次满足三条件。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-short-angle-open-court",
+        "title": "短斜线是拉开场地，不是每球都",
+        "durationMinutes": 10,
+        "instruction": "10 次短斜线尝试，至少 7 次满足三条件。",
+        "successSignal": "你能把“人在场内、球可控、对手深，才短斜线。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "短斜线是拉开场地，不是每球都用的花活这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.cross-court",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spin.topspin",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.inside-out-pattern",
+    "title": "侧身正手先打 inside-out，别急着反方向",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "侧身正手先打",
+      "inside-out",
+      "别急着反方向"
+    ],
+    "difficulty": "advanced",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "侧身正手的默认收益是打向对方反手斜线，先建立优势，再考虑 inside-in 直线。",
+    "encyclopedia": "侧身正手会暴露自己的反手空档，所以第一拍要足够稳和有压迫。inside-out 斜线通常穿过更长场地，也更容易打到对手反手侧；inside-in 直线更突然，但场地短、风险高。没有站稳或击球点不在前时，先用 inside-out 建立优势更合理。",
+    "generatedImage": {
+      "assetId": "img-tactics-inside-out-pattern-v1",
+      "alt": "侧身正手先打 inside-out，别急着反方向 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.5-4.0",
+      "whyItMatters": "侧身正手的默认收益是打向对方反手斜线，先建立优势，再考虑 inside-in 直线。",
+      "commonFailure": "侧身不到位就打 inside-in，出界后自己的反手空档还暴露。",
+      "onCourtCue": "侧身默认 inside-out，站稳再 inside-in。",
+      "verificationTest": "10 次侧身正手，至少 7 次先选择 inside-out 或大目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-inside-out-pattern",
+        "title": "VR 侧身正手先打 insid",
+        "durationMinutes": 8,
+        "instruction": "侧身默认 inside-out，站稳再 inside-in。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 次侧身正手，至少 7 次先选择 inside-out 或大目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-inside-out-pattern",
+        "title": "侧身正手先打 inside-",
+        "durationMinutes": 10,
+        "instruction": "10 次侧身正手，至少 7 次先选择 inside-out 或大目标。",
+        "successSignal": "你能把“侧身默认 inside-out，站稳再 inside-in。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "侧身正手先打 inside-out，别急着反方向这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.down-the-line-cost",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.weaker-wing-target",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.weaker-wing-target",
+    "title": "盯弱侧不是打一拍，而是连续建立压力",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "盯弱侧不是打一拍",
+      "而是连续建立压力"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "发现对手弱侧后，要用连续深球和大目标压迫，而不是每球都加速打死。",
+    "encyclopedia": "针对弱侧的核心是重复施压。你需要先确认弱侧是真弱：稳定性差、深度差、被压后回浅，还是只是某一拍失误。确认后用深斜线、深中路转向弱侧、大目标进攻来累积压力。过早加速反而可能把主动失误送回去。",
+    "generatedImage": {
+      "assetId": "img-tactics-weaker-wing-target-v1",
+      "alt": "盯弱侧不是打一拍，而是连续建立压力 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "发现对手弱侧后，要用连续深球和大目标压迫，而不是每球都加速打死。",
+      "commonFailure": "看到对手反手失误一次就每球猛攻反手，自己先失误。",
+      "onCourtCue": "确认弱侧，连续深压，不急加速。",
+      "verificationTest": "一盘内记录对手两侧失误和浅球，至少形成一个明确目标侧判断。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-weaker-wing-target",
+        "title": "VR 盯弱侧不是打一拍，而是连",
+        "durationMinutes": 8,
+        "instruction": "确认弱侧，连续深压，不急加速。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "一盘内记录对手两侧失误和浅球，至少形成一个明确目标侧判断。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-weaker-wing-target",
+        "title": "盯弱侧不是打一拍，而是连续建",
+        "durationMinutes": 10,
+        "instruction": "一盘内记录对手两侧失误和浅球，至少形成一个明确目标侧判断。",
+        "successSignal": "你能把“确认弱侧，连续深压，不急加速。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "盯弱侧不是打一拍，而是连续建立压力这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.neutral-depth-loop",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.inside-out-pattern",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.big-hitter-time-denial",
+    "title": "打重炮手，先剥夺时间和舒服高度",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "tactics",
+      "spin-physics",
+      "打重炮手",
+      "先剥夺时间和舒服高度"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "面对重炮手，不一定对轰；用深度、变化高度和中路压迫，让他少在舒服点发力。",
+    "encyclopedia": "大力型对手最喜欢有时间、站稳、击球点舒服的来球。你可以用深中路压住身体、较高弧线把击球点抬高、偶尔低切改变节奏，让他不能连续在同一个高度发力。目标不是比谁更猛，而是减少他的舒服发力窗口。",
+    "generatedImage": {
+      "assetId": "img-tactics-big-hitter-time-denial-v1",
+      "alt": "打重炮手，先剥夺时间和舒服高度 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "面对重炮手，不一定对轰；用深度、变化高度和中路压迫，让他少在舒服点发力。",
+      "commonFailure": "对方越猛你越对轰，最后自己先失误或被打穿。",
+      "onCourtCue": "不给舒服点：深中路、变高度、变节奏。",
+      "verificationTest": "对强打者 10 个相持球中，至少 6 球不送舒服腰部高度短球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-big-hitter-time-denial",
+        "title": "VR 打重炮手，先剥夺时间和舒",
+        "durationMinutes": 8,
+        "instruction": "不给舒服点：深中路、变高度、变节奏。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "对强打者 10 个相持球中，至少 6 球不送舒服腰部高度短球。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-big-hitter-time-denial",
+        "title": "打重炮手，先剥夺时间和舒服高",
+        "durationMinutes": 10,
+        "instruction": "对强打者 10 个相持球中，至少 6 球不送舒服腰部高度短球。",
+        "successSignal": "你能把“不给舒服点：深中路、变高度、变节奏。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "打重炮手，先剥夺时间和舒服高度这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spin.slice",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.consistent-opponent-patience",
+    "title": "打稳定型对手，先接受多打一拍",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "打稳定型对手",
+      "先接受多打一拍"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "稳定型对手会诱导你急躁；你的第一任务是接受回合变长，再寻找真正浅球。",
+    "encyclopedia": "稳定型对手未必球很重，但会让你感觉每分都要多打一拍。破解方式不是马上加速，而是降低主动失误预算：深度够、目标大、变化少，等他回浅或失位再进攻。你必须先赢过自己的急躁，才有机会赢过他的稳定。",
+    "generatedImage": {
+      "assetId": "img-tactics-consistent-opponent-patience-v1",
+      "alt": "打稳定型对手，先接受多打一拍 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "稳定型对手会诱导你急躁；你的第一任务是接受回合变长，再寻找真正浅球。",
+      "commonFailure": "对手只是多回一拍，你就开始瞄线加速。",
+      "onCourtCue": "他稳我更稳，浅球再加。",
+      "verificationTest": "一局中普通相持主动失误控制在 4 个以内。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-consistent-opponent-patience",
+        "title": "VR 打稳定型对手，先接受多打",
+        "durationMinutes": 8,
+        "instruction": "他稳我更稳，浅球再加。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "一局中普通相持主动失误控制在 4 个以内。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-consistent-opponent-patience",
+        "title": "打稳定型对手，先接受多打一拍",
+        "durationMinutes": 10,
+        "instruction": "一局中普通相持主动失误控制在 4 个以内。",
+        "successSignal": "你能把“他稳我更稳，浅球再加。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "打稳定型对手，先接受多打一拍这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.neutral-depth-loop",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.error-budget",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.slicer-knee-bend",
+    "title": "打切削型对手，先降重心再谈发力",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spin-physics"
+    ],
+    "tags": [
+      "tactics",
+      "spin-physics",
+      "打切削型对手",
+      "先降重心再谈发力"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "切削球常低、滑、慢，你要先降重心和向前调整距离，不要站直硬拉。",
+    "encyclopedia": "切削型对手会用低弹跳和节奏变化打乱你的击球窗口。应对重点不是更大力，而是早点识别低球、降重心、向前进入合适距离，再用足够过网高度回深。站直等球会让击球点掉到身体旁边，失误自然变多。",
+    "generatedImage": {
+      "assetId": "img-tactics-slicer-knee-bend-v1",
+      "alt": "打切削型对手，先降重心再谈发力 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "切削球常低、滑、慢，你要先降重心和向前调整距离，不要站直硬拉。",
+      "commonFailure": "站直等低球，最后用手腕硬捞。",
+      "onCourtCue": "低球先降重心，向前找距离。",
+      "verificationTest": "10 个低切来球，至少 7 个先降重心并回深。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-slicer-knee-bend",
+        "title": "VR 打切削型对手，先降重心再",
+        "durationMinutes": 8,
+        "instruction": "低球先降重心，向前找距离。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个低切来球，至少 7 个先降重心并回深。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-slicer-knee-bend",
+        "title": "打切削型对手，先降重心再谈发",
+        "durationMinutes": 10,
+        "instruction": "10 个低切来球，至少 7 个先降重心并回深。",
+        "successSignal": "你能把“低球先降重心，向前找距离。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "打切削型对手，先降重心再谈发力这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "spin.slice",
+        "type": "supporting"
+      },
+      {
+        "targetId": "spacing.contact-distance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.net-rusher-first-pass",
+    "title": "打上网型对手，第一反应先看脚下和身后",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "打上网型对手",
+      "第一反应先看脚下和身后"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "对手上网时，不只看左右穿越；脚下低球和身后挑高也是主要答案。",
+    "encyclopedia": "上网型对手希望你慌张地打小窗口。你的第一反应应是读他的站位：贴网太近就考虑挑高，站位偏一侧就打另一侧，离网还有距离就打脚下低球。这样你不是被迫穿越，而是在脚下、身后、两侧之间做选择。",
+    "generatedImage": {
+      "assetId": "img-tactics-net-rusher-first-pass-v1",
+      "alt": "打上网型对手，第一反应先看脚下和身后 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "对手上网时，不只看左右穿越；脚下低球和身后挑高也是主要答案。",
+      "commonFailure": "只盯边线穿越，忽略低脚下和挑高。",
+      "onCourtCue": "看站位：近就挑，远打脚下，偏就穿另一边。",
+      "verificationTest": "10 次对手上网，至少 7 次能说出自己选择的目标依据。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-net-rusher-first-pass",
+        "title": "VR 打上网型对手，第一反应先",
+        "durationMinutes": 8,
+        "instruction": "看站位：近就挑，远打脚下，偏就穿另一边。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 次对手上网，至少 7 次能说出自己选择的目标依据。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-net-rusher-first-pass",
+        "title": "打上网型对手，第一反应先看脚",
+        "durationMinutes": 10,
+        "instruction": "10 次对手上网，至少 7 次能说出自己选择的目标依据。",
+        "successSignal": "你能把“看站位：近就挑，远打脚下，偏就穿另一边。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "打上网型对手，第一反应先看脚下和身后这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.pass-low-cross",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.lob-when-stretched",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.moonballer-step-in",
+    "title": "打高弧线磨球，先抢早一点的击球窗口",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "打高弧线磨球",
+      "先抢早一点的击球窗口"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "面对高弧线慢球，不要只往后退；能站进场内时，抢上升点或舒适高度处理。",
+    "encyclopedia": "高弧线磨球会把你推到很后面，让你失去进攻位置。应对时先判断球是否短或慢，如果可以，就向前抢更早的击球窗口，把对手的时间优势拿回来。不能抢时再退后打高深球，避免在肩膀以上硬打。",
+    "generatedImage": {
+      "assetId": "img-tactics-moonballer-step-in-v1",
+      "alt": "打高弧线磨球，先抢早一点的击球窗口 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "面对高弧线慢球，不要只往后退；能站进场内时，抢上升点或舒适高度处理。",
+      "commonFailure": "每个高球都往后退，最后离底线越来越远。",
+      "onCourtCue": "慢高短，向前抢；深高重，退后回深。",
+      "verificationTest": "10 个高弧线球，至少 6 次做出明确前抢或后退判断。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-moonballer-step-in",
+        "title": "VR 打高弧线磨球，先抢早一点",
+        "durationMinutes": 8,
+        "instruction": "慢高短，向前抢；深高重，退后回深。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个高弧线球，至少 6 次做出明确前抢或后退判断。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-moonballer-step-in",
+        "title": "打高弧线磨球，先抢早一点的击",
+        "durationMinutes": 10,
+        "instruction": "10 个高弧线球，至少 6 次做出明确前抢或后退判断。",
+        "successSignal": "你能把“慢高短，向前抢；深高重，退后回深。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "打高弧线磨球，先抢早一点的击球窗口这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "ball.bounce-window",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.neutral-depth-loop",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.serve-plus-one-open-court",
+    "title": "发球不是结束，是给下一拍制造空档",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "technique-models"
+    ],
+    "tags": [
+      "tactics",
+      "technique-models",
+      "发球不是结束",
+      "是给下一拍制造空档"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "发球战术要提前想第二拍：用发球方向打开空间，再用 plus-one 打大目标。",
+    "encyclopedia": "发球局不只是追 ACE。更稳定的发球战术是先用发球方向影响接发站位和回球方向，再准备下一拍进入空档。例如外角发球拉开场地，下一拍打开放区域；身体发球挤住对手，下一拍打深大目标。发球和第一拍正手要当成一个组合。",
+    "generatedImage": {
+      "assetId": "img-tactics-serve-plus-one-open-court-v1",
+      "alt": "发球不是结束，是给下一拍制造空档 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "发球战术要提前想第二拍：用发球方向打开空间，再用 plus-one 打大目标。",
+      "commonFailure": "发完球站着等，接发一回来就临时决定。",
+      "onCourtCue": "发前先问：这球想让下一拍打哪里？",
+      "verificationTest": "10 个发球分，至少 7 个发前说出发球方向和下一拍默认目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-serve-plus-one-open-court",
+        "title": "VR 发球不是结束，是给下一拍",
+        "durationMinutes": 8,
+        "instruction": "发前先问：这球想让下一拍打哪里？。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个发球分，至少 7 个发前说出发球方向和下一拍默认目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-serve-plus-one-open-court",
+        "title": "发球不是结束，是给下一拍制造",
+        "durationMinutes": 10,
+        "instruction": "10 个发球分，至少 7 个发前说出发球方向和下一拍默认目标。",
+        "successSignal": "你能把“发前先问：这球想让下一拍打哪里？”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "发球不是结束，是给下一拍制造空档这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "serve.first-second-plan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.attack-big-target",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.second-serve-body",
+    "title": "二发被攻击时，身体位是安全变化",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "technique-models"
+    ],
+    "tags": [
+      "tactics",
+      "technique-models",
+      "二发被攻击时",
+      "身体位是安全变化"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "二发不只剩保守进框；发向身体能减少接发者挥拍空间，是安全的战术变化。",
+    "encyclopedia": "二发最先要求稳定，但稳定不等于每次送到同一个舒服位置。身体位二发可以挤压接发者，让他难以完整挥拍，同时不需要像边线外角那样追求极小落点。对 3.0 到 3.5 阶段，身体位是兼顾安全和干扰的实用选择。",
+    "generatedImage": {
+      "assetId": "img-tactics-second-serve-body-v1",
+      "alt": "二发被攻击时，身体位是安全变化 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "二发不只剩保守进框；发向身体能减少接发者挥拍空间，是安全的战术变化。",
+      "commonFailure": "二发永远发同一落点，被对手提前站位攻击。",
+      "onCourtCue": "二发先稳，再用身体位挤他。",
+      "verificationTest": "10 个二发，至少 6 个有明确身体位或安全深区目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-second-serve-body",
+        "title": "VR 二发被攻击时，身体位是安",
+        "durationMinutes": 8,
+        "instruction": "二发先稳，再用身体位挤他。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个二发，至少 6 个有明确身体位或安全深区目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-second-serve-body",
+        "title": "二发被攻击时，身体位是安全变",
+        "durationMinutes": 10,
+        "instruction": "10 个二发，至少 6 个有明确身体位或安全深区目标。",
+        "successSignal": "你能把“二发先稳，再用身体位挤他。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "二发被攻击时，身体位是安全变化这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "serve.second-serve-spin",
+        "type": "supporting"
+      },
+      {
+        "targetId": "serve.first-second-plan",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.return-crosscourt-default",
+    "title": "接发默认斜线深区，先进入回合",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "接发默认斜线深区",
+      "先进入回合"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "普通一发和有压力接发时，斜线深区比直线抢攻更适合作为默认选择。",
+    "encyclopedia": "接发是被动开始的一拍，目标不是每次打出漂亮回球，而是先让球高质量进场。斜线深区提供更长场地和更低过网点，也能把发球方的 plus-one 压回中性。只有二发很弱、站位舒服时，才考虑更主动的变线或前压。",
+    "generatedImage": {
+      "assetId": "img-tactics-return-crosscourt-default-v1",
+      "alt": "接发默认斜线深区，先进入回合 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "普通一发和有压力接发时，斜线深区比直线抢攻更适合作为默认选择。",
+      "commonFailure": "一发接发强行直线，直接下网或出界。",
+      "onCourtCue": "接发先深斜线，进回合再找机会。",
+      "verificationTest": "10 个普通接发，至少 7 个打向斜线深区或深中路。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-return-crosscourt-default",
+        "title": "VR 接发默认斜线深区，先进入",
+        "durationMinutes": 6,
+        "instruction": "接发先深斜线，进回合再找机会。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个普通接发，至少 7 个打向斜线深区或深中路。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-return-crosscourt-default",
+        "title": "接发默认斜线深区，先进入回合",
+        "durationMinutes": 8,
+        "instruction": "10 个普通接发，至少 7 个打向斜线深区或深中路。",
+        "successSignal": "你能把“接发先深斜线，进回合再找机会。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "接发默认斜线深区，先进入回合这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "return.depth-first",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.cross-court",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.return-second-serve-step-in",
+    "title": "二发弱时，先前压抢时间，再选大目标",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "spacing-footwork"
+    ],
+    "tags": [
+      "tactics",
+      "spacing-footwork",
+      "二发弱时",
+      "先前压抢时间",
+      "再选大目标"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "对手二发短慢时，前压的价值是抢时间和位置，不是立刻瞄线爆抽。",
+    "encyclopedia": "弱二发给了你主动权，但主动权要先通过站位兑现。向前站、早一点接、打大目标，可以压缩发球方下一拍时间。直接瞄边线猛攻则把优势变成赌博。判断二发是否值得前压，要看落点、速度、弹跳和自己的准备时间。",
+    "generatedImage": {
+      "assetId": "img-tactics-return-second-serve-step-in-v1",
+      "alt": "二发弱时，先前压抢时间，再选大目标 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "对手二发短慢时，前压的价值是抢时间和位置，不是立刻瞄线爆抽。",
+      "commonFailure": "二发一慢就猛打边线，主动失误抵消了机会。",
+      "onCourtCue": "弱二发：前压、早接、大目标。",
+      "verificationTest": "10 个弱二发，至少 7 个前压并打进大目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-return-second-serve-step-in",
+        "title": "VR 二发弱时，先前压抢时间，",
+        "durationMinutes": 8,
+        "instruction": "弱二发：前压、早接、大目标。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "10 个弱二发，至少 7 个前压并打进大目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-return-second-serve-step-in",
+        "title": "二发弱时，先前压抢时间，再选",
+        "durationMinutes": 10,
+        "instruction": "10 个弱二发，至少 7 个前压并打进大目标。",
+        "successSignal": "你能把“弱二发：前压、早接、大目标。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "二发弱时，先前压抢时间，再选大目标这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.return-crosscourt-default",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.attack-big-target",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.deuce-ad-defaults",
+    "title": "平分区和占先区，要有默认发球计划",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "technique-models"
+    ],
+    "tags": [
+      "tactics",
+      "technique-models",
+      "平分区和占先区",
+      "要有默认发球计划"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "发球局不能每分临时想；平分区和占先区各准备一个高成功率默认方向。",
+    "encyclopedia": "发球计划要和比分区结合。平分区、占先区的角度和对手站位不同，你需要提前准备各自的默认方向、二发安全目标和 plus-one 意图。这样到压力分时不会临时摇摆，也不会因为想太多影响抛球和节奏。",
+    "generatedImage": {
+      "assetId": "img-tactics-deuce-ad-defaults-v1",
+      "alt": "平分区和占先区，要有默认发球计划 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "发球局不能每分临时想；平分区和占先区各准备一个高成功率默认方向。",
+      "commonFailure": "每分站上底线才想发哪里，抛球和节奏都乱。",
+      "onCourtCue": "两个区各有默认答案，压力分直接执行。",
+      "verificationTest": "发球局前写下平分区和占先区默认一发、二发目标，并执行一局。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-deuce-ad-defaults",
+        "title": "VR 平分区和占先区，要有默认",
+        "durationMinutes": 8,
+        "instruction": "两个区各有默认答案，压力分直接执行。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "发球局前写下平分区和占先区默认一发、二发目标，并执行一局。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-deuce-ad-defaults",
+        "title": "平分区和占先区，要有默认发球",
+        "durationMinutes": 10,
+        "instruction": "发球局前写下平分区和占先区默认一发、二发目标，并执行一局。",
+        "successSignal": "你能把“两个区各有默认答案，压力分直接执行。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "平分区和占先区，要有默认发球计划这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "serve.first-second-plan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.serve-plus-one-open-court",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.tiebreak-first-four",
+    "title": "抢七前四分，先把风险压低",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "抢七前四分",
+      "先把风险压低"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "抢七开局不要急着证明自己，前四分先用高成功率模式进入节奏。",
+    "encyclopedia": "抢七的每一分都被放大，开局连续主动失误会很快让比分失控。前四分的目标是进入比赛节奏：一发找高成功率方向，接发先深区，普通相持打大目标。等比分和身体都稳定后，再根据对手状态升级风险。",
+    "generatedImage": {
+      "assetId": "img-tactics-tiebreak-first-four-v1",
+      "alt": "抢七前四分，先把风险压低 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "抢七开局不要急着证明自己，前四分先用高成功率模式进入节奏。",
+      "commonFailure": "开局想打气势球，连续主动失误把比分送掉。",
+      "onCourtCue": "抢七前四分：大目标、深接发、别送礼。",
+      "verificationTest": "模拟抢七前四分，主动失误不超过 1 个。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-tiebreak-first-four",
+        "title": "VR 抢七前四分，先把风险压低",
+        "durationMinutes": 8,
+        "instruction": "抢七前四分：大目标、深接发、别送礼。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "模拟抢七前四分，主动失误不超过 1 个。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-tiebreak-first-four",
+        "title": "抢七前四分，先把风险压低",
+        "durationMinutes": 10,
+        "instruction": "模拟抢七前四分，主动失误不超过 1 个。",
+        "successSignal": "你能把“抢七前四分：大目标、深接发、别送礼。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "抢七前四分，先把风险压低这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.error-budget",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.momentum-reset",
+    "title": "连丢两分，先重置流程，不马上改打法",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "连丢两分",
+      "先重置流程",
+      "不马上改打法"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "连续丢分后先用呼吸、慢节奏和大目标重置，不要立刻换成更激进打法。",
+    "encyclopedia": "连丢两分容易让人误以为必须马上改变一切。实际更稳的做法是先重置流程：放慢准备、确认比分、选大目标、执行高成功率第一拍。只有当连续丢分来自同一个明确模式时，才做一个小调整，而不是情绪化大改。",
+    "generatedImage": {
+      "assetId": "img-tactics-momentum-reset-v1",
+      "alt": "连丢两分，先重置流程，不马上改打法 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "连续丢分后先用呼吸、慢节奏和大目标重置，不要立刻换成更激进打法。",
+      "commonFailure": "连丢两分后马上加力瞄线，继续送第三分。",
+      "onCourtCue": "连丢两分：慢下来，大目标，打一拍稳球。",
+      "verificationTest": "模拟连丢两分后，下一分先执行大目标低风险开局。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-momentum-reset",
+        "title": "VR 连丢两分，先重置流程，不",
+        "durationMinutes": 6,
+        "instruction": "连丢两分：慢下来，大目标，打一拍稳球。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "模拟连丢两分后，下一分先执行大目标低风险开局。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-momentum-reset",
+        "title": "连丢两分，先重置流程，不马上",
+        "durationMinutes": 8,
+        "instruction": "模拟连丢两分后，下一分先执行大目标低风险开局。",
+        "successSignal": "你能把“连丢两分：慢下来，大目标，打一拍稳球。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "连丢两分，先重置流程，不马上改打法这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "supporting"
+      },
+      {
+        "targetId": "progression.review-funnel",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "tactics.error-budget",
+    "title": "每局先管主动失误预算",
+    "category": "tactics",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "tactics",
+      "vr-practice",
+      "每局先管主动失误预算"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "低级别比赛先看每局主动失误数，预算爆了就必须回到大目标和深度。",
+    "encyclopedia": "很多 2.7 到 3.5 的比赛不是谁打出更多制胜分，而是谁少送主动失误。给自己设一个每局主动失误预算，可以让战术选择变具体：预算正常时可以尝试进攻，预算爆了就回到深中路、大斜线和过网余量。",
+    "generatedImage": {
+      "assetId": "img-tactics-error-budget-v1",
+      "alt": "每局先管主动失误预算 tactical knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "低级别比赛先看每局主动失误数，预算爆了就必须回到大目标和深度。",
+      "commonFailure": "连续主动失误后还继续加风险，没有刹车机制。",
+      "onCourtCue": "预算爆了：深中路、大斜线、过网高。",
+      "verificationTest": "打一局记录主动失误，超过 3 个后强制回到低风险默认。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-tactics-error-budget",
+        "title": "VR 每局先管主动失误预算",
+        "durationMinutes": 6,
+        "instruction": "预算爆了：深中路、大斜线、过网高。。用战术判断和球场目标练习，不追求复杂技术动作。",
+        "successSignal": "打一局记录主动失误，超过 3 个后强制回到低风险默认。"
+      },
+      "realCourtCheck": {
+        "id": "court-tactics-error-budget",
+        "title": "每局先管主动失误预算",
+        "durationMinutes": 8,
+        "instruction": "打一局记录主动失误，超过 3 个后强制回到低风险默认。",
+        "successSignal": "你能把“预算爆了：深中路、大斜线、过网高。”变成真实回合选择。"
+      }
+    },
+    "reviewPrompt": "每局先管主动失误预算这张卡的战术判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.neutral-depth-loop",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

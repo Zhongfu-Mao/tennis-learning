@@ -1,0 +1,75 @@
+[
+  {
+    "id": "basics-rules",
+    "title": "入门与规则",
+    "description": "球场、球线、计分、发球顺序与比赛流程。",
+    "topicIds": [
+      "court-geometry",
+      "rules-scoring",
+      "match-basics"
+    ]
+  },
+  {
+    "id": "technique",
+    "title": "击球技术",
+    "description": "正反手、发球、接发与击球准备的基础概念。",
+    "topicIds": [
+      "technique-models"
+    ]
+  },
+  {
+    "id": "movement",
+    "title": "步伐与站位",
+    "description": "启动、距离、调整步、回位与不同站位。",
+    "topicIds": [
+      "spacing-footwork"
+    ]
+  },
+  {
+    "id": "ball-environment",
+    "title": "球性与环境",
+    "description": "旋转、轨迹、弹跳、场地和天气。",
+    "topicIds": [
+      "spin-physics",
+      "ball-environment"
+    ]
+  },
+  {
+    "id": "tactics",
+    "title": "战术与比赛",
+    "description": "相持、进攻、防守、发接发模式与比分下的选择。",
+    "topicIds": [
+      "match-tactics"
+    ]
+  },
+  {
+    "id": "body",
+    "title": "体能、恢复与安全",
+    "description": "专项体能、恢复、训练负荷和伤病相关知识。",
+    "topicIds": [
+      "body-strength",
+      "recovery-load",
+      "injury-prevention",
+      "movement-conditioning"
+    ]
+  },
+  {
+    "id": "learning",
+    "title": "训练与学习方法",
+    "description": "热身、训练目标、笔记、视频观察与复盘方法。",
+    "topicIds": [
+      "training-routine"
+    ]
+  },
+  {
+    "id": "equipment",
+    "title": "装备百科",
+    "description": "网球、球拍、球线、握把、球鞋和配件维护。",
+    "topicIds": [
+      "equipment-balls",
+      "equipment-racquets",
+      "equipment-strings",
+      "equipment-footwear"
+    ]
+  }
+]

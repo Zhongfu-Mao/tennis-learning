@@ -1,0 +1,46 @@
+[
+  {
+    "id": "serve.toss-window",
+    "title": "发球先练抛球窗口，不先堆动作链",
+    "category": "serve",
+    "topicIds": ["technique-models", "vr-practice"],
+    "tags": ["serve", "toss", "contact window", "second serve", "发球", "抛球"],
+    "difficulty": "starter",
+    "painPoints": ["technique", "progression"],
+    "summary": "发球不稳定时，先固定抛球窗口和身体平衡，再谈复杂动作链、拍头速度或更强旋转。",
+    "encyclopedia": "发球是唯一完全由自己开始的一拍，但初学阶段最容易把问题归因到挥拍、手腕或力量。更稳的切入点是抛球窗口：球是否反复出现在同一个可击打区域，身体是否还能保持平衡，击球点是否在可延展的位置。抛球窗口稳定后，蹬地、转体、拍头加速和二发旋转才有可重复的基础。",
+    "generatedImage": {
+      "assetId": "img-serve-toss-window-v2",
+      "alt": "A tennis player practicing a serve toss on a clean hard court, cropped above the legs to focus on the toss window."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你的真实场地机会少，发球又很难在 VR 里完全复制。先用抛球窗口建立可重复检查点，能让每次上场的发球练习更有收获。",
+      "commonFailure": "一发不进就马上改挥拍或加力量，结果每一次抛球位置都不同，身体只能追着球补救。",
+      "onCourtCue": "抛球后先问：球是不是在同一个窗口？身体有没有被拉走？",
+      "verificationTest": "连续 20 次只抛不打，至少 14 次落在前脚内侧前方一个拍框范围内。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-serve-toss-window-rhythm",
+        "title": "VR 抛球窗口节奏 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "在 VR 或无球影子发球里只练准备、抛球节奏和击球窗口想象。每次挥拍前先说窗口稳定或偏左、偏右、偏后。",
+        "successSignal": "你能在挥拍前判断抛球窗口，而不是发完才知道身体被球带走。"
+      },
+      "realCourtCheck": {
+        "id": "court-serve-toss-window-5",
+        "title": "5 分钟只抛球不击球",
+        "durationMinutes": 5,
+        "instruction": "站在发球位置连续抛球，不击球。让球落在前脚内侧前方一个拍框范围，记录 20 次中的命中数。",
+        "successSignal": "20 次里至少 14 次落进目标窗口，并且身体没有明显追球或后仰。"
+      }
+    },
+    "reviewPrompt": "发球不稳定时，为什么先检查抛球窗口，而不是先改挥拍动作？",
+    "relatedCards": [
+      { "targetId": "spacing.contact-distance", "type": "supporting" },
+      { "targetId": "spacing.split-timing", "type": "supporting" }
+    ],
+    "verificationStatus": "verified"
+  }
+]

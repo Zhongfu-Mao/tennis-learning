@@ -1,0 +1,222 @@
+[
+  {
+    "id": "stroke.unit-turn-early",
+    "title": "准备先转肩，不是单独抡手",
+    "category": "stroke",
+    "topicIds": ["technique-models", "spacing-footwork"],
+    "tags": ["unit turn", "preparation", "转肩", "forehand", "backhand"],
+    "difficulty": "building",
+    "painPoints": ["technique", "spacing"],
+    "summary": "判断方向后第一动作是肩和上半身一起转，引拍跟着转体自然带出，而不是手臂单独往后抡。",
+    "encyclopedia": "稳定击球的准备从转体开始：split 落地、判断方向后，肩和躯干作为一个整体先转，球拍随转体自然到位。手臂单独抡引拍会让时机晚、击球点散、力量靠手。常见现象是等球到了才匆忙引拍，根因是没在判断的瞬间完成转肩。先转体，再到位，最后出手。",
+    "generatedImage": {
+      "assetId": "img-stroke-unit-turn-early-v1",
+      "alt": "Side view contrasting a late arm-only takeback versus an early whole-body shoulder turn triggered on the split."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你击球点常晚、力量靠手，根因多是引拍用手不用转体；先把早转肩补上。",
+      "commonFailure": "等球快到才用手往后抡，转体没做，击球仓促失衡。",
+      "onCourtCue": "判断完方向立刻转肩，球拍跟着转体走，不要先动手。",
+      "verificationTest": "20 球里至少 14 球能在判断瞬间完成转肩，引拍由转体带出。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-unit-turn-trigger",
+        "title": "VR 早转肩触发 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "只练 split 落地后立即转肩，引拍由转体带出，不发力不追落点。",
+        "successSignal": "你能在判断方向的瞬间完成转肩，而不是球到了才抡手。"
+      },
+      "realCourtCheck": {
+        "id": "court-unit-turn-20",
+        "title": "早转肩 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球，只记录引拍是否由早转肩带出以及击球是否从容。",
+        "successSignal": "至少 14 球转肩在前、击球点不再仓促。"
+      }
+    },
+    "reviewPrompt": "稳定击球的准备第一动作是手往后抡，还是肩和上身一起转？",
+    "relatedCards": [
+      { "targetId": "spacing.split-timing", "type": "prerequisite" },
+      { "targetId": "stroke.contact-in-front", "type": "next" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "stroke.contact-in-front",
+    "title": "击球点在身体前方才稳定有力",
+    "category": "stroke",
+    "topicIds": ["technique-models", "spacing-footwork"],
+    "tags": ["contact point", "in front", "击球点", "forehand", "backhand"],
+    "difficulty": "starter",
+    "painPoints": ["technique", "spacing"],
+    "summary": "稳定有力的击球点在身体前方一段距离；身侧勉强、身后被压住，这往往不是手法问题而是击球点位置问题。",
+    "encyclopedia": "击球点不是一个固定点，而是一段窗口，但稳定有力的区域始终在身体前方：在那里你能用上转体和重心、视线也更稳。身侧击球力量靠手、容易下网或出界；身后击球被压住、动作必然变形。很多人反复修拍面，其实只要把击球点提前到身前，多数问题自然缓解。",
+    "generatedImage": {
+      "assetId": "img-stroke-contact-in-front-v1",
+      "alt": "Side view marking three contact points on the swing path: cramped behind, beside, and a powerful balanced point in front."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你常归因拍面，其实多数失误先看击球点是否在身前；先把这个补上。",
+      "commonFailure": "球点在身侧或身后才打，怎么修拍面都不稳。",
+      "onCourtCue": "出手前确认：这球我会在身体前方击中它吗？",
+      "verificationTest": "20 球里至少 15 球击球点明显在身体前方并保持平衡。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-contact-front-marker",
+        "title": "VR 身前击球点 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "想象身前有一个击球框，只追求在框里击中球，不追力量。",
+        "successSignal": "你能稳定在身前击球框击球，而不是身侧或身后。"
+      },
+      "realCourtCheck": {
+        "id": "court-contact-front-20",
+        "title": "身前击球点 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球，只记录击球点是否在身体前方以及是否平衡。",
+        "successSignal": "至少 15 球击球点在身前且击球稳定有支撑。"
+      }
+    },
+    "reviewPrompt": "很多挥拍问题反复修拍面没用，先要确认的是什么？",
+    "relatedCards": [
+      { "targetId": "spacing.contact-distance", "type": "prerequisite" },
+      { "targetId": "stroke.unit-turn-early", "type": "supporting" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "stroke.low-to-high-shape",
+    "title": "上旋的弧线由低到高的挥拍形状决定",
+    "category": "stroke",
+    "topicIds": ["technique-models", "spin-physics"],
+    "tags": ["low to high", "swing path", "上旋", "shape", "topspin"],
+    "difficulty": "building",
+    "painPoints": ["technique", "progression"],
+    "summary": "想要安全上旋弧线，靠的是球拍从低到高、向前通过球的挥拍形状，而不是手腕在触球时往上挑。",
+    "encyclopedia": "上旋的弧线和容错来自挥拍形状：引拍略低于来球，向前并由低到高通过球，让拍面摩擦球的后上方再随挥到肩侧。手腕在触球瞬间往上挑，会让球飘、没深度、还伤手腕。先把低到高、向前通过的形状固定下来，旋转和深度是它的自然结果。",
+    "generatedImage": {
+      "assetId": "img-stroke-low-to-high-shape-v1",
+      "alt": "Side view of a low-to-high brushing swing path producing a safe arc versus a flat over-the-top chop."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你上旋飘、没深度，常因为靠手腕挑而不是低到高的挥拍形状；先固定形状。",
+      "commonFailure": "触球瞬间手腕上挑，球飘高没向前，落点浅。",
+      "onCourtCue": "引拍略低，向前由低到高通过球，随挥到肩。",
+      "verificationTest": "20 球用低到高形状打上旋，至少 14 球过网有余量且落深。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-low-to-high-shape",
+        "title": "VR 低到高形状 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "只练引拍偏低、向前由低到高通过球的形状，不追速度。",
+        "successSignal": "你能稳定用低到高形状制造弧线，而不是手腕上挑。"
+      },
+      "realCourtCheck": {
+        "id": "court-low-to-high-20",
+        "title": "低到高 20 球",
+        "durationMinutes": 10,
+        "instruction": "对拉 20 球只盯挥拍形状是否低到高、向前通过，记录弧线与深度。",
+        "successSignal": "至少 14 球弧线安全、落点深，没有手腕上挑。"
+      }
+    },
+    "reviewPrompt": "安全的上旋弧线主要来自手腕上挑，还是低到高、向前通过球的挥拍形状？",
+    "relatedCards": [
+      { "targetId": "spin.topspin", "type": "supporting" },
+      { "targetId": "stroke.balance-finish", "type": "next" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "stroke.balance-finish",
+    "title": "平衡的完整随挥是稳定的检查点",
+    "category": "stroke",
+    "topicIds": ["technique-models", "spacing-footwork"],
+    "tags": ["balance", "follow through", "随挥", "stability", "checkpoint"],
+    "difficulty": "starter",
+    "painPoints": ["technique", "mindset"],
+    "summary": "击球后能不能稳住、完成完整随挥，是判断这球质量的简单检查点；身体往外倒或随挥被掐断，说明前面已经出错。",
+    "encyclopedia": "随挥不是装饰，而是结果的镜子：击球前距离、击球点和平衡都对，随挥自然完整、身体能稳住一拍。如果总是随挥被掐断、身体往外倒、靠跳来补救，问题其实发生在击球之前。把平衡的完整随挥当成每球自检的检查点，比纠结手部动作更快定位问题。",
+    "generatedImage": {
+      "assetId": "img-stroke-balance-finish-v1",
+      "alt": "Side-by-side of a balanced full follow-through holding still versus an off-balance falling-away abbreviated finish."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你失误后说不清哪错了；用能否平衡收拍当检查点，能快速定位前面的问题。",
+      "commonFailure": "随挥被掐断、身体外倒还硬补救，却只盯手部动作改。",
+      "onCourtCue": "击球后问自己：我能稳住完成完整随挥吗？",
+      "verificationTest": "20 球里至少 15 球击球后能保持平衡并完成完整随挥。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-balance-finish-hold",
+        "title": "VR 平衡收拍 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "每球击完保持随挥姿势稳住一秒再复位，只练平衡不追力量。",
+        "successSignal": "你能稳定收拍并稳住一秒，而不是外倒或掐断随挥。"
+      },
+      "realCourtCheck": {
+        "id": "court-balance-finish-20",
+        "title": "平衡收拍 20 球",
+        "durationMinutes": 8,
+        "instruction": "对拉 20 球，每球记录是否能平衡完成完整随挥。",
+        "successSignal": "至少 15 球能稳住完整随挥，并据此判断前面是否出错。"
+      }
+    },
+    "reviewPrompt": "随挥被掐断、身体外倒，问题通常发生在随挥本身，还是击球之前？",
+    "relatedCards": [
+      { "targetId": "stroke.contact-in-front", "type": "prerequisite" },
+      { "targetId": "spacing.last-two-steps", "type": "supporting" }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "stroke.consistent-prep",
+    "title": "正反手用同一套准备节奏",
+    "category": "stroke",
+    "topicIds": ["technique-models", "vr-practice"],
+    "tags": ["preparation", "routine", "正手", "反手", "consistency"],
+    "difficulty": "building",
+    "painPoints": ["technique", "mindset"],
+    "summary": "正手和反手共用同一套准备节奏：split、判断、转肩、到位、身前击球；反手不稳常因为跳过了其中某一拍。",
+    "encyclopedia": "正反手的差别在握拍和挥拍面，但准备节奏应该是同一套：split 落地、判断方向、转肩、最后两步到位、在身前击球。反手通常更弱，不是因为天生差，而是准备时少做了一两拍——转肩不够、到位晚。用同一套节奏要求自己，反手会比单独修动作进步更快。",
+    "generatedImage": {
+      "assetId": "img-stroke-consistent-prep-v1",
+      "alt": "Two stacked side-by-side sequences, forehand and backhand, sharing the same four preparation beats."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你反手明显比正手弱，根因常是准备少做一两拍，而不是动作天生差。",
+      "commonFailure": "正手准备完整，反手省掉转肩或到位晚，于是越打越没底。",
+      "onCourtCue": "正反手都按同一套：split、判断、转肩、到位、身前击球。",
+      "verificationTest": "正反手各 10 球，至少 7 球准备节奏一致且都在身前击球。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-consistent-prep-both",
+        "title": "VR 正反手同节奏 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "交替正反手，每球念同一套准备节奏，只追求节奏一致不追力量。",
+        "successSignal": "你的反手准备和正手一样完整，不再省掉转肩或到位。"
+      },
+      "realCourtCheck": {
+        "id": "court-consistent-prep-20",
+        "title": "正反手节奏 20 球",
+        "durationMinutes": 10,
+        "instruction": "正反手交替对拉 20 球，记录反手是否和正手用同一套准备。",
+        "successSignal": "正反手准备节奏一致，反手击球点也在身前。"
+      }
+    },
+    "reviewPrompt": "反手比正手弱，更可能是动作天生差，还是准备时少做了一两拍？",
+    "relatedCards": [
+      { "targetId": "stroke.unit-turn-early", "type": "prerequisite" },
+      { "targetId": "stroke.contact-in-front", "type": "supporting" }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

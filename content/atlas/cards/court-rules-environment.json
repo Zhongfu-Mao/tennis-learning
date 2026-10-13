@@ -1,0 +1,1893 @@
+[
+  {
+    "id": "court.lines.baseline-sideline",
+    "title": "底线和边线先决定你在打哪一种球场",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "底线和边线先决定你在打哪一种球场"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "底线控制纵深，边线决定单打/双打宽度；先看懂线，落点判断才不会乱。",
+    "encyclopedia": "底线是你判断深浅和站位后退空间的参照，单打边线和双打边线则决定可用宽度。初学者常把双打线当成单打安全区，练习时也容易忽略球是否真的过深区。看线不是裁判知识，而是落点、目标和风险判断的基础。",
+    "generatedImage": {
+      "assetId": "img-court-lines-baseline-sideline-v1",
+      "alt": "底线和边线先决定你在打哪一种球场 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "底线控制纵深，边线决定单打/双打宽度；先看懂线，落点判断才不会乱。",
+      "commonFailure": "把单打边线和双打边线混在一起，导致目标区过宽或误判出界。",
+      "onCourtCue": "先确认单打边线，再判断深浅。",
+      "verificationTest": "一次练习中口头指出 10 个落点属于底线深区、单打宽区还是双打宽区。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-lines-baseline-sideline",
+        "title": "VR 底线和边线先决定你在打哪",
+        "durationMinutes": 6,
+        "instruction": "先确认单打边线，再判断深浅。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "一次练习中口头指出 10 个落点属于底线深区、单打宽区还是双打宽区。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-lines-baseline-sideline",
+        "title": "底线和边线先决定你在打哪一种",
+        "durationMinutes": 8,
+        "instruction": "一次练习中口头指出 10 个落点属于底线深区、单打宽区还是双打宽区。",
+        "successSignal": "你能把“先确认单打边线，再判断深浅。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "底线和边线先决定你在打哪一种球场这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.lines.service-box",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.in-out-line-call",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.lines.service-box",
+    "title": "发球区不是普通落点区，而是发球规则区",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "发球区不是普通落点区",
+      "而是发球规则区"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "发球必须落进对角发球区；普通回合短到发球区，则往往给对手机会。",
+    "encyclopedia": "发球区有双重含义：发球时它是必须命中的规则区域，回合中它又常代表球太短的危险区域。把这两个语境分清楚，才能理解为什么发球练落点，而底线相持要避免普通球落太短。",
+    "generatedImage": {
+      "assetId": "img-court-lines-service-box-v1",
+      "alt": "发球区不是普通落点区，而是发球规则区 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "发球必须落进对角发球区；普通回合短到发球区，则往往给对手机会。",
+      "commonFailure": "把发球区当成所有球都安全的目标区。",
+      "onCourtCue": "发球看发球区，相持避开太短。",
+      "verificationTest": "观察 20 球，区分哪些是合法发球落点，哪些是相持中过短落点。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-lines-service-box",
+        "title": "VR 发球区不是普通落点区，而",
+        "durationMinutes": 6,
+        "instruction": "发球看发球区，相持避开太短。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "观察 20 球，区分哪些是合法发球落点，哪些是相持中过短落点。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-lines-service-box",
+        "title": "发球区不是普通落点区，而是发",
+        "durationMinutes": 8,
+        "instruction": "观察 20 球，区分哪些是合法发球落点，哪些是相持中过短落点。",
+        "successSignal": "你能把“发球看发球区，相持避开太短。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "发球区不是普通落点区，而是发球规则区这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.serve-order-switch",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.short-ball-danger",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.lines.doubles-alley",
+    "title": "双打边线给了宽度，也给了站位责任",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "双打边线给了宽度",
+      "也给了站位责任"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "双打比单打多出 alley 区域，宽度增加后，网前和底线站位责任也不同。",
+    "encyclopedia": "双打边线外侧的 alley 在单打中出界，在双打中有效。这个宽度改变了发球、接发、截击和补位逻辑。单打思维直接套到双打，会忽略边线外侧空间；双打练习反过来也不能把 alley 当成单打目标。",
+    "generatedImage": {
+      "assetId": "img-court-lines-doubles-alley-v1",
+      "alt": "双打边线给了宽度，也给了站位责任 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "双打比单打多出 alley 区域，宽度增加后，网前和底线站位责任也不同。",
+      "commonFailure": "双打练久后，单打仍瞄双打边线。",
+      "onCourtCue": "单打收窄，双打补宽。",
+      "verificationTest": "指出 10 个落点在单打和双打中是否都有效。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-lines-doubles-alley",
+        "title": "VR 双打边线给了宽度，也给了",
+        "durationMinutes": 6,
+        "instruction": "单打收窄，双打补宽。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "指出 10 个落点在单打和双打中是否都有效。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-lines-doubles-alley",
+        "title": "双打边线给了宽度，也给了站位",
+        "durationMinutes": 8,
+        "instruction": "指出 10 个落点在单打和双打中是否都有效。",
+        "successSignal": "你能把“单打收窄，双打补宽。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "双打边线给了宽度，也给了站位责任这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.lines.baseline-sideline",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.return-position-basics",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.net.height-center-posts",
+    "title": "球网中间更低，两边更高",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "球网中间更低",
+      "两边更高"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "球网中间最低，靠近网柱更高；这就是斜线通常更容错的几何原因之一。",
+    "encyclopedia": "网高不是一条完全平的线。中间区域更低，靠近两侧更高。大斜线通常经过更低的中间区域，同时场地距离更长，所以比直线拥有更多过网和落点余量。理解网高差异，比背一句“斜线安全”更有用。",
+    "generatedImage": {
+      "assetId": "img-court-net-height-center-posts-v1",
+      "alt": "球网中间更低，两边更高 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "球网中间最低，靠近网柱更高；这就是斜线通常更容错的几何原因之一。",
+      "commonFailure": "打直线时仍用斜线的过网余量，结果频繁下网。",
+      "onCourtCue": "越靠边，越要多留过网高度。",
+      "verificationTest": "对比 10 个斜线和直线路径，说出哪个过网点风险更高。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-net-height-center-posts",
+        "title": "VR 球网中间更低，两边更高",
+        "durationMinutes": 6,
+        "instruction": "越靠边，越要多留过网高度。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "对比 10 个斜线和直线路径，说出哪个过网点风险更高。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-net-height-center-posts",
+        "title": "球网中间更低，两边更高",
+        "durationMinutes": 8,
+        "instruction": "对比 10 个斜线和直线路径，说出哪个过网点风险更高。",
+        "successSignal": "你能把“越靠边，越要多留过网高度。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "球网中间更低，两边更高这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.cross-court",
+        "type": "supporting"
+      },
+      {
+        "targetId": "trajectory.net-clearance",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.no-mans-land-risk",
+    "title": "发球线附近不是舒服站位区",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "发球线附近不是舒服站位区"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "站在底线和发球线之间，既难处理深球，也难接短球，是过渡区不是常驻区。",
+    "encyclopedia": "No man’s land 指底线和发球线之间的尴尬区域。你可以经过这里去进攻或上网，但不适合停在那里等球。停太前会被深球顶脚，停太后又够不到短球；它是移动中的通道，不是默认站位。",
+    "generatedImage": {
+      "assetId": "img-court-no-mans-land-risk-v1",
+      "alt": "发球线附近不是舒服站位区 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "站在底线和发球线之间，既难处理深球，也难接短球，是过渡区不是常驻区。",
+      "commonFailure": "打完浅球后停在半场，看着对手把球打到脚下。",
+      "onCourtCue": "半场只经过，不久住。",
+      "verificationTest": "练 10 次中场处理后，要么前压到网前，要么退回底线，不停在半场。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-no-mans-land-risk",
+        "title": "VR 发球线附近不是舒服站位区",
+        "durationMinutes": 8,
+        "instruction": "半场只经过，不久住。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "练 10 次中场处理后，要么前压到网前，要么退回底线，不停在半场。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-no-mans-land-risk",
+        "title": "发球线附近不是舒服站位区",
+        "durationMinutes": 10,
+        "instruction": "练 10 次中场处理后，要么前压到网前，要么退回底线，不停在半场。",
+        "successSignal": "你能把“半场只经过，不久住。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "发球线附近不是舒服站位区这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.midcourt-opportunity",
+        "type": "supporting"
+      },
+      {
+        "targetId": "court.target-zones-depth",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.target-zones-depth",
+    "title": "深区比边线更适合当第一目标",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "深区比边线更适合当第一目标"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "练习落点时，先学会把球打到深区，再追求角度和边线。",
+    "encyclopedia": "深度是低级别最直接的压迫来源。球落到对方底线附近，会让对手后退和抬球；贴边线虽然漂亮，但目标太小。第一目标应是大面积深区，等稳定后再逐步增加角度。",
+    "generatedImage": {
+      "assetId": "img-court-target-zones-depth-v1",
+      "alt": "深区比边线更适合当第一目标 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "练习落点时，先学会把球打到深区，再追求角度和边线。",
+      "commonFailure": "刚开始练落点就瞄边线，命中率低且没有稳定压迫。",
+      "onCourtCue": "先深，再宽。",
+      "verificationTest": "20 个普通球至少 14 个落到发球线后半段。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-target-zones-depth",
+        "title": "VR 深区比边线更适合当第一目",
+        "durationMinutes": 6,
+        "instruction": "先深，再宽。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "20 个普通球至少 14 个落到发球线后半段。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-target-zones-depth",
+        "title": "深区比边线更适合当第一目标",
+        "durationMinutes": 8,
+        "instruction": "20 个普通球至少 14 个落到发球线后半段。",
+        "successSignal": "你能把“先深，再宽。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "深区比边线更适合当第一目标这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "tactics.short-ball-danger",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.surface.hard-clay-grass-map",
+    "title": "硬地、红土、草地先看速度和弹跳",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry",
+      "ball-environment"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "硬地",
+      "红土",
+      "草地先看速度和弹跳"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "不同场地改变球速、弹跳和滑动，战术和装备选择都要跟着变。",
+    "encyclopedia": "硬地通常较均衡，红土更慢且弹跳更高，草地更快且弹跳更低。真实场地还会受维护和天气影响，但先掌握速度、弹跳、滑动三个维度，就能理解为什么同一套打法到不同场地会变难。",
+    "generatedImage": {
+      "assetId": "img-court-surface-hard-clay-grass-map-v1",
+      "alt": "硬地、红土、草地先看速度和弹跳 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "不同场地改变球速、弹跳和滑动，战术和装备选择都要跟着变。",
+      "commonFailure": "只按场地名字判断，不看当天实际弹跳和速度。",
+      "onCourtCue": "先观察速度、弹跳、滑动。",
+      "verificationTest": "热身前 5 分钟记录场地速度、弹跳高度和脚下抓地感。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-surface-hard-clay-grass-map",
+        "title": "VR 硬地、红土、草地先看速度",
+        "durationMinutes": 6,
+        "instruction": "先观察速度、弹跳、滑动。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "热身前 5 分钟记录场地速度、弹跳高度和脚下抓地感。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-surface-hard-clay-grass-map",
+        "title": "硬地、红土、草地先看速度和弹",
+        "durationMinutes": 8,
+        "instruction": "热身前 5 分钟记录场地速度、弹跳高度和脚下抓地感。",
+        "successSignal": "你能把“先观察速度、弹跳、滑动。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "硬地、红土、草地先看速度和弹跳这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "environment.surface-bounce-speed",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "court.indoor-outdoor-differences",
+    "title": "室内少风，室外多变量",
+    "category": "court-rules",
+    "topicIds": [
+      "court-geometry"
+    ],
+    "tags": [
+      "court-rules",
+      "court-geometry",
+      "室内少风",
+      "室外多变量"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "室内更稳定，室外要处理风、太阳、温湿度和地面变化。",
+    "encyclopedia": "室内场地的球路更可预测，但灯光、地面材质和空间感仍会影响判断。室外多了风、阳光、温度、湿度和地面状态，比赛计划要更保守。把室内手感直接搬到室外，容易低估环境变量。",
+    "generatedImage": {
+      "assetId": "img-court-indoor-outdoor-differences-v1",
+      "alt": "室内少风，室外多变量 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "室内更稳定，室外要处理风、太阳、温湿度和地面变化。",
+      "commonFailure": "室外仍按室内节奏瞄小目标，风一来就连续失误。",
+      "onCourtCue": "室外先加余量，室内再加精度。",
+      "verificationTest": "室外训练开头先判断风向、太阳和地面状态，再设当天目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-court-indoor-outdoor-differences",
+        "title": "VR 室内少风，室外多变量",
+        "durationMinutes": 6,
+        "instruction": "室外先加余量，室内再加精度。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "室外训练开头先判断风向、太阳和地面状态，再设当天目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-court-indoor-outdoor-differences",
+        "title": "室内少风，室外多变量",
+        "durationMinutes": 8,
+        "instruction": "室外训练开头先判断风向、太阳和地面状态，再设当天目标。",
+        "successSignal": "你能把“室外先加余量，室内再加精度。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "室内少风，室外多变量这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "environment.wind-direction",
+        "type": "supporting"
+      },
+      {
+        "targetId": "environment.sun-glare",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.scoring-love-15-30-40",
+    "title": "网球计分先记住四级台阶",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "网球计分先记住四级台阶"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "love、15、30、40 是每局内的分数台阶；先读懂分数，才能读懂压力。",
+    "encyclopedia": "网球每局内按 love、15、30、40 计分。报分时通常先报发球方分数。对初学者，重点不是背术语，而是知道比分会改变压力：0-30、30-30、40-30 的战术选择不一样。",
+    "generatedImage": {
+      "assetId": "img-rules-scoring-love-15-30-40-v1",
+      "alt": "网球计分先记住四级台阶 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "love、15、30、40 是每局内的分数台阶；先读懂分数，才能读懂压力。",
+      "commonFailure": "只记得数字，不知道先报发球方，也不理解比分压力。",
+      "onCourtCue": "先报发球方，再看压力。",
+      "verificationTest": "随机 10 个比分，正确报出发球方和接发方分数。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-scoring-love-15-30-40",
+        "title": "VR 网球计分先记住四级台阶",
+        "durationMinutes": 6,
+        "instruction": "先报发球方，再看压力。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "随机 10 个比分，正确报出发球方和接发方分数。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-scoring-love-15-30-40",
+        "title": "网球计分先记住四级台阶",
+        "durationMinutes": 8,
+        "instruction": "随机 10 个比分，正确报出发球方和接发方分数。",
+        "successSignal": "你能把“先报发球方，再看压力。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "网球计分先记住四级台阶这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.deuce-ad-game",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.score-announcing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.deuce-ad-game",
+    "title": "平分之后，要连续赢两分才拿下这一局",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "平分之后",
+      "要连续赢两分才拿下这一局"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "40-40 是 deuce；之后 advantage 领先，必须再赢一分才完成一局。",
+    "encyclopedia": "当双方都到 40，就是 deuce。之后一方赢一分变成 advantage，再赢一分才拿下这一局；如果 advantage 方丢分，比分回到 deuce。这个结构让 40-40 后的每分都有明确压力，也解释了为什么发球计划和接发默认很重要。",
+    "generatedImage": {
+      "assetId": "img-rules-deuce-ad-game-v1",
+      "alt": "平分之后，要连续赢两分才拿下这一局 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "40-40 是 deuce；之后 advantage 领先，必须再赢一分才完成一局。",
+      "commonFailure": "以为 advantage 就等于已经赢局，导致下一分放松。",
+      "onCourtCue": "平分后，两分一组打。",
+      "verificationTest": "模拟 8 个 deuce/ad 场景，正确说出下一分后的比分变化。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-deuce-ad-game",
+        "title": "VR 平分之后，要连续赢两分才",
+        "durationMinutes": 6,
+        "instruction": "平分后，两分一组打。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "模拟 8 个 deuce/ad 场景，正确说出下一分后的比分变化。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-deuce-ad-game",
+        "title": "平分之后，要连续赢两分才拿下",
+        "durationMinutes": 8,
+        "instruction": "模拟 8 个 deuce/ad 场景，正确说出下一分后的比分变化。",
+        "successSignal": "你能把“平分后，两分一组打。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "平分之后，要连续赢两分才拿下这一局这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.scoring-love-15-30-40",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.point-start-routine",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.tiebreak-basics",
+    "title": "抢七是小局，但发球顺序最容易乱",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "抢七是小局",
+      "但发球顺序最容易乱"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "抢七通常先到 7 分且领先 2 分，发球顺序是 1 分后每人轮流发 2 分。",
+    "encyclopedia": "常见抢七先到 7 分且领先 2 分获胜。发球顺序是第一人先发 1 分，之后双方每人连续发 2 分轮换。每 6 分换边。不同赛事可能有变体，但掌握这个基础版本，日常比赛就不容易乱。",
+    "generatedImage": {
+      "assetId": "img-rules-tiebreak-basics-v1",
+      "alt": "抢七是小局，但发球顺序最容易乱 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "抢七通常先到 7 分且领先 2 分，发球顺序是 1 分后每人轮流发 2 分。",
+      "commonFailure": "抢七时忘记谁发球，或不知道每 6 分换边。",
+      "onCourtCue": "1 分开头，之后两分一轮。",
+      "verificationTest": "写出一局 0-0 到 6-6 抢七的发球顺序和换边点。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-tiebreak-basics",
+        "title": "VR 抢七是小局，但发球顺序最",
+        "durationMinutes": 8,
+        "instruction": "1 分开头，之后两分一轮。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "写出一局 0-0 到 6-6 抢七的发球顺序和换边点。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-tiebreak-basics",
+        "title": "抢七是小局，但发球顺序最容易",
+        "durationMinutes": 10,
+        "instruction": "写出一局 0-0 到 6-6 抢七的发球顺序和换边点。",
+        "successSignal": "你能把“1 分开头，之后两分一轮。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "抢七是小局，但发球顺序最容易乱这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.changeover-timing",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.set-formats",
+    "title": "盘的格式要赛前说清楚",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "盘的格式要赛前说清楚"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "一盘可以打到 6 局、短盘或抢十；格式不同，体力和风险管理也不同。",
+    "encyclopedia": "日常比赛常见格式有标准一盘、短盘、抢七决胜、抢十决胜等。不同格式影响节奏：短盘更早进入压力，抢十每分权重更高。赛前确认格式，是为了避免争议，也为了安排体力和战术风险。",
+    "generatedImage": {
+      "assetId": "img-rules-set-formats-v1",
+      "alt": "盘的格式要赛前说清楚 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "一盘可以打到 6 局、短盘或抢十；格式不同，体力和风险管理也不同。",
+      "commonFailure": "打到一半才发现双方对盘制理解不同。",
+      "onCourtCue": "开打前确认盘制和决胜方式。",
+      "verificationTest": "赛前用一句话确认：打几盘、是否抢七、决胜怎么打。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-set-formats",
+        "title": "VR 盘的格式要赛前说清楚",
+        "durationMinutes": 6,
+        "instruction": "开打前确认盘制和决胜方式。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "赛前用一句话确认：打几盘、是否抢七、决胜怎么打。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-set-formats",
+        "title": "盘的格式要赛前说清楚",
+        "durationMinutes": 8,
+        "instruction": "赛前用一句话确认：打几盘、是否抢七、决胜怎么打。",
+        "successSignal": "你能把“开打前确认盘制和决胜方式。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "盘的格式要赛前说清楚这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.tiebreak-basics",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.coin-toss-choice",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.serve-order-switch",
+    "title": "发球顺序是比赛节奏的骨架",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "发球顺序是比赛节奏的骨架"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "单打每局换发球方，双打还要确认同队发球轮次和接发站位。",
+    "encyclopedia": "单打中，一局结束后换另一方发球。双打更复杂，同队两人轮流发球，接发站位也要保持顺序。发球顺序不是小细节，错了会直接影响比赛公平和节奏。",
+    "generatedImage": {
+      "assetId": "img-rules-serve-order-switch-v1",
+      "alt": "发球顺序是比赛节奏的骨架 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "单打每局换发球方，双打还要确认同队发球轮次和接发站位。",
+      "commonFailure": "局间忘记换发球方，或双打中同队轮次混乱。",
+      "onCourtCue": "每局结束先确认下一局谁发。",
+      "verificationTest": "连续模拟 6 局，正确说出每局发球方。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-serve-order-switch",
+        "title": "VR 发球顺序是比赛节奏的骨架",
+        "durationMinutes": 6,
+        "instruction": "每局结束先确认下一局谁发。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "连续模拟 6 局，正确说出每局发球方。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-serve-order-switch",
+        "title": "发球顺序是比赛节奏的骨架",
+        "durationMinutes": 8,
+        "instruction": "连续模拟 6 局，正确说出每局发球方。",
+        "successSignal": "你能把“每局结束先确认下一局谁发。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "发球顺序是比赛节奏的骨架这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.scoring-love-15-30-40",
+        "type": "supporting"
+      },
+      {
+        "targetId": "court.lines.service-box",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.changeover-timing",
+    "title": "换边不是休息一下，而是重置比赛条件",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "换边不是休息一下",
+      "而是重置比赛条件"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "通常奇数局后换边；换边让双方轮流面对风、阳光和场地条件。",
+    "encyclopedia": "换边的意义是公平分配场地两侧条件。常见规则是双方在奇数局后换边，抢七中通常每 6 分换边。换边时可以喝水、调整计划、观察风和太阳变化，而不是只低头刷手机。",
+    "generatedImage": {
+      "assetId": "img-rules-changeover-timing-v1",
+      "alt": "换边不是休息一下，而是重置比赛条件 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "通常奇数局后换边；换边让双方轮流面对风、阳光和场地条件。",
+      "commonFailure": "换边时不看环境变化，下一局继续用旧计划。",
+      "onCourtCue": "换边三件事：喝水、看风、定第一分。",
+      "verificationTest": "每次换边说出下一局一件环境调整和一件战术默认。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-changeover-timing",
+        "title": "VR 换边不是休息一下，而是重",
+        "durationMinutes": 6,
+        "instruction": "换边三件事：喝水、看风、定第一分。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "每次换边说出下一局一件环境调整和一件战术默认。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-changeover-timing",
+        "title": "换边不是休息一下，而是重置比",
+        "durationMinutes": 8,
+        "instruction": "每次换边说出下一局一件环境调整和一件战术默认。",
+        "successSignal": "你能把“换边三件事：喝水、看风、定第一分。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "换边不是休息一下，而是重置比赛条件这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "environment.wind-direction",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.tiebreak-basics",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.let-serve",
+    "title": "发球擦网进区，要重发不是丢分",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "发球擦网进区",
+      "要重发不是丢分"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "发球擦网后落入正确发球区通常是 let，需要重发；落错区则是 fault。",
+    "encyclopedia": "发球擦网并落入正确发球区，通常判 let，重发这一发；如果擦网后落到错误区域或出界，则不是 let，而是 fault。这个规则能减少练习和比赛中的争议，尤其是新手常把擦网都当重发。",
+    "generatedImage": {
+      "assetId": "img-rules-let-serve-v1",
+      "alt": "发球擦网进区，要重发不是丢分 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "发球擦网后落入正确发球区通常是 let，需要重发；落错区则是 fault。",
+      "commonFailure": "所有擦网球都喊 let，忽略是否落入正确发球区。",
+      "onCourtCue": "擦网后先看落点。",
+      "verificationTest": "判断 10 个擦网发球场景：let、fault 或正常进行。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-let-serve",
+        "title": "VR 发球擦网进区，要重发不是",
+        "durationMinutes": 6,
+        "instruction": "擦网后先看落点。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "判断 10 个擦网发球场景：let、fault 或正常进行。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-let-serve",
+        "title": "发球擦网进区，要重发不是丢分",
+        "durationMinutes": 8,
+        "instruction": "判断 10 个擦网发球场景：let、fault 或正常进行。",
+        "successSignal": "你能把“擦网后先看落点。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "发球擦网进区，要重发不是丢分这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.lines.service-box",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.in-out-line-call",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "rules.in-out-line-call",
+    "title": "压线就是界内，先看第一落点",
+    "category": "rules",
+    "topicIds": [
+      "rules-scoring"
+    ],
+    "tags": [
+      "rules",
+      "rules-scoring",
+      "压线就是界内",
+      "先看第一落点"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge"
+    ],
+    "summary": "球只要碰到线就是界内；判断时看第一落点，不看弹起后的方向。",
+    "encyclopedia": "网球的界线属于场内，球只要压到线就是界内。判断时看第一落点，不要被弹起方向、旋转或对手反应带偏。日常练习中不确定时可以重打，但比赛意识上要知道规则标准。",
+    "generatedImage": {
+      "assetId": "img-rules-in-out-line-call-v1",
+      "alt": "压线就是界内，先看第一落点 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "球只要碰到线就是界内；判断时看第一落点，不看弹起后的方向。",
+      "commonFailure": "看到球弹出很远就以为出界，忽略第一落点压线。",
+      "onCourtCue": "看第一落点，压线算进。",
+      "verificationTest": "观察 20 个落点，练习先判断第一落点和是否压线。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-rules-in-out-line-call",
+        "title": "VR 压线就是界内，先看第一落",
+        "durationMinutes": 6,
+        "instruction": "看第一落点，压线算进。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "观察 20 个落点，练习先判断第一落点和是否压线。"
+      },
+      "realCourtCheck": {
+        "id": "court-rules-in-out-line-call",
+        "title": "压线就是界内，先看第一落点",
+        "durationMinutes": 8,
+        "instruction": "观察 20 个落点，练习先判断第一落点和是否压线。",
+        "successSignal": "你能把“看第一落点，压线算进。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "压线就是界内，先看第一落点这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.lines.baseline-sideline",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.let-serve",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.warmup-purpose",
+    "title": "赛前热身不是练技术，是校准当天条件",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "赛前热身不是练技术",
+      "是校准当天条件"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "热身要观察场地、球、身体和对手，不是把技术课重新上一遍。",
+    "encyclopedia": "赛前热身时间有限，目标是校准：球弹多高、场地快慢、身体哪些部位紧、对手大概风格如何。热身中临时大改动作，通常只会带来混乱。把热身当信息收集，比赛开局会更清楚。",
+    "generatedImage": {
+      "assetId": "img-match-warmup-purpose-v1",
+      "alt": "赛前热身不是练技术，是校准当天条件 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "热身要观察场地、球、身体和对手，不是把技术课重新上一遍。",
+      "commonFailure": "热身时追求打漂亮，忽略场地和对手信息。",
+      "onCourtCue": "热身只问四件事：场、球、身、对手。",
+      "verificationTest": "热身后写下当天场地速度、身体状态和对手一个特征。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-warmup-purpose",
+        "title": "VR 赛前热身不是练技术，是校",
+        "durationMinutes": 6,
+        "instruction": "热身只问四件事：场、球、身、对手。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "热身后写下当天场地速度、身体状态和对手一个特征。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-warmup-purpose",
+        "title": "赛前热身不是练技术，是校准当",
+        "durationMinutes": 8,
+        "instruction": "热身后写下当天场地速度、身体状态和对手一个特征。",
+        "successSignal": "你能把“热身只问四件事：场、球、身、对手。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "赛前热身不是练技术，是校准当天条件这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.indoor-outdoor-differences",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.point-start-routine",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.coin-toss-choice",
+    "title": "猜先选择要服务于开局稳定",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "猜先选择要服务于开局稳定"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "猜先后选发球、接发或场地，要考虑太阳、风、发球状态和开局压力。",
+    "encyclopedia": "猜先不是随便选。发球状态好可以先发建立主动；接发更稳时可以先观察对手；如果太阳或风明显影响一侧，也可以先选场地。选择的核心是让开局更稳定，而不是机械地永远先发。",
+    "generatedImage": {
+      "assetId": "img-match-coin-toss-choice-v1",
+      "alt": "猜先选择要服务于开局稳定 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "猜先后选发球、接发或场地，要考虑太阳、风、发球状态和开局压力。",
+      "commonFailure": "不看环境和当天状态，永远凭习惯选择。",
+      "onCourtCue": "先看风太阳，再看发球手感。",
+      "verificationTest": "赛前说出猜先三种选择的理由。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-coin-toss-choice",
+        "title": "VR 猜先选择要服务于开局稳定",
+        "durationMinutes": 6,
+        "instruction": "先看风太阳，再看发球手感。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "赛前说出猜先三种选择的理由。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-coin-toss-choice",
+        "title": "猜先选择要服务于开局稳定",
+        "durationMinutes": 8,
+        "instruction": "赛前说出猜先三种选择的理由。",
+        "successSignal": "你能把“先看风太阳，再看发球手感。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "猜先选择要服务于开局稳定这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "environment.sun-glare",
+        "type": "supporting"
+      },
+      {
+        "targetId": "environment.wind-direction",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.first-serve-second-serve",
+    "title": "一发和二发是两个任务",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "一发和二发是两个任务"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "一发争取主动，二发先保证开分；两个任务不能用同一种风险。",
+    "encyclopedia": "一发可以承担更多方向和速度风险，用来争取主动。二发的第一目标是合法进入比赛，再通过旋转、身体位或深度降低被攻击概率。把二发当慢一点的一发，会导致双误；把一发当二发，又会失去主动。",
+    "generatedImage": {
+      "assetId": "img-match-first-serve-second-serve-v1",
+      "alt": "一发和二发是两个任务 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "一发争取主动，二发先保证开分；两个任务不能用同一种风险。",
+      "commonFailure": "二发仍追速度和小目标，双误变多。",
+      "onCourtCue": "一发争主动，二发先进场。",
+      "verificationTest": "10 个发球分中，二发双误不超过 1 个，并有明确安全目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-first-serve-second-serve",
+        "title": "VR 一发和二发是两个任务",
+        "durationMinutes": 6,
+        "instruction": "一发争主动，二发先进场。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "10 个发球分中，二发双误不超过 1 个，并有明确安全目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-first-serve-second-serve",
+        "title": "一发和二发是两个任务",
+        "durationMinutes": 8,
+        "instruction": "10 个发球分中，二发双误不超过 1 个，并有明确安全目标。",
+        "successSignal": "你能把“一发争主动，二发先进场。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "一发和二发是两个任务这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "serve.first-second-plan",
+        "type": "supporting"
+      },
+      {
+        "targetId": "serve.second-serve-spin",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.return-position-basics",
+    "title": "接发站位先由对手发球质量决定",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "接发站位先由对手发球质量决定"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "站太前会被顶，站太后会送主动；接发站位要随一发、二发和对手特点调整。",
+    "encyclopedia": "接发站位不是固定线。对手一发快且深，可以退半步争取时间；二发慢或短，可以前压抢时间；对手喜欢外角或身体位，也要微调位置。接发站位是比赛中最容易被忽略的战术按钮。",
+    "generatedImage": {
+      "assetId": "img-match-return-position-basics-v1",
+      "alt": "接发站位先由对手发球质量决定 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "站太前会被顶，站太后会送主动；接发站位要随一发、二发和对手特点调整。",
+      "commonFailure": "无论一发二发都站同一位置，导致被顶或浪费机会。",
+      "onCourtCue": "一发争时间，二发争位置。",
+      "verificationTest": "接 10 个发球，记录每次站位是否根据一发/二发调整。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-return-position-basics",
+        "title": "VR 接发站位先由对手发球质量",
+        "durationMinutes": 6,
+        "instruction": "一发争时间，二发争位置。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "接 10 个发球，记录每次站位是否根据一发/二发调整。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-return-position-basics",
+        "title": "接发站位先由对手发球质量决定",
+        "durationMinutes": 8,
+        "instruction": "接 10 个发球，记录每次站位是否根据一发/二发调整。",
+        "successSignal": "你能把“一发争时间，二发争位置。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "接发站位先由对手发球质量决定这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "return.depth-first",
+        "type": "supporting"
+      },
+      {
+        "targetId": "return.split-on-toss",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.point-start-routine",
+    "title": "每一分开始前，用一句话定目标",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "每一分开始前",
+      "用一句话定目标"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "分与分之间先定一个简单目标，能减少临场摇摆和情绪化选择。",
+    "encyclopedia": "很多失误发生在分开始前：还没想清楚就已经发球或接发。一个短流程可以帮助你稳定：确认比分、选第一拍目标、执行。目标要简单，例如“二发先进身体位”“接发深中路”“相持大斜线”。",
+    "generatedImage": {
+      "assetId": "img-match-point-start-routine-v1",
+      "alt": "每一分开始前，用一句话定目标 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "分与分之间先定一个简单目标，能减少临场摇摆和情绪化选择。",
+      "commonFailure": "比分压力一来，站上去才临时想怎么打。",
+      "onCourtCue": "比分、目标、执行。",
+      "verificationTest": "连续 10 分开始前都说出第一拍目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-point-start-routine",
+        "title": "VR 每一分开始前，用一句话定",
+        "durationMinutes": 6,
+        "instruction": "比分、目标、执行。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "连续 10 分开始前都说出第一拍目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-point-start-routine",
+        "title": "每一分开始前，用一句话定目标",
+        "durationMinutes": 8,
+        "instruction": "连续 10 分开始前都说出第一拍目标。",
+        "successSignal": "你能把“比分、目标、执行。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "每一分开始前，用一句话定目标这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.scoring-love-15-30-40",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.between-points-time",
+    "title": "分间时间用来降噪，不是复盘整场比赛",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "分间时间用来降噪",
+      "不是复盘整场比赛"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "分与分之间只做一个小调整，别在十几秒里重写技术系统。",
+    "encyclopedia": "一分结束后，最容易陷入懊恼或过度分析。分间时间应该做三件小事：呼吸降速、确认比分、选择下一分第一目标。技术问题留到局间或赛后，不要在分间临时改动作链。",
+    "generatedImage": {
+      "assetId": "img-match-between-points-time-v1",
+      "alt": "分间时间用来降噪，不是复盘整场比赛 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "分与分之间只做一个小调整，别在十几秒里重写技术系统。",
+      "commonFailure": "丢一分后马上想改所有动作，下一分更乱。",
+      "onCourtCue": "分间只改一个目标。",
+      "verificationTest": "连续 10 个分间只做一个战术或目标调整。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-between-points-time",
+        "title": "VR 分间时间用来降噪，不是复",
+        "durationMinutes": 6,
+        "instruction": "分间只改一个目标。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "连续 10 个分间只做一个战术或目标调整。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-between-points-time",
+        "title": "分间时间用来降噪，不是复盘整",
+        "durationMinutes": 8,
+        "instruction": "连续 10 个分间只做一个战术或目标调整。",
+        "successSignal": "你能把“分间只改一个目标。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "分间时间用来降噪，不是复盘整场比赛这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "match.point-start-routine",
+        "type": "supporting"
+      },
+      {
+        "targetId": "tactics.pressure-point-play",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.end-changeover-reset",
+    "title": "换边时做小复盘，别做大手术",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "换边时做小复盘",
+      "别做大手术"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "换边可以复盘一局，但只选一个最影响下一局的问题。",
+    "encyclopedia": "换边比分间更适合调整，但仍然不能把所有问题都翻出来。最稳的方法是问：刚才丢分最多来自什么？下一局第一优先级是什么？只改一个变量，比如接发深度、二发目标或主动失误预算。",
+    "generatedImage": {
+      "assetId": "img-match-end-changeover-reset-v1",
+      "alt": "换边时做小复盘，别做大手术 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "换边可以复盘一局，但只选一个最影响下一局的问题。",
+      "commonFailure": "换边时想太多，下一局没有清晰执行点。",
+      "onCourtCue": "换边只带一个关键词回场。",
+      "verificationTest": "每次换边写下一个关键词，并在下一局前两分执行。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-end-changeover-reset",
+        "title": "VR 换边时做小复盘，别做大手",
+        "durationMinutes": 8,
+        "instruction": "换边只带一个关键词回场。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "每次换边写下一个关键词，并在下一局前两分执行。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-end-changeover-reset",
+        "title": "换边时做小复盘，别做大手术",
+        "durationMinutes": 10,
+        "instruction": "每次换边写下一个关键词，并在下一局前两分执行。",
+        "successSignal": "你能把“换边只带一个关键词回场。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "换边时做小复盘，别做大手术这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "progression.review-funnel",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.changeover-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "match.score-announcing",
+    "title": "报分能帮你保持比赛清醒",
+    "category": "match-basics",
+    "topicIds": [
+      "match-basics",
+      "rules-scoring"
+    ],
+    "tags": [
+      "match-basics",
+      "报分能帮你保持比赛清醒"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "mindset"
+    ],
+    "summary": "清楚报分不是形式，它能防止争议，也能提醒自己当前压力状态。",
+    "encyclopedia": "发球方先报自己的分，再报对手分。清楚报分可以防止争议，也让你意识到当前是普通分、压力分还是局点。不会报分的人，往往也更容易在关键分忘记该降风险。",
+    "generatedImage": {
+      "assetId": "img-match-score-announcing-v1",
+      "alt": "报分能帮你保持比赛清醒 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "清楚报分不是形式，它能防止争议，也能提醒自己当前压力状态。",
+      "commonFailure": "不报分或报错分，关键分时突然发现比分理解不同。",
+      "onCourtCue": "发球前报清比分。",
+      "verificationTest": "一局内每分发球前都正确报分。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-match-score-announcing",
+        "title": "VR 报分能帮你保持比赛清醒",
+        "durationMinutes": 6,
+        "instruction": "发球前报清比分。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "一局内每分发球前都正确报分。"
+      },
+      "realCourtCheck": {
+        "id": "court-match-score-announcing",
+        "title": "报分能帮你保持比赛清醒",
+        "durationMinutes": 8,
+        "instruction": "一局内每分发球前都正确报分。",
+        "successSignal": "你能把“发球前报清比分。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "报分能帮你保持比赛清醒这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "rules.scoring-love-15-30-40",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.point-start-routine",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.wind-direction",
+    "title": "有风时先顺风逆风分开打",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "有风时先顺风逆风分开打"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "顺风球容易飞，逆风球容易短；目标和过网高度要跟着风向变。",
+    "encyclopedia": "风会改变球的飞行距离和弧线。顺风时球更容易飞长，要放大目标并降低一点风险；逆风时球更容易短，要给足深度和过网高度。横风还会推偏落点。比赛前先判断风向，比一上来抱怨风更有用。",
+    "generatedImage": {
+      "assetId": "img-environment-wind-direction-v1",
+      "alt": "有风时先顺风逆风分开打 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "顺风球容易飞，逆风球容易短；目标和过网高度要跟着风向变。",
+      "commonFailure": "有风仍按无风目标打，小目标连续失误。",
+      "onCourtCue": "顺风收一点，逆风推深一点。",
+      "verificationTest": "热身时打 10 球，判断顺风、逆风或横风影响。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-wind-direction",
+        "title": "VR 有风时先顺风逆风分开打",
+        "durationMinutes": 6,
+        "instruction": "顺风收一点，逆风推深一点。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "热身时打 10 球，判断顺风、逆风或横风影响。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-wind-direction",
+        "title": "有风时先顺风逆风分开打",
+        "durationMinutes": 8,
+        "instruction": "热身时打 10 球，判断顺风、逆风或横风影响。",
+        "successSignal": "你能把“顺风收一点，逆风推深一点。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "有风时先顺风逆风分开打这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.indoor-outdoor-differences",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.changeover-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.sun-glare",
+    "title": "太阳会改变抛球、扣杀和高球判断",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "太阳会改变抛球",
+      "扣杀和高球判断"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "迎着太阳时，高球和发球抛球风险上升，要提前调整站位和目标。",
+    "encyclopedia": "阳光刺眼时，最受影响的是向上看的动作：发球抛球、高压、挑高球和高弹跳球。你可以通过换边时选场、戴帽子、调整抛球高度和减少高风险高球处理来降低影响。太阳不是借口，是比赛条件。",
+    "generatedImage": {
+      "assetId": "img-environment-sun-glare-v1",
+      "alt": "太阳会改变抛球、扣杀和高球判断 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "迎着太阳时，高球和发球抛球风险上升，要提前调整站位和目标。",
+      "commonFailure": "迎太阳还追求高风险发球和高压，连续失误。",
+      "onCourtCue": "看不清时，先降风险。",
+      "verificationTest": "热身时确认哪一侧太阳影响更大，并设定该侧发球目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-sun-glare",
+        "title": "VR 太阳会改变抛球、扣杀和高",
+        "durationMinutes": 6,
+        "instruction": "看不清时，先降风险。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "热身时确认哪一侧太阳影响更大，并设定该侧发球目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-sun-glare",
+        "title": "太阳会改变抛球、扣杀和高球判",
+        "durationMinutes": 8,
+        "instruction": "热身时确认哪一侧太阳影响更大，并设定该侧发球目标。",
+        "successSignal": "你能把“看不清时，先降风险。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "太阳会改变抛球、扣杀和高球判断这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "match.coin-toss-choice",
+        "type": "supporting"
+      },
+      {
+        "targetId": "rules.changeover-timing",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.temperature-ball-bounce",
+    "title": "温度会改变球的弹性和飞行",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "温度会改变球的弹性和飞行"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "热天球更活，冷天球更沉；同样力量下落点和手感会变。",
+    "encyclopedia": "温度影响球压、橡胶弹性和空气状态。热天球可能弹得更活、更容易飞；冷天球可能更沉、更难打出深度。装备和战术上都要留意：热天控制余量，冷天保证深度和热身。",
+    "generatedImage": {
+      "assetId": "img-environment-temperature-ball-bounce-v1",
+      "alt": "温度会改变球的弹性和飞行 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "热天球更活，冷天球更沉；同样力量下落点和手感会变。",
+      "commonFailure": "天气变冷后还用热天的力量预期，球频繁短。",
+      "onCourtCue": "热天控长，冷天保深。",
+      "verificationTest": "热身前 10 球记录球是否偏飞或偏短，并调整目标。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-temperature-ball-bounce",
+        "title": "VR 温度会改变球的弹性和飞行",
+        "durationMinutes": 6,
+        "instruction": "热天控长，冷天保深。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "热身前 10 球记录球是否偏飞或偏短，并调整目标。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-temperature-ball-bounce",
+        "title": "温度会改变球的弹性和飞行",
+        "durationMinutes": 8,
+        "instruction": "热身前 10 球记录球是否偏飞或偏短，并调整目标。",
+        "successSignal": "你能把“热天控长，冷天保深。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "温度会改变球的弹性和飞行这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.temperature",
+        "type": "supporting"
+      },
+      {
+        "targetId": "court.target-zones-depth",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.humidity-heavy-ball",
+    "title": "湿度会让球和场地都变重",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "湿度会让球和场地都变重"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "潮湿时球毛、空气和场地都可能让球变慢变重，节奏要更耐心。",
+    "encyclopedia": "湿度高时，球毛可能更容易吸湿变重，空气和场地状态也会让球速下降。你可能需要更多腿部启动、更高过网余量和更耐心的深球循环。潮湿条件下追求快速制胜，常会变成发力过度。",
+    "generatedImage": {
+      "assetId": "img-environment-humidity-heavy-ball-v1",
+      "alt": "湿度会让球和场地都变重 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "潮湿时球毛、空气和场地都可能让球变慢变重，节奏要更耐心。",
+      "commonFailure": "潮湿慢球中硬加速，动作变形且失误增加。",
+      "onCourtCue": "湿天多用腿，先打深。",
+      "verificationTest": "潮湿训练中记录球速、弹跳和自己是否过度发力。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-humidity-heavy-ball",
+        "title": "VR 湿度会让球和场地都变重",
+        "durationMinutes": 6,
+        "instruction": "湿天多用腿，先打深。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "潮湿训练中记录球速、弹跳和自己是否过度发力。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-humidity-heavy-ball",
+        "title": "湿度会让球和场地都变重",
+        "durationMinutes": 8,
+        "instruction": "潮湿训练中记录球速、弹跳和自己是否过度发力。",
+        "successSignal": "你能把“湿天多用腿，先打深。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "湿度会让球和场地都变重这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.felt",
+        "type": "supporting"
+      },
+      {
+        "targetId": "environment.surface-bounce-speed",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.wet-court-risk",
+    "title": "湿滑场地先看安全，不硬打",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "湿滑场地先看安全",
+      "不硬打"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "场地湿滑时，滑倒风险比训练收益更重要；先判断是否适合继续。",
+    "encyclopedia": "湿滑场地会影响急停、启动和横向移动，尤其网球有大量变向。地面明显积水、鞋底打滑或线附近湿滑时，应降低移动强度甚至停止。安全判断也是训练知识的一部分。",
+    "generatedImage": {
+      "assetId": "img-environment-wet-court-risk-v1",
+      "alt": "湿滑场地先看安全，不硬打 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "场地湿滑时，滑倒风险比训练收益更重要；先判断是否适合继续。",
+      "commonFailure": "为了完成训练计划，在湿滑场地继续冲刺变向。",
+      "onCourtCue": "地面滑，训练降级或停止。",
+      "verificationTest": "上场前做 3 次轻启动和刹车测试，确认是否打滑。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-wet-court-risk",
+        "title": "VR 湿滑场地先看安全，不硬打",
+        "durationMinutes": 6,
+        "instruction": "地面滑，训练降级或停止。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "上场前做 3 次轻启动和刹车测试，确认是否打滑。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-wet-court-risk",
+        "title": "湿滑场地先看安全，不硬打",
+        "durationMinutes": 8,
+        "instruction": "上场前做 3 次轻启动和刹车测试，确认是否打滑。",
+        "successSignal": "你能把“地面滑，训练降级或停止。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "湿滑场地先看安全，不硬打这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.shoe.outsole",
+        "type": "supporting"
+      },
+      {
+        "targetId": "court.indoor-outdoor-differences",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.new-old-ball-match",
+    "title": "新球局会改变开局两三分",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "新球局会改变开局两三分"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "新球更快更弹，换新球后前几分要重新校准深度和接发反应。",
+    "encyclopedia": "比赛中换新球后，球速、弹跳和出拍感觉都会变化。发球方可能更容易拿到速度，接发方需要更早准备；底线相持也可能更容易打长。新球局前两三分先校准，而不是继续按旧球节奏打。",
+    "generatedImage": {
+      "assetId": "img-environment-new-old-ball-match-v1",
+      "alt": "新球局会改变开局两三分 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "新球更快更弹，换新球后前几分要重新校准深度和接发反应。",
+      "commonFailure": "换新球后仍按旧球手感发力，连续打长。",
+      "onCourtCue": "新球前几分，先校准深度。",
+      "verificationTest": "换新球后前 6 球记录是否偏快、偏弹或偏长。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-new-old-ball-match",
+        "title": "VR 新球局会改变开局两三分",
+        "durationMinutes": 8,
+        "instruction": "新球前几分，先校准深度。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "换新球后前 6 球记录是否偏快、偏弹或偏长。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-new-old-ball-match",
+        "title": "新球局会改变开局两三分",
+        "durationMinutes": 10,
+        "instruction": "换新球后前 6 球记录是否偏快、偏弹或偏长。",
+        "successSignal": "你能把“新球前几分，先校准深度。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "新球局会改变开局两三分这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.new-ball-game",
+        "type": "supporting"
+      },
+      {
+        "targetId": "match.point-start-routine",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.altitude-fast-ball",
+    "title": "高海拔会让球更容易飞",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "高海拔会让球更容易飞"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "海拔高、空气阻力小，球更容易飞长；目标和球种要更保守。",
+    "encyclopedia": "高海拔地区空气较稀薄，球受到的阻力更小，飞行距离可能增加。比赛用高海拔球就是为了缓和这种变化。普通玩家不一定常遇到高海拔，但理解这个机制，能帮助你理解为什么环境会改变同一颗球的表现。",
+    "generatedImage": {
+      "assetId": "img-environment-altitude-fast-ball-v1",
+      "alt": "高海拔会让球更容易飞 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "海拔高、空气阻力小，球更容易飞长；目标和球种要更保守。",
+      "commonFailure": "在高海拔或球特别飞的环境中仍追求低平加速。",
+      "onCourtCue": "球飞时，先加旋转和余量。",
+      "verificationTest": "遇到明显球飞条件时，连续 10 球用更高旋转和大目标校准。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-altitude-fast-ball",
+        "title": "VR 高海拔会让球更容易飞",
+        "durationMinutes": 8,
+        "instruction": "球飞时，先加旋转和余量。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "遇到明显球飞条件时，连续 10 球用更高旋转和大目标校准。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-altitude-fast-ball",
+        "title": "高海拔会让球更容易飞",
+        "durationMinutes": 10,
+        "instruction": "遇到明显球飞条件时，连续 10 球用更高旋转和大目标校准。",
+        "successSignal": "你能把“球飞时，先加旋转和余量。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "高海拔会让球更容易飞这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "equipment.ball.high-altitude",
+        "type": "supporting"
+      },
+      {
+        "targetId": "environment.wind-direction",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "environment.surface-bounce-speed",
+    "title": "同一颗球，在不同场地会变成不同比赛",
+    "category": "ball-environment",
+    "topicIds": [
+      "ball-environment",
+      "equipment-balls"
+    ],
+    "tags": [
+      "ball-environment",
+      "同一颗球",
+      "在不同场地会变成不同比赛"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "knowledge",
+      "progression"
+    ],
+    "summary": "场地摩擦和硬度会改变速度、弹跳和旋转反应，不能只怪自己手感变差。",
+    "encyclopedia": "硬地、红土、草地、人工草、室内地胶都会改变球落地后的速度和弹跳。摩擦越大，旋转和减速越明显；表面越滑，球可能更低更快。换场地时先观察落地后变化，再调整站位和挥拍节奏。",
+    "generatedImage": {
+      "assetId": "img-environment-surface-bounce-speed-v1",
+      "alt": "同一颗球，在不同场地会变成不同比赛 knowledge card."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "场地摩擦和硬度会改变速度、弹跳和旋转反应，不能只怪自己手感变差。",
+      "commonFailure": "换场地后仍按原来的弹跳点等球，击球点总是晚或高。",
+      "onCourtCue": "先看落地后变成什么球。",
+      "verificationTest": "换场地前 10 分钟专门观察弹跳高度、速度和滑动。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-environment-surface-bounce-speed",
+        "title": "VR 同一颗球，在不同场地会变",
+        "durationMinutes": 6,
+        "instruction": "先看落地后变成什么球。。用慢节奏重复判断，不追求复杂动作。",
+        "successSignal": "换场地前 10 分钟专门观察弹跳高度、速度和滑动。"
+      },
+      "realCourtCheck": {
+        "id": "court-environment-surface-bounce-speed",
+        "title": "同一颗球，在不同场地会变成不",
+        "durationMinutes": 8,
+        "instruction": "换场地前 10 分钟专门观察弹跳高度、速度和滑动。",
+        "successSignal": "你能把“先看落地后变成什么球。”变成可观察的上场选择。"
+      }
+    },
+    "reviewPrompt": "同一颗球，在不同场地会变成不同比赛这张卡的核心判断是什么？",
+    "relatedCards": [
+      {
+        "targetId": "court.surface.hard-clay-grass-map",
+        "type": "supporting"
+      },
+      {
+        "targetId": "equipment.ball.surface",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

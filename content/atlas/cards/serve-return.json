@@ -1,0 +1,250 @@
+[
+  {
+    "id": "serve.first-second-plan",
+    "title": "发球局先定一发方向和二发安全选择",
+    "category": "serve",
+    "topicIds": [
+      "match-tactics",
+      "technique-models"
+    ],
+    "tags": [
+      "serve plan",
+      "first serve",
+      "second serve",
+      "发球",
+      "tactics"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "progression",
+      "mindset"
+    ],
+    "summary": "发球局的主动权来自一发率、落点选择和二发稳定，而不是一发速度；上场前先定：一发打哪个方向，二发用哪个更安全、可重复的选择。",
+    "encyclopedia": "发球是唯一完全由自己开始的一拍，主动权来自三件事：一发进球率、落点选择、二发稳定。常见错误是只想着一发更快，二发没有计划，双误后临场改动作。更可执行的做法是发球局前就设定两件事：一发先选外角、追身或内角中的一个方向，但目标不要贴发球区的边线、中心发球线或发球线；二发选择更靠发球区中部、带旋转、过网更高的球，先保证稳定进区，把这一局变成可重复流程。",
+    "generatedImage": {
+      "assetId": "img-serve-first-second-plan-v1",
+      "alt": "Serve planning poster contrasting first-serve direction choice with a safer repeatable second serve."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你双误后情绪崩，常因为二发没计划；先把一发方向和二发安全选择定下来。",
+      "commonFailure": "只练一发更快，二发临场犹豫，关键分双误。",
+      "onCourtCue": "发球前默念：一发打哪个方向；二发打更靠发球区中部、带旋转的安全球。",
+      "verificationTest": "一个发球局每分都能说出一发方向和二发安全选择，双误不超过 1 次。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-serve-plan-routine",
+        "title": "VR 发球计划流程 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "每次发球前口头声明：一发打外角、追身或内角；二发用更靠发球区中部、带旋转的安全球。再执行影子发球。",
+        "successSignal": "你能在发球前稳定说出两条计划，而不是临场才想。"
+      },
+      "realCourtCheck": {
+        "id": "court-serve-plan-game",
+        "title": "发球局计划检查",
+        "durationMinutes": 10,
+        "instruction": "打一个发球局，每分记录是否执行了既定的一发方向和二发安全选择。",
+        "successSignal": "整局都按计划执行，双误不超过 1 次。"
+      }
+    },
+    "reviewPrompt": "发球前为什么要先说清楚一发方向和二发安全选择？",
+    "relatedCards": [
+      {
+        "targetId": "serve.toss-window",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "serve.second-serve-spin",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "serve.second-serve-spin",
+    "title": "二发先求稳定旋转和落点，不是降速平推",
+    "category": "serve",
+    "topicIds": [
+      "technique-models",
+      "spin-physics"
+    ],
+    "tags": [
+      "second serve",
+      "spin",
+      "二发",
+      "kick",
+      "serve"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "technique",
+      "mindset"
+    ],
+    "summary": "二发的稳定来自带旋转的过网余量和可控落点，而不是把一发降速平推过去；平推的慢球最容易被进攻。",
+    "encyclopedia": "二发不是一发的减速版。降速平推的二发过网余量小、落地不跳、坐起来正好被进攻。更稳的二发用上旋或侧上旋换取过网余量和落地变化：球带弧线安全过网，落地后跳起或偏出，给对手制造高度和角度麻烦。先建立稳定的旋转和落点，再谈二发威胁。",
+    "generatedImage": {
+      "assetId": "img-serve-second-serve-spin-v2",
+      "alt": "Side view contrasting a flat slow push second serve sitting up versus a spin second serve clearing the net with margin and kicking."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你二发被打怕了不敢发，根因是平推慢球没余量；先建立带旋转的稳定二发。",
+      "commonFailure": "二发把一发降速平推，过网贴边又不跳，被对手上手进攻。",
+      "onCourtCue": "二发想：过网余量 + 旋转 + 落点，而不是只想轻一点。",
+      "verificationTest": "20 个二发，至少 15 个过网有余量、带旋转且落在发球区内。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-second-serve-spin-margin",
+        "title": "VR 二发旋转余量 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "只练二发的过网余量和旋转感，先不追求落点角度和速度。",
+        "successSignal": "你能稳定打出带旋转、过网有余量的二发，而不是平推。"
+      },
+      "realCourtCheck": {
+        "id": "court-second-serve-20",
+        "title": "二发 20 个",
+        "durationMinutes": 10,
+        "instruction": "连续发 20 个二发，记录过网余量、是否带旋转、是否进区。",
+        "successSignal": "至少 15 个过网有余量、带旋转并进发球区。"
+      }
+    },
+    "reviewPrompt": "二发的稳定靠的是降速，还是过网余量加旋转和落点？",
+    "relatedCards": [
+      {
+        "targetId": "serve.first-second-plan",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "spin.topspin",
+        "type": "supporting"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "return.depth-first",
+    "title": "接发先深中路回，不先想制胜",
+    "category": "return",
+    "topicIds": [
+      "match-tactics",
+      "vr-practice"
+    ],
+    "tags": [
+      "return",
+      "接发",
+      "depth",
+      "deep middle",
+      "tactics"
+    ],
+    "difficulty": "building",
+    "painPoints": [
+      "mindset",
+      "progression"
+    ],
+    "summary": "接发第一目标是把回合稳定带起来：把球回到对方发球线之后、靠近底线的中间区域，先抵消发球压力，再谈角度和反攻。",
+    "encyclopedia": "接发是被动开局的一拍：来球快、角度刁、时间短。试图一拍接发制胜的回报率很低。这里的“深中路”不是一句口号，而是把回球送到对方场地发球线之后、靠近底线的中间区域。这样做有三个好处：目标比边线更大，失误风险低；中路不给对手太多角度；深度能把对手挡在底线附近。强发球先求深中路稳定进场，弱二发再考虑上手。",
+    "generatedImage": {
+      "assetId": "img-return-depth-first-v1",
+      "alt": "Return strategy poster explaining that the first return target is deep through the middle."
+    },
+    "progressionLens": {
+      "targetLevel": "3.0-3.5",
+      "whyItMatters": "你接发送分多，常因为想一拍解决；先把深中路接发做稳，接发局才不崩。",
+      "commonFailure": "强一发还想接发打边线制胜，回球非下网即出界。",
+      "onCourtCue": "接发先想：过网、进场、落到对方发球线之后的中间区域。",
+      "verificationTest": "20 个接发，至少 14 个落到对方发球线之后的中间区域，没有盲目搏边线。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-return-deep-middle",
+        "title": "VR 接发深中路 8 分钟",
+        "durationMinutes": 8,
+        "instruction": "所有接发只练把球回到对方发球线之后的中间区域，不打边线，不追制胜。",
+        "successSignal": "你能稳定把接发回到对方后场中路，而不是每个都想搏制胜。"
+      },
+      "realCourtCheck": {
+        "id": "court-return-deep-20",
+        "title": "接发 20 个",
+        "durationMinutes": 10,
+        "instruction": "接 20 个发球，记录是否过网、进场，并落到对方发球线之后的中间区域。",
+        "successSignal": "至少 14 个落到对方发球线之后的中间区域，接发失误明显下降。"
+      }
+    },
+    "reviewPrompt": "面对强发球，接发的第一目标是制胜还是先抵消发球压力？",
+    "relatedCards": [
+      {
+        "targetId": "return.split-on-toss",
+        "type": "prerequisite"
+      },
+      {
+        "targetId": "tactics.deep-middle",
+        "type": "application"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  },
+  {
+    "id": "return.split-on-toss",
+    "title": "接发的 split 跟着对手触球节奏",
+    "category": "return",
+    "topicIds": [
+      "spacing-footwork",
+      "vr-practice"
+    ],
+    "tags": [
+      "return",
+      "split step",
+      "timing",
+      "接发",
+      "footwork"
+    ],
+    "difficulty": "starter",
+    "painPoints": [
+      "spacing",
+      "technique"
+    ],
+    "summary": "接发的启动来自在对手击球瞬间完成 split 落地，让你能向两边任意方向起动，而不是站着等球到了才反应。",
+    "encyclopedia": "接发时间极短，启动早晚决定一切。看着对手抛球进入节奏，在他球拍触球的瞬间完成 split 落地，落地后根据发球方向和旋转向两侧起动。常见问题是盯着球不 split，等球过网才反应，对快发永远慢半拍。接发的 split 和回合里的 split 同理，只是窗口更紧。",
+    "generatedImage": {
+      "assetId": "img-return-split-on-toss-v1",
+      "alt": "Diagram tying the server's contact instant to the returner's split landing, with two-direction readiness arrows."
+    },
+    "progressionLens": {
+      "targetLevel": "2.7-3.0",
+      "whyItMatters": "你对快发总慢半拍，根因常是没在对手触球瞬间 split；先解决接发启动。",
+      "commonFailure": "盯着球不做 split，等发球过网才动，永远追着接。",
+      "onCourtCue": "对手触球瞬间 split 落地，落地就判断发球方向。",
+      "verificationTest": "20 个接发里至少 15 个在对手触球瞬间完成 split 并能向两侧起动。"
+    },
+    "practice": {
+      "vrDrill": {
+        "id": "vr-return-split-rhythm",
+        "title": "VR 接发 split 节奏 6 分钟",
+        "durationMinutes": 6,
+        "instruction": "只练跟随对手抛球与触球节奏完成 split，不击球。",
+        "successSignal": "你能在对手触球瞬间稳定 split 落地，而不是球过网才动。"
+      },
+      "realCourtCheck": {
+        "id": "court-return-split-20",
+        "title": "接发 split 20 次",
+        "durationMinutes": 8,
+        "instruction": "接 20 个发球，只记录是否在对手触球瞬间完成 split。",
+        "successSignal": "至少 15 次 split 时机正确并能立即向发球方向起动。"
+      }
+    },
+    "reviewPrompt": "接发对快发慢半拍，最常错过的是哪个时机点？",
+    "relatedCards": [
+      {
+        "targetId": "spacing.split-timing",
+        "type": "supporting"
+      },
+      {
+        "targetId": "return.depth-first",
+        "type": "next"
+      }
+    ],
+    "verificationStatus": "personal-note"
+  }
+]

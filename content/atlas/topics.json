@@ -1,0 +1,92 @@
+[
+  {
+    "id": "technique-models",
+    "label": "技术模型",
+    "description": "击球、发球、接发、移动和动作链条的底层模型。"
+  },
+  {
+    "id": "spacing-footwork",
+    "label": "空间步伐",
+    "description": "split step、击球距离、最后两步调整、回位和被挤到。"
+  },
+  {
+    "id": "spin-physics",
+    "label": "旋转物理",
+    "description": "上旋、下旋、侧旋、球速、弹跳和轨迹判断。"
+  },
+  {
+    "id": "match-tactics",
+    "label": "战术比分",
+    "description": "关键分、机会球、被动球、发接发和比赛选择。"
+  },
+  {
+    "id": "body-strength",
+    "label": "身体力量",
+    "description": "力量、恢复、负荷、伤痛风险和网球迁移。"
+  },
+  {
+    "id": "vr-practice",
+    "label": "VR 练习",
+    "description": "把概念转成 VR 里的判断、重复和反馈。"
+  },
+  {
+    "id": "court-geometry",
+    "label": "球场与线",
+    "description": "球场区域、线的含义、网高、落点区和站位风险。"
+  },
+  {
+    "id": "rules-scoring",
+    "label": "规则计分",
+    "description": "计分、发球顺序、换边、抢七、重发和界内界外。"
+  },
+  {
+    "id": "match-basics",
+    "label": "比赛基础",
+    "description": "赛前热身、猜先、发接发开局、报分、分间流程和换边重置。"
+  },
+  {
+    "id": "ball-environment",
+    "label": "球性环境",
+    "description": "风、阳光、温度、湿度、海拔、场地和新旧球带来的球性变化。"
+  },
+  {
+    "id": "training-routine",
+    "label": "训练常识",
+    "description": "训练目标、热身、组间休息、练习强度和课后记录。"
+  },
+  {
+    "id": "recovery-load",
+    "label": "恢复负荷",
+    "description": "睡眠、补水、营养、酸痛、疲劳、热环境和周负荷管理。"
+  },
+  {
+    "id": "injury-prevention",
+    "label": "伤病预防",
+    "description": "肩肘腕、腰背、膝踝、跟腱和疼痛预警的训练边界。"
+  },
+  {
+    "id": "movement-conditioning",
+    "label": "移动体能",
+    "description": "核心、髋部、脚踝、小腿、减速、横移和网球专项体能。"
+  },
+  {
+    "id": "equipment-balls",
+    "label": "网球本体",
+    "description": "压力、球毛、弹跳衰减、场地适配和训练球选择。"
+  },
+  {
+    "id": "equipment-racquets",
+    "label": "球拍参数",
+    "description": "拍面、重量、平衡点、挥重、硬度、拍框和线床。"
+  },
+  {
+    "id": "equipment-strings",
+    "label": "球线系统",
+    "description": "材质、线径、磅数、掉磅、混线和舒适性。"
+  },
+  {
+    "id": "equipment-footwear",
+    "label": "鞋与配件",
+    "description": "握把、球鞋、减震器、装备维护和上场适配。"
+  }
+]

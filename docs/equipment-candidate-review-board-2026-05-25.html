@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>装备百科候选图最终确认</title>
+    <style>
+      :root {
+        color-scheme: dark;
+        --bg: #0b0d0e;
+        --panel: #15191b;
+        --line: #31383c;
+        --text: #f2f4f0;
+        --muted: #aeb6b4;
+        --accent: #b6e414;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--bg);
+        color: var(--text);
+        font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      }
+
+      main {
+        max-width: 1480px;
+        margin: 0 auto;
+        padding: 32px;
+      }
+
+      header {
+        display: grid;
+        gap: 8px;
+        margin-bottom: 24px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 32px;
+        letter-spacing: 0;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.7;
+      }
+
+      .summary {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-top: 14px;
+      }
+
+      .summary span,
+      .status {
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 7px 10px;
+        color: var(--muted);
+        background: rgba(255, 255, 255, 0.03);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 18px;
+      }
+
+      figure {
+        margin: 0;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        overflow: hidden;
+        background: var(--panel);
+      }
+
+      figure img {
+        display: block;
+        width: 100%;
+        aspect-ratio: 2 / 3;
+        object-fit: cover;
+        background: #0f1112;
+      }
+
+      figcaption {
+        display: grid;
+        gap: 10px;
+        padding: 14px;
+      }
+
+      h2 {
+        margin: 0;
+        font-size: 18px;
+        letter-spacing: 0;
+      }
+
+      .status {
+        width: fit-content;
+        color: var(--accent);
+        border-color: rgba(182, 228, 20, 0.5);
+      }
+
+      ul {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--muted);
+        line-height: 1.55;
+      }
+
+      .approve-line {
+        display: grid;
+        grid-template-columns: 20px 1fr;
+        align-items: center;
+        gap: 8px;
+        color: var(--text);
+        border-top: 1px solid var(--line);
+        padding-top: 10px;
+      }
+
+      .box {
+        width: 18px;
+        height: 18px;
+        border: 1px solid var(--muted);
+        border-radius: 3px;
+      }
+
+      @media (max-width: 1100px) {
+        .grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 720px) {
+        main {
+          padding: 18px;
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>装备百科候选图最终确认</h1>
+        <p>这 6 张图已经通过 Codex 初审和 Gemini 外部事实审稿；此页只用于用户最终视觉确认。通过后再运行 finalize 脚本升为 approved。</p>
+        <div class="summary" aria-label="当前状态">
+          <span>总数 62</span>
+          <span>已批准 56</span>
+          <span>候选 6</span>
+          <span>需重做 0</span>
+        </div>
+      </header>
+
+      <section class="grid" aria-label="6 张候选装备知识图">
+        <figure>
+          <img src="../public/assets/knowledge/equipment-ball-felt-v1.png" alt="球毛决定空气阻力和咬球感" />
+          <figcaption>
+            <h2>1. 球毛决定空气阻力和咬球感</h2>
+            <span class="status">Image Candidate</span>
+            <ul>
+              <li>避免“旧球毛磨平 = 一定更快”。</li>
+              <li>区分球毛、气压和湿度。</li>
+              <li>文字无内部矛盾。</li>
+            </ul>
+            <div class="approve-line"><span class="box"></span><span>用户最终通过</span></div>
+          </figcaption>
+        </figure>
+
+        <figure>
+          <img src="../public/assets/knowledge/equipment-ball-storage-v1.png" alt="罐装球也需要保存逻辑" />
+          <figcaption>
+            <h2>2. 罐装球也需要保存逻辑</h2>
+            <span class="status">Image Candidate</span>
+            <ul>
+              <li>像网球装备管理，不像生活收纳。</li>
+              <li>原筒日期、训练分级和用途标签清楚。</li>
+              <li>不承诺保存能让旧球变新。</li>
+            </ul>
+            <div class="approve-line"><span class="box"></span><span>用户最终通过</span></div>
+          </figcaption>
+        </figure>
+
+        <figure>
+          <img src="../public/assets/knowledge/equipment-racquet-beam-v1.png" alt="拍框厚度改变力量来源" />
+          <figcaption>
+            <h2>3. 拍框厚度改变力量来源</h2>
+            <span class="status">Image Candidate</span>
+            <ul>
+              <li>厚框/薄框取舍准确。</li>
+              <li>没有“厚框形变大、储能更多”的错误机制。</li>
+              <li>适合作为装备百科入门图。</li>
+            </ul>
+            <div class="approve-line"><span class="box"></span><span>用户最终通过</span></div>
+          </figcaption>
+        </figure>
+
+        <figure>
+          <img src="../public/assets/knowledge/equipment-accessory-dampener-v1.png" alt="减震器主要改声音和手感" />
+          <figcaption>
+            <h2>4. 减震器主要改声音和手感</h2>
+            <span class="status">Image Candidate</span>
+            <ul>
+              <li>明确减震器不是手臂保护万能开关。</li>
+              <li>不适排查回到线种、磅数、球拍硬度、训练量和动作。</li>
+              <li>没有 KG/kg 单位误导。</li>
+            </ul>
+            <div class="approve-line"><span class="box"></span><span>用户最终通过</span></div>
+          </figcaption>
+        </figure>
+
+        <figure>
+          <img src="../public/assets/knowledge/equipment-string-tension-loss-v1.png" alt="掉磅会让线床换性格" />
+          <figcaption>
+            <h2>5. 掉磅会让线床换性格</h2>
+            <span class="status">Image Candidate</span>
+            <ul>
+              <li>只表达趋势，不做伪精确曲线。</li>
+              <li>没有通用百分比和固定小时数。</li>
+              <li>判断信号可执行：飞长、声音、回位、手感。</li>
+            </ul>
+            <div class="approve-line"><span class="box"></span><span>用户最终通过</span></div>
+          </figcaption>
+        </figure>
+
+        <figure>
+          <img src="../public/assets/knowledge/equipment-accessory-sun-hydration-v1.png" alt="防晒和补水也是装备" />
+          <figcaption>
+            <h2>6. 防晒和补水也是装备</h2>
+            <span class="status">Image Candidate</span>
+            <ul>
+              <li>从健康处方回到上场装备准备。</li>
+              <li>没有固定补水毫升数。</li>
+              <li>清楚表达换边少量多次、出汗及时补充和手滑/注意力信号。</li>
+            </ul>
+            <div class="approve-line"><span class="box"></span><span>用户最终通过</span></div>
+          </figcaption>
+        </figure>
+      </section>
+    </main>
+  </body>
+</html>

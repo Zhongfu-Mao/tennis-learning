@@ -1,0 +1,1602 @@
+{
+  "snapshotDate": "2026-10-13",
+  "sourceProject": "progression-assistant",
+  "scope": "All 12 legacy content JSON files, all atlas JSON and governance, all manifest-referenced assets, source code/tests, supporting visual audits. Excludes automation, booking state, credentials, generated build, dependencies and hidden image archives.",
+  "files": [
+    {
+      "path": "reference/progression-assistant/src/App.tsx",
+      "sha256": "4812a4493b34ca5e35f677ff298182e3d38f020e11b8410f953bdb6859425232",
+      "bytes": 113
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/app-shell.test.tsx",
+      "sha256": "aa998bdbe7b82def2e2df0ee97d28c9837f1102f2fb2a0c991b91bbdcb88a0a9",
+      "bytes": 1612
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/app.test.tsx",
+      "sha256": "0c87162423784bbf24a671694241199e0fabc37c165f976fe5e97cce355cafa2",
+      "bytes": 1359
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/atlas-content.test.ts",
+      "sha256": "cf581f054b80db4d918ed245f5e62a787e61bc410e0ae6ad0f7cd68730712ee6",
+      "bytes": 11142
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/atlas-domain.test.ts",
+      "sha256": "b2140439512cc9727681df432b08411025c813062f3a6a1f9050d7d99492e5ec",
+      "bytes": 2994
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/atlas-ui.test.tsx",
+      "sha256": "969d1258c372c260317c632787bb60ec5e92d746380afd06e2b32d1222dbde1a",
+      "bytes": 13944
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/equipment-scripts.test.ts",
+      "sha256": "e53bf2e47810d16b1b2e587f3128eb6ce63c915851338ea65b8baac4e4230de9",
+      "bytes": 3052
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/insights.test.ts",
+      "sha256": "1fa4a6603e53223e60dc986288e91e0fb4403f64d852b784c3e461a4eb43e110",
+      "bytes": 1875
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/mastery.test.ts",
+      "sha256": "9510e500626da4c4c94abbbdd4d5d06f08f17d94418862f051e730aec0a6716f",
+      "bytes": 2091
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/progress.test.ts",
+      "sha256": "b495d7eb36027a0168142fdccdc4d4f8cff612100c01dcce1bddfac28e5d65a6",
+      "bytes": 891
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/recommendations.test.ts",
+      "sha256": "169ec0093e34dfba98337765057860494ee8282311b1e11bf777f4b6f58d9054",
+      "bytes": 1301
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/review-state.test.ts",
+      "sha256": "f6ba6889d8322d82e221941d4bae9b43b1503c1c2b8f47b0e287c910a510589b",
+      "bytes": 6648
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/roadmap.test.ts",
+      "sha256": "d64c419fb1411bec79f58e4636bbfa92384d2112fdb580e9e411904cc54203a7",
+      "bytes": 2793
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/round3.test.tsx",
+      "sha256": "767eaf6c22255f077c7e77238815a4b75e0fc86c79a673703a4bb64fed43d741",
+      "bytes": 1596
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/secondary-pages.test.tsx",
+      "sha256": "167a12c4b37d546033e3dfe946bff6d464a83ab008c45089234f097d2aff941f",
+      "bytes": 14663
+    },
+    {
+      "path": "reference/progression-assistant/src/__tests__/storage.test.ts",
+      "sha256": "bed773df92cbec79b85f709b2b3358cb75919f4a4dfc1f7db69d312aa4697ac0",
+      "bytes": 1965
+    },
+    {
+      "path": "reference/progression-assistant/src/ai/adapter.ts",
+      "sha256": "70a76b0a01c09d5e0f7f1c763b9450530d9275b94a1043b32c503ce046f3f5ef",
+      "bytes": 265
+    },
+    {
+      "path": "reference/progression-assistant/src/ai/localCoach.ts",
+      "sha256": "b032ec8ffe2e1df88aee04b9cc6f673ef3f9ef8416f8f8d01674e7a75e8c198c",
+      "bytes": 313
+    },
+    {
+      "path": "reference/progression-assistant/src/ai/openAiCompatible.ts",
+      "sha256": "3f739844489ede8a9add7afef54402da5159efa1d2c9a573007d20a160a60d26",
+      "bytes": 1509
+    },
+    {
+      "path": "reference/progression-assistant/src/app/App.tsx",
+      "sha256": "89b67daebec4c89a470206d949850bd408a1fd2ee4fcd4cb696510222a73170c",
+      "bytes": 1656
+    },
+    {
+      "path": "reference/progression-assistant/src/app/navigation.ts",
+      "sha256": "163391fbb269e8e4e0033d35e0855eaa73397b4c9a53f65c89aa38340b44e272",
+      "bytes": 811
+    },
+    {
+      "path": "reference/progression-assistant/src/app/state.ts",
+      "sha256": "94d471dc279be6cc8a5c5ecbae83a20a9f99221368fe362912697fcb55363517",
+      "bytes": 5037
+    },
+    {
+      "path": "reference/progression-assistant/src/components/CardDiagram.tsx",
+      "sha256": "c361d2c94707ed6875a6e287f0dc6ab25ff59cf91ed6caca9685ca5f2aafa97e",
+      "bytes": 2644
+    },
+    {
+      "path": "reference/progression-assistant/src/components/layout/AppShell.tsx",
+      "sha256": "2f83dfcf32a958961289fa2e8b00ebbe7e457753316194bfc898d3e91c950638",
+      "bytes": 1331
+    },
+    {
+      "path": "reference/progression-assistant/src/components/ui/TopicRail.tsx",
+      "sha256": "863117a397732c8e694d233d5fcf2cdb40914d5a0c9c82f54008b1f18b77b363",
+      "bytes": 1056
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/atlas/content.ts",
+      "sha256": "bf343fda33fb098362badfef10d16cf2deeed8d6de3b30792e53594c8830ffd0",
+      "bytes": 7815
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/atlas/graph.ts",
+      "sha256": "703f1d8a4c71c79bdf608836cbfbe0e414ca3f90603f95d39f08f4f0d2c9ed33",
+      "bytes": 1219
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/atlas/schema.ts",
+      "sha256": "9f97f59016dcafc98a76283cc8fce8fc4b48dd23f3cd50aa05d66347a19fb16f",
+      "bytes": 3725
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/atlas/search.ts",
+      "sha256": "06181fe45bf8636fc9ea09fae898acb741119eb7a214fb1e0d5124006d74279d",
+      "bytes": 947
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/cards.ts",
+      "sha256": "027abd3ad8018aa3b91538aa331e9cd4efdcd4530403f5b718c4c3c3910e6f16",
+      "bytes": 670
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/contentSchema.ts",
+      "sha256": "1aa06b3eea0491f17821cca11d9d98e91f9464ca3658cc64e1e4111b361dcaa5",
+      "bytes": 1380
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/defaults.ts",
+      "sha256": "504438c5d32295415e9e5498a336950aa9789d10547c66d175010dc68f32764b",
+      "bytes": 1691
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/insights.ts",
+      "sha256": "b0ab6ead1454ad689ec3bbffb4b1c0a807f78e2c4c09fc8539a3d89d5f223e5e",
+      "bytes": 2181
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/knowledge.ts",
+      "sha256": "723e795fa6c38e609fd41b2ce0b31cacc46a4fbe955c84c2a3a2084aad049e1d",
+      "bytes": 1185
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/mastery.ts",
+      "sha256": "46f33e5e2bc4a24113b0992cbad9d7b9475ec7b437c1d5f8ee585e70f57d9f9b",
+      "bytes": 6506
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/path/recommendations.ts",
+      "sha256": "49147a92bd2f5deb620c5b6348aa3ad8c786bd0f2adbeb867778555658f3d328",
+      "bytes": 1685
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/progress.ts",
+      "sha256": "7b86f7cedfc22b406b5281732df621284c2e793a14e11c4d04a469b12550dde4",
+      "bytes": 3786
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/recommendations.ts",
+      "sha256": "a49cde61e1e72f08599fc4dceb60761c1c2c063b648b8f634455bf57d64348b2",
+      "bytes": 6092
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/review/srs.ts",
+      "sha256": "d259650239c38767ad734ae4f855d148e4a77ee27ddec9d972196d42d3073e0b",
+      "bytes": 1504
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/roadmap.ts",
+      "sha256": "01767fd9cc9436825b45699bc9532d9f4221d900be08f77fd46b61169a08090e",
+      "bytes": 4967
+    },
+    {
+      "path": "reference/progression-assistant/src/domain/types.ts",
+      "sha256": "a50e03c86722fb591b5a6b939d593bc3a7bb559f6781bf3c6be4e5c1d91422d3",
+      "bytes": 3730
+    },
+    {
+      "path": "reference/progression-assistant/src/features/atlas/AtlasView.tsx",
+      "sha256": "cd61b76bb47888fc7cdd624d8c6c3a97edebeea8b23911381a3bfa4ba696725f",
+      "bytes": 17774
+    },
+    {
+      "path": "reference/progression-assistant/src/features/cards/KnowledgeCardPanel.tsx",
+      "sha256": "a4668957a9d9f3726f2a386a6345437f7d797557cfc265a7eee87e9701ef0d11",
+      "bytes": 5698
+    },
+    {
+      "path": "reference/progression-assistant/src/features/path/PathView.tsx",
+      "sha256": "007b38c2a54842ed939b793db37eac0a72995ea11782360c9e784999419f103d",
+      "bytes": 3232
+    },
+    {
+      "path": "reference/progression-assistant/src/features/practice/DrillView.tsx",
+      "sha256": "16038cddce14ca3945f731425c7ac6d566e83f05fa7f0232a050cffa84aa455b",
+      "bytes": 4396
+    },
+    {
+      "path": "reference/progression-assistant/src/features/review/ReviewView.tsx",
+      "sha256": "f9bc17eb8645237544c405573a50946b32593aa6fe17ff22da07b94c38feb5a0",
+      "bytes": 5298
+    },
+    {
+      "path": "reference/progression-assistant/src/features/settings/SettingsView.tsx",
+      "sha256": "0dd68ef945d871d4af90fbdf435a85a3bdd5544d9fdb80e679b2c8563bfd54d9",
+      "bytes": 3997
+    },
+    {
+      "path": "reference/progression-assistant/src/main.tsx",
+      "sha256": "f03646f40a222386bd59190e8e08ead8913bac7f4816a2ee37963a1c54d84704",
+      "bytes": 476
+    },
+    {
+      "path": "reference/progression-assistant/src/storage/localStore.ts",
+      "sha256": "643e2247481a5815b616fb57e33cbbdd5c87172ba1c0107464d896a2162a51d8",
+      "bytes": 2602
+    },
+    {
+      "path": "reference/progression-assistant/src/storage/schema.ts",
+      "sha256": "33fc28e9e623b2124a5eaa5aa6cc2b3d414f511871a0c6ed631ed784f729a246",
+      "bytes": 3560
+    },
+    {
+      "path": "reference/progression-assistant/src/storage/videoStore.ts",
+      "sha256": "feee8af512de0e407c5fa6a6fa5e25b67b76272d645d69c707dfb9bab2d3160a",
+      "bytes": 1849
+    },
+    {
+      "path": "reference/progression-assistant/src/styles.css",
+      "sha256": "6c4dcbcf2b23729d0b7e313d6aa8f026195e35277582755a730146c4c28603c9",
+      "bytes": 28919
+    },
+    {
+      "path": "reference/progression-assistant/src/test/setup.ts",
+      "sha256": "558aec7b47316feea2fd22429660075a4f6af3ea2d589da803327b2b334f9340",
+      "bytes": 526
+    },
+    {
+      "path": "reference/progression-assistant/src/views/LearnView.tsx",
+      "sha256": "171042b25495426a259e451be2b48b40edf0fc2b32054224087e833e13822d20",
+      "bytes": 6921
+    },
+    {
+      "path": "reference/progression-assistant/src/views/OnCourtView.tsx",
+      "sha256": "d82eab8ccd588abc7b18891c098c3e2cc26755166a016a384c4c843f7e087d56",
+      "bytes": 3174
+    },
+    {
+      "path": "reference/progression-assistant/src/views/OnboardingOverlay.tsx",
+      "sha256": "aecc4ba35bf335d6a7c1b02f61cae666bf7541b2a88b59cbd54aa94b1f272e9f",
+      "bytes": 5235
+    },
+    {
+      "path": "reference/progression-assistant/src/views/ProgressView.tsx",
+      "sha256": "7799c55f652bf6cb6aa97e45684b71688fadd9072d40687920f40231e16778b6",
+      "bytes": 14989
+    },
+    {
+      "path": "reference/progression-assistant/src/views/SessionDetailView.tsx",
+      "sha256": "64527fd212e1c680b12dd924b493e8d56972fdb1ee2e0d0f7eabd7275e430e73",
+      "bytes": 5618
+    },
+    {
+      "path": "reference/progression-assistant/src/vite-env.d.ts",
+      "sha256": "65996936fbb042915f7b74a200fcdde7e410f32a669b1ab9597cfaa4b0faddb5",
+      "bytes": 38
+    },
+    {
+      "path": "content/atlas/CONTENT_GOVERNANCE.md",
+      "sha256": "40d0adfe95cd12ab8f2bd4df2ee5e403e0796ecf98a6f0a966feaebde134aa0b",
+      "bytes": 2386
+    },
+    {
+      "path": "content/atlas/cards/body-training-basics.json",
+      "sha256": "cf8653738860fe692f231f27b3bf5614f39faf1c76cda35d4f69b2116f5562b1",
+      "bytes": 83332
+    },
+    {
+      "path": "content/atlas/cards/court-rules-environment.json",
+      "sha256": "93d6199faba2143daad22e782de91214bfcdf6f2af26c110a4d40ec96c3ce7fe",
+      "bytes": 79081
+    },
+    {
+      "path": "content/atlas/cards/equipment-deep-dive.json",
+      "sha256": "1ff2eae1d91597883be2bcf217129482e72b38bcabda302f8645b266d2bc63c8",
+      "bytes": 90912
+    },
+    {
+      "path": "content/atlas/cards/equipment-extensions.json",
+      "sha256": "47afd4109ae08364dd2a3b95c0cc8c923f052343045708987d5539abfb2e1eaa",
+      "bytes": 34834
+    },
+    {
+      "path": "content/atlas/cards/equipment-foundations.json",
+      "sha256": "cbe1c4ad10901ea860a99cd716874d4f3949183bca912b045af3ec6e2f771699",
+      "bytes": 27028
+    },
+    {
+      "path": "content/atlas/cards/progression-mindset.json",
+      "sha256": "af3cebdf34c893a5b700e4de230b5451b4569ae534c19ee0df9b9d56547de808",
+      "bytes": 10449
+    },
+    {
+      "path": "content/atlas/cards/serve-foundations.json",
+      "sha256": "f90dd2934095921e2d62edc740da1202d8256061ea1594c2a9ba8111e31b7511",
+      "bytes": 2891
+    },
+    {
+      "path": "content/atlas/cards/serve-return.json",
+      "sha256": "f51bb3dae251d1d2cda30659b77a199b515ab1e05efb9c1cc8862598e12331e2",
+      "bytes": 11246
+    },
+    {
+      "path": "content/atlas/cards/spacing-foundations.json",
+      "sha256": "df01cfaf627f973d587aedd115539b1f518ee20627366bcf8617617fafaa27f6",
+      "bytes": 7511
+    },
+    {
+      "path": "content/atlas/cards/spacing-movement.json",
+      "sha256": "e0ef330eafd7fb962eb9aa176922a34e34c255d4df43e34f25f53f5e9f065733",
+      "bytes": 10872
+    },
+    {
+      "path": "content/atlas/cards/spin-trajectory.json",
+      "sha256": "1802a3264f420eb2c74174398269071feaaf8e718591487af49e34b7fcb8454c",
+      "bytes": 10701
+    },
+    {
+      "path": "content/atlas/cards/stroke-foundations.json",
+      "sha256": "7d08174e427df1d2d7374b8d520f1afa1071878b242c2542a7be58400032f052",
+      "bytes": 12842
+    },
+    {
+      "path": "content/atlas/cards/tactics-foundations.json",
+      "sha256": "2b956e127b7674b6eb7c993b8b0cddc709f8889c945fed4fe7a941f9ecea1d6b",
+      "bytes": 76991
+    },
+    {
+      "path": "content/atlas/evidence-ledger.json",
+      "sha256": "bd90bf58cac8d2eca3321e8ce5388a2d24d454357f097930f3f4422e85b3ffd9",
+      "bytes": 33483
+    },
+    {
+      "path": "content/atlas/image-manifest.json",
+      "sha256": "1d8eaffdfe5b71e84639f7b5b1d354a9e03ee614cd3c8c7af97dfb5b3de62c1b",
+      "bytes": 93173
+    },
+    {
+      "path": "content/atlas/relationships.json",
+      "sha256": "9941389bd61ef4f929785d00233798a0299f95da2c81f781f6cad7cea2087e71",
+      "bytes": 857
+    },
+    {
+      "path": "content/atlas/topics.json",
+      "sha256": "d244e0589ebb2620569418d73ca3cc696e949bf30995c9d646ecf69dab36f0dc",
+      "bytes": 2805
+    },
+    {
+      "path": "content/fatigue-rules.json",
+      "sha256": "66a5994d9933435f832c38d1b6c9572ee50f9db60e86c27c27a206c24a3bdc87",
+      "bytes": 1161
+    },
+    {
+      "path": "content/footwork-drills.json",
+      "sha256": "da772c72f424603077c1bb66c7ba004a99efbd112b240e566afea74b3f7ae4a2",
+      "bytes": 1796
+    },
+    {
+      "path": "content/knowledge-cards.json",
+      "sha256": "2a70a574165abc48f5d0745c720a06aa99f3849bfad8f895c4a3fcb21348617f",
+      "bytes": 29028
+    },
+    {
+      "path": "content/knowledge-chapters.json",
+      "sha256": "36d5d1f4428b0c48745470436943276e018f5c3cfdb6bfb8e592526042f30359",
+      "bytes": 563
+    },
+    {
+      "path": "content/match-playbook.json",
+      "sha256": "ae9ecc5bb2a7ffd5fec8f5b2083364e2221ce728b550da930713be6a7d3a1733",
+      "bytes": 2752
+    },
+    {
+      "path": "content/progression-blocks.json",
+      "sha256": "1ba18c108c9d1952553bb2096648e3535dd7146d74798eef1a66ed0a4e6b3d06",
+      "bytes": 1754
+    },
+    {
+      "path": "content/progression.json",
+      "sha256": "ea7c316515c3cfbc72fb60de8f462b691e302f4457afc274a1baf5b1e7ce8c6d",
+      "bytes": 4442
+    },
+    {
+      "path": "content/stage-assessments.json",
+      "sha256": "0940557f852e99d3de822e0d1baae2835251b84b3f54668e3a998fbaf5a76126",
+      "bytes": 835
+    },
+    {
+      "path": "content/strength-blocks.json",
+      "sha256": "fd7b358ca79f984b351409ea9d13367f9dd982bbbfa8a0c7a5b119796ce217c9",
+      "bytes": 1239
+    },
+    {
+      "path": "content/strength-phases.json",
+      "sha256": "4c9a0d573613e7afd40eab03899edcf828cbd09bd8fb5bdb6f77bacb5de47d88",
+      "bytes": 1282
+    },
+    {
+      "path": "content/strokes.json",
+      "sha256": "18a3ffa9c321d9e96021a17c95f89e46a9923a42f031344e55dadab98bdfe69b",
+      "bytes": 9567
+    },
+    {
+      "path": "content/technique-cards.json",
+      "sha256": "ab6e95a98bb4a390864245194d547e6624f0acbec44e4bd1f5de4285915421c9",
+      "bytes": 7449
+    },
+    {
+      "path": "reference/progression-assistant/index.html",
+      "sha256": "34fb3397a0afdbb20f07cc34a158db5bf8dd244e2e304af813f407534937a94f",
+      "bytes": 478
+    },
+    {
+      "path": "reference/progression-assistant/package.json",
+      "sha256": "97273012e3bfee5e490b326e130215e9df4a77991d5dbde1d17cb7d074d6f034",
+      "bytes": 1195
+    },
+    {
+      "path": "reference/progression-assistant/package-lock.json",
+      "sha256": "67cc941bb6b55cd76a91b448974a806532b8c6d24b58c87015973cb53d14b37c",
+      "bytes": 104189
+    },
+    {
+      "path": "reference/progression-assistant/tsconfig.json",
+      "sha256": "0bdb658b3bed17b8d669ae2f63f5f3ed7760dc893293a2724006300e5fa2d38f",
+      "bytes": 568
+    },
+    {
+      "path": "reference/progression-assistant/tsconfig.node.json",
+      "sha256": "2a39a305258373cdc1477ec119dde1b58c86e7dcb59c1f46a9d7835144b99720",
+      "bytes": 274
+    },
+    {
+      "path": "reference/progression-assistant/vite.config.ts",
+      "sha256": "2439b485c3679eea338451c5163c4fdb028956702b6f857789cb147f4f3c91fd",
+      "bytes": 2078
+    },
+    {
+      "path": "reference/progression-assistant/vitest.config.ts",
+      "sha256": "d0747c37fad3ee6abf7741e26c7ec58be8c49f9abad08d443003465d2d1e9994",
+      "bytes": 242
+    },
+    {
+      "path": "public/pwa.svg",
+      "sha256": "737aa3b227c2f3c670db804a6ca6d3c649fddd44f13eddafd61ff2d8ef9d37c8",
+      "bytes": 442
+    },
+    {
+      "path": "public/manifest.webmanifest",
+      "sha256": "c5e8bfeef0b5cb1d73381e062edcc735d205b3d8348f626b73f2a948f7f0558e",
+      "bytes": 565
+    },
+    {
+      "path": "scripts/approve-equipment-candidates.mjs",
+      "sha256": "aab836a0e72e25cb99aa24ffe707bc7fcbb2e678f69b05273a4f5c8250c5990a",
+      "bytes": 2196
+    },
+    {
+      "path": "scripts/audit-equipment-encyclopedia.mjs",
+      "sha256": "8313f86d5d949e2044b54213ec7ab6dcf0eb24cec17a5e64d092b758ccb7fd00",
+      "bytes": 3191
+    },
+    {
+      "path": "scripts/finalize-equipment-encyclopedia.mjs",
+      "sha256": "e6dd3127294e7ce9d904de11f5c6ac05ae9c7e8dc506e35fb904b271652a1211",
+      "bytes": 5219
+    },
+    {
+      "path": "docs/court-geometry-candidate-board-2026-05-28.png",
+      "sha256": "95b638598561eb834d5bc37da110d69b4cd6283f7f77f542f1f694546a7d0c55",
+      "bytes": 1708434
+    },
+    {
+      "path": "docs/environment-candidate-board-2026-05-28.png",
+      "sha256": "249c331be14498957741d052a8931e2a7ccd9773c4ab99fe4e35cb3281998a90",
+      "bytes": 1791838
+    },
+    {
+      "path": "docs/equipment-candidate-review-board-2026-05-25.html",
+      "sha256": "df1e71fda180772893b066dc40d39019e7aeba30c5cd0a6a5e4dd3a02039067e",
+      "bytes": 7522
+    },
+    {
+      "path": "docs/equipment-candidate-review-board-2026-05-25.png",
+      "sha256": "9d328e4932a7bd686b460f7219f9f893c9f8be50781cd1db0acad84ac6b9ea4d",
+      "bytes": 1860282
+    },
+    {
+      "path": "docs/equipment-candidate-review-pack-2026-05-25.md",
+      "sha256": "45ac4b716b1f84e9ca5069baead87b7f27a4521eff5183317b0cc4885530ce3a",
+      "bytes": 4909
+    },
+    {
+      "path": "docs/equipment-encyclopedia-readiness-audit-2026-05-25.md",
+      "sha256": "06ef9e83d7f456e0cf86e621d1ff45ad56d631f819cd3978d6ff416c960ad96d",
+      "bytes": 7036
+    },
+    {
+      "path": "docs/equipment-encyclopedia-roadmap-2026-05-24.md",
+      "sha256": "23240ce6ca118b631b6a29d93ec8c735e62adc05926107a386dc32a59d9e314e",
+      "bytes": 4904
+    },
+    {
+      "path": "docs/image-accuracy-audit-2026-05-17.md",
+      "sha256": "c78bcc5e0adb23847addeaf8bb5abfd5c2f24236b0c00a778b7a45fb11ca1ef3",
+      "bytes": 17190
+    },
+    {
+      "path": "docs/image-audit-2026-05-23-cards-16-20.md",
+      "sha256": "eb38dad74df901c242677475cc0ff6e79b0d333fb4d4fc7703958ec9484bf24c",
+      "bytes": 16051
+    },
+    {
+      "path": "docs/injury-prevention-candidate-board-2026-05-28.png",
+      "sha256": "89b00b8059bde892d06a0c447260d5d383cc6913f02f9b28cac5fe107ed41b0a",
+      "bytes": 1093129
+    },
+    {
+      "path": "docs/match-basics-candidate-board-2026-05-28.png",
+      "sha256": "88bf3d4c94d94d2e2e8bffe5629cd62dbfaaee67add43671aa985899fe7bc4d9",
+      "bytes": 1662772
+    },
+    {
+      "path": "docs/movement-conditioning-candidate-board-2026-05-28.png",
+      "sha256": "a6a8c88e87b9a63222a35d5c14605b1ee4a6fca01796267045f9fcf1cdbc204b",
+      "bytes": 1219519
+    },
+    {
+      "path": "docs/recovery-load-candidate-board-2026-05-28.png",
+      "sha256": "31889eba67b29837adde6d1b8b56d138ac4fcec9700d60970caebe9953335022",
+      "bytes": 1170588
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-01.png",
+      "sha256": "918171c77da412fa2fcfc4b4d844b826ae40a0122d6512270178e26488b965c4",
+      "bytes": 483898
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-02.png",
+      "sha256": "c26e9326c983984f2d57565bf2d0fd64ec6f3bbcfbc1275a0fd209bf880f79b1",
+      "bytes": 506750
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-03.png",
+      "sha256": "00ba47d7e2a10db59f2136709c19ed2b55b7b2a2ad5459c7b9f8f6942dc562b4",
+      "bytes": 442478
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-04.png",
+      "sha256": "15afcbccf9e76574b92c3659aad76153786c16658456446a069efc694e5c61a6",
+      "bytes": 403758
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-05.png",
+      "sha256": "b8c7bdc17ad271671d218c8af18c239fc186e862c8e73b36d98d650d0b72fe40",
+      "bytes": 416815
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-06.png",
+      "sha256": "47ef559d4f8df08275c49e2060fd7913296144ba8c5a8083eb3b0fc4a423ff7d",
+      "bytes": 430453
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-07.png",
+      "sha256": "7b0ee150a00196b3ad6e6801a6076f379796495c77fd517de99921ad2527ca7b",
+      "bytes": 418108
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-08.png",
+      "sha256": "d0bfb8994083f222b9f3af92054c4ac8d2f9de89509c68449d0876922dc555a4",
+      "bytes": 394294
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-09.png",
+      "sha256": "db361799faa81cbe897bc72709b1331c51b9b158b2e3b570c3653a8c1889e75f",
+      "bytes": 416649
+    },
+    {
+      "path": "docs/redo-candidates-board-2026-05-31-10.png",
+      "sha256": "b18353330190177300aa564ad24fa743fadf5cce48672cdaac0127fa8c5cdbc9",
+      "bytes": 413540
+    },
+    {
+      "path": "docs/restored-candidates-board-2026-05-31.png",
+      "sha256": "ec87cb53e4efe57ecb0b906cda68387020bf744692220078702573d71f1b3db8",
+      "bytes": 2427668
+    },
+    {
+      "path": "docs/rules-scoring-candidate-board-2026-05-28.png",
+      "sha256": "e6a811602eaa644c4d55cdc209a1c1690dca51557b7336d62c58b69a422996fe",
+      "bytes": 1596990
+    },
+    {
+      "path": "docs/split-timing-candidates-board-2026-05-28.png",
+      "sha256": "1ad22390d5ad75613f6490fabe54ad221beffa9a80a0ee8321bec5c1efbc8303",
+      "bytes": 571341
+    },
+    {
+      "path": "docs/tactics-foundations-1-candidate-board-2026-05-28.png",
+      "sha256": "269cf0238849e486fea822b3538b9ec7f4da0ab8223003214971bd5d33ac06a2",
+      "bytes": 1153988
+    },
+    {
+      "path": "docs/tactics-foundations-2-candidate-board-2026-05-28.png",
+      "sha256": "aa130ab55c0ca55693222d019f86d80c9826a8540b09928a4c9c408a55b485e5",
+      "bytes": 1183065
+    },
+    {
+      "path": "docs/tactics-foundations-3-candidate-board-2026-05-28.png",
+      "sha256": "f42b817a2c37e25e434acde8ef8b0a11b5ede6e7e989bee7f70c2f627347f250",
+      "bytes": 1171129
+    },
+    {
+      "path": "docs/training-routine-candidate-board-2026-05-28.png",
+      "sha256": "12a67aeac5b58b43217e06a202b805b27a01b4f7e6bc317cb4e30e19962ab698",
+      "bytes": 1246827
+    },
+    {
+      "path": "public/assets/knowledge/xhs-split-timing-v1.png",
+      "sha256": "b8179971131ed66449231864aa607bef6b40ceba5390089adbb560fb8974ed59",
+      "bytes": 2048604
+    },
+    {
+      "path": "public/assets/knowledge/candidates/split-timing-direction-a.png",
+      "sha256": "02d862b7f49eae6c726895371a73153edaf3a780d5e34344dca1620ff8302dfe",
+      "bytes": 2118774
+    },
+    {
+      "path": "public/assets/knowledge/candidates/split-timing-direction-b.png",
+      "sha256": "b73ab1233787cfbc841b3ba7080511498e243ee5a5acf6e6cfd11ebaafb4517c",
+      "bytes": 2061927
+    },
+    {
+      "path": "public/assets/knowledge/candidates/split-timing-direction-c.png",
+      "sha256": "de0803f3ff4c6ae78f2261d50b0c1ba791023c939caf45f4fd2dae9c5b630df6",
+      "bytes": 2075057
+    },
+    {
+      "path": "public/assets/knowledge/xhs-contact-distance-v1.png",
+      "sha256": "2cd3681053471469ca1848a9a00ec06789c4c02a051d5505f71dca3949470596",
+      "bytes": 2110457
+    },
+    {
+      "path": "public/assets/knowledge/xhs-deep-middle-target-v1.png",
+      "sha256": "511aa9f9c809b8e4b0fd374271e88395eb95ab8314449ce8093b7c56dd16cef3",
+      "bytes": 2196595
+    },
+    {
+      "path": "public/assets/knowledge/xhs-serve-toss-window-v4.png",
+      "sha256": "c63f229a0849b660c9e4a5d931b048affb1533d95f27ba84af558e17641abda8",
+      "bytes": 1876011
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spin-topspin-arc-v8.png",
+      "sha256": "9ee12408ea17789931c47509b7f8303d7bf12c4897eae144749763100f9ee553",
+      "bytes": 602991
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spin-slice-skid-v1.png",
+      "sha256": "bea7597be8e11ad454cad52fa6d4d98733e3440c961fa733628130d0d1a12f34",
+      "bytes": 2120427
+    },
+    {
+      "path": "public/assets/knowledge/xhs-trajectory-net-clearance-v9.png",
+      "sha256": "233d63a93a4a0b9e4bab45f0c0d8bd43f48ecf787354679a5cec71d8bad11652",
+      "bytes": 2099011
+    },
+    {
+      "path": "public/assets/knowledge/xhs-ball-bounce-window-v4.png",
+      "sha256": "ca416606be35f3233be0d44901b332bf1c2cd6f7b0f6f3ac1c88cdfe72d7727f",
+      "bytes": 2084995
+    },
+    {
+      "path": "public/assets/knowledge/tactics-cross-court-v1.png",
+      "sha256": "289e47ae2ed09676006482432440e5682ab0b34569146fccc93949345dbd04b7",
+      "bytes": 2329220
+    },
+    {
+      "path": "public/assets/knowledge/tactics-down-the-line-cost-v1.png",
+      "sha256": "2abba65e8407b0d5c9720575f5197d14307a0cd072ae2d5e2906632572da5c55",
+      "bytes": 2279601
+    },
+    {
+      "path": "public/assets/knowledge/tactics-midcourt-opportunity-v1.png",
+      "sha256": "2293a8149011de515fa596f1dd0938eae84fcf84258cfeea690c56ea27d5c936",
+      "bytes": 2287191
+    },
+    {
+      "path": "public/assets/knowledge/tactics-short-ball-danger-v1.png",
+      "sha256": "0333276189b1cd301c90efc02d792b14cb17b2a94cffb10626a3547a47f0c7ee",
+      "bytes": 2232939
+    },
+    {
+      "path": "public/assets/knowledge/tactics-pressure-point-play-v1.png",
+      "sha256": "915e3fda4e93a5d69ec8a3ee020cad6ae03543687e0da2ee22d99664af59937d",
+      "bytes": 2279703
+    },
+    {
+      "path": "public/assets/knowledge/xhs-progression-review-funnel-v1.png",
+      "sha256": "d68beb629fb1e41ea3e3cfcdf636688a248aad45ef649cba6ccd736bd0888c6f",
+      "bytes": 2272184
+    },
+    {
+      "path": "public/assets/knowledge/xhs-progression-levels-ladder-v1.png",
+      "sha256": "b2c19a95093d24f27b30b7823378b26d9317d6f9437709239f32365b2988df7a",
+      "bytes": 2254999
+    },
+    {
+      "path": "public/assets/knowledge/xhs-progression-practice-bridge-v1.png",
+      "sha256": "8fd4a3f8a9752767b2576f4be37d29c72930a7249fdfc3158fb6e7b67f777c4a",
+      "bytes": 2535784
+    },
+    {
+      "path": "public/assets/knowledge/xhs-progression-three-rooms-v1.png",
+      "sha256": "5a413fe0775675ff3c6c1c7c31ae598bbf8d3194d3999f90b708d6fb9f1c9a31",
+      "bytes": 1789717
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spacing-recovery-position-v2.png",
+      "sha256": "20618966e428c67a4f71764acca26550cd1d3900614362f42a7f8a38b6c0ce71",
+      "bytes": 1913235
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spacing-last-two-steps-v2.png",
+      "sha256": "51eb0ef30d987de1908d7790a324bd00367e860e6cdfd26449a2bff30909dafe",
+      "bytes": 2012035
+    },
+    {
+      "path": "public/assets/knowledge/spacing-recover-from-wide-v1.png",
+      "sha256": "64e1c44a2390f3c996de5dab37215798248adf0d288b4efc86e4859e38977fda",
+      "bytes": 2257713
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spacing-stance-choice-v7.png",
+      "sha256": "88265cf089304f735c0cfb78ce949da99cf2dc7a382f11e914f9fa29a799f4d3",
+      "bytes": 2133455
+    },
+    {
+      "path": "public/assets/knowledge/xhs-serve-first-second-plan-v5.png",
+      "sha256": "69889782b147cffb871ca67bf933fe079a805742af5547911c35780f8708806a",
+      "bytes": 1963225
+    },
+    {
+      "path": "public/assets/knowledge/xhs-serve-second-serve-spin-v1.png",
+      "sha256": "bdf66137c8a23a2d3174f4f00ac7749246345c91c44967fcbcae7c9e70bbd748",
+      "bytes": 2065758
+    },
+    {
+      "path": "public/assets/knowledge/xhs-return-depth-first-v7.png",
+      "sha256": "b91742a3185b433fdf439b4d0655b7f7aa78ad910272c89b9db53d3eab33c04b",
+      "bytes": 1990173
+    },
+    {
+      "path": "public/assets/knowledge/xhs-return-split-on-toss-v1.png",
+      "sha256": "c003ce22ca4e00032435e411b64cc5f067bfd8dd0c161b6358b971cd52b4be48",
+      "bytes": 2091172
+    },
+    {
+      "path": "public/assets/knowledge/stroke-unit-turn-early-v1.png",
+      "sha256": "9b369ade984c7d0b68def798cb79c33ef6e7a149f7fd527b680063c498ee5aa2",
+      "bytes": 2365890
+    },
+    {
+      "path": "public/assets/knowledge/stroke-contact-in-front-v1.png",
+      "sha256": "7f2c779778dbffb1e83ac51c82db02d3b5f7badb42a231089ff270be6eed76b0",
+      "bytes": 2251025
+    },
+    {
+      "path": "public/assets/knowledge/stroke-low-to-high-shape-v1.png",
+      "sha256": "f1fd072abc8b24134cec17ff3d945a8a98e0d751739930ddf0d25d42b9285613",
+      "bytes": 2054387
+    },
+    {
+      "path": "public/assets/knowledge/stroke-balance-finish-v1.png",
+      "sha256": "fe7e07aa2e44057d013c504b5a07e36210a298e1034c7c0d1c6c4cf99b514774",
+      "bytes": 2178635
+    },
+    {
+      "path": "public/assets/knowledge/stroke-consistent-prep-v1.png",
+      "sha256": "596bece48c133f6bb63c06b696f0443e9ebceff787a9b00273b658600ec42a49",
+      "bytes": 2084188
+    },
+    {
+      "path": "public/assets/knowledge/split-timing-field-guide-v2.png",
+      "sha256": "221d192f4d0258def76f3ef8fc933ecb74a06233a0eedc2e96e500c23777cb2c",
+      "bytes": 2335234
+    },
+    {
+      "path": "public/assets/knowledge/xhs-deep-middle-target-v4.png",
+      "sha256": "c082fe6456788f672ac4737a9c07c9ac54fda5e9d1db75d87be6a62226a47c18",
+      "bytes": 2073450
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spacing-recover-from-wide-v4.png",
+      "sha256": "14e562bf634e5182c04e9c659fad70fd7bf8ea81db1d7aee450d068ca8571aa8",
+      "bytes": 2150637
+    },
+    {
+      "path": "public/assets/knowledge/xhs-spin-slice-skid-v10.png",
+      "sha256": "0a07349cdbb9e301ec1b01f69b917b4711bdb3ea403fde364ce4e1223f9f9070",
+      "bytes": 670870
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-pressurized-v1.png",
+      "sha256": "0efb16e96ffc6a1459dcdc52aaf668a31af27ccbb8ef1f87c241e5023eb491f7",
+      "bytes": 2073499
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-pressureless-v1.png",
+      "sha256": "fab4038c257940acf2782a6e6e969434985ce604da0e51dbcab689412421083b",
+      "bytes": 2142125
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-felt-v1.png",
+      "sha256": "bf246b04d41f1048733acc399fb9a91d27671f143f559e5205e9d8b3f5dd782c",
+      "bytes": 2654266
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-lifespan-v1.png",
+      "sha256": "e47d5d308ddeb5b2e0760f1942cf4664e0dc46feaef0455f54c84a8bebef254a",
+      "bytes": 2162905
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-surface-v1.png",
+      "sha256": "ba9333c4e83c1d7e2cc7a0bc0d803a5e6bb66fd7dcd10e71c146db23b5d22425",
+      "bytes": 2658595
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-head-size-v1.png",
+      "sha256": "bfa5a1a8b297905582269be0e8787bc85cfb0042cd5b9a62b4e5dddce8bafb63",
+      "bytes": 2028026
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-weight-v1.png",
+      "sha256": "1f0a0fd3de9d3e773cd8f89a1a83b81d5b97fcf8262f6e50c928398b0203d327",
+      "bytes": 1602391
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-balance-v1.png",
+      "sha256": "fc8ad1bbbb1fd0b63e0c4089bbd9fef4d7a13c738113cc657412a9509dadd618",
+      "bytes": 2222854
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-swingweight-v1.png",
+      "sha256": "557a1bf64a6f66ee88a16729217d964bff768f26671003bbc39a59095fa290ae",
+      "bytes": 1814563
+    },
+    {
+      "path": "public/assets/knowledge/equipment-maintenance-match-log-v1.png",
+      "sha256": "85c852e4788beb5cbf01578bdd6564543dc201700d0faefade49375e39a96f1a",
+      "bytes": 2031085
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-stiffness-v1.png",
+      "sha256": "bc658915042420c2efbe030da279055d2e1dcf3bb9c63ea14766310e38f9e742",
+      "bytes": 1766101
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-beam-v1.png",
+      "sha256": "c612baa70abecfad452e6d46d3b2009f373b70f82d97391efea8a4dbf42826e5",
+      "bytes": 2108177
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-string-pattern-v1.png",
+      "sha256": "c63175e2a1a4dfe6138883e591cba05a95a39b428eeb4441fc81e47fcafcde2c",
+      "bytes": 1890678
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-poly-v1.png",
+      "sha256": "83354d763b30470be1d42a683bbac8b3404b99afe8b7e69e50175d0e7cca27f7",
+      "bytes": 2150291
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-synthetic-gut-v1.png",
+      "sha256": "33aa23fbff33cbcb47c41f83067693f9f545f69945e0da2ab6e0a87ccbf216c5",
+      "bytes": 1881703
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-natural-gut-multi-v1.png",
+      "sha256": "df9202a68ea3cc5edc5031dcfb568fcbd4bdcc7c11f331f512a3707d39f8aacf",
+      "bytes": 1898413
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-gauge-v1.png",
+      "sha256": "e4434a306c0cff1e774b2f5234fb75084e1ff851455f9dc7d6a98d847e26f88e",
+      "bytes": 2172480
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-tension-v1.png",
+      "sha256": "49af84b9a0578a7a68db2bbc07666be84dbe36702345fe5579ea5b6e2eeaf259",
+      "bytes": 2024363
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-hybrid-v1.png",
+      "sha256": "4ae9c148106e0dfef36bfa4ad20a3c5cc58d601051097e0acc67892cda7d9cd0",
+      "bytes": 2058772
+    },
+    {
+      "path": "public/assets/knowledge/equipment-grip-size-v1.png",
+      "sha256": "2bd51963b9f7c1914b7be125436257056ddca3ee428079fa8ee5da0d4b982dcb",
+      "bytes": 2106305
+    },
+    {
+      "path": "public/assets/knowledge/equipment-grip-overgrip-v1.png",
+      "sha256": "82c7bdaf757c32aef61ce80ed2ba9ffc7d6ebec929af1bf1b15b141c9287304e",
+      "bytes": 2555881
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-outsole-v1.png",
+      "sha256": "1637609305e70444465b930bb3e3adebdef4eab7b4fb17cd1b3ff67524cf0137",
+      "bytes": 2803523
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-support-v1.png",
+      "sha256": "dd13f9e5e8aba30787785dcc1c76486620fba107f2daf461c8635ea9f0bb69b6",
+      "bytes": 2605241
+    },
+    {
+      "path": "public/assets/knowledge/equipment-accessory-dampener-v1.png",
+      "sha256": "d4dcbdf4a0cba34965e447f747778ede8041ddfec708cb24a6a95da7a5bd0530",
+      "bytes": 2137900
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-match-vs-training-v1.png",
+      "sha256": "71192ead231b56807a8c8134525bf00ef8ba62d659fad74fccb59f5ad822c0a3",
+      "bytes": 2150012
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-high-altitude-v1.png",
+      "sha256": "e16b23cd2f8024c346432998fcbe6c0a171571efb1271868474390a0b33a02b7",
+      "bytes": 1896099
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-temperature-v1.png",
+      "sha256": "755133505e4766a8d83b1f59fdf669e127a74148ba74472a67faa2ef1c715323",
+      "bytes": 2260309
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-new-ball-game-v1.png",
+      "sha256": "e0195382ce04711c5f202566c6fc7a0af44bc824676ca806eae713e3f009c8a8",
+      "bytes": 2245351
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-dead-ball-v1.png",
+      "sha256": "ffaffdbbadb8c9ead0adc40a05ebe454d044947dac4eeffaaedce116d7266ceb",
+      "bytes": 2111355
+    },
+    {
+      "path": "public/assets/knowledge/equipment-ball-storage-v1.png",
+      "sha256": "ef9679b661fa1d9fd9ac0c0f09d74d4fdee56a9836335c9fb826a6fce28c3d05",
+      "bytes": 2327528
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-length-v1.png",
+      "sha256": "87a85d73c36a64cd9008fc7dea138bc29e78c3b1aa392a7a62222ee869a30fc0",
+      "bytes": 1795786
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-grip-shape-v1.png",
+      "sha256": "4bbbbb03bba8c7abed9496bb9a3711d4406878ca922cc07c90bb406c2886dbda",
+      "bytes": 1972297
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-throat-stability-v1.png",
+      "sha256": "9766c156a7fd0ac6271f761e651e6f6ddb854026c681716e043538539b3d8697",
+      "bytes": 2021905
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-sweet-spot-location-v1.png",
+      "sha256": "535a08cb428aa6c9fe8cafab8e48897356ea93f8285038f879e01842187acfc1",
+      "bytes": 2032575
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-twistweight-v1.png",
+      "sha256": "f508953aeee87c08b9f5e00bdef26773bf28499b4d39db5ce60b19c0ef957ef8",
+      "bytes": 2031021
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-lead-tape-v1.png",
+      "sha256": "0114b55d5adb525ca738c9b94d5d4df43a9462761ad58c6bd5183f5fdee290f8",
+      "bytes": 2126880
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-handle-weight-v1.png",
+      "sha256": "80f99d9071d626623fbfec6059fa3ca2eb92b6293762ec3a47dc5cb57efecd8b",
+      "bytes": 2018165
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-first-racquet-v1.png",
+      "sha256": "5702535ddff4e032d88e31d71f615dd7cad7be54a07450b8024203f943855dda",
+      "bytes": 2110638
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-upgrade-timing-v1.png",
+      "sha256": "1f397b2955124d98ce1a56cd4b7f3a47d21781b9f1f915b12d34e67499351674",
+      "bytes": 2287195
+    },
+    {
+      "path": "public/assets/knowledge/equipment-racquet-pro-player-myth-v1.png",
+      "sha256": "cb8a6d37b0ed0e631b5b1c7abfd9da33fafbbd0b5db80076acaa3e0f30045b5b",
+      "bytes": 2027459
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-tension-loss-v1.png",
+      "sha256": "1df94de99b762c7ba2b6ada6d1960fb0683b4d35d99265b10d11c64e47f7a327",
+      "bytes": 2349103
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-cut-out-timing-v1.png",
+      "sha256": "dfc40d5f358ece11ae9608d60447a11f139d81c7c3d562b17328dd9054f9ec83",
+      "bytes": 2268314
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-locked-stringbed-v1.png",
+      "sha256": "0ca6dceb59711d0e43214e0b1e22e67c944a48c49f6a369fca8743dfc4dd621c",
+      "bytes": 1981784
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-snapback-v1.png",
+      "sha256": "93f2a63af1ef4ffb839494a9e0c8e0ee195faf3b42357a5c0836b5dbed8bcb7d",
+      "bytes": 2040572
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-round-vs-shaped-v1.png",
+      "sha256": "e3e8620573fa4b6f590e3fba2961e1df660472f58b9484d90de7f2661495acb3",
+      "bytes": 2197975
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-soft-vs-stiff-poly-v1.png",
+      "sha256": "006c247c6b2e786303d0d101042330d77061e044cefd78356570183c97b8aec3",
+      "bytes": 2121085
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-hybrid-main-cross-v1.png",
+      "sha256": "a2d179a6319031574a69644459f2136303276c1ecd2771d86a4266c14f86edb0",
+      "bytes": 2143197
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-winter-tension-v1.png",
+      "sha256": "f716aa4c93dde8afc65e5a7196e3f442db3db026ff013ef05ed3d72647b2c388",
+      "bytes": 2409376
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-arm-friendly-setup-v1.png",
+      "sha256": "1020e5e5b4d51e24424d508a4defef11c40f1a43bb6cfe2cb8448b3409d2da79",
+      "bytes": 2312504
+    },
+    {
+      "path": "public/assets/knowledge/equipment-string-vr-low-court-stringing-v1.png",
+      "sha256": "870760b546ef59810e4ebc4a72fd5f6b3e2731beb44b1cb85c179729d2fb28ac",
+      "bytes": 2163192
+    },
+    {
+      "path": "public/assets/knowledge/equipment-grip-replacement-grip-thickness-v1.png",
+      "sha256": "0658e6ccd16b1071f23f62e7a263bb5a5a00ef186a404187405893a9bdfecc04",
+      "bytes": 2056728
+    },
+    {
+      "path": "public/assets/knowledge/equipment-grip-dry-vs-tacky-v1.png",
+      "sha256": "7fae92af6662ed20fee79614a888e9f8a2d7df2c2c903354eb261b5771c946b6",
+      "bytes": 2107241
+    },
+    {
+      "path": "public/assets/knowledge/equipment-grip-change-cycle-v1.png",
+      "sha256": "31f702eb391e6fd128ad7ea21be555de8d1acdea55343f074b5bc12b90a6a272",
+      "bytes": 1980945
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-wear-pattern-v1.png",
+      "sha256": "fcfb3dcc8a773803ed7332c9e5198993d54369fd5a5dc18e9057fc976cdaa8cb",
+      "bytes": 2657347
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-hard-court-universal-v1.png",
+      "sha256": "532549abba7de98c8303ca544063dfd4f5f83b91df962577633f2493e6600507",
+      "bytes": 2562331
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-clay-on-hard-court-v1.png",
+      "sha256": "71edcdb471dc049bbf64adb76130bffe6d65ab5a162ca83942433d3c9872c3ae",
+      "bytes": 2495800
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-indoor-court-choice-v1.png",
+      "sha256": "c70867817bd3973d987ff84e880fbd2ae247363810daedd07d754daa30dfad63",
+      "bytes": 2458776
+    },
+    {
+      "path": "public/assets/knowledge/equipment-shoe-tokyo-artificial-grass-v1.png",
+      "sha256": "9c29b4e899cbec94e44354315f3ae4a1174027365cee4be56e0c4a333d3a0f64",
+      "bytes": 2550176
+    },
+    {
+      "path": "public/assets/knowledge/equipment-accessory-bag-organization-v1.png",
+      "sha256": "39ae9d24a4e9934ab7ed50c945ba6f929075c455d995c87e30f5c1b4a1f5260a",
+      "bytes": 2312115
+    },
+    {
+      "path": "public/assets/knowledge/equipment-accessory-sun-hydration-v1.png",
+      "sha256": "cadf1e36f6de51ec5a93987fef2372c324cced0e0d5dcdb1c75a3a39e303dc24",
+      "bytes": 2283179
+    },
+    {
+      "path": "public/assets/knowledge/equipment-accessory-warmup-band-v1.png",
+      "sha256": "4fdb4d82555436b4a251515c34c5c9a8a54fdd83966f8d227b1f1097baaaa8fd",
+      "bytes": 2187791
+    },
+    {
+      "path": "public/assets/knowledge/equipment-accessory-spend-upgrade-v1.png",
+      "sha256": "dfa8a72fb9535964f0acf204e30c702b389b14c93f0c3e3eb11365de0d98fe33",
+      "bytes": 2268828
+    },
+    {
+      "path": "public/assets/knowledge/court-lines-baseline-sideline-v1.png",
+      "sha256": "5956d377569bf9f41d5314cbe91e69d1802903f66975eafb7233d0fefd25811f",
+      "bytes": 2209616
+    },
+    {
+      "path": "public/assets/knowledge/court-lines-service-box-v1.png",
+      "sha256": "e703bbc0b7e98c4d8386b4407a68ab8c99dc0258b939fcd06158caeb226e905d",
+      "bytes": 1986348
+    },
+    {
+      "path": "public/assets/knowledge/court-lines-doubles-alley-v1.png",
+      "sha256": "9a881f1962d934205e5d446b27898cd685779765b8b12692ea241fc8e2fe158f",
+      "bytes": 2327407
+    },
+    {
+      "path": "public/assets/knowledge/court-net-height-center-posts-v1.png",
+      "sha256": "a18317e8f5bc648cc884a12d8881bc65affc4986e2c9c1f5857092444df30712",
+      "bytes": 2337900
+    },
+    {
+      "path": "public/assets/knowledge/court-no-mans-land-risk-v1.png",
+      "sha256": "7322fd856ba68beeb3b0ef1dd5676a87ccb592ae839732cb51920aceb2a408eb",
+      "bytes": 2814961
+    },
+    {
+      "path": "public/assets/knowledge/court-target-zones-depth-v1.png",
+      "sha256": "cac5a1bbbf7eac4720910c6aca5ed56a346ef0960b75278662661df0af31d0ec",
+      "bytes": 2735443
+    },
+    {
+      "path": "public/assets/knowledge/court-surface-hard-clay-grass-map-v1.png",
+      "sha256": "c8201365651557f9a03e28e807a03f632aff0927d05b7072ac1877db2716f61a",
+      "bytes": 1931421
+    },
+    {
+      "path": "public/assets/knowledge/court-indoor-outdoor-differences-v1.png",
+      "sha256": "c6029428f1531616fb671ee4600e9cc9ddeda512adeb13f3107fd8926020a436",
+      "bytes": 2076300
+    },
+    {
+      "path": "public/assets/knowledge/rules-scoring-love-15-30-40-v1.png",
+      "sha256": "5deba24305227329d499726c4db9b8179ffe1b21f44c7149b83c3ea9a1d2a12a",
+      "bytes": 2113753
+    },
+    {
+      "path": "public/assets/knowledge/rules-deuce-ad-game-v1.png",
+      "sha256": "4564ee2af9521fe83171d85927a55769e69cf099e9b000d32994029364d54c94",
+      "bytes": 1438381
+    },
+    {
+      "path": "public/assets/knowledge/rules-tiebreak-basics-v1.png",
+      "sha256": "6855a279942efe97debbf29b4307e268017988ddaab15dede700a38a4a850a27",
+      "bytes": 1795832
+    },
+    {
+      "path": "public/assets/knowledge/rules-set-formats-v1.png",
+      "sha256": "3ac318d5f2244f807825e4d41d73aaffcc09f24b39e89b09a84a8276cfae6bdd",
+      "bytes": 1653593
+    },
+    {
+      "path": "public/assets/knowledge/rules-serve-order-switch-v1.png",
+      "sha256": "97194c2807316ac33446184701adfcf0fdbb489ed15ed5b9238f3b228f79fe16",
+      "bytes": 1500563
+    },
+    {
+      "path": "public/assets/knowledge/rules-changeover-timing-v1.png",
+      "sha256": "279d4e88d3dfbd3613095a6a439562b1c7eda88a569b78630cb7e22dd22fbcbe",
+      "bytes": 2176567
+    },
+    {
+      "path": "public/assets/knowledge/rules-let-serve-v1.png",
+      "sha256": "009a1efa6ef1ed20248511630a65647a35a543408fe7190d23b4cedccee180d2",
+      "bytes": 1735505
+    },
+    {
+      "path": "public/assets/knowledge/rules-in-out-line-call-v1.png",
+      "sha256": "3d75709fa6d7e1981406a36fd7c240d072b20a595ddb02f46ca0a0be0e351602",
+      "bytes": 2389123
+    },
+    {
+      "path": "public/assets/knowledge/match-warmup-purpose-v1.png",
+      "sha256": "dd748a08a16f0bc1bc62b0cc07e630551e4c3151f9f79b45b228b66d0e62638e",
+      "bytes": 2086466
+    },
+    {
+      "path": "public/assets/knowledge/match-coin-toss-choice-v1.png",
+      "sha256": "df67f15267797bb0cbb9b5547645a33adc70afc758d95d9d59e4ec7ecc724a2e",
+      "bytes": 2033466
+    },
+    {
+      "path": "public/assets/knowledge/match-first-serve-second-serve-v1.png",
+      "sha256": "a90db128d043eb69d9a7e5b6f623c10b158214321bcb61a383806413010caeed",
+      "bytes": 1813856
+    },
+    {
+      "path": "public/assets/knowledge/match-return-position-basics-v1.png",
+      "sha256": "251de295cac7cd16eb2f8651e0f6691361160bc2f81163113cb423ae20fc4c3c",
+      "bytes": 2455662
+    },
+    {
+      "path": "public/assets/knowledge/match-point-start-routine-v1.png",
+      "sha256": "9d43aaee324689cf0f6f8ceebd53f1a9bd9a2e346cc91507adf3d09db4ab371a",
+      "bytes": 1969590
+    },
+    {
+      "path": "public/assets/knowledge/match-between-points-time-v1.png",
+      "sha256": "daee54319ac535cab601b17987096b3736245078c6fae010c54a7dc67fbc2845",
+      "bytes": 2054553
+    },
+    {
+      "path": "public/assets/knowledge/match-end-changeover-reset-v1.png",
+      "sha256": "8c8726fe5743a6c92ebf2b84e6a4332f0f4eea05eeff9c323ab49c8542551e7a",
+      "bytes": 1827221
+    },
+    {
+      "path": "public/assets/knowledge/match-score-announcing-v1.png",
+      "sha256": "2df502a2cd44fa4986c71f9d0e03bc3d97e5fdfb4bf89ecbf28b3b8a6668cf35",
+      "bytes": 2155342
+    },
+    {
+      "path": "public/assets/knowledge/environment-wind-direction-v1.png",
+      "sha256": "b5f6950c8469cc3a1f309fdcec214fb66a1130e7c9be540141b430916f0febb7",
+      "bytes": 2602956
+    },
+    {
+      "path": "public/assets/knowledge/environment-sun-glare-v1.png",
+      "sha256": "21ca8cafd8ff3f643eb9430d1f4a7dd1b77eae7a6770d327cf9769870f86b3de",
+      "bytes": 2228558
+    },
+    {
+      "path": "public/assets/knowledge/environment-temperature-ball-bounce-v1.png",
+      "sha256": "b689de14b0e53727b327e5784688a2afadfec71292c7a417df32c1f890e39269",
+      "bytes": 2212109
+    },
+    {
+      "path": "public/assets/knowledge/environment-humidity-heavy-ball-v1.png",
+      "sha256": "a6d85f4a32bb77ee789ac93ebe5b3653977c56ca06ce4f452393a67ff4c7100a",
+      "bytes": 2245914
+    },
+    {
+      "path": "public/assets/knowledge/environment-wet-court-risk-v1.png",
+      "sha256": "b70d0074686fdbcccf9d29fc7ed62019dd273a8827413818bb6ae37982de7bfe",
+      "bytes": 2399193
+    },
+    {
+      "path": "public/assets/knowledge/environment-new-old-ball-match-v1.png",
+      "sha256": "57ec95d679e46fe035eafc11404a75e24f8c6f891630737d2be75207258b4048",
+      "bytes": 2483832
+    },
+    {
+      "path": "public/assets/knowledge/environment-altitude-fast-ball-v1.png",
+      "sha256": "1556ac120a87d66f0a1d68225849fdab018441233cb9f74569be3642aff6e59c",
+      "bytes": 2252805
+    },
+    {
+      "path": "public/assets/knowledge/environment-surface-bounce-speed-v1.png",
+      "sha256": "eb72c608aa5904d5115fd87c9f185643d76961278c1c4d43820063c1a358db5e",
+      "bytes": 1910860
+    },
+    {
+      "path": "public/assets/knowledge/training-session-one-focus-v1.png",
+      "sha256": "3862c86725dd46bf34a7c65c9e45ccfa15289dd425ddb6c309965236645c9d9e",
+      "bytes": 2760193
+    },
+    {
+      "path": "public/assets/knowledge/training-warmup-raise-temperature-v1.png",
+      "sha256": "347d68f181be622ccb862b6081a0fde10e6c4b50988f6b05492d5e44c971a771",
+      "bytes": 2409415
+    },
+    {
+      "path": "public/assets/knowledge/training-dynamic-mobility-before-hit-v1.png",
+      "sha256": "38083573e2e1b926977bad2d3cf711f4ae62a058290d9ed598817775dd691bd6",
+      "bytes": 2212966
+    },
+    {
+      "path": "public/assets/knowledge/training-shoulder-serve-prep-v1.png",
+      "sha256": "34ec97dc25d68e0e5a7fe916561fe91d08811aaeb381280192c5227003e48049",
+      "bytes": 2172243
+    },
+    {
+      "path": "public/assets/knowledge/training-drill-rest-ratio-v1.png",
+      "sha256": "0eb383f6f22ae43bb4781c0d21f6321d93056f3ea0ccdbb1af081ae89f3d9f9c",
+      "bytes": 2077791
+    },
+    {
+      "path": "public/assets/knowledge/training-intensity-zones-v1.png",
+      "sha256": "b300c1ee0d57b5fe6c87f4270570164ebf564d96e1572ec064e1bfee16130e63",
+      "bytes": 2123729
+    },
+    {
+      "path": "public/assets/knowledge/training-lesson-notes-within-24h-v1.png",
+      "sha256": "4e239a0f0dbc734070f53a36ec41bfa9bdf528718b590cdf66c90782b3078c29",
+      "bytes": 2315160
+    },
+    {
+      "path": "public/assets/knowledge/training-video-review-one-clip-v1.png",
+      "sha256": "20f829768299eb675fe962e82ae4d738add6895f5944ec9b89f5d55d9d244bcd",
+      "bytes": 1626329
+    },
+    {
+      "path": "public/assets/knowledge/recovery-sleep-anchor-v1.png",
+      "sha256": "fde47b612996649556d63b9b61665e277505fe326de0eb6440c5945d1b48cdf5",
+      "bytes": 1412959
+    },
+    {
+      "path": "public/assets/knowledge/recovery-hydration-electrolytes-v1.png",
+      "sha256": "6133901ea2a31970ca3cb7e81a144ae70f58e5b59692e1600864b3062618124a",
+      "bytes": 1676327
+    },
+    {
+      "path": "public/assets/knowledge/recovery-post-session-fuel-v1.png",
+      "sha256": "dd2e48ac669c3ce0cacc0be550eb63d2ddc1046774412146a236ba521be08ffd",
+      "bytes": 1846113
+    },
+    {
+      "path": "public/assets/knowledge/recovery-soreness-vs-pain-v1.png",
+      "sha256": "db22aec2cefd305a3fff8fc3edc330d40487f9af0db04db2fe6d99e4baefccb0",
+      "bytes": 1570045
+    },
+    {
+      "path": "public/assets/knowledge/recovery-weekly-load-spike-v1.png",
+      "sha256": "8cbcafa50eaaf69cc8d5f281565156ac3b9e4b676979afb1aab13951b67d03f3",
+      "bytes": 1501788
+    },
+    {
+      "path": "public/assets/knowledge/recovery-day-after-match-v1.png",
+      "sha256": "1e4d0a8a44e42f386141c92ccece926aaaf9db2c3609de381761a204dc76a7b3",
+      "bytes": 1659478
+    },
+    {
+      "path": "public/assets/knowledge/recovery-heat-stress-signals-v1.png",
+      "sha256": "73150b46ac9717bc391ea746124251cd8ed6f8251e1c4ae01c2951bf7f54c8b4",
+      "bytes": 1682441
+    },
+    {
+      "path": "public/assets/knowledge/recovery-cramp-risk-management-v1.png",
+      "sha256": "c80d5514b133b3b55648d20bc480f691d620aa0ab370fb7eb3517d777e1952df",
+      "bytes": 1809114
+    },
+    {
+      "path": "public/assets/knowledge/injury-warning-signals-red-flags-v1.png",
+      "sha256": "dc287f9aa226aa8289e95b1e9ee4472ac197492b43f36604713bc0ce4462be46",
+      "bytes": 1602972
+    },
+    {
+      "path": "public/assets/knowledge/training-pain-scale-stoplight-v1.png",
+      "sha256": "112b7078d7a8cc6bf8971ec3fb2d9ff05ecb022855e78cac6c475cc7cea9d7e8",
+      "bytes": 1584333
+    },
+    {
+      "path": "public/assets/knowledge/injury-shoulder-serve-volume-v1.png",
+      "sha256": "88d2ed7376f18a6f81f45d2d10c386ded85fc77468734e80ff5ef8ddef952450",
+      "bytes": 1816486
+    },
+    {
+      "path": "public/assets/knowledge/injury-elbow-grip-string-load-v1.png",
+      "sha256": "fdb0f3b76d07369a274d8a83e20f38d835b0df4f89ed1a69da61db5aa1dc247b",
+      "bytes": 1735451
+    },
+    {
+      "path": "public/assets/knowledge/injury-wrist-late-contact-v1.png",
+      "sha256": "0c4af3c786f5b0f63cf9688f4b71565768c4a305a2430507239e17fcb1eaae1f",
+      "bytes": 1739149
+    },
+    {
+      "path": "public/assets/knowledge/injury-knee-deceleration-v1.png",
+      "sha256": "753e4071cb12f97dd6803f2b2afc1591a36fb13b9fc5c9b14f9a92e79f1aa0fd",
+      "bytes": 1790660
+    },
+    {
+      "path": "public/assets/knowledge/injury-ankle-calf-achilles-v1.png",
+      "sha256": "abcc52a0cac7896c204acf4ec29d4a181d1133bfa33561432f2c001ef025d688",
+      "bytes": 1676943
+    },
+    {
+      "path": "public/assets/knowledge/injury-lower-back-rotation-v1.png",
+      "sha256": "ff0bc2b0730c9f4e765db64679ceecbba53804e4bddae8f780fd0fb670cdec1b",
+      "bytes": 1749797
+    },
+    {
+      "path": "public/assets/knowledge/injury-return-after-break-v1.png",
+      "sha256": "3b5e9aafbc0a4852cd820565f81d5b2aebdc17931ed32dc5153d7a4cfeabe09c",
+      "bytes": 1594721
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-core-anti-rotation-v1.png",
+      "sha256": "8e22d973095069c7a44abcbd9e98117a88c74a6689864647bd7a6a3e721b500b",
+      "bytes": 1771403
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-hip-mobility-v1.png",
+      "sha256": "08437046c41bebd4e13d12e53a804ce6c9c450dce6b2a456aba1451e28f664b1",
+      "bytes": 1601891
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-ankle-mobility-v1.png",
+      "sha256": "fc0777b056a62b5dc74f6885b509375a89b3bb33c455c3a3ff90fab8a7aaa87c",
+      "bytes": 1702653
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-deceleration-basics-v1.png",
+      "sha256": "0d6c88a7aa1c75670f760013e343a67d7cf809fea35ef0c574a916a5528dbcf8",
+      "bytes": 1966857
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-lateral-strength-v1.png",
+      "sha256": "e56526c5bf53f9ca238addd7419bc3c17268612d1fd80801f3ff0d3f72f05816",
+      "bytes": 1640979
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-balance-single-leg-v1.png",
+      "sha256": "8be4a0e4bf58e55ce8945b3a6b1519513e223bee0ded6d4fe5740ecc00324b73",
+      "bytes": 1787236
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-power-before-fatigue-v1.png",
+      "sha256": "c8adb7c51f4bc36efee6b0bd4df289d2db4b6b07a9d1e3d9e7d54bb73cdf55a2",
+      "bytes": 1782627
+    },
+    {
+      "path": "public/assets/knowledge/conditioning-strength-minimum-dose-v1.png",
+      "sha256": "10fcd09a7af3d51c7b1ef450304a53d797e48770691e81b8970140d07dbce27e",
+      "bytes": 1862577
+    },
+    {
+      "path": "public/assets/knowledge/tactics-defensive-high-middle-v1.png",
+      "sha256": "d5f6180c0b35fc3d35f3f2d4dcbc65f43a4fd637bfaa983afa9fe388c1cb3cb5",
+      "bytes": 1860055
+    },
+    {
+      "path": "public/assets/knowledge/tactics-neutral-depth-loop-v1.png",
+      "sha256": "11877a2e6c5e5193e24ae8221e381504b138f6300de2ade1ba8b18c6706d4e42",
+      "bytes": 2060782
+    },
+    {
+      "path": "public/assets/knowledge/tactics-attack-big-target-v1.png",
+      "sha256": "e01ce7493c04394f26c46e429b16b4ed5c1dd139ab4127c20d1cce9bb664909b",
+      "bytes": 1696651
+    },
+    {
+      "path": "public/assets/knowledge/tactics-approach-deep-corner-v1.png",
+      "sha256": "194c109dc447852a46232817926f4ff495815d038ad049d0e8bfb0eef7c8a3e4",
+      "bytes": 1848678
+    },
+    {
+      "path": "public/assets/knowledge/tactics-net-close-angle-v1.png",
+      "sha256": "346c1918459220280aa7f9fb4e08a754d49d46de4c83e9f7370e9293b9389834",
+      "bytes": 1890783
+    },
+    {
+      "path": "public/assets/knowledge/tactics-pass-low-cross-v1.png",
+      "sha256": "13e514c0b15e2127abb510430e763bca886539218ebd5643186bd07e83beffa3",
+      "bytes": 1678670
+    },
+    {
+      "path": "public/assets/knowledge/tactics-lob-when-stretched-v1.png",
+      "sha256": "e312e879bb196a041b12744cc150d9990f30b11b38b3d1ed8b489b3dc608a633",
+      "bytes": 1675435
+    },
+    {
+      "path": "public/assets/knowledge/tactics-drop-shot-green-light-v1.png",
+      "sha256": "edf76d4bb0bd701378b86560d121ff0e59a758f08c63ebeb752ad59f7dbad84f",
+      "bytes": 1642918
+    },
+    {
+      "path": "public/assets/knowledge/tactics-short-angle-open-court-v1.png",
+      "sha256": "976f07ed523225da10857ab3c57df99e63adea10812c82058d4489b380597f6f",
+      "bytes": 1746213
+    },
+    {
+      "path": "public/assets/knowledge/tactics-inside-out-pattern-v1.png",
+      "sha256": "7513b7854d226ecdfcbaa4660c3de90fa995f09e746cb14f176b6b6335c8e316",
+      "bytes": 1849555
+    },
+    {
+      "path": "public/assets/knowledge/tactics-weaker-wing-target-v1.png",
+      "sha256": "838a7102ac7575a92dc81b394602472197f26ddf4adb994c39022888c28d325d",
+      "bytes": 1698602
+    },
+    {
+      "path": "public/assets/knowledge/tactics-big-hitter-time-denial-v1.png",
+      "sha256": "c172541b80678d9189037f34d1e63b3fa82c4142ad1becd185cd49fefba4b70b",
+      "bytes": 1550245
+    },
+    {
+      "path": "public/assets/knowledge/tactics-consistent-opponent-patience-v1.png",
+      "sha256": "0fe1e8fc56c059f88492fd56e612b08e2ae0a78a39de9ef4f31c95e19e64c012",
+      "bytes": 1641496
+    },
+    {
+      "path": "public/assets/knowledge/tactics-slicer-knee-bend-v1.png",
+      "sha256": "795c02c8edcc3444ca1e29df5785c369500d64b3d910e19556e12895f1e38b36",
+      "bytes": 1721069
+    },
+    {
+      "path": "public/assets/knowledge/tactics-net-rusher-first-pass-v1.png",
+      "sha256": "0166ccd1bb18658a3f0d649ab5c4b117e2ff78489a88ba86a4ca0b3d1b840ae5",
+      "bytes": 1930839
+    },
+    {
+      "path": "public/assets/knowledge/tactics-moonballer-step-in-v1.png",
+      "sha256": "83fad253936a16b30168d7c75085bcd366e85be6442b9933cd5f593ae692323b",
+      "bytes": 1657055
+    },
+    {
+      "path": "public/assets/knowledge/tactics-serve-plus-one-open-court-v1.png",
+      "sha256": "2c543cf1cf108c605f7af39ce41416913c440cebafcf90a33aa676de97392fe7",
+      "bytes": 1833645
+    },
+    {
+      "path": "public/assets/knowledge/tactics-second-serve-body-v1.png",
+      "sha256": "2d8063f3f525003f5230b599b0c75560b677bbce3740809c41d68a34d9a364fd",
+      "bytes": 1524302
+    },
+    {
+      "path": "public/assets/knowledge/tactics-return-crosscourt-default-v1.png",
+      "sha256": "8fe6631e474257ffad9b3c185a1c3ad67d83ee127867f26b105eb0b8d15ac6b0",
+      "bytes": 1630084
+    },
+    {
+      "path": "public/assets/knowledge/tactics-return-second-serve-step-in-v1.png",
+      "sha256": "fe2eb8ea3ce38fd2d18efd68b1dcfa2679a132a5da6e4a3c0531c09dba93a04e",
+      "bytes": 1605599
+    },
+    {
+      "path": "public/assets/knowledge/tactics-deuce-ad-defaults-v1.png",
+      "sha256": "f5108528dd9677b72b37711b38752129f7f308f5d45660a6a7ec20a33a562fb1",
+      "bytes": 1674852
+    },
+    {
+      "path": "public/assets/knowledge/tactics-tiebreak-first-four-v1.png",
+      "sha256": "7e58b07750ce5fdb8389dcfe7042c480b6f97cc0f27553e4da625c717de31a8f",
+      "bytes": 1560580
+    },
+    {
+      "path": "public/assets/knowledge/tactics-momentum-reset-v1.png",
+      "sha256": "ea8b68d871ff2afe0b0adbf9ab3cd1dfb2793e00a46fb76f02911daa174bf5ff",
+      "bytes": 1412165
+    },
+    {
+      "path": "public/assets/knowledge/tactics-error-budget-v1.png",
+      "sha256": "14e3d21ecfbce12782d79c496d124928494e007f870e2082f2cd126b6105b4e7",
+      "bytes": 1475230
+    }
+  ]
+}
